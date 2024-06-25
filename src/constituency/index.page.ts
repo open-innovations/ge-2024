@@ -16,7 +16,7 @@ export default function* ({
     const [pcon24cd, { n: pcon24nm }] of Object.entries<HexData>(constituencies)
   ) {
     const localCandidates = candidates
-      .filter((c) => c.gss === pcon24cd)
+      .filter((c) => c.pcon24cd === pcon24cd)
       .map((x) => ({
         person_id: x.person_id,
         name: x.person_name,
@@ -27,6 +27,7 @@ export default function* ({
 
     if (localCandidates.length < 1) {
       console.warn({ pcon24cd, localCandidates });
+      throw new Error('Missing PCON code')
     }
 
     yield {

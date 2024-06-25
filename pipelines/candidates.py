@@ -1,10 +1,22 @@
 from urllib.parse import urlencode, urlunsplit
 from pathlib import Path
+import json
+from rapidfuzz.process import extractOne
+from rapidfuzz.fuzz import WRatio
 
 import petl as etl
 
 SOURCE = Path('data')
 TARGET = Path('src/_data/')
+
+with open(TARGET / 'hexjson/constituencies.hexjson') as f:
+    constituency_lookup = dict(
+        (key, value['n']) for key, value in json.load(f)['hexes'].items())
+
+
+def constituency_matcher(row):
+    match = extractOne(row.post_label, constituency_lookup)
+    return match[2]
 
 
 def build_url():
@@ -33,26 +45,32 @@ def main():
     # Get the data
     source = etl.fromcsv(
         build_url()
+    ).leftjoin(
+        right=party_lookup, key="party_id"
+    ).replace(
+        field="party_key", a=None, b="other"
+    ).addfield(
+        "pcon24cd", constituency_matcher,
+    )
+
+    source.select(
+        lambda r: r.gss != r.pcon24cd
+    ).tocsv(SOURCE / 'candidates_mismatch.csv')
+
+    # Save to JSON
+    source.sort(
+        key="person_id"
     ).cut(
         'person_id',
         'person_name',
         'image',
         'election_id',
-        'party_id',
+        'party_key',
         'party_name',
-        'gss',
+        'pcon24cd',
         'post_label',
         'cancelled_poll',
         'favourite_biscuit',
-    ).leftjoin(
-        right=party_lookup, key="party_id"
-    ).replace(
-        field="party_key", a=None, b="other"
-    )
-
-    # Save to csv
-    source.sort(
-        key="person_id"
     ).tojson(
         source=TARGET / 'candidates.json',
         indent=2
