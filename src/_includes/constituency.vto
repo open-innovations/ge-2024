@@ -1,0 +1,23 @@
+---
+layout: page.vto
+---
+
+<h1>{{ title }}</h1>
+
+<p>Constituency page for {{ pcon24nm }} ({{ pcon24cd }})
+
+<h2>Candidates</h2>
+
+{{ if local.candidates.length > 0 }}
+{{ comp.oi.table({
+  config: {
+    data: local.candidates,
+    columns: [
+      { name: "Name", template: "{{ name }}" },
+      { name: "Party", template: "{{ party_name }}", colour: "party_key" }
+    ]
+  }
+}) }}
+{{ else }}
+<p>No candidate data is available for {{ pcon24nm }}.
+{{ /if }}
