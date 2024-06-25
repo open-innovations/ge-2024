@@ -20,6 +20,7 @@ export default function* ({
       .map((x) => ({
         person_id: x.person_id,
         name: x.person_name,
+        image: x.image,
         party_key: x.party_key,
         party_name: x.party_name,
       }));

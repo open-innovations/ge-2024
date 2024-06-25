@@ -14,6 +14,7 @@ layout: page.vto
     data: local.candidates,
     columns: [
       { name: "Name", template: "{{ name }}" },
+      { name: "Image", template: "<img src=\"{{ image }}\" alt=\"Photograph of {{ name }}\"/>" },
       { name: "Party", template: "{{ party_name }}", colour: "party_key" }
     ]
   }

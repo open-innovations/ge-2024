@@ -12,12 +12,14 @@ def build_url():
     server = "candidates.democracyclub.org.uk"
     path = "/data/export_csv/"
 
-    query = urlencode(dict(
-        election_id="^parl\.2024-07-04$",
-        cancelled="False",
-        extra_fields="gss",
-        format="csv",
-    ))
+    query = urlencode([
+        ("election_id", "^parl\.2024-07-04$"),
+        ("cancelled", "False"),
+        ("extra_fields", "gss"),
+        ("extra_fields", "image"),
+        ("extra_fields", "favourite_biscuit"),
+        ("format", "csv"),
+    ])
 
     return urlunsplit((scheme, server, path, query, ""))
 
@@ -34,12 +36,14 @@ def main():
     ).cut(
         'person_id',
         'person_name',
+        'image',
         'election_id',
         'party_id',
         'party_name',
         'gss',
         'post_label',
-        'cancelled_poll'
+        'cancelled_poll',
+        'favourite_biscuit',
     ).leftjoin(
         right=party_lookup, key="party_id"
     ).replace(

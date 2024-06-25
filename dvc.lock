@@ -9,13 +9,13 @@ stages:
       size: 153
     - path: pipelines/candidates.py
       hash: md5
-      md5: 7a71d138a8fd052df5bc693e6c1cbe58
-      size: 1426
+      md5: ced373456f871aa1663e186894d6de9d
+      size: 1610
     outs:
     - path: src/_data/candidates.json
       hash: md5
-      md5: 855c216e2a0a54a11146a55f94e95591
-      size: 1304432
+      md5: ea06b81f829fc0482da73c74f66c2496
+      size: 2090986
     - path: src/_data/party_summary.json
       hash: md5
       md5: 49629d9976cf1b6fc10a7b86fc7845f2
