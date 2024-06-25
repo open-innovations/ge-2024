@@ -1,0 +1,6 @@
+- key: candidates
+  title: Candidates
+  attribution: Democracy Club
+  link: https://democracyclub.org.uk/
+  license: cc-by-20
+  source: https://candidates.democracyclub.org.uk/data/export_csv/?election_date=&ballot_paper_id=&election_id=%5Eparl%5C.2024-07-04%24&party_id=&cancelled=False&locked=&has_gss=&format=csv

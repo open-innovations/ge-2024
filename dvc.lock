@@ -1,0 +1,22 @@
+schema: '2.0'
+stages:
+  candidates:
+    cmd: python pipelines/candidates.py
+    deps:
+    - path: data/lookup_party.csv
+      hash: md5
+      md5: 5db9797fb53aa9fd4739a504495f5f8f
+      size: 153
+    - path: pipelines/candidates.py
+      hash: md5
+      md5: 7a71d138a8fd052df5bc693e6c1cbe58
+      size: 1426
+    outs:
+    - path: src/_data/candidates.json
+      hash: md5
+      md5: 855c216e2a0a54a11146a55f94e95591
+      size: 1304432
+    - path: src/_data/party_summary.json
+      hash: md5
+      md5: 49629d9976cf1b6fc10a7b86fc7845f2
+      size: 545

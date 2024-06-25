@@ -1,0 +1,13 @@
+stages:
+  candidates:
+    cmd: python pipelines/candidates.py
+    deps:
+      - pipelines/candidates.py
+      - data/lookup_party.csv
+    outs:
+      - src/_data/candidates.json:
+          cache: false
+      - src/_data/party_summary.json:
+          cache: false
+
+  

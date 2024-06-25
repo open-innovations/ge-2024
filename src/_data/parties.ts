@@ -1,12 +1,12 @@
 export default {
   con: {
-    name: "Conservative",
+    name: "Conservative and Unionist Party",
   },
   lab: {
-    name: "Labour",
+    name: "Labour Party",
   },
   green: {
-    name: "Green",
+    name: "Green Party",
   },
   ld: {
     name: "Liberal Democrats",
@@ -24,6 +24,6 @@ export default {
     name: "Other",
   },
   speaker: {
-    name: "Speaker",
+    name: "Speaker seeking re-election",
   },
 };

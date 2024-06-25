@@ -1,0 +1,38 @@
+[
+  {
+    "party_key": "other",
+    "candidate_count": 1335
+  },
+  {
+    "party_key": "con",
+    "candidate_count": 635
+  },
+  {
+    "party_key": "lab",
+    "candidate_count": 631
+  },
+  {
+    "party_key": "ld",
+    "candidate_count": 630
+  },
+  {
+    "party_key": "ref",
+    "candidate_count": 609
+  },
+  {
+    "party_key": "green",
+    "candidate_count": 585
+  },
+  {
+    "party_key": "snp",
+    "candidate_count": 57
+  },
+  {
+    "party_key": "pc",
+    "candidate_count": 32
+  },
+  {
+    "party_key": "speaker",
+    "candidate_count": 1
+  }
+]
