@@ -1,0 +1,13 @@
+layout: page.vto
+
+site:
+  nav:
+    - url: /constituencies/
+      title: Constituencies
+    - url: /results/
+      title: Results
+
+metas:
+  title: "=title"
+  description: "=description"
+  site: "OI General Election 2024 Tracker" 

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} &mdash; {{ metas.site }}</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+</head>
+<body>
+  <header>
+    <a href="/">
+      <img style="width:2em;" src="/assets/images/oi-logo.svg" />
+      {{ metas.site }}
+    </a>
+  </header>
+  <nav>
+    <ul>
+    {{ for link of site.nav }}
+      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+    {{ /for }}
+    </ul>
+  </nav>
+  <main>
+  {{ content }}
+  </main>
+  <footer>
+  </footer>
+</body>
+</html>

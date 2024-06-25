@@ -1,0 +1,10 @@
+scripts:
+  get-data:
+    cmd:
+      - curl -Lo src/_data/hexjson/constituencies.hexjson  https://cdn.statically.io/gh/open-innovations/constituencies/main/src/_data/hexjson/uk-constituencies-2023.hexjson
+
+  formatter:
+    cmd:
+      - deno lint
+      - deno fmt
+    gitHook: pre-commit

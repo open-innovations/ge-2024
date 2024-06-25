@@ -1,0 +1,38 @@
+---
+title: Home
+---
+
+<p>This site will present the results of the UK General Election 2024</p>
+
+{{ comp.oi.map.hex_cartogram({
+  config: {
+    hexjson: hexjson.constituencies,
+    data: Object.entries(hexjson.constituencies.hexes).map(([k, v]) => ({ PCON24CD: k, PCON24NM: v.n })),
+
+    matchKey: "PCON24CD",
+    value: "colour",
+
+    columns: [
+      { name: "info", template: "<h2><a href='/constituency/{{ PCON24CD }}/'>{{ PCON24NM }}</a></h2>" },
+    ],
+
+    tooltip: "{{ info }}",
+
+    // Add label
+    label: "{{ PCON24NM | slice(0,3) }}",
+
+    // Add filter tool
+    tools: {
+			filter:{
+				label: "n"
+      }
+    },
+
+    // Add auto-generated legend
+    legend: {
+      position: "top right",
+      title: 'Key',
+      items: Object.entries(parties).map(([k, v]) => ({ value: colour.names[k], label: v.name })),
+    },
+  },
+}) }}
