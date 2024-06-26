@@ -35,9 +35,7 @@ export default function* ({
       url: `/constituency/${pcon24cd}/`,
       pcon24cd,
       pcon24nm,
-      local: {
-        candidates: localCandidates,
-      },
+      candidates: localCandidates,
     };
   }
 }

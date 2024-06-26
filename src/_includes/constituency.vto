@@ -8,10 +8,10 @@ layout: page.vto
 
 <h2>Candidates</h2>
 
-{{ if local.candidates.length > 0 }}
+{{ if candidates.length > 0 }}
 {{ comp.oi.table({
   config: {
-    data: local.candidates,
+    data: candidates,
     columns: [
       { name: "Name", template: "{{ name }}" },
       { name: "Image", template: "<img src=\"{{ image }}\" alt=\"Photograph of {{ name }}\"/>" },
