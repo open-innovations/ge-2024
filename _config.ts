@@ -52,4 +52,11 @@ site.remoteFile(
   "https://open-innovations.org/resources/images/logos/oi-square-white.svg",
 );
 
+site.remoteFile(
+  "assets/images/missing.svg",
+  "https://placehold.co/400/svg?text=No+image",
+);
+
+site.copy("assets/images/");
+
 export default site;

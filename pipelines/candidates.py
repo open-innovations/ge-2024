@@ -49,6 +49,8 @@ def main():
         right=party_lookup, key="party_id"
     ).replace(
         field="party_key", a=None, b="other"
+    ).replace(
+        "image", "", "/assets/images/missing.svg"
     ).addfield(
         "pcon24cd", constituency_matcher,
     )
