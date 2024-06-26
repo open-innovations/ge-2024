@@ -6,6 +6,12 @@ layout: page.vto
 
 <p>Constituency page for {{ pcon24nm }} ({{ pcon24cd }})
 
+<p>
+  Based on projection, if the 2019 General Election had been run against the new boundaries, this would have been a {{ comp.party({
+    party: notional.party_key
+  }) }} seat.
+</p>
+
 <h2>Candidates</h2>
 
 {{ if candidates.length > 0 }}

@@ -50,8 +50,8 @@
     text-decoration: underline;
   }
   table {
-    table-layout: fixed;
-    width: 100%;
+    table-layout: auto;
+    margin-inline: auto;
   }
 }
 

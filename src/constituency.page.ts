@@ -12,10 +12,18 @@ export default function* ({
     },
   },
   candidates,
+  notional,
   results,
 }: Lume.Data & {
   candidates: {
     [key: string]: string;
+  }[];
+  notional: {
+    pcon24cd: string;
+    party_key: string;
+    majority: number;
+    valid_votes: number;
+    [key: string]: unknown;
   }[];
   results: {
     [key: string]: unknown;
@@ -41,6 +49,8 @@ export default function* ({
 
     const localResults = results![pcon24cd] || {};
 
+    const overrideNotional = notional.find((x) => x.pcon24cd == pcon24cd);
+
     yield {
       title: pcon24nm,
       url: `/constituency/${pcon24cd}/`,
@@ -48,6 +58,7 @@ export default function* ({
       pcon24nm,
       candidates: localCandidates,
       results: localResults,
+      notional: overrideNotional,
     };
   }
 }
