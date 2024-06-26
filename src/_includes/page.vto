@@ -4,14 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }} &mdash; {{ metas.site }}</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+  {{# <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css"> #}}
+  <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
   <header>
-    <a href="/">
-      <img style="width:2em;" src="/assets/images/oi-logo.svg" />
-      {{ metas.site }}
-    </a>
+    <a href="/" title="Site home"><img src="/assets/images/oi-logo.svg" /></a>
+    <a href="/" title="Site home">{{ metas.site }}</a>
   </header>
   <nav>
     <ul>

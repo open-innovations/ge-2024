@@ -9,6 +9,7 @@ import metas from "lume/plugins/metas.ts";
 import pagefind from "lume/plugins/pagefind.ts";
 import sheets from "lume/plugins/sheets.ts";
 import sitemap from "lume/plugins/sitemap.ts";
+import postcss from "lume/plugins/postcss.ts";
 
 // OI Lume viz
 import oiLumeViz from "https://deno.land/x/oi_lume_viz@v0.15.6/mod.ts";
@@ -39,6 +40,7 @@ site.use(oiLumeViz({
   colour: { names },
 }));
 site.use(sheets());
+site.use(postcss());
 
 site.process([".html"], (pages) => pages.forEach(autoDependency));
 site.use(base_path());
