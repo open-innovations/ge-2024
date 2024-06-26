@@ -1,0 +1,13 @@
+---
+title: Constituencies
+---
+
+<h1>{{ title }}</h1>
+
+<ul>
+{{ for c of search.pages('constituency') }}
+  <li>
+    <a href="{{ c.url }}">{{ c.title }}</a>
+  </li>
+{{ /for }}
+</ul>

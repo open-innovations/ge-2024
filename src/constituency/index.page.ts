@@ -1,4 +1,5 @@
 export const layout = "constituency.vto";
+export const tags = ["constituency"];
 
 type HexData = {
   n: string;
