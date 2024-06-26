@@ -12,3 +12,10 @@ scripts:
       - deno lint
       - deno fmt
     gitHook: pre-commit
+
+  get-fonts:
+    cmd: utils/getFonts.ts
+    allow:
+      read: [.]
+      write: [src/assets]
+      net: [api.fontsource.org, r2.fontsource.org, deno.land]

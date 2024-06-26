@@ -37,6 +37,7 @@
       "jsr:@std/yaml@0.224.1": "jsr:@std/yaml@0.224.1",
       "jsr:@std/yaml@0.224.2": "jsr:@std/yaml@0.224.2",
       "jsr:@std/yaml@^0.224.1": "jsr:@std/yaml@0.224.2",
+      "jsr:@zip-js/zip-js@2.7.45": "jsr:@zip-js/zip-js@2.7.45",
       "npm:@js-temporal/polyfill@0.4.4": "npm:@js-temporal/polyfill@0.4.4",
       "npm:autoprefixer@10.4.19": "npm:autoprefixer@10.4.19_postcss@8.4.38",
       "npm:d3-geo-projection@4": "npm:d3-geo-projection@4.0.0",
@@ -175,6 +176,9 @@
       },
       "@std/yaml@0.224.2": {
         "integrity": "3b647d449084d76ec6292341212efbd4b7c71a2d6db8a9512876eed1e34c3fb2"
+      },
+      "@zip-js/zip-js@2.7.45": {
+        "integrity": "0eb37002a4c32397f144dee55fc8e46ee24300920f0a99adb66a931d0e423e55"
       }
     },
     "npm": {
