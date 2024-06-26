@@ -12,7 +12,10 @@ export default function* ({
     },
   },
   candidates,
-}: Lume.Data) {
+  results,
+}: Lume.Data & {
+  results: Record<string, unknown>;
+}) {
   for (
     const [pcon24cd, { n: pcon24nm }] of Object.entries<HexData>(constituencies)
   ) {
@@ -31,12 +34,15 @@ export default function* ({
       throw new Error("Missing PCON code");
     }
 
+    const localResults = results![pcon24cd] || {};
+
     yield {
       title: pcon24nm,
       url: `/constituency/${pcon24cd}/`,
       pcon24cd,
       pcon24nm,
       candidates: localCandidates,
+      results: localResults,
     };
   }
 }

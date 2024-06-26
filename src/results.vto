@@ -1,0 +1,13 @@
+---
+title: Results
+---
+
+<h1>{{ title }}</h1>
+
+<ul>
+{{ for c of search.pages("constituency") }}
+  <li>
+    {{ c.title }} {{ c.results |> JSON.stringify }} <a href="{{ c.url }}">Constituency page</a>
+  </li>
+{{ /for }}
+</ul>
