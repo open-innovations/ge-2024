@@ -14,7 +14,12 @@ export default function* ({
   candidates,
   results,
 }: Lume.Data & {
-  results: Record<string, unknown>;
+  candidates: {
+    [key: string]: string;
+  }[];
+  results: {
+    [key: string]: unknown;
+  };
 }) {
   for (
     const [pcon24cd, { n: pcon24nm }] of Object.entries<HexData>(constituencies)
