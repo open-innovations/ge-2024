@@ -70,7 +70,6 @@ def main():
         'pcon24cd',
         'post_label',
         'cancelled_poll',
-        'favourite_biscuit',
     ).tojson(
         source=TARGET / 'candidates.json',
         indent=2

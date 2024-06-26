@@ -27,7 +27,7 @@ export default function* ({
 
     if (localCandidates.length < 1) {
       console.warn({ pcon24cd, localCandidates });
-      throw new Error('Missing PCON code')
+      throw new Error("Missing PCON code");
     }
 
     yield {
