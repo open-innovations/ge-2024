@@ -20,3 +20,15 @@ stages:
       hash: md5
       md5: 49629d9976cf1b6fc10a7b86fc7845f2
       size: 545
+  notional:
+    cmd: python pipelines/notional.py
+    deps:
+    - path: pipelines/notional.py
+      hash: md5
+      md5: f69857443d6885127f2f52672ee8d060
+      size: 1026
+    outs:
+    - path: src/_data/notional.json
+      hash: md5
+      md5: 8388c6c52b949b4cae26fdd166e7d6b3
+      size: 97439

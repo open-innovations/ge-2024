@@ -4,3 +4,8 @@
   link: https://democracyclub.org.uk/
   license: cc-by-20
   source: https://candidates.democracyclub.org.uk/data/export_csv/?election_date=&ballot_paper_id=&election_id=%5Eparl%5C.2024-07-04%24&party_id=&cancelled=False&locked=&has_gss=&format=csv
+- key: notional
+  title: Estimates of the 2019 general election result in new constituencies
+  attribution: UK Parliament
+  link: 
+  source: https://electionresults.parliament.uk/general-elections/5/majority 

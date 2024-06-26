@@ -10,4 +10,12 @@ stages:
       - src/_data/party_summary.json:
           cache: false
 
+  notional:
+    cmd: python pipelines/notional.py
+    deps:
+      - pipelines/notional.py
+    outs:
+      - src/_data/notional.json:
+          cache: false
+
   
