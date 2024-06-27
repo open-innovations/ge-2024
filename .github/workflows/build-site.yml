@@ -1,0 +1,53 @@
+# For this to work, the Source for GitHub Pages needs to be set to GitHub Actions
+# This setting is in Settings -> Pages on the repo GitHub page
+
+name: Build site
+
+'on':
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+    paths:
+      - src/**
+      # Exclude the results directory to avoid triggering on every change
+      # - '!src/_data/results/**'
+      - data/**
+      - _config.ts
+      - deno.json
+      - .github/workflows/build-site.yml
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+
+    # Packaged action to build a Lume site. See https://github.com/dringtech/lume-build
+    steps:
+      - name: Build the site
+        uses: dringtech/lume-build@v2
+        with:
+          site-build-cmd: deno task build
+
+  # Deploy job
+  deploy:
+    # Add a dependency to the build job
+    needs: build
+
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    # Specify runner + deployment step
+    # You need to set up GitHub Pages to deploy from an action
+    # See https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow for documentation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
