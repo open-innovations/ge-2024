@@ -27,3 +27,8 @@ library. They are orchestrated using DVC.
 [P_candidates]: https://github.com/open-innovations/ge-2024/blob/main/pipelines/candidates.py
 [P_notional]: https://github.com/open-innovations/ge-2024/blob/main/pipelines/notional.py
 [P_result]: https://github.com/open-innovations/ge-2024/blob/main/pipelines/results.py
+
+## CMS
+
+The CMS for the site is available at <https://ge-2024.deno.dev/>. You will need
+a password.
