@@ -1,0 +1,19 @@
+table {
+  & img {
+    width: 5rem;
+  
+  }
+}
+.oi-viz {
+  .tooltip .inner {
+    & * {
+      margin: 0;
+      & a {
+        color: inherit;
+      }
+      & + * {
+        margin-block-start: 1.25em;
+      }
+    }
+  }
+}
