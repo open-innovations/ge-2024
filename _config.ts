@@ -58,5 +58,6 @@ site.remoteFile(
 );
 
 site.copy("assets/images/");
+site.copy("assets/fonts/");
 
 export default site;
