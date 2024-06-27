@@ -20,9 +20,6 @@ const cms = lumeCMS({
       [username!]: password!,
     },
   },
-  log: {
-    filename: "errors.log",
-  },
   extraHead: `
   <style>
     a[href*="/collection/results/create"],
