@@ -1,5 +1,11 @@
-import { Data, ResolvedField } from "lume/cms/types.ts";
 import lumeCMS from "lume/cms/mod.ts";
+import GitHub from "lume/cms/storage/github.ts";
+import { Data, ResolvedField } from "lume/cms/types.ts";
+import { Octokit } from "npm:octokit@4.0.2";
+
+const client = new Octokit({
+  auth: Deno.env.get("GITHUB_TOKEN"),
+});
 
 const cms = lumeCMS({
   site: {
@@ -14,6 +20,15 @@ const cms = lumeCMS({
   </style>
   `,
 });
+
+cms.storage(
+  "gh",
+  new GitHub({
+    client,
+    owner: "open-innovations",
+    repo: "ge-2024",
+  }),
+);
 
 cms.field("result-table", {
   tag: "result-table",
