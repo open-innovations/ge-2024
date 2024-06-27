@@ -7,9 +7,18 @@ const client = new Octokit({
   auth: Deno.env.get("GITHUB_TOKEN"),
 });
 
+const username = Deno.env.get("USERNAME");
+const password = Deno.env.get("PASSWORD");
+
 const cms = lumeCMS({
   site: {
     name: "OI General Election 24 Tracker",
+  },
+  auth: {
+    method: "basic",
+    users: {
+      [username!]: password!,
+    },
   },
   extraHead: `
   <style>
@@ -22,7 +31,7 @@ const cms = lumeCMS({
 });
 
 cms.storage(
-  "gh",
+  "src",
   new GitHub({
     client,
     owner: "open-innovations",
