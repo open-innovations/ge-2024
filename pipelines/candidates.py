@@ -1,10 +1,17 @@
-from urllib.parse import urlencode, urlunsplit
-from pathlib import Path
 import json
-from rapidfuzz.process import extractOne
-from rapidfuzz.fuzz import WRatio
+import logging
+from pathlib import Path
+from urllib.parse import urlencode, urlunsplit
 
 import petl as etl
+from rapidfuzz.fuzz import WRatio
+from rapidfuzz.process import extractOne
+
+logging.basicConfig(
+    level=logging.INFO
+)
+
+logger = logging.getLogger(__name__)
 
 SOURCE = Path('data')
 TARGET = Path('src/_data/')
@@ -32,8 +39,11 @@ def build_url():
         ("extra_fields", "favourite_biscuit"),
         ("format", "csv"),
     ])
+    
+    url = urlunsplit((scheme, server, path, query, ""))
+    logger.info('Built URL %s', url)
 
-    return urlunsplit((scheme, server, path, query, ""))
+    return url
 
 
 def main():
