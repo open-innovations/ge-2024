@@ -1,5 +1,5 @@
-import { Field } from "lume/cms/static/components/field.js";
-import { push } from "lume/cms/static/components/utils.js";
+import { Field } from "https://cdn.jsdelivr.net/gh/lumeland/cms@v0.5.2/static/components/field.js";
+import { push } from "https://cdn.jsdelivr.net/gh/lumeland/cms@v0.5.2/static/components/utils.js";
 
 customElements.define(
   "result-table",

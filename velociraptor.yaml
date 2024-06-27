@@ -19,3 +19,7 @@ scripts:
       read: [.]
       write: [src/assets]
       net: [api.fontsource.org, r2.fontsource.org, deno.land]
+
+  build-libs:
+    cmd:
+      - npx esbuild lib/custom-cms-fields.ts --outdir=dist --bundle=true --format=esm --keep-names=true --platform=browser --target=esnext --tree-shaking=true

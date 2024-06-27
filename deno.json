@@ -15,9 +15,9 @@
     ]
   },
   "fmt": {
-    "exclude": ["_site", "_cache", "src/**/_data/**/*.json"]
+    "exclude": ["_site", "_cache", "src/**/_data/**/*.json", "dist"]
   },
   "lint": {
-    "exclude": ["_site", "_cache"]
+    "exclude": ["_site", "_cache", "dist"]
   }
 }
