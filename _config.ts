@@ -24,7 +24,7 @@ import autoDependency from "https://deno.land/x/oi_lume_utils@v0.4.0/processors/
 
 const site = lume({
   src: "./src",
-  location: new URL("https://open-innovations.github.io/ge-2024/"),
+  location: new URL("https://ge-2024.open-innovations.org/"),
 });
 
 // Set up plugins
