@@ -2,7 +2,6 @@ import lume from "lume/mod.ts";
 
 // Lume plugins
 import base_path from "lume/plugins/base_path.ts";
-import decapCMS from "lume/plugins/decap_cms.ts";
 import date from "lume/plugins/date.ts";
 import esbuild from "lume/plugins/esbuild.ts";
 import favicon from "lume/plugins/favicon.ts";
@@ -30,8 +29,6 @@ const site = lume({
 });
 
 // Set up plugins
-site.use(decapCMS(/* Options */));
-
 site.use(date());
 site.use(favicon({
   input: "assets/images/oi-logo.svg",
