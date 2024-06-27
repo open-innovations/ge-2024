@@ -7,8 +7,15 @@ const client = new Octokit({
   auth: Deno.env.get("GITHUB_TOKEN"),
 });
 
-const username = Deno.env.get("USERNAME");
-const password = Deno.env.get("PASSWORD");
+// Load users from environment variables prefixed with CMS_USER_
+const users = Object.entries(
+  Deno.env.toObject(),
+).filter((x) => x[0].match(/CMS_USER_/)).reduce(
+  (a, [k, v]) => ({ ...a, [k.replace(/^CMS_USER_/, "")]: v }),
+  {},
+);
+
+console.log("Setting up users", Object.keys(users));
 
 const cms = lumeCMS({
   site: {
@@ -16,9 +23,7 @@ const cms = lumeCMS({
   },
   auth: {
     method: "basic",
-    users: {
-      [username!]: password!,
-    },
+    users,
   },
   extraHead: `
   <style>
