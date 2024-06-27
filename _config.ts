@@ -3,7 +3,6 @@ import lume from "lume/mod.ts";
 // Lume plugins
 import base_path from "lume/plugins/base_path.ts";
 import date from "lume/plugins/date.ts";
-import esbuild from "lume/plugins/esbuild.ts";
 import favicon from "lume/plugins/favicon.ts";
 import feed from "lume/plugins/feed.ts";
 import metas from "lume/plugins/metas.ts";
@@ -33,7 +32,6 @@ site.use(date());
 site.use(favicon({
   input: "assets/images/oi-logo.svg",
 }));
-site.use(esbuild());
 site.use(feed());
 site.use(metas());
 site.use(pagefind());

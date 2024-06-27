@@ -20,10 +20,13 @@ const cms = lumeCMS({
       [username!]: password!,
     },
   },
+  log: {
+    filename: "errors.log",
+  },
   extraHead: `
   <style>
-    a[href*="/admin/collection/results/create"],
-    button[formaction*="/admin/collection/results/delete"] {
+    a[href*="/collection/results/create"],
+    button[formaction*="/collection/results/delete"] {
       display: none;
     }
   </style>
@@ -31,7 +34,7 @@ const cms = lumeCMS({
 });
 
 cms.storage(
-  "src",
+  "gh",
   new GitHub({
     client,
     owner: "open-innovations",
@@ -41,7 +44,8 @@ cms.storage(
 
 cms.field("result-table", {
   tag: "result-table",
-  jsImport: "/assets/js/custom-cms-fields.js",
+  jsImport:
+    "https://cdn.jsdelivr.net/gh/open-innovations/ge-2024@main/dist/custom-cms-fields.js",
   async applyChanges(data, changes, field: ResolvedField) {
     const currentData = data[field.name] as Data[] || [];
 
@@ -67,68 +71,72 @@ cms.field("result-table", {
   },
 });
 
-cms.collection("results", "src:_data/results/*.json", [
-  {
-    name: "pcon24nm",
-    label: "Constituency",
-    type: "text",
-    attributes: {
-      readonly: true,
+cms.collection(
+  "results",
+  "gh:src/_data/results/*.json",
+  [
+    {
+      name: "pcon24nm",
+      label: "Constituency",
+      type: "text",
+      attributes: {
+        readonly: true,
+      },
     },
-  },
-  {
-    name: "pcon24cd",
-    type: "hidden",
-    attributes: {
-      readonly: true,
+    {
+      name: "pcon24cd",
+      type: "hidden",
+      attributes: {
+        readonly: true,
+      },
     },
-  },
-  {
-    name: "votes",
-    type: "result-table",
-    fields: [
-      {
-        name: "person_name",
-        type: "text",
-        attributes: {
-          readonly: true,
+    {
+      name: "votes",
+      type: "result-table",
+      fields: [
+        {
+          name: "person_name",
+          type: "text",
+          attributes: {
+            readonly: true,
+          },
         },
-      },
-      {
-        name: "party_name",
-        type: "text",
-        attributes: {
-          readonly: true,
+        {
+          name: "party_name",
+          type: "text",
+          attributes: {
+            readonly: true,
+          },
         },
-      },
-      {
-        name: "votes",
-        type: "number",
-        attributes: {
-          min: 0,
+        {
+          name: "votes",
+          type: "number",
+          attributes: {
+            min: 0,
+          },
         },
-      },
-      {
-        name: "person_id",
-        type: "hidden",
-        attributes: {
-          readonly: true,
+        {
+          name: "person_id",
+          type: "hidden",
+          attributes: {
+            readonly: true,
+          },
         },
-      },
-      {
-        name: "image",
-        type: "hidden",
-        attributes: {
-          readonly: true,
+        {
+          name: "image",
+          type: "hidden",
+          attributes: {
+            readonly: true,
+          },
         },
-      },
-    ],
-  },
-  {
-    name: "confirmed",
-    type: "checkbox",
-  },
-]);
+      ],
+    },
+    {
+      name: "confirmed",
+      type: "checkbox",
+    },
+  ],
+);
 
 // Deno.exit()
 export default cms;
