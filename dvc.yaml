@@ -5,7 +5,7 @@ stages:
       - pipelines/candidates.py
       - data/lookup_party.csv
     outs:
-      - src/_data/candidates.json:
+      - data/candidates.csv:
           cache: false
       - src/_data/party_summary.json:
           cache: false
@@ -22,4 +22,5 @@ stages:
     cmd: python pipelines/results.py
     deps:
       - pipelines/results.py
+      - data/candidates.csv
     

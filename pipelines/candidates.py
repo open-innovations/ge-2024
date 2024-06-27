@@ -82,9 +82,8 @@ def main():
         'pcon24cd',
         'post_label',
         'cancelled_poll',
-    ).tojson(
-        source=TARGET / 'candidates.json',
-        indent=2
+    ).tocsv(
+        source=SOURCE / 'candidates.csv'
     )
 
     # Count parties

@@ -26,7 +26,7 @@
     {
       "person_id": "117429",
       "person_name": "Akeel Hussain",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117429/5294bfae-429e-4dc7-a9fd-d9afe790823f.png",
       "party_key": "other",
       "party_name": "Independent"
     },

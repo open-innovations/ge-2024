@@ -4,6 +4,7 @@ from pathlib import Path
 import petl as etl
 from tqdm import tqdm
 
+INPUT_DIR = Path('data/')
 DATA_DIR = Path('src/_data/')
 
 
@@ -27,8 +28,8 @@ def create_results(constituency):
 def main():
     global candidates
     global constituency_lookup
-    candidates = etl.fromjson(
-        DATA_DIR / 'candidates.json'
+    candidates = etl.fromcsv(
+        INPUT_DIR / 'candidates.csv'
     ).cut(
         'person_id',
         'person_name',

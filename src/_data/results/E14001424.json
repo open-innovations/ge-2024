@@ -26,7 +26,7 @@
     {
       "person_id": "117312",
       "person_name": "Chris Johnston",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117312/c7b7e010-a19b-4138-a399-9f529533d462.png",
       "party_key": "other",
       "party_name": "Independent"
     },

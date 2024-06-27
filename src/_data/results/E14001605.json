@@ -40,7 +40,7 @@
     {
       "person_id": "117285",
       "person_name": "Hal Aenas Mayne",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117285/93c26007-4190-4e2a-8193-16bd806ed884.png",
       "party_key": "other",
       "party_name": "Independent"
     },
