@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001151", "pcon24nm": "Canterbury", "votes": [{"person_id": "114747", "person_name": "Luke Buchanan-Hodgman", "image": "/assets/images/missing.svg", "party_name": "Social Democratic Party"}, {"person_id": "114749", "person_name": "Bridget Porter", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114749/b2f7c994-c4a3-4a1f-bc14-a950d5328b76.png", "party_name": "Reform UK"}, {"person_id": "27288", "person_name": "Henry Stanton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/27288.png", "party_name": "Green Party"}, {"person_id": "34312", "person_name": "Rosie Duffield", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34312.png", "party_name": "Labour Party"}, {"person_id": "4531", "person_name": "Russ Timpson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4531/bb14e4b9-e4f7-4e9d-a62f-67cf29ed868f.png", "party_name": "Liberal Democrats"}, {"person_id": "67510", "person_name": "Louise Harvey-Quirke", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/67510/574c2fd4-0982-472e-a4e2-f34f71017957.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001151",
+  "pcon24nm": "Canterbury",
+  "votes": [
+    {
+      "person_id": "114747",
+      "person_name": "Luke Buchanan-Hodgman",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "114749",
+      "person_name": "Bridget Porter",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114749/b2f7c994-c4a3-4a1f-bc14-a950d5328b76.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "27288",
+      "person_name": "Henry Stanton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/27288.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "34312",
+      "person_name": "Rosie Duffield",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34312.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "4531",
+      "person_name": "Russ Timpson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4531/bb14e4b9-e4f7-4e9d-a62f-67cf29ed868f.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "67510",
+      "person_name": "Louise Harvey-Quirke",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/67510/574c2fd4-0982-472e-a4e2-f34f71017957.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

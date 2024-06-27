@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001394", "pcon24nm": "North East Somerset and Hanham", "votes": [{"person_id": "100823", "person_name": "Edmund Cannon", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100823/3990a772-089a-45b2-b7b0-3322989e6ecc.png", "party_name": "Green Party"}, {"person_id": "115213", "person_name": "Paul MacDonnell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115213/96ba6a68-3f70-41a0-bb60-b04bb4b92b40.png", "party_name": "Reform UK"}, {"person_id": "117496", "person_name": "Barmy Brunch", "image": "/assets/images/missing.svg", "party_name": "The Official Monster Raving Loony Party"}, {"person_id": "117497", "person_name": "Nicholas Hales", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "1612", "person_name": "Jacob Rees-Mogg", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1612/6243ece5-2d39-449c-8874-a063b82e078f.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "2096", "person_name": "Dan Norris", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2096/44592dd8-2d96-4959-845c-48d158daf767.png", "party_name": "Labour Party"}, {"person_id": "50024", "person_name": "Dine Romero", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/50024.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001394",
+  "pcon24nm": "North East Somerset and Hanham",
+  "votes": [
+    {
+      "person_id": "100823",
+      "person_name": "Edmund Cannon",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100823/3990a772-089a-45b2-b7b0-3322989e6ecc.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "115213",
+      "person_name": "Paul MacDonnell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115213/96ba6a68-3f70-41a0-bb60-b04bb4b92b40.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117496",
+      "person_name": "Barmy Brunch",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "The Official Monster Raving Loony Party"
+    },
+    {
+      "person_id": "117497",
+      "person_name": "Nicholas Hales",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "1612",
+      "person_name": "Jacob Rees-Mogg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1612/6243ece5-2d39-449c-8874-a063b82e078f.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "2096",
+      "person_name": "Dan Norris",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2096/44592dd8-2d96-4959-845c-48d158daf767.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "50024",
+      "person_name": "Dine Romero",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/50024.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

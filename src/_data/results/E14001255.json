@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001255", "pcon24nm": "Great Grimsby and Cleethorpes", "votes": [{"person_id": "117434", "person_name": "Christopher Stephenson", "image": "/assets/images/missing.svg", "party_name": "Social Democratic Party"}, {"person_id": "35117", "person_name": "Lia Nici", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35117.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "37624", "person_name": "Oliver Freeston", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/37624/da572767-0a26-4c8e-91ff-4315f0b3a52e.png", "party_name": "Reform UK"}, {"person_id": "37626", "person_name": "Mark Patrick Gee", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/37626/57f02346-2969-40c4-946a-1312b70a5d81.png", "party_name": "Trade Unionist and Socialist Coalition"}, {"person_id": "4846", "person_name": "Melanie Onn", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71813.png", "party_name": "Labour Party"}, {"person_id": "6910", "person_name": "John Craig Lawson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6910-e336fdf0-d08f-49d8-8c54-5c309ea8026a.png", "party_name": "Liberal Democrats"}, {"person_id": "83594", "person_name": "Ed Fraser", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/83594-bf3483ca-7f80-424e-8204-bab747d24cbf.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001255",
+  "pcon24nm": "Great Grimsby and Cleethorpes",
+  "votes": [
+    {
+      "person_id": "117434",
+      "person_name": "Christopher Stephenson",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "35117",
+      "person_name": "Lia Nici",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35117.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "37624",
+      "person_name": "Oliver Freeston",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/37624/da572767-0a26-4c8e-91ff-4315f0b3a52e.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "37626",
+      "person_name": "Mark Patrick Gee",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/37626/57f02346-2969-40c4-946a-1312b70a5d81.png",
+      "party_key": "other",
+      "party_name": "Trade Unionist and Socialist Coalition"
+    },
+    {
+      "person_id": "4846",
+      "person_name": "Melanie Onn",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71813.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "6910",
+      "person_name": "John Craig Lawson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6910-e336fdf0-d08f-49d8-8c54-5c309ea8026a.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "83594",
+      "person_name": "Ed Fraser",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/83594-bf3483ca-7f80-424e-8204-bab747d24cbf.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

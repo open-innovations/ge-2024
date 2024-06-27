@@ -21,7 +21,7 @@ def create_results(constituency):
     }
 
     with open(target_file, 'w') as json_file:
-        json.dump(data, json_file)
+        json.dump(data, json_file, indent=2)
 
 
 def main():
@@ -33,6 +33,7 @@ def main():
         'person_id',
         'person_name',
         'image',
+        'party_key',
         'party_name',
         'pcon24cd',
         'post_label'

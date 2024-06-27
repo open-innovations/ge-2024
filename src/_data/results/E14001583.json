@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001583", "pcon24nm": "Whitehaven and Workington", "votes": [{"person_id": "114408", "person_name": "Josh MacAlister", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114408/ff741082-b6f9-4b55-808d-9d392cc284bc.png", "party_name": "Labour Party"}, {"person_id": "4641", "person_name": "Jill Perry", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55487973901889bf26175530.png", "party_name": "Green Party"}, {"person_id": "51628", "person_name": "Andrew Paul Johnson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/51628/57051ab4-9741-454b-88c7-cefe0a3d4828.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "77054", "person_name": "Chris Wills", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/83984-dd04c55f-dad8-4ddf-bb67-cb5cc479b425.png", "party_name": "Liberal Democrats"}, {"person_id": "89867", "person_name": "David Surtees", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89867/fddebb42-74c6-4258-bbaf-b9bcdd19a0bd.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "E14001583",
+  "pcon24nm": "Whitehaven and Workington",
+  "votes": [
+    {
+      "person_id": "114408",
+      "person_name": "Josh MacAlister",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114408/ff741082-b6f9-4b55-808d-9d392cc284bc.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "4641",
+      "person_name": "Jill Perry",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55487973901889bf26175530.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "51628",
+      "person_name": "Andrew Paul Johnson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/51628/57051ab4-9741-454b-88c7-cefe0a3d4828.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "77054",
+      "person_name": "Chris Wills",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/83984-dd04c55f-dad8-4ddf-bb67-cb5cc479b425.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "89867",
+      "person_name": "David Surtees",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89867/fddebb42-74c6-4258-bbaf-b9bcdd19a0bd.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

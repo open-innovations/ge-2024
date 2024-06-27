@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001113", "pcon24nm": "Bootle", "votes": [{"person_id": "117382", "person_name": "Darren Burns", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117382/72a49de5-b981-4bec-8266-916906b0000c.png", "party_name": "Reform UK"}, {"person_id": "3978", "person_name": "John Gibson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3978/1498dbd9-0129-4697-b2b3-1e03cb51af3f.png", "party_name": "Liberal Democrats"}, {"person_id": "44175", "person_name": "Rowena Bass", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/44175-63b9311c-e232-48bb-ae6b-3cba68f04c31.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "5191", "person_name": "Peter Dowd", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5191/a8d5aeb6-bf94-4160-9413-bf4674de2fde.png", "party_name": "Labour Party"}, {"person_id": "81585", "person_name": "Neil Anthony Doolin", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81585/d77e2996-09d7-44d6-b2e3-a5d934c50cff.png", "party_name": "Green Party"}, {"person_id": "95429", "person_name": "Ian Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95429/c4f809a3-c9ea-4ad2-ba83-b3b5f4936708.png", "party_name": "Workers Party of Britain"}]}
+{
+  "pcon24cd": "E14001113",
+  "pcon24nm": "Bootle",
+  "votes": [
+    {
+      "person_id": "117382",
+      "person_name": "Darren Burns",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117382/72a49de5-b981-4bec-8266-916906b0000c.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "3978",
+      "person_name": "John Gibson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3978/1498dbd9-0129-4697-b2b3-1e03cb51af3f.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "44175",
+      "person_name": "Rowena Bass",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/44175-63b9311c-e232-48bb-ae6b-3cba68f04c31.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "5191",
+      "person_name": "Peter Dowd",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5191/a8d5aeb6-bf94-4160-9413-bf4674de2fde.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "81585",
+      "person_name": "Neil Anthony Doolin",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81585/d77e2996-09d7-44d6-b2e3-a5d934c50cff.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "95429",
+      "person_name": "Ian Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95429/c4f809a3-c9ea-4ad2-ba83-b3b5f4936708.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    }
+  ]
+}

@@ -1,1 +1,69 @@
-{"pcon24cd": "E14001159", "pcon24nm": "Chelmsford", "votes": [{"person_id": "107576", "person_name": "Richard William Parry", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115935/cd74b215-ae60-4959-a03e-36e5a8dbbb44.png", "party_name": "Labour Party"}, {"person_id": "115933", "person_name": "Darren Ingrouille", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115933/d6ccc859-6987-49e8-86b1-7d336cc75f4e.png", "party_name": "Reform UK"}, {"person_id": "115934", "person_name": "Mark Stephen Kenlen", "image": "/assets/images/missing.svg", "party_name": "Workers Party of Britain"}, {"person_id": "117743", "person_name": "Kamla Sangha", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "24456", "person_name": "Marie Goldman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/79332-0b8ee778-ffbe-42e1-b75d-680acc83783e.png", "party_name": "Liberal Democrats"}, {"person_id": "31776", "person_name": "Richard Hyland", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/31776/b76efa84-6ddc-46d7-a2fb-d3201fca05fb.png", "party_name": "Independent Network"}, {"person_id": "34298", "person_name": "Vicky Ford", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34298/5c5258b1-4831-4424-be89-01a3ef482aa5.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "6933", "person_name": "Reza Hossain", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6933.png", "party_name": "Green Party"}, {"person_id": "72188", "person_name": "Mark Citizen Lawrence", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72188-92a5d727-9473-4e04-b69a-6ade2d7ddbe2.png", "party_name": "The Official Monster Raving Loony Party"}]}
+{
+  "pcon24cd": "E14001159",
+  "pcon24nm": "Chelmsford",
+  "votes": [
+    {
+      "person_id": "107576",
+      "person_name": "Richard William Parry",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115935/cd74b215-ae60-4959-a03e-36e5a8dbbb44.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "115933",
+      "person_name": "Darren Ingrouille",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115933/d6ccc859-6987-49e8-86b1-7d336cc75f4e.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "115934",
+      "person_name": "Mark Stephen Kenlen",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "117743",
+      "person_name": "Kamla Sangha",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "24456",
+      "person_name": "Marie Goldman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/79332-0b8ee778-ffbe-42e1-b75d-680acc83783e.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "31776",
+      "person_name": "Richard Hyland",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/31776/b76efa84-6ddc-46d7-a2fb-d3201fca05fb.png",
+      "party_key": "other",
+      "party_name": "Independent Network"
+    },
+    {
+      "person_id": "34298",
+      "person_name": "Vicky Ford",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34298/5c5258b1-4831-4424-be89-01a3ef482aa5.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "6933",
+      "person_name": "Reza Hossain",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6933.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "72188",
+      "person_name": "Mark Citizen Lawrence",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72188-92a5d727-9473-4e04-b69a-6ade2d7ddbe2.png",
+      "party_key": "other",
+      "party_name": "The Official Monster Raving Loony Party"
+    }
+  ]
+}

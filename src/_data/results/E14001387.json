@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001387", "pcon24nm": "North Devon", "votes": [{"person_id": "116419", "person_name": "Nigel James", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116419/d1adbdf7-9f02-4e71-879e-05fe6f99f674.png", "party_name": "Reform UK"}, {"person_id": "116789", "person_name": "Nicky Edwards", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116789/188948d5-eaa9-4b1a-8cae-8196279189a8.png", "party_name": "Labour Party"}, {"person_id": "5712", "person_name": "Selaine Saxby", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5712.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "64520", "person_name": "Ian Roome", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/64520-e3adee8b-de5a-4c3e-8890-ec7507d0a454.png", "party_name": "Liberal Democrats"}, {"person_id": "72376", "person_name": "Steve Cotten", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117114/a388c4e4-6ffb-4744-b340-89a207e067a1.png", "party_name": "Independent"}, {"person_id": "96639", "person_name": "Cas Lay", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96639/705638da-a7c4-498b-ad17-9f0cc5646ee8.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001387",
+  "pcon24nm": "North Devon",
+  "votes": [
+    {
+      "person_id": "116419",
+      "person_name": "Nigel James",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116419/d1adbdf7-9f02-4e71-879e-05fe6f99f674.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116789",
+      "person_name": "Nicky Edwards",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116789/188948d5-eaa9-4b1a-8cae-8196279189a8.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "5712",
+      "person_name": "Selaine Saxby",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5712.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "64520",
+      "person_name": "Ian Roome",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/64520-e3adee8b-de5a-4c3e-8890-ec7507d0a454.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "72376",
+      "person_name": "Steve Cotten",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117114/a388c4e4-6ffb-4744-b340-89a207e067a1.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "96639",
+      "person_name": "Cas Lay",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96639/705638da-a7c4-498b-ad17-9f0cc5646ee8.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001399", "pcon24nm": "North Somerset", "votes": [{"person_id": "116424", "person_name": "Alexander Kokkinoftas", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116424/fba15c9c-ef4b-4d9f-8803-efd5bc03af71.png", "party_name": "Reform UK"}, {"person_id": "116425", "person_name": "Oscar Livesey Lodwick", "image": "/assets/images/missing.svg", "party_name": "Green Party"}, {"person_id": "1371", "person_name": "Suneil Basu", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1371/4eef639b-7890-4649-b046-b131a955e1c8.png", "party_name": "Workers Party of Britain"}, {"person_id": "451", "person_name": "Liam Fox", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/451/1676b3fd-7a58-4b7c-a101-150dc3685a43.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "53535", "person_name": "Ash Cartman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/53535.png", "party_name": "Liberal Democrats"}, {"person_id": "56777", "person_name": "Sadik Al-Hassan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/56777/d07982a9-6eb0-49b9-b565-0a6805a51078.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001399",
+  "pcon24nm": "North Somerset",
+  "votes": [
+    {
+      "person_id": "116424",
+      "person_name": "Alexander Kokkinoftas",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116424/fba15c9c-ef4b-4d9f-8803-efd5bc03af71.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116425",
+      "person_name": "Oscar Livesey Lodwick",
+      "image": "/assets/images/missing.svg",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "1371",
+      "person_name": "Suneil Basu",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1371/4eef639b-7890-4649-b046-b131a955e1c8.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "451",
+      "person_name": "Liam Fox",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/451/1676b3fd-7a58-4b7c-a101-150dc3685a43.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "53535",
+      "person_name": "Ash Cartman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/53535.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "56777",
+      "person_name": "Sadik Al-Hassan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/56777/d07982a9-6eb0-49b9-b565-0a6805a51078.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

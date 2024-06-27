@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001248", "pcon24nm": "Gloucester", "votes": [{"person_id": "111363", "person_name": "Akhlaque Ahmed", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111363/cbc4907a-0b2d-4f60-8ec5-3c9a24d0cbb2.png", "party_name": "Socialist Labour Party"}, {"person_id": "116407", "person_name": "Alex McIntyre", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116407/bdf2b267-5a21-4938-bd4d-c5bde7328f9c.png", "party_name": "Labour Party"}, {"person_id": "116408", "person_name": "Chris Farmer", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116408/d16550ea-f94e-4ac5-b9c5-e0f996c7413c.png", "party_name": "Reform UK"}, {"person_id": "3224", "person_name": "Richard Graham", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/552aa7665b858ee163ed636b.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "32688", "person_name": "Steve Gower", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/32688/6c293e70-7183-4a3b-9ff3-1d24efdb12f4.png", "party_name": "Workers Party of Britain"}, {"person_id": "70645", "person_name": "Wing Commander (RTD) Fred Ramsey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/70645/fe2abe58-3d0e-4d34-83e5-8ad8b8d74750.png", "party_name": "Independent"}, {"person_id": "71455", "person_name": "Rebecca Jane Trimnell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71455.png", "party_name": "Liberal Democrats"}, {"person_id": "82332", "person_name": "Adam Shearing", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/82332/4871974e-ee2a-4863-9378-36e810ea1ba2.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001248",
+  "pcon24nm": "Gloucester",
+  "votes": [
+    {
+      "person_id": "111363",
+      "person_name": "Akhlaque Ahmed",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111363/cbc4907a-0b2d-4f60-8ec5-3c9a24d0cbb2.png",
+      "party_key": "other",
+      "party_name": "Socialist Labour Party"
+    },
+    {
+      "person_id": "116407",
+      "person_name": "Alex McIntyre",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116407/bdf2b267-5a21-4938-bd4d-c5bde7328f9c.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "116408",
+      "person_name": "Chris Farmer",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116408/d16550ea-f94e-4ac5-b9c5-e0f996c7413c.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "3224",
+      "person_name": "Richard Graham",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/552aa7665b858ee163ed636b.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "32688",
+      "person_name": "Steve Gower",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/32688/6c293e70-7183-4a3b-9ff3-1d24efdb12f4.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "70645",
+      "person_name": "Wing Commander (RTD) Fred Ramsey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/70645/fe2abe58-3d0e-4d34-83e5-8ad8b8d74750.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "71455",
+      "person_name": "Rebecca Jane Trimnell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71455.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "82332",
+      "person_name": "Adam Shearing",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/82332/4871974e-ee2a-4863-9378-36e810ea1ba2.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"pcon24cd": "W07000111", "pcon24nm": "Wrexham", "votes": [{"person_id": "1114", "person_name": "Charles Dodman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1114-39959e6d-d662-4661-a6ec-fb56d0ae74e7.png", "party_name": "Reform UK"}, {"person_id": "116502", "person_name": "Tim Morgan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116502/8afb0aec-2f82-4dda-b9ab-c0904613b260.png", "party_name": "Green Party"}, {"person_id": "29813", "person_name": "Sarah Atherton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/29813.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "71950", "person_name": "Tim Sly", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71950-812c493e-4a74-4cf6-8b1b-f290e97913ce.png", "party_name": "Liberal Democrats"}, {"person_id": "73522", "person_name": "Becca Martin", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73522/edececc7-dc29-4412-af70-65dcb81ef33d.png", "party_name": "Plaid Cymru - The Party of Wales"}, {"person_id": "77259", "person_name": "Paul Ashton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117186/8b5c8b20-3e4a-467f-a676-1cb829687acb.png", "party_name": "Abolish The Welsh Assembly Party"}, {"person_id": "94667", "person_name": "Andrew Steven Ranger", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94667/18c4ded3-e63b-4d00-a9c5-fcd7c0096d4c.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "W07000111",
+  "pcon24nm": "Wrexham",
+  "votes": [
+    {
+      "person_id": "1114",
+      "person_name": "Charles Dodman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1114-39959e6d-d662-4661-a6ec-fb56d0ae74e7.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116502",
+      "person_name": "Tim Morgan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116502/8afb0aec-2f82-4dda-b9ab-c0904613b260.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "29813",
+      "person_name": "Sarah Atherton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/29813.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "71950",
+      "person_name": "Tim Sly",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71950-812c493e-4a74-4cf6-8b1b-f290e97913ce.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "73522",
+      "person_name": "Becca Martin",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73522/edececc7-dc29-4412-af70-65dcb81ef33d.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    },
+    {
+      "person_id": "77259",
+      "person_name": "Paul Ashton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117186/8b5c8b20-3e4a-467f-a676-1cb829687acb.png",
+      "party_key": "other",
+      "party_name": "Abolish The Welsh Assembly Party"
+    },
+    {
+      "person_id": "94667",
+      "person_name": "Andrew Steven Ranger",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94667/18c4ded3-e63b-4d00-a9c5-fcd7c0096d4c.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

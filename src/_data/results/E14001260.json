@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001260", "pcon24nm": "Hackney South and Shoreditch", "votes": [{"person_id": "116958", "person_name": "Laura-Louise Fairley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116958/d7d3a57a-dfbf-4da7-bb48-299a2cd4cb15.png", "party_name": "Green Party"}, {"person_id": "117757", "person_name": "Mohammed Shahed Hussain", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117757/007616a1-1a76-4929-9e34-4668eee96f92.png", "party_name": "Workers Party of Britain"}, {"person_id": "117758", "person_name": "Carol Susan Small", "image": "/assets/images/missing.svg", "party_name": "Workers Revolutionary Party"}, {"person_id": "2563", "person_name": "Meg Hillier", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2563/2b7227a4-5a5c-4644-9c3c-b4216b50b3e0.png", "party_name": "Labour and Co-operative Party"}, {"person_id": "34988", "person_name": "Anil Bhatti", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34988/d4aa57ca-ee0b-4ad0-b2dc-51571f3f56c7.png", "party_name": "Reform UK"}, {"person_id": "41565", "person_name": "Theodore Roos", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/41565/3ac76dbe-dc62-4d15-a0d0-7a4eb702442f.png", "party_name": "Liberal Democrats"}, {"person_id": "95099", "person_name": "Joanna Kate Reeves", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95099/ba6a9367-cae3-430f-bdd8-ca945928db85.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001260",
+  "pcon24nm": "Hackney South and Shoreditch",
+  "votes": [
+    {
+      "person_id": "116958",
+      "person_name": "Laura-Louise Fairley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116958/d7d3a57a-dfbf-4da7-bb48-299a2cd4cb15.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "117757",
+      "person_name": "Mohammed Shahed Hussain",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117757/007616a1-1a76-4929-9e34-4668eee96f92.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "117758",
+      "person_name": "Carol Susan Small",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Workers Revolutionary Party"
+    },
+    {
+      "person_id": "2563",
+      "person_name": "Meg Hillier",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2563/2b7227a4-5a5c-4644-9c3c-b4216b50b3e0.png",
+      "party_key": "lab",
+      "party_name": "Labour and Co-operative Party"
+    },
+    {
+      "person_id": "34988",
+      "person_name": "Anil Bhatti",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34988/d4aa57ca-ee0b-4ad0-b2dc-51571f3f56c7.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "41565",
+      "person_name": "Theodore Roos",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/41565/3ac76dbe-dc62-4d15-a0d0-7a4eb702442f.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "95099",
+      "person_name": "Joanna Kate Reeves",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95099/ba6a9367-cae3-430f-bdd8-ca945928db85.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

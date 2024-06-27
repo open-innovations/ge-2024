@@ -1,1 +1,48 @@
-{"pcon24cd": "S14000100", "pcon24nm": "North East Fife", "votes": [{"person_id": "114650", "person_name": "Jennifer Gallagher", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114650/1f9c7b80-2932-44e6-b50d-6881d1440d8f.png", "party_name": "Labour Party"}, {"person_id": "117576", "person_name": "Matthew Wren", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117576/2fdfe620-08ac-416f-aeee-51f2a617fd93.png", "party_name": "Reform UK"}, {"person_id": "21148", "person_name": "Wendy Chamberlain", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21148/a777329c-4069-4d23-86ff-1d8741bd3af9.png", "party_name": "Liberal Democrats"}, {"person_id": "5522", "person_name": "Bill Bowman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55224eec328bff5d39338a34.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "74270", "person_name": "Stefan Hoggan-Radu", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74270-e212e8f3-48fb-4d6f-ad9f-3c3f8ba1c9a0.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "85888", "person_name": "Morven Ovenstone-Jones", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85888/3e7b04ed-12d9-4ad1-8b21-ee4a93067bd0.png", "party_name": "Scottish Green Party"}]}
+{
+  "pcon24cd": "S14000100",
+  "pcon24nm": "North East Fife",
+  "votes": [
+    {
+      "person_id": "114650",
+      "person_name": "Jennifer Gallagher",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114650/1f9c7b80-2932-44e6-b50d-6881d1440d8f.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "117576",
+      "person_name": "Matthew Wren",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117576/2fdfe620-08ac-416f-aeee-51f2a617fd93.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "21148",
+      "person_name": "Wendy Chamberlain",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21148/a777329c-4069-4d23-86ff-1d8741bd3af9.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "5522",
+      "person_name": "Bill Bowman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55224eec328bff5d39338a34.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "74270",
+      "person_name": "Stefan Hoggan-Radu",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74270-e212e8f3-48fb-4d6f-ad9f-3c3f8ba1c9a0.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "85888",
+      "person_name": "Morven Ovenstone-Jones",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85888/3e7b04ed-12d9-4ad1-8b21-ee4a93067bd0.png",
+      "party_key": "other",
+      "party_name": "Scottish Green Party"
+    }
+  ]
+}

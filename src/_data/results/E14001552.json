@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001552", "pcon24nm": "Torridge and Tavistock", "votes": [{"person_id": "116458", "person_name": "Andrew Jackson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116458/9b3b0eea-3079-45ab-9790-f8701aca3d3e.png", "party_name": "Reform UK"}, {"person_id": "3838", "person_name": "Judy Maciejowska", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3838/5ef2f739-3375-43d1-b516-8022397fa690.png", "party_name": "Green Party"}, {"person_id": "4529", "person_name": "Phil Hutty", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4529/c342214f-36be-4ff7-8d9b-4fdd6982ad28.png", "party_name": "Liberal Democrats"}, {"person_id": "552", "person_name": "Geoffrey Cox", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/552.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "67759", "person_name": "Alan Edward Rayner", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/67759/56666c8d-4ae5-4f21-8639-6a797099334f.png", "party_name": "Independent"}, {"person_id": "84050", "person_name": "Isabel Angela Saxby", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84050/1cc6c5f2-402b-44f2-b1e7-c3c88f1ddd7b.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001552",
+  "pcon24nm": "Torridge and Tavistock",
+  "votes": [
+    {
+      "person_id": "116458",
+      "person_name": "Andrew Jackson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116458/9b3b0eea-3079-45ab-9790-f8701aca3d3e.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "3838",
+      "person_name": "Judy Maciejowska",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3838/5ef2f739-3375-43d1-b516-8022397fa690.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "4529",
+      "person_name": "Phil Hutty",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4529/c342214f-36be-4ff7-8d9b-4fdd6982ad28.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "552",
+      "person_name": "Geoffrey Cox",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/552.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "67759",
+      "person_name": "Alan Edward Rayner",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/67759/56666c8d-4ae5-4f21-8639-6a797099334f.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "84050",
+      "person_name": "Isabel Angela Saxby",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84050/1cc6c5f2-402b-44f2-b1e7-c3c88f1ddd7b.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

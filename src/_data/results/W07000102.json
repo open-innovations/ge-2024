@@ -1,1 +1,48 @@
-{"pcon24cd": "W07000102", "pcon24nm": "Montgomeryshire and Glynd\u0175r", "votes": [{"person_id": "115425", "person_name": "Steve Witherden", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116488/8af4cef2-8236-4e67-ac25-5613190f9cab.png", "party_name": "Labour Party"}, {"person_id": "26973", "person_name": "Elwyn Vaughan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/26973/35d30e9d-b485-48ef-8e70-9696af38e127.png", "party_name": "Plaid Cymru - The Party of Wales"}, {"person_id": "26984", "person_name": "Jeremy Brignell-Thorp", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/26984/736fc237-87ba-4de4-8817-7d796d67d719.png", "party_name": "Green Party"}, {"person_id": "4173", "person_name": "Craig Williams", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4173/3c69ed3b-5119-4af5-a2a7-8217b5b869b8.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "74145", "person_name": "Oliver Lewis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74145/4205d5d6-9f0f-40f6-b0d4-2722dd352113.png", "party_name": "Reform UK"}, {"person_id": "77056", "person_name": "Glyn Preston", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/77056-ccb84427-1776-49b1-9392-86094c680eaf.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "W07000102",
+  "pcon24nm": "Montgomeryshire and Glynd\u0175r",
+  "votes": [
+    {
+      "person_id": "115425",
+      "person_name": "Steve Witherden",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116488/8af4cef2-8236-4e67-ac25-5613190f9cab.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "26973",
+      "person_name": "Elwyn Vaughan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/26973/35d30e9d-b485-48ef-8e70-9696af38e127.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    },
+    {
+      "person_id": "26984",
+      "person_name": "Jeremy Brignell-Thorp",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/26984/736fc237-87ba-4de4-8817-7d796d67d719.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "4173",
+      "person_name": "Craig Williams",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4173/3c69ed3b-5119-4af5-a2a7-8217b5b869b8.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "74145",
+      "person_name": "Oliver Lewis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74145/4205d5d6-9f0f-40f6-b0d4-2722dd352113.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "77056",
+      "person_name": "Glyn Preston",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/77056-ccb84427-1776-49b1-9392-86094c680eaf.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

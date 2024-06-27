@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001414", "pcon24nm": "Old Bexley and Sidcup", "votes": [{"person_id": "116710", "person_name": "Brad Davies", "image": "/assets/images/missing.svg", "party_name": "Green Party"}, {"person_id": "117613", "person_name": "Andrew Still", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "117614", "person_name": "Laurent Williams", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117614/1590dddc-6a83-412b-ae71-313f199c9918.png", "party_name": "Rejoin EU"}, {"person_id": "44425", "person_name": "Louie French", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/44425/9f5b7799-96a9-46a8-940e-9c92b0ec6bfc.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "4593", "person_name": "Adrian Hyyrylainen-Trett", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4593.png", "party_name": "Liberal Democrats"}, {"person_id": "48329", "person_name": "Edward Jones", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48329/8d11a522-7978-4daa-a6bf-c41e992695b3.png", "party_name": "Labour Party"}, {"person_id": "56522", "person_name": "Maxine Fothergill", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116050/73045f32-ca8d-46c3-95bb-73015f8eb62c.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "E14001414",
+  "pcon24nm": "Old Bexley and Sidcup",
+  "votes": [
+    {
+      "person_id": "116710",
+      "person_name": "Brad Davies",
+      "image": "/assets/images/missing.svg",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "117613",
+      "person_name": "Andrew Still",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117614",
+      "person_name": "Laurent Williams",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117614/1590dddc-6a83-412b-ae71-313f199c9918.png",
+      "party_key": "other",
+      "party_name": "Rejoin EU"
+    },
+    {
+      "person_id": "44425",
+      "person_name": "Louie French",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/44425/9f5b7799-96a9-46a8-940e-9c92b0ec6bfc.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "4593",
+      "person_name": "Adrian Hyyrylainen-Trett",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4593.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "48329",
+      "person_name": "Edward Jones",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48329/8d11a522-7978-4daa-a6bf-c41e992695b3.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "56522",
+      "person_name": "Maxine Fothergill",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116050/73045f32-ca8d-46c3-95bb-73015f8eb62c.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001518", "pcon24nm": "Stockton North", "votes": [{"person_id": "116116", "person_name": "Chris McDonald", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116116/9a368ca6-eb82-4f8a-a138-cefa23389765.png", "party_name": "Labour Party"}, {"person_id": "4767", "person_name": "Jo Barton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4767/7d0121e8-3ad5-4c02-a018-608dc2be53c2.png", "party_name": "Liberal Democrats"}, {"person_id": "75158", "person_name": "Niall Innes", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75158/7ba61e2e-735c-430d-8247-2d0b32069878.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "75781", "person_name": "John Gerard McDermottroe", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75781/bdd4ec1a-983d-4b9d-ba9b-2cb6c22f6353.png", "party_name": "Reform UK"}, {"person_id": "97020", "person_name": "Samuel Ernest Bradford", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97020/3b29d3ad-7821-4ac0-b1a0-c8fcd4b5eb8c.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001518",
+  "pcon24nm": "Stockton North",
+  "votes": [
+    {
+      "person_id": "116116",
+      "person_name": "Chris McDonald",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116116/9a368ca6-eb82-4f8a-a138-cefa23389765.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "4767",
+      "person_name": "Jo Barton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4767/7d0121e8-3ad5-4c02-a018-608dc2be53c2.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "75158",
+      "person_name": "Niall Innes",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75158/7ba61e2e-735c-430d-8247-2d0b32069878.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "75781",
+      "person_name": "John Gerard McDermottroe",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75781/bdd4ec1a-983d-4b9d-ba9b-2cb6c22f6353.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "97020",
+      "person_name": "Samuel Ernest Bradford",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97020/3b29d3ad-7821-4ac0-b1a0-c8fcd4b5eb8c.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

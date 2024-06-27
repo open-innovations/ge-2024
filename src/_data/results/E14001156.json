@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001156", "pcon24nm": "Central Suffolk and North Ipswich", "votes": [{"person_id": "117509", "person_name": "Charlie Caiger", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117509/ef562b1b-1a24-44e8-b960-b9e57def9381.png", "party_name": "Independent"}, {"person_id": "117510", "person_name": "Mike Hallatt", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "14887", "person_name": "Tony Gould", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14887/d1b4ced6-b913-4685-93bd-be6231141197.png", "party_name": "Reform UK"}, {"person_id": "34525", "person_name": "Patrick Spencer", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34525.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "35933", "person_name": "Kevin Craig", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35933/afa6ace7-76b6-4877-bbcb-4f3a517b4dca.png", "party_name": "Labour Party"}, {"person_id": "58399", "person_name": "Dan Pratt", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/58399.png", "party_name": "Green Party"}, {"person_id": "91197", "person_name": "Brett Alistair Mickelburgh", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91197/43723acc-26c1-4b07-a860-dfb37eaa9bc6.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001156",
+  "pcon24nm": "Central Suffolk and North Ipswich",
+  "votes": [
+    {
+      "person_id": "117509",
+      "person_name": "Charlie Caiger",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117509/ef562b1b-1a24-44e8-b960-b9e57def9381.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117510",
+      "person_name": "Mike Hallatt",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "14887",
+      "person_name": "Tony Gould",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14887/d1b4ced6-b913-4685-93bd-be6231141197.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "34525",
+      "person_name": "Patrick Spencer",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34525.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "35933",
+      "person_name": "Kevin Craig",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35933/afa6ace7-76b6-4877-bbcb-4f3a517b4dca.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "58399",
+      "person_name": "Dan Pratt",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/58399.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "91197",
+      "person_name": "Brett Alistair Mickelburgh",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91197/43723acc-26c1-4b07-a860-dfb37eaa9bc6.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

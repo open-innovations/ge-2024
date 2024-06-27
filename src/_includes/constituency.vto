@@ -12,19 +12,29 @@ layout: page.vto
   }) }} seat.
 </p>
 
-<h2>Candidates</h2>
+<h2>Results</h2>
 
-{{ if candidates.length > 0 }}
-{{ comp.oi.table({
-  config: {
-    data: candidates,
-    columns: [
-      { name: "Name", template: "{{ name }}" },
-      { name: "Image", template: "<img src=\"{{ image }}\" alt=\"Photograph of {{ name }}\"/>" },
-      { name: "Party", template: "{{ party_name }}", colour: "party_key" }
-    ]
-  }
-}) }}
+{{ if results.votes.length > 0 }}
+<table>
+  <thead>
+  <tr>
+    <th>Candidate</th>
+    <th>Party</th>
+    <th>Votes cast</th>
+  </tr>
+  </thead>
+  <tbody>
+  {{ for key, r of results.votes.toSorted((a, b) => (b.votes || 0) - (a.votes || 0)) }}
+    <tr>
+      <td>
+        <img src="{{ r.image }}" alt="Photograph of {{ r.person_name }}"/>
+        {{ r.person_name }}</td>
+      <td>{{ comp.party({ party: r.party_key, name: r.party_name }) }}</td>
+      <td>{{ r.votes }}</td>
+    </tr>
+  {{ /for }}
+  </tbody>
+</table>
 {{ else }}
 <p>No candidate data is available for {{ pcon24nm }}.
 {{ /if }}

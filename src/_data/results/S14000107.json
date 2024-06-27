@@ -1,1 +1,55 @@
-{"pcon24cd": "S14000107", "pcon24nm": "Ayr, Carrick and Cumnock", "votes": [{"person_id": "117138", "person_name": "Korin Matthew Vallance", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117138/050e2edd-9c2d-4ca0-a79f-baa9b24b6c6e.png", "party_name": "Scottish Green Party"}, {"person_id": "22378", "person_name": "Elaine Stewart", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22378/f79e88dd-a4b8-46d5-b4c2-8e3f00b67975.png", "party_name": "Labour Party"}, {"person_id": "22533", "person_name": "Allan Dorans", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22533/4ed6ef57-1868-46a4-91d9-f60459df5304.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "22534", "person_name": "Martin Dowey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22534-30f96cfe-08be-4733-81f9-4774713bb6a8.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "5072", "person_name": "Paul Kennedy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5072/fca5387c-c0ad-49fb-aac9-b53da75ac15b.png", "party_name": "Liberal Democrats"}, {"person_id": "5927", "person_name": "Corri Wilson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5927/3c39a63f-e5d0-4da4-9200-24f0e21f9e77.png", "party_name": "Alba Party"}, {"person_id": "85778", "person_name": "Andrew Russell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116209/a4e8a7e4-07bd-402d-b957-976d22a62ba6.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "S14000107",
+  "pcon24nm": "Ayr, Carrick and Cumnock",
+  "votes": [
+    {
+      "person_id": "117138",
+      "person_name": "Korin Matthew Vallance",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117138/050e2edd-9c2d-4ca0-a79f-baa9b24b6c6e.png",
+      "party_key": "other",
+      "party_name": "Scottish Green Party"
+    },
+    {
+      "person_id": "22378",
+      "person_name": "Elaine Stewart",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22378/f79e88dd-a4b8-46d5-b4c2-8e3f00b67975.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "22533",
+      "person_name": "Allan Dorans",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22533/4ed6ef57-1868-46a4-91d9-f60459df5304.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "22534",
+      "person_name": "Martin Dowey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22534-30f96cfe-08be-4733-81f9-4774713bb6a8.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "5072",
+      "person_name": "Paul Kennedy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5072/fca5387c-c0ad-49fb-aac9-b53da75ac15b.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "5927",
+      "person_name": "Corri Wilson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5927/3c39a63f-e5d0-4da4-9200-24f0e21f9e77.png",
+      "party_key": "other",
+      "party_name": "Alba Party"
+    },
+    {
+      "person_id": "85778",
+      "person_name": "Andrew Russell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116209/a4e8a7e4-07bd-402d-b957-976d22a62ba6.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

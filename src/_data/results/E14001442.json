@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001442", "pcon24nm": "Reigate", "votes": [{"person_id": "20177", "person_name": "Stuart Brady", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20177.png", "party_name": "Labour Party"}, {"person_id": "40178", "person_name": "Joseph Brian Fox", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40178/72555cb1-99f7-42ae-a744-35e2ed9f4f1f.png", "party_name": "Reform UK"}, {"person_id": "439", "person_name": "Jonathan Essex", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/439/69ba818b-7dc3-4458-97b8-cf92477803b1.png", "party_name": "Green Party"}, {"person_id": "79285", "person_name": "Rebecca Paul", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79285/fe34dc41-1f1d-4bfc-b2b0-1acc3aebb203.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "79530", "person_name": "Mark Johnston", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/79530-5690c457-0a73-4bc3-925a-0eedd6a8a6df.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001442",
+  "pcon24nm": "Reigate",
+  "votes": [
+    {
+      "person_id": "20177",
+      "person_name": "Stuart Brady",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20177.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "40178",
+      "person_name": "Joseph Brian Fox",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40178/72555cb1-99f7-42ae-a744-35e2ed9f4f1f.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "439",
+      "person_name": "Jonathan Essex",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/439/69ba818b-7dc3-4458-97b8-cf92477803b1.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "79285",
+      "person_name": "Rebecca Paul",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79285/fe34dc41-1f1d-4bfc-b2b0-1acc3aebb203.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "79530",
+      "person_name": "Mark Johnston",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/79530-5690c457-0a73-4bc3-925a-0eedd6a8a6df.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

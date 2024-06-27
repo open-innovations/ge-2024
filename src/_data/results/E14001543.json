@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001543", "pcon24nm": "The Wrekin", "votes": [{"person_id": "116744", "person_name": "Roh Yakobi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116744/4b097f85-a88e-43de-abb8-dabb72586c35.png", "party_name": "Labour Party"}, {"person_id": "117121", "person_name": "Christopher Shipley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117121/a24fa612-9104-42bd-8c6c-9b39d39b8d31.png", "party_name": "Independent"}, {"person_id": "1616", "person_name": "Mark Pritchard", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ba6b710284be476aae899.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "32968", "person_name": "Richard Leppington", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117342/4d76d6a6-04c4-4733-b675-4cea88e11f9c.png", "party_name": "Reform UK"}, {"person_id": "34577", "person_name": "Pat McCarthy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34577/09870bc2-d1c7-4c2c-a42a-1a3395318dce.png", "party_name": "Green Party"}, {"person_id": "53134", "person_name": "Anthony Lowe", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115637/a1bcecd7-7083-4158-b8ef-5d42628e1913.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001543",
+  "pcon24nm": "The Wrekin",
+  "votes": [
+    {
+      "person_id": "116744",
+      "person_name": "Roh Yakobi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116744/4b097f85-a88e-43de-abb8-dabb72586c35.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "117121",
+      "person_name": "Christopher Shipley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117121/a24fa612-9104-42bd-8c6c-9b39d39b8d31.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "1616",
+      "person_name": "Mark Pritchard",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ba6b710284be476aae899.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "32968",
+      "person_name": "Richard Leppington",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117342/4d76d6a6-04c4-4733-b675-4cea88e11f9c.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "34577",
+      "person_name": "Pat McCarthy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34577/09870bc2-d1c7-4c2c-a42a-1a3395318dce.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "53134",
+      "person_name": "Anthony Lowe",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115637/a1bcecd7-7083-4158-b8ef-5d42628e1913.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

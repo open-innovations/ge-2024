@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001506", "pcon24nm": "Spen Valley", "votes": [{"person_id": "109888", "person_name": "Martin Price", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109888/ddf25edb-f9e3-40a0-8426-a643bb50c649.png", "party_name": "Green Party"}, {"person_id": "34854", "person_name": "Alison Brelsford", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34854/8e71c2fd-c589-48cd-ba1a-3988ed41a59e.png", "party_name": "Liberal Democrats"}, {"person_id": "34872", "person_name": "Laura Evans", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34872.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "67448", "person_name": "Javed Bashir", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/67448.png", "party_name": "Independent"}, {"person_id": "71466", "person_name": "Sarah Wood", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71466-b8158cfb-4db3-4ba8-9747-84c2d36faef0.png", "party_name": "Reform UK"}, {"person_id": "83755", "person_name": "Kim Leadbeater", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83755/1a21177e-d198-4694-95b1-2cb7d3b9dc6b.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001506",
+  "pcon24nm": "Spen Valley",
+  "votes": [
+    {
+      "person_id": "109888",
+      "person_name": "Martin Price",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109888/ddf25edb-f9e3-40a0-8426-a643bb50c649.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "34854",
+      "person_name": "Alison Brelsford",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34854/8e71c2fd-c589-48cd-ba1a-3988ed41a59e.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "34872",
+      "person_name": "Laura Evans",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34872.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "67448",
+      "person_name": "Javed Bashir",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/67448.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "71466",
+      "person_name": "Sarah Wood",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71466-b8158cfb-4db3-4ba8-9747-84c2d36faef0.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "83755",
+      "person_name": "Kim Leadbeater",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83755/1a21177e-d198-4694-95b1-2cb7d3b9dc6b.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

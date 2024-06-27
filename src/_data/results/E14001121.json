@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001121", "pcon24nm": "Braintree", "votes": [{"person_id": "105572", "person_name": "Richard Thomson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105572/1cd529e9-5ff7-43cb-a49c-f247775b1227.png", "party_name": "Reform UK"}, {"person_id": "116832", "person_name": "David Heather", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116832/7801d7e5-0403-40d3-a12d-ab622a0cb815.png", "party_name": "Independent"}, {"person_id": "5464", "person_name": "James Cleverly", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5464/28e47074-a449-4c06-a973-7605bc412fe2.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "57720", "person_name": "Paul Thorogood", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/57720/ee99e6cd-4b99-4a20-87d5-f347331d3054.png", "party_name": "Green Party"}, {"person_id": "78466", "person_name": "Kieron Anthony Franks", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78466/439a41df-ee18-4fd3-b1ea-3ae95eca8d80.png", "party_name": "Liberal Democrats"}, {"person_id": "88321", "person_name": "Matthew Wright", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88321/18d5e220-3cdc-441a-bf0c-12a04ec7a006.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001121",
+  "pcon24nm": "Braintree",
+  "votes": [
+    {
+      "person_id": "105572",
+      "person_name": "Richard Thomson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105572/1cd529e9-5ff7-43cb-a49c-f247775b1227.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116832",
+      "person_name": "David Heather",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116832/7801d7e5-0403-40d3-a12d-ab622a0cb815.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "5464",
+      "person_name": "James Cleverly",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5464/28e47074-a449-4c06-a973-7605bc412fe2.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "57720",
+      "person_name": "Paul Thorogood",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/57720/ee99e6cd-4b99-4a20-87d5-f347331d3054.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "78466",
+      "person_name": "Kieron Anthony Franks",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78466/439a41df-ee18-4fd3-b1ea-3ae95eca8d80.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "88321",
+      "person_name": "Matthew Wright",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88321/18d5e220-3cdc-441a-bf0c-12a04ec7a006.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

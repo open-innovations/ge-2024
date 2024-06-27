@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001120", "pcon24nm": "Bradford West", "votes": [{"person_id": "116932", "person_name": "Imad Uddin Ahmed", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116932/167e9600-e05f-48c2-8bea-880e3f56a59f.png", "party_name": "Liberal Democrats"}, {"person_id": "116989", "person_name": "Umar Ghafoor", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116989/5206e51d-58a6-448b-8842-70c71fdef7b6.png", "party_name": "Independent"}, {"person_id": "117427", "person_name": "Jamie  Hinton-Wardle", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117427/d7092933-8468-4ee5-86b6-f597870dc4fc.png", "party_name": "Reform UK"}, {"person_id": "117429", "person_name": "Akeel Hussain", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "6528", "person_name": "Naz Shah", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553bec3810284be476aae8b7.png", "party_name": "Labour Party"}, {"person_id": "76940", "person_name": "Nigel David Moxon", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76940/96bd73d6-173f-4fb8-b526-a0562f1df75f.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "94067", "person_name": "Khalid Mahmood", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94067/2066f5bc-7e3d-4d83-b281-3ed1fe9af011.png", "party_name": "Green Party"}, {"person_id": "94087", "person_name": "Muhammed Ali Islam", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94087/f0362b5f-891a-4e10-8022-492b241a2925.png", "party_name": "Independent"}]}
+{
+  "pcon24cd": "E14001120",
+  "pcon24nm": "Bradford West",
+  "votes": [
+    {
+      "person_id": "116932",
+      "person_name": "Imad Uddin Ahmed",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116932/167e9600-e05f-48c2-8bea-880e3f56a59f.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "116989",
+      "person_name": "Umar Ghafoor",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116989/5206e51d-58a6-448b-8842-70c71fdef7b6.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117427",
+      "person_name": "Jamie  Hinton-Wardle",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117427/d7092933-8468-4ee5-86b6-f597870dc4fc.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117429",
+      "person_name": "Akeel Hussain",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "6528",
+      "person_name": "Naz Shah",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553bec3810284be476aae8b7.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "76940",
+      "person_name": "Nigel David Moxon",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76940/96bd73d6-173f-4fb8-b526-a0562f1df75f.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "94067",
+      "person_name": "Khalid Mahmood",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94067/2066f5bc-7e3d-4d83-b281-3ed1fe9af011.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "94087",
+      "person_name": "Muhammed Ali Islam",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94087/f0362b5f-891a-4e10-8022-492b241a2925.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    }
+  ]
+}

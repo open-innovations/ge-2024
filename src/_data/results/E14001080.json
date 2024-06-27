@@ -1,1 +1,69 @@
-{"pcon24cd": "E14001080", "pcon24nm": "Bath", "votes": [{"person_id": "115070", "person_name": "Teresa Hall", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115070/ef017468-469c-4ee5-93f3-ea3ec169d299.png", "party_name": "Reform UK"}, {"person_id": "117368", "person_name": "Matthew Alford", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117368/a098ea3a-a21a-4439-b477-460d2ee81e98.png", "party_name": "Workers Party of Britain"}, {"person_id": "3496", "person_name": "A.N.ON", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3496/ba58c19b-9ca1-469c-942e-152a1490f9ce.png", "party_name": "Independent"}, {"person_id": "3720", "person_name": "Wera Hobhouse", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3720/4a3d60c7-4b84-4b55-8c85-7f35f314cbce.png", "party_name": "Liberal Democrats"}, {"person_id": "4707", "person_name": "Dom Tristram", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49320.png", "party_name": "Green Party"}, {"person_id": "49611", "person_name": "Daniel Bewley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49611/c9ccc780-4c3b-40ae-8912-4dbbb99e95d5.png", "party_name": "Labour Party"}, {"person_id": "52594", "person_name": "Colin David Blackburn", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/52594/2ff4679d-16d3-46f4-a48d-0c02d929d9ff.png", "party_name": "Independent"}, {"person_id": "72585", "person_name": "Bill Blockhead", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72585/438e886b-002c-4d4b-8c8d-526e00ea278e.png", "party_name": "Independent"}, {"person_id": "72691", "person_name": "James Wright", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72691/30a2dcf2-5f4e-4bf4-9381-cd5feb9fd3af.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001080",
+  "pcon24nm": "Bath",
+  "votes": [
+    {
+      "person_id": "115070",
+      "person_name": "Teresa Hall",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115070/ef017468-469c-4ee5-93f3-ea3ec169d299.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117368",
+      "person_name": "Matthew Alford",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117368/a098ea3a-a21a-4439-b477-460d2ee81e98.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "3496",
+      "person_name": "A.N.ON",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3496/ba58c19b-9ca1-469c-942e-152a1490f9ce.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "3720",
+      "person_name": "Wera Hobhouse",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3720/4a3d60c7-4b84-4b55-8c85-7f35f314cbce.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "4707",
+      "person_name": "Dom Tristram",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49320.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "49611",
+      "person_name": "Daniel Bewley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49611/c9ccc780-4c3b-40ae-8912-4dbbb99e95d5.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "52594",
+      "person_name": "Colin David Blackburn",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/52594/2ff4679d-16d3-46f4-a48d-0c02d929d9ff.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "72585",
+      "person_name": "Bill Blockhead",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72585/438e886b-002c-4d4b-8c8d-526e00ea278e.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "72691",
+      "person_name": "James Wright",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72691/30a2dcf2-5f4e-4bf4-9381-cd5feb9fd3af.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

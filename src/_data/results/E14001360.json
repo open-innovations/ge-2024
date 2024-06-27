@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001360", "pcon24nm": "Mid Buckinghamshire", "votes": [{"person_id": "116339", "person_name": "Yvonne Wilding", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116339/64592e82-cdb0-45e6-990f-cbff35ef5447.png", "party_name": "Social Democratic Party"}, {"person_id": "117545", "person_name": "Stephanie Harwood", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117545/10c12657-c35e-4bc9-bda0-e60fc708700d.png", "party_name": "Reform UK"}, {"person_id": "24391", "person_name": "Anja Schaefer", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/24391/04f28894-9254-4e68-9144-75c635964351.png", "party_name": "Liberal Democrats"}, {"person_id": "26113", "person_name": "Greg Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/26113/0b5c0983-32d6-41b1-b40f-d9ef9adb8e18.png", "party_name": "Green Party"}, {"person_id": "34503", "person_name": "Greg Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34503.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "7146", "person_name": "Wisdom Methodious Da Costa", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7146/8234d150-8460-4d8d-be5d-5a8789249d7e.png", "party_name": "Climate Party"}, {"person_id": "78993", "person_name": "Carissma Griffiths", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78993/4c4f2b9d-7fb4-4c1d-91c4-a66f8825d356.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001360",
+  "pcon24nm": "Mid Buckinghamshire",
+  "votes": [
+    {
+      "person_id": "116339",
+      "person_name": "Yvonne Wilding",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116339/64592e82-cdb0-45e6-990f-cbff35ef5447.png",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "117545",
+      "person_name": "Stephanie Harwood",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117545/10c12657-c35e-4bc9-bda0-e60fc708700d.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "24391",
+      "person_name": "Anja Schaefer",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/24391/04f28894-9254-4e68-9144-75c635964351.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "26113",
+      "person_name": "Greg Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/26113/0b5c0983-32d6-41b1-b40f-d9ef9adb8e18.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "34503",
+      "person_name": "Greg Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34503.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "7146",
+      "person_name": "Wisdom Methodious Da Costa",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7146/8234d150-8460-4d8d-be5d-5a8789249d7e.png",
+      "party_key": "other",
+      "party_name": "Climate Party"
+    },
+    {
+      "person_id": "78993",
+      "person_name": "Carissma Griffiths",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78993/4c4f2b9d-7fb4-4c1d-91c4-a66f8825d356.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001244", "pcon24nm": "Gateshead Central and Whickham", "votes": [{"person_id": "110737", "person_name": "Damian Heslop", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110737/aa8c4505-a559-472b-8268-2655e852dada.png", "party_name": "Reform UK"}, {"person_id": "1168", "person_name": "Ron Beadle", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/58968-0f2842c6-477b-4ae9-96bb-9e5df341b898.png", "party_name": "Liberal Democrats"}, {"person_id": "116883", "person_name": "Mark Ferguson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116883/89514766-cbd9-4d64-83d4-fc74c2f8a605.png", "party_name": "Labour Party"}, {"person_id": "20040", "person_name": "Nick Oliver", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117466/bcecd107-3569-45af-a1f2-6c2597031e50.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "45522", "person_name": "Rachel Mary Cabral", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/45522-61afe46f-6567-4edc-80e6-9ee7f7fc084f.png", "party_name": "Green Party"}, {"person_id": "45528", "person_name": "Graham Steele", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/45528/66739aa9-afb4-4436-b5ef-b02ed4390d33.png", "party_name": "Save Us Now"}, {"person_id": "6177", "person_name": "Norman Hall", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55477b3100f8947142645fd9.png", "party_name": "Trade Unionist and Socialist Coalition"}]}
+{
+  "pcon24cd": "E14001244",
+  "pcon24nm": "Gateshead Central and Whickham",
+  "votes": [
+    {
+      "person_id": "110737",
+      "person_name": "Damian Heslop",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110737/aa8c4505-a559-472b-8268-2655e852dada.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "1168",
+      "person_name": "Ron Beadle",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/58968-0f2842c6-477b-4ae9-96bb-9e5df341b898.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "116883",
+      "person_name": "Mark Ferguson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116883/89514766-cbd9-4d64-83d4-fc74c2f8a605.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "20040",
+      "person_name": "Nick Oliver",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117466/bcecd107-3569-45af-a1f2-6c2597031e50.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "45522",
+      "person_name": "Rachel Mary Cabral",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/45522-61afe46f-6567-4edc-80e6-9ee7f7fc084f.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "45528",
+      "person_name": "Graham Steele",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/45528/66739aa9-afb4-4436-b5ef-b02ed4390d33.png",
+      "party_key": "other",
+      "party_name": "Save Us Now"
+    },
+    {
+      "person_id": "6177",
+      "person_name": "Norman Hall",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55477b3100f8947142645fd9.png",
+      "party_key": "other",
+      "party_name": "Trade Unionist and Socialist Coalition"
+    }
+  ]
+}

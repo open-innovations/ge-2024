@@ -1,1 +1,55 @@
-{"pcon24cd": "W07000108", "pcon24nm": "Swansea West", "votes": [{"person_id": "115456", "person_name": "Patrick Benham-Crosswell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116498/0402523e-e834-46ec-93c8-fc7b3b5d7d48.png", "party_name": "Reform UK"}, {"person_id": "116913", "person_name": "Torsten Bell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116913/87904b75-ae44-4177-8c66-8793780ca243.png", "party_name": "Labour Party"}, {"person_id": "28456", "person_name": "Peter Jones", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116730/0911a0ed-a8c3-45a4-8dd4-626e798a1694.png", "party_name": "Green Party"}, {"person_id": "34563", "person_name": "Michael Ely O'Carroll", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34563.png", "party_name": "Liberal Democrats"}, {"person_id": "71685", "person_name": "Gwyn Williams", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71685/9995c870-5fb3-460b-b30f-e2caea25d6f8.png", "party_name": "Plaid Cymru - The Party of Wales"}, {"person_id": "73811", "person_name": "Gareth Bromhall", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116739/62efaf70-a03d-4cd1-b092-b86d328b0c5c.png", "party_name": "Trade Unionist and Socialist Coalition"}, {"person_id": "93240", "person_name": "Tara-Jane Sutcliffe", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93240/45ebe311-41f3-4b89-ab09-ff21b321b218.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "W07000108",
+  "pcon24nm": "Swansea West",
+  "votes": [
+    {
+      "person_id": "115456",
+      "person_name": "Patrick Benham-Crosswell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116498/0402523e-e834-46ec-93c8-fc7b3b5d7d48.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116913",
+      "person_name": "Torsten Bell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116913/87904b75-ae44-4177-8c66-8793780ca243.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "28456",
+      "person_name": "Peter Jones",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116730/0911a0ed-a8c3-45a4-8dd4-626e798a1694.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "34563",
+      "person_name": "Michael Ely O'Carroll",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34563.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "71685",
+      "person_name": "Gwyn Williams",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71685/9995c870-5fb3-460b-b30f-e2caea25d6f8.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    },
+    {
+      "person_id": "73811",
+      "person_name": "Gareth Bromhall",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116739/62efaf70-a03d-4cd1-b092-b86d328b0c5c.png",
+      "party_key": "other",
+      "party_name": "Trade Unionist and Socialist Coalition"
+    },
+    {
+      "person_id": "93240",
+      "person_name": "Tara-Jane Sutcliffe",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93240/45ebe311-41f3-4b89-ab09-ff21b321b218.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

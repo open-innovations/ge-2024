@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001346", "pcon24nm": "Luton South and South Bedfordshire", "votes": [{"person_id": "105894", "person_name": "Norman MacLean", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105894/ee88fe7a-3b7a-4a75-9a58-cd1991f3d8a6.png", "party_name": "Reform UK"}, {"person_id": "12459", "person_name": "Edward Carpenter", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/12459.png", "party_name": "Green Party"}, {"person_id": "47581", "person_name": "Dominic Griffiths", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/47581-244deb8c-0807-41a6-bdbe-769e852f9fa7.png", "party_name": "Liberal Democrats"}, {"person_id": "5841", "person_name": "Yasin Rehman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5841/9fdacf74-1c03-45a7-8fa4-2350557820bb.png", "party_name": "Workers Party of Britain"}, {"person_id": "61165", "person_name": "Rachel Hopkins", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/61165/74e21a75-1586-42a9-ae89-10ec92b91a17.png", "party_name": "Labour Party"}, {"person_id": "67558", "person_name": "Mark Anthony Gaius Versallion", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/67558/8f792a9e-9fd3-4748-9ed7-e75805482575.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "7417", "person_name": "Attiq Ahmed Malik", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7417/2a5aea6d-5756-41b0-8828-ba4591a6be2f.png", "party_name": "Independent"}]}
+{
+  "pcon24cd": "E14001346",
+  "pcon24nm": "Luton South and South Bedfordshire",
+  "votes": [
+    {
+      "person_id": "105894",
+      "person_name": "Norman MacLean",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105894/ee88fe7a-3b7a-4a75-9a58-cd1991f3d8a6.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "12459",
+      "person_name": "Edward Carpenter",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/12459.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "47581",
+      "person_name": "Dominic Griffiths",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/47581-244deb8c-0807-41a6-bdbe-769e852f9fa7.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "5841",
+      "person_name": "Yasin Rehman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5841/9fdacf74-1c03-45a7-8fa4-2350557820bb.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "61165",
+      "person_name": "Rachel Hopkins",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/61165/74e21a75-1586-42a9-ae89-10ec92b91a17.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "67558",
+      "person_name": "Mark Anthony Gaius Versallion",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/67558/8f792a9e-9fd3-4748-9ed7-e75805482575.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "7417",
+      "person_name": "Attiq Ahmed Malik",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7417/2a5aea6d-5756-41b0-8828-ba4591a6be2f.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    }
+  ]
+}

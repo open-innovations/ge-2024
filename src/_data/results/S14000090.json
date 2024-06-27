@@ -1,1 +1,41 @@
-{"pcon24cd": "S14000090", "pcon24nm": "Glenrothes and Mid Fife", "votes": [{"person_id": "117517", "person_name": "Ian Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117517/8829a8e2-e55e-48de-909d-80778d697542.png", "party_name": "Reform UK"}, {"person_id": "21208", "person_name": "John Beare", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21208/6e6b77ee-0b0a-4eb9-988a-f76eafbb3e8f.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "4254", "person_name": "Richard Baker", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551afd9913eb34c82843cb3b.png", "party_name": "Labour Party"}, {"person_id": "71425", "person_name": "Jill Reilly", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71425.png", "party_name": "Liberal Democrats"}, {"person_id": "85884", "person_name": "Debbie MacCallum", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85884/ee627640-60e4-4dcf-a2a7-1e4ed8528057.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "S14000090",
+  "pcon24nm": "Glenrothes and Mid Fife",
+  "votes": [
+    {
+      "person_id": "117517",
+      "person_name": "Ian Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117517/8829a8e2-e55e-48de-909d-80778d697542.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "21208",
+      "person_name": "John Beare",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21208/6e6b77ee-0b0a-4eb9-988a-f76eafbb3e8f.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "4254",
+      "person_name": "Richard Baker",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551afd9913eb34c82843cb3b.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "71425",
+      "person_name": "Jill Reilly",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71425.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "85884",
+      "person_name": "Debbie MacCallum",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85884/ee627640-60e4-4dcf-a2a7-1e4ed8528057.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

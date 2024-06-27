@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001574", "pcon24nm": "West Bromwich", "votes": [{"person_id": "110711", "person_name": "Ray Nock", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116551/2beb9e4c-19b3-4da7-b5ef-6c2f92014bb7.png", "party_name": "Reform UK"}, {"person_id": "115649", "person_name": "Sarah Coombes", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115649/2c1537b5-2e4d-4d57-ba2f-ca5debb43ed4.png", "party_name": "Labour Party"}, {"person_id": "117805", "person_name": "Mohammed Yasin", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "39346", "person_name": "Sam Harding", "image": "/assets/images/missing.svg", "party_name": "UK Independence Party (UKIP)"}, {"person_id": "4208", "person_name": "Will Goodhand", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4208.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "5648", "person_name": "Parmjit Singh Gill", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5648/8bc4ce7c-cc6b-4eef-83b5-50a616736186.png", "party_name": "Liberal Democrats"}, {"person_id": "96707", "person_name": "Gita Joshi", "image": "/assets/images/missing.svg", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001574",
+  "pcon24nm": "West Bromwich",
+  "votes": [
+    {
+      "person_id": "110711",
+      "person_name": "Ray Nock",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116551/2beb9e4c-19b3-4da7-b5ef-6c2f92014bb7.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "115649",
+      "person_name": "Sarah Coombes",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115649/2c1537b5-2e4d-4d57-ba2f-ca5debb43ed4.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "117805",
+      "person_name": "Mohammed Yasin",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "39346",
+      "person_name": "Sam Harding",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "UK Independence Party (UKIP)"
+    },
+    {
+      "person_id": "4208",
+      "person_name": "Will Goodhand",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4208.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "5648",
+      "person_name": "Parmjit Singh Gill",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5648/8bc4ce7c-cc6b-4eef-83b5-50a616736186.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "96707",
+      "person_name": "Gita Joshi",
+      "image": "/assets/images/missing.svg",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

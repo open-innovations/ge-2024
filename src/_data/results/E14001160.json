@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001160", "pcon24nm": "Chelsea and Fulham", "votes": [{"person_id": "109376", "person_name": "David Peter Poulden", "image": "/assets/images/missing.svg", "party_name": "Heritage Party"}, {"person_id": "113751", "person_name": "Mona Crocker", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115992/c7bdd4c4-06d5-43cf-9ff4-aa4421719bd9.png", "party_name": "Green Party"}, {"person_id": "117633", "person_name": "Sabi Patwary", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117633/56675177-b9db-4e5e-8f29-fe07ed58d519.png", "party_name": "Workers Party of Britain"}, {"person_id": "39171", "person_name": "Ben Coleman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/39171/cfbdc5a6-aa33-4efa-a986-9e4121c63398.png", "party_name": "Labour Party"}, {"person_id": "590", "person_name": "Greg Hands", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/590/46d35e31-12fb-423f-8b78-16e468e8f5c7.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "74721", "person_name": "Anthony Goodwin", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74721-0a42d40a-826e-45bd-a4cf-234315c2c043.png", "party_name": "Reform UK"}, {"person_id": "91493", "person_name": "Blaise Maxime Pascal Baquiche", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91493/aa1170e3-34b1-4053-a733-7f1a4a5644a5.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001160",
+  "pcon24nm": "Chelsea and Fulham",
+  "votes": [
+    {
+      "person_id": "109376",
+      "person_name": "David Peter Poulden",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Heritage Party"
+    },
+    {
+      "person_id": "113751",
+      "person_name": "Mona Crocker",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115992/c7bdd4c4-06d5-43cf-9ff4-aa4421719bd9.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "117633",
+      "person_name": "Sabi Patwary",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117633/56675177-b9db-4e5e-8f29-fe07ed58d519.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "39171",
+      "person_name": "Ben Coleman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/39171/cfbdc5a6-aa33-4efa-a986-9e4121c63398.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "590",
+      "person_name": "Greg Hands",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/590/46d35e31-12fb-423f-8b78-16e468e8f5c7.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "74721",
+      "person_name": "Anthony Goodwin",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74721-0a42d40a-826e-45bd-a4cf-234315c2c043.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "91493",
+      "person_name": "Blaise Maxime Pascal Baquiche",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91493/aa1170e3-34b1-4053-a733-7f1a4a5644a5.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

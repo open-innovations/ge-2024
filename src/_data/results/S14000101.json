@@ -1,1 +1,48 @@
-{"pcon24cd": "S14000101", "pcon24nm": "Paisley and Renfrewshire North", "votes": [{"person_id": "117617", "person_name": "Andrew Scott", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117617/8030cbf4-292f-4432-b5c5-6b6b678b7e9d.png", "party_name": "Reform UK"}, {"person_id": "34279", "person_name": "Alison Suzanne Watt Taylor", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34279.png", "party_name": "Labour Party"}, {"person_id": "6054", "person_name": "Gavin Andrew Stuart Newlands", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8c91e6d2cbcd26e36a29.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "86025", "person_name": "Grant Toghill", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86025/ce6e3b97-3e4f-49ff-b1b3-0845ef90305e.png", "party_name": "Liberal Democrats"}, {"person_id": "86028", "person_name": "David McGonigle", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86028/c4a19303-7a14-440e-9662-75e5a08a4d13.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "95414", "person_name": "Jen Bell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95414/2802f23a-7d6a-4114-b849-d078ee56a93a.png", "party_name": "Scottish Green Party"}]}
+{
+  "pcon24cd": "S14000101",
+  "pcon24nm": "Paisley and Renfrewshire North",
+  "votes": [
+    {
+      "person_id": "117617",
+      "person_name": "Andrew Scott",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117617/8030cbf4-292f-4432-b5c5-6b6b678b7e9d.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "34279",
+      "person_name": "Alison Suzanne Watt Taylor",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34279.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "6054",
+      "person_name": "Gavin Andrew Stuart Newlands",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8c91e6d2cbcd26e36a29.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "86025",
+      "person_name": "Grant Toghill",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86025/ce6e3b97-3e4f-49ff-b1b3-0845ef90305e.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "86028",
+      "person_name": "David McGonigle",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86028/c4a19303-7a14-440e-9662-75e5a08a4d13.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "95414",
+      "person_name": "Jen Bell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95414/2802f23a-7d6a-4114-b849-d078ee56a93a.png",
+      "party_key": "other",
+      "party_name": "Scottish Green Party"
+    }
+  ]
+}

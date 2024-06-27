@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001064", "pcon24nm": "Aldridge-Brownhills", "votes": [{"person_id": "3873", "person_name": "Ian Garrett", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54e7a5cf02f716934fefdb7b.png", "party_name": "Liberal Democrats"}, {"person_id": "3882", "person_name": "Graham Eardley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3882/5e28e5a4-1f5e-4925-b0eb-3280d126a368.png", "party_name": "Reform UK"}, {"person_id": "5728", "person_name": "Wendy Morton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5728/cf7ecdf2-a91a-40d8-9755-d509f706d59d.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "82753", "person_name": "Clare Nash", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/82753/d45f3c29-5806-482a-bf01-4566c8f215ad.png", "party_name": "Green Party"}, {"person_id": "96034", "person_name": "Luke John Davies", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96034/20ef272c-05a5-4f86-a636-3f1bb0770da1.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001064",
+  "pcon24nm": "Aldridge-Brownhills",
+  "votes": [
+    {
+      "person_id": "3873",
+      "person_name": "Ian Garrett",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54e7a5cf02f716934fefdb7b.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "3882",
+      "person_name": "Graham Eardley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3882/5e28e5a4-1f5e-4925-b0eb-3280d126a368.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "5728",
+      "person_name": "Wendy Morton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5728/cf7ecdf2-a91a-40d8-9755-d509f706d59d.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "82753",
+      "person_name": "Clare Nash",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/82753/d45f3c29-5806-482a-bf01-4566c8f215ad.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "96034",
+      "person_name": "Luke John Davies",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96034/20ef272c-05a5-4f86-a636-3f1bb0770da1.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001074", "pcon24nm": "Barnsley North", "votes": [{"person_id": "110248", "person_name": "Robert Lomas", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117160/c4690cf5-fdf7-4ff8-a784-56327d34c1ab.png", "party_name": "Reform UK"}, {"person_id": "1528", "person_name": "Janus Polenceusz", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1528/64fd04a8-9eee-4737-ba00-f8a8da57f495.png", "party_name": "English Democrats"}, {"person_id": "46749", "person_name": "Tom Heyes", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/46749.png", "party_name": "Green Party"}, {"person_id": "5266", "person_name": "Dan Jarvis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55292311b6a860ed1648be54.png", "party_name": "Labour Party"}, {"person_id": "6369", "person_name": "Penny Baker", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6369/0e9b67a2-3b58-448b-adc9-0a63a29da0dc.png", "party_name": "Liberal Democrats"}, {"person_id": "7226", "person_name": "Tony Devoy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8f8681ca637726b503b5.png", "party_name": "Yorkshire Party"}, {"person_id": "75707", "person_name": "Tamas Kovacs", "image": "/assets/images/missing.svg", "party_name": "Conservative and Unionist Party"}, {"person_id": "76256", "person_name": "Neil Fisher", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76256/ed27e850-4eef-4ea9-8492-5d75ad14ef6b.png", "party_name": "Independent"}]}
+{
+  "pcon24cd": "E14001074",
+  "pcon24nm": "Barnsley North",
+  "votes": [
+    {
+      "person_id": "110248",
+      "person_name": "Robert Lomas",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117160/c4690cf5-fdf7-4ff8-a784-56327d34c1ab.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "1528",
+      "person_name": "Janus Polenceusz",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1528/64fd04a8-9eee-4737-ba00-f8a8da57f495.png",
+      "party_key": "other",
+      "party_name": "English Democrats"
+    },
+    {
+      "person_id": "46749",
+      "person_name": "Tom Heyes",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/46749.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "5266",
+      "person_name": "Dan Jarvis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55292311b6a860ed1648be54.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "6369",
+      "person_name": "Penny Baker",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6369/0e9b67a2-3b58-448b-adc9-0a63a29da0dc.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "7226",
+      "person_name": "Tony Devoy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8f8681ca637726b503b5.png",
+      "party_key": "other",
+      "party_name": "Yorkshire Party"
+    },
+    {
+      "person_id": "75707",
+      "person_name": "Tamas Kovacs",
+      "image": "/assets/images/missing.svg",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "76256",
+      "person_name": "Neil Fisher",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76256/ed27e850-4eef-4ea9-8492-5d75ad14ef6b.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    }
+  ]
+}

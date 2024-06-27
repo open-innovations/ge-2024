@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001585", "pcon24nm": "Wigan", "votes": [{"person_id": "111176", "person_name": "The Zok", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111176/411615b4-9739-49e5-b466-a0923f05d514.png", "party_name": "Independent"}, {"person_id": "116750", "person_name": "Jan Cunliffe", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116750/6bc7bced-dd05-4ed7-9a6c-2c6373a301e2.png", "party_name": "Independent"}, {"person_id": "13747", "person_name": "Jane Leicester", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/13747/52b13a44-fc29-4479-9386-12ae592e6914.png", "party_name": "Green Party"}, {"person_id": "2241", "person_name": "Lisa Nandy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2241/db1cd148-16f9-42a4-bb3a-a251687b19e6.png", "party_name": "Labour Party"}, {"person_id": "28028", "person_name": "Henry James Mitson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/28028/c6e6150e-bde2-482f-92d6-eae0c3e4156c.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "71968", "person_name": "Maureen O'Bern", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71968.png", "party_name": "Independent"}, {"person_id": "75151", "person_name": "Brian Craig Duff Crombie-Fisher", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75151/072bad86-332d-4747-9630-6fef4716b5ec.png", "party_name": "Liberal Democrats"}, {"person_id": "98179", "person_name": "Andy Dawber", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98179/d776074c-7609-4af5-a768-83f5b10402c3.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "E14001585",
+  "pcon24nm": "Wigan",
+  "votes": [
+    {
+      "person_id": "111176",
+      "person_name": "The Zok",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111176/411615b4-9739-49e5-b466-a0923f05d514.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "116750",
+      "person_name": "Jan Cunliffe",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116750/6bc7bced-dd05-4ed7-9a6c-2c6373a301e2.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "13747",
+      "person_name": "Jane Leicester",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/13747/52b13a44-fc29-4479-9386-12ae592e6914.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "2241",
+      "person_name": "Lisa Nandy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2241/db1cd148-16f9-42a4-bb3a-a251687b19e6.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "28028",
+      "person_name": "Henry James Mitson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/28028/c6e6150e-bde2-482f-92d6-eae0c3e4156c.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "71968",
+      "person_name": "Maureen O'Bern",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71968.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "75151",
+      "person_name": "Brian Craig Duff Crombie-Fisher",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75151/072bad86-332d-4747-9630-6fef4716b5ec.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "98179",
+      "person_name": "Andy Dawber",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98179/d776074c-7609-4af5-a768-83f5b10402c3.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

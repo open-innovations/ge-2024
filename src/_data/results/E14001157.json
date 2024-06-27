@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001157", "pcon24nm": "Chatham and Aylesford", "votes": [{"person_id": "101545", "person_name": "Steve Tanner", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101545/5383a1d8-f958-4913-b301-7a27a970bce6.png", "party_name": "Social Democratic Party"}, {"person_id": "105154", "person_name": "Kim Winterbottom", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105154/f87f0716-aa56-4cdc-89bb-d615bc59761f.png", "party_name": "Green Party"}, {"person_id": "108094", "person_name": "Nicholas Chan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108094/d563eabb-9527-42df-8077-8c832cd5dffd.png", "party_name": "Liberal Democrats"}, {"person_id": "116289", "person_name": "Thomas Mallon", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116289/8a0f7596-0168-4719-a9a3-a6cd43bcebc8.png", "party_name": "Reform UK"}, {"person_id": "117051", "person_name": "Adedotun Adesola Ogundemuren", "image": "/assets/images/missing.svg", "party_name": "Christian Peoples Alliance"}, {"person_id": "35681", "person_name": "Matt Valentine", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117066/0b9f2ab2-ff8d-4ad9-a8b7-682273a5895d.png", "party_name": "Workers Party of Britain"}, {"person_id": "4304", "person_name": "Tristan Osborne", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4304.png", "party_name": "Labour Party"}, {"person_id": "48358", "person_name": "Nathan Andrew Gamester", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48358/400873bc-7512-4ea6-b952-53758eb37cda.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001157",
+  "pcon24nm": "Chatham and Aylesford",
+  "votes": [
+    {
+      "person_id": "101545",
+      "person_name": "Steve Tanner",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101545/5383a1d8-f958-4913-b301-7a27a970bce6.png",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "105154",
+      "person_name": "Kim Winterbottom",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105154/f87f0716-aa56-4cdc-89bb-d615bc59761f.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "108094",
+      "person_name": "Nicholas Chan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108094/d563eabb-9527-42df-8077-8c832cd5dffd.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "116289",
+      "person_name": "Thomas Mallon",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116289/8a0f7596-0168-4719-a9a3-a6cd43bcebc8.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117051",
+      "person_name": "Adedotun Adesola Ogundemuren",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Christian Peoples Alliance"
+    },
+    {
+      "person_id": "35681",
+      "person_name": "Matt Valentine",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117066/0b9f2ab2-ff8d-4ad9-a8b7-682273a5895d.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "4304",
+      "person_name": "Tristan Osborne",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4304.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "48358",
+      "person_name": "Nathan Andrew Gamester",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48358/400873bc-7512-4ea6-b952-53758eb37cda.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

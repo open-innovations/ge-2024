@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001344", "pcon24nm": "Lowestoft", "votes": [{"person_id": "1808", "person_name": "Peter Aldous", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/550c3cd53be3632f3135c9fa.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "31158", "person_name": "Adam Robertson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31158.png", "party_name": "Liberal Democrats"}, {"person_id": "4395", "person_name": "Jessica Asato", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4395.png", "party_name": "Labour Party"}, {"person_id": "70547", "person_name": "June Mummery", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70547.png", "party_name": "Reform UK"}, {"person_id": "98351", "person_name": "Toby Hammond", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98351/c339ec68-831c-4ce6-b1f9-471f8651c156.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001344",
+  "pcon24nm": "Lowestoft",
+  "votes": [
+    {
+      "person_id": "1808",
+      "person_name": "Peter Aldous",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/550c3cd53be3632f3135c9fa.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "31158",
+      "person_name": "Adam Robertson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31158.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "4395",
+      "person_name": "Jessica Asato",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4395.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "70547",
+      "person_name": "June Mummery",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70547.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "98351",
+      "person_name": "Toby Hammond",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98351/c339ec68-831c-4ce6-b1f9-471f8651c156.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

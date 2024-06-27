@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001307", "pcon24nm": "Jarrow and Gateshead East", "votes": [{"person_id": "20004", "person_name": "Jack Alexander Gebhard", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20004-6192511b-77fe-4101-9d87-e2cff2d51015.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "39997", "person_name": "Kate Osborne", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/39997-c91dc774-9437-4116-9796-9363e92c7fa2.png", "party_name": "Labour Party"}, {"person_id": "71959", "person_name": "Mark Conway", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/80637-0817b5aa-4bac-4715-bfc8-cd8fd58731a0.png", "party_name": "Alliance for Democracy and Freedom"}, {"person_id": "89981", "person_name": "Jamie Rickelton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89981/38c0c695-403f-4b65-ba4c-c06acace4719.png", "party_name": "Liberal Democrats"}, {"person_id": "97489", "person_name": "Lynda Alexander", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97489/5467f5b4-5746-4906-9d3c-490d93780398.png", "party_name": "Reform UK"}, {"person_id": "98738", "person_name": "Nic Cook", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98738/9a12f086-de43-4fca-a87f-0dccd76e81de.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001307",
+  "pcon24nm": "Jarrow and Gateshead East",
+  "votes": [
+    {
+      "person_id": "20004",
+      "person_name": "Jack Alexander Gebhard",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20004-6192511b-77fe-4101-9d87-e2cff2d51015.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "39997",
+      "person_name": "Kate Osborne",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/39997-c91dc774-9437-4116-9796-9363e92c7fa2.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "71959",
+      "person_name": "Mark Conway",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/80637-0817b5aa-4bac-4715-bfc8-cd8fd58731a0.png",
+      "party_key": "other",
+      "party_name": "Alliance for Democracy and Freedom"
+    },
+    {
+      "person_id": "89981",
+      "person_name": "Jamie Rickelton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89981/38c0c695-403f-4b65-ba4c-c06acace4719.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "97489",
+      "person_name": "Lynda Alexander",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97489/5467f5b4-5746-4906-9d3c-490d93780398.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "98738",
+      "person_name": "Nic Cook",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98738/9a12f086-de43-4fca-a87f-0dccd76e81de.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

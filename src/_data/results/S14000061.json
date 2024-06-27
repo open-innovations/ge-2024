@@ -1,1 +1,62 @@
-{"pcon24cd": "S14000061", "pcon24nm": "Aberdeen South", "votes": [{"person_id": "114595", "person_name": "Sophie Molly", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114595/8a4b1061-2178-4598-8fd8-fa3fe0c935e1.png", "party_name": "Independent"}, {"person_id": "117386", "person_name": "Michael Pearce", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}, {"person_id": "19868", "person_name": "M. Tauqeer Malik", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19868/28f7a1bd-95b7-4f41-adea-fc34b6ba1c61.png", "party_name": "Labour Party"}, {"person_id": "20500", "person_name": "Guy Ingerson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20500-5edd494a-34da-4caf-9ff4-85fa9533bc06.png", "party_name": "Scottish Green Party"}, {"person_id": "21078", "person_name": "John Wheeler", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21078/46ad35b2-5828-490e-a65c-bc5a2c110ced.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "21095", "person_name": "Stephen Flynn", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21095/7b5884c7-3ae5-47b1-9cdb-8418f0d89922.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "21470", "person_name": "Jeff Goodhall", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21470/34f9cff6-483d-4fb5-a32e-21d70a46af5a.png", "party_name": "Liberal Democrats"}, {"person_id": "85486", "person_name": "Graeme Craib", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85486/136fa672-cd15-470b-8c8e-a38d8f338203.png", "party_name": "Scottish Family Party"}]}
+{
+  "pcon24cd": "S14000061",
+  "pcon24nm": "Aberdeen South",
+  "votes": [
+    {
+      "person_id": "114595",
+      "person_name": "Sophie Molly",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114595/8a4b1061-2178-4598-8fd8-fa3fe0c935e1.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117386",
+      "person_name": "Michael Pearce",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "19868",
+      "person_name": "M. Tauqeer Malik",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19868/28f7a1bd-95b7-4f41-adea-fc34b6ba1c61.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "20500",
+      "person_name": "Guy Ingerson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20500-5edd494a-34da-4caf-9ff4-85fa9533bc06.png",
+      "party_key": "other",
+      "party_name": "Scottish Green Party"
+    },
+    {
+      "person_id": "21078",
+      "person_name": "John Wheeler",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21078/46ad35b2-5828-490e-a65c-bc5a2c110ced.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "21095",
+      "person_name": "Stephen Flynn",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21095/7b5884c7-3ae5-47b1-9cdb-8418f0d89922.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "21470",
+      "person_name": "Jeff Goodhall",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21470/34f9cff6-483d-4fb5-a32e-21d70a46af5a.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "85486",
+      "person_name": "Graeme Craib",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85486/136fa672-cd15-470b-8c8e-a38d8f338203.png",
+      "party_key": "other",
+      "party_name": "Scottish Family Party"
+    }
+  ]
+}

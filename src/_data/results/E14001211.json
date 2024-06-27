@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001211", "pcon24nm": "Easington", "votes": [{"person_id": "116101", "person_name": "Lynn Murphy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116101/5c78fa67-25e5-452c-becc-fa151ae75acc.png", "party_name": "Reform UK"}, {"person_id": "116846", "person_name": "Tony Ferguson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116846/ff220c36-eaa4-4436-b0e6-9aedeb3db12e.png", "party_name": "Liberal Democrats"}, {"person_id": "1365", "person_name": "Grahame Morris", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1365.png", "party_name": "Labour Party"}, {"person_id": "24148", "person_name": "Stephen James Ashfield", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77839/87e137be-b259-4d56-aa32-25fc204f40ab.png", "party_name": "Green Party"}, {"person_id": "30943", "person_name": "Mary Cartwright", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/30943/ab785e83-75bf-4211-9336-6ffdf06b2e0a.png", "party_name": "The North East Party"}, {"person_id": "79308", "person_name": "Joanne Howey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79308/57fcc822-5131-4a84-bd56-a4083c326236.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001211",
+  "pcon24nm": "Easington",
+  "votes": [
+    {
+      "person_id": "116101",
+      "person_name": "Lynn Murphy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116101/5c78fa67-25e5-452c-becc-fa151ae75acc.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116846",
+      "person_name": "Tony Ferguson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116846/ff220c36-eaa4-4436-b0e6-9aedeb3db12e.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "1365",
+      "person_name": "Grahame Morris",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1365.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "24148",
+      "person_name": "Stephen James Ashfield",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77839/87e137be-b259-4d56-aa32-25fc204f40ab.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "30943",
+      "person_name": "Mary Cartwright",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/30943/ab785e83-75bf-4211-9336-6ffdf06b2e0a.png",
+      "party_key": "other",
+      "party_name": "The North East Party"
+    },
+    {
+      "person_id": "79308",
+      "person_name": "Joanne Howey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79308/57fcc822-5131-4a84-bd56-a4083c326236.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

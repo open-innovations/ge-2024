@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001254", "pcon24nm": "Gravesham", "votes": [{"person_id": "101231", "person_name": "Matthew Herbert Fraser Moat", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101231/9eb1f474-6174-49c5-bc15-b58f4476842a.png", "party_name": "Reform UK"}, {"person_id": "115868", "person_name": "Rebecca Drake Hopkins", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115868/1055aa66-a556-4a51-9895-165ad188af6d.png", "party_name": "Green Party"}, {"person_id": "1688", "person_name": "Adam Holloway", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5516d1cd929f1bbe286be040.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "29316", "person_name": "Lauren Sullivan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/29316/3b7171e7-1600-4699-894c-1b9f4c4aedb1.png", "party_name": "Labour Party"}, {"person_id": "34190", "person_name": "Ukonu Obasi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34190/da559e9c-f7a1-4fd2-9db9-b2a8e30aac0e.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001254",
+  "pcon24nm": "Gravesham",
+  "votes": [
+    {
+      "person_id": "101231",
+      "person_name": "Matthew Herbert Fraser Moat",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101231/9eb1f474-6174-49c5-bc15-b58f4476842a.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "115868",
+      "person_name": "Rebecca Drake Hopkins",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115868/1055aa66-a556-4a51-9895-165ad188af6d.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "1688",
+      "person_name": "Adam Holloway",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5516d1cd929f1bbe286be040.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "29316",
+      "person_name": "Lauren Sullivan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/29316/3b7171e7-1600-4699-894c-1b9f4c4aedb1.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "34190",
+      "person_name": "Ukonu Obasi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34190/da559e9c-f7a1-4fd2-9db9-b2a8e30aac0e.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

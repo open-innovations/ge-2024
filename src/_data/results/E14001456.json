@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001456", "pcon24nm": "Runnymede and Weybridge", "votes": [{"person_id": "11685", "person_name": "Stewart Mark Mackay", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11685/26da9c02-18b4-4f80-99b5-a989936f20d6.png", "party_name": "Reform UK"}, {"person_id": "11725", "person_name": "Robert King", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11725/36eaf37f-f07f-4cca-b03c-474acacf995c.png", "party_name": "Labour Party"}, {"person_id": "34572", "person_name": "Ben Spencer", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34572/56807fd8-01a3-43e6-b8af-160b9e133622.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "42960", "person_name": "Ellen Nicholson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/42960.png", "party_name": "Liberal Democrats"}, {"person_id": "5243", "person_name": "Nicholas Wood", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5526910759bbc5c063445ba5.png", "party_name": "UK Independence Party (UKIP)"}, {"person_id": "74190", "person_name": "Steve Ringham", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74190/390e751e-285b-4913-bef4-8f57bef4eedf.png", "party_name": "Green Party"}, {"person_id": "96668", "person_name": "Michael Kenneth Cressey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96668/85049fad-2586-46eb-8e53-d9f9f7c7ac9e.png", "party_name": "Independent"}]}
+{
+  "pcon24cd": "E14001456",
+  "pcon24nm": "Runnymede and Weybridge",
+  "votes": [
+    {
+      "person_id": "11685",
+      "person_name": "Stewart Mark Mackay",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11685/26da9c02-18b4-4f80-99b5-a989936f20d6.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "11725",
+      "person_name": "Robert King",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11725/36eaf37f-f07f-4cca-b03c-474acacf995c.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "34572",
+      "person_name": "Ben Spencer",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34572/56807fd8-01a3-43e6-b8af-160b9e133622.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "42960",
+      "person_name": "Ellen Nicholson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/42960.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "5243",
+      "person_name": "Nicholas Wood",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5526910759bbc5c063445ba5.png",
+      "party_key": "other",
+      "party_name": "UK Independence Party (UKIP)"
+    },
+    {
+      "person_id": "74190",
+      "person_name": "Steve Ringham",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74190/390e751e-285b-4913-bef4-8f57bef4eedf.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "96668",
+      "person_name": "Michael Kenneth Cressey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96668/85049fad-2586-46eb-8e53-d9f9f7c7ac9e.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    }
+  ]
+}

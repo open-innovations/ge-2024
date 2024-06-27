@@ -1,1 +1,69 @@
-{"pcon24cd": "E14001605", "pcon24nm": "York Outer", "votes": [{"person_id": "101413", "person_name": "Michael Robin Kearney", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101413/0b6a6aa5-95c3-4fe9-a747-c9577d396353.png", "party_name": "Green Party"}, {"person_id": "117115", "person_name": "David James Eadington", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117115/4b8ef3f6-bd9a-472f-b9da-1b1ce71541a4.png", "party_name": "Yorkshire Party"}, {"person_id": "117282", "person_name": "Darren Borrows", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117282/5c52f2b9-0988-473e-9c8c-b76ab2a25324.png", "party_name": "Independent"}, {"person_id": "117283", "person_name": "John Edward Crispin-Bailey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117283/5715e97f-5947-40d3-8746-670c5ec3aece.png", "party_name": "Reform UK"}, {"person_id": "117284", "person_name": "Keith Andrew Hayden", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117284/43e2e538-e7dd-4410-b252-13b731e65df1.png", "party_name": "Independent"}, {"person_id": "117285", "person_name": "Hal Aenas Mayne", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "34405", "person_name": "Luke Charters", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34405/c96536b6-e484-4f37-a1aa-2f982e3c8f6f.png", "party_name": "Labour Party"}, {"person_id": "34649", "person_name": "Andrew Hollyer", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34649/2876c84d-fbad-4b4c-adda-f0b696ad0e80.png", "party_name": "Liberal Democrats"}, {"person_id": "4113", "person_name": "Julian Sturdy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551df877238fcf244d9c2460.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001605",
+  "pcon24nm": "York Outer",
+  "votes": [
+    {
+      "person_id": "101413",
+      "person_name": "Michael Robin Kearney",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101413/0b6a6aa5-95c3-4fe9-a747-c9577d396353.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "117115",
+      "person_name": "David James Eadington",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117115/4b8ef3f6-bd9a-472f-b9da-1b1ce71541a4.png",
+      "party_key": "other",
+      "party_name": "Yorkshire Party"
+    },
+    {
+      "person_id": "117282",
+      "person_name": "Darren Borrows",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117282/5c52f2b9-0988-473e-9c8c-b76ab2a25324.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117283",
+      "person_name": "John Edward Crispin-Bailey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117283/5715e97f-5947-40d3-8746-670c5ec3aece.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117284",
+      "person_name": "Keith Andrew Hayden",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117284/43e2e538-e7dd-4410-b252-13b731e65df1.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117285",
+      "person_name": "Hal Aenas Mayne",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "34405",
+      "person_name": "Luke Charters",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34405/c96536b6-e484-4f37-a1aa-2f982e3c8f6f.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "34649",
+      "person_name": "Andrew Hollyer",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34649/2876c84d-fbad-4b4c-adda-f0b696ad0e80.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "4113",
+      "person_name": "Julian Sturdy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551df877238fcf244d9c2460.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

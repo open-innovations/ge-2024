@@ -1,1 +1,48 @@
-{"pcon24cd": "W07000103", "pcon24nm": "Neath and Swansea East", "votes": [{"person_id": "12624", "person_name": "Andrew John Jenkins", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/12624/ae09b29d-17e6-45e9-9c7f-97a2ba8f5f80.png", "party_name": "Plaid Cymru - The Party of Wales"}, {"person_id": "4561", "person_name": "Helen Ceri Clarke", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551ad80213eb34c82843cb33.png", "party_name": "Liberal Democrats"}, {"person_id": "5787", "person_name": "Carolyn Harris", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5787.png", "party_name": "Labour Party"}, {"person_id": "72977", "person_name": "Samantha Nida Chohan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72977-3ef20798-e29d-4e28-845f-6839602f9201.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "94877", "person_name": "Dai Richards", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116489/306d6213-a6a1-4268-9d25-56c06861d096.png", "party_name": "Reform UK"}, {"person_id": "94972", "person_name": "Jan Dowden", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94972/a7e76fd0-0af6-45ab-9cf5-330901cbb956.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "W07000103",
+  "pcon24nm": "Neath and Swansea East",
+  "votes": [
+    {
+      "person_id": "12624",
+      "person_name": "Andrew John Jenkins",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/12624/ae09b29d-17e6-45e9-9c7f-97a2ba8f5f80.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    },
+    {
+      "person_id": "4561",
+      "person_name": "Helen Ceri Clarke",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551ad80213eb34c82843cb33.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "5787",
+      "person_name": "Carolyn Harris",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5787.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "72977",
+      "person_name": "Samantha Nida Chohan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72977-3ef20798-e29d-4e28-845f-6839602f9201.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "94877",
+      "person_name": "Dai Richards",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116489/306d6213-a6a1-4268-9d25-56c06861d096.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "94972",
+      "person_name": "Jan Dowden",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94972/a7e76fd0-0af6-45ab-9cf5-330901cbb956.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

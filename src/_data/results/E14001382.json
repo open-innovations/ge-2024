@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001382", "pcon24nm": "Newton Aycliffe and Spennymoor", "votes": [{"person_id": "116110", "person_name": "Jack Hughes", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116110/8a422a1e-a718-4c75-b057-427c40a2b5a4.png", "party_name": "Green Party"}, {"person_id": "116111", "person_name": "Minhajul Suhon", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116111/50c00af4-6184-48fe-b053-d7e5f73b41bd.png", "party_name": "Workers Party of Britain"}, {"person_id": "116749", "person_name": "Brian Agar", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116749/d6a7c754-f146-4cd8-8b45-0053b6e78257.png", "party_name": "Transform Party"}, {"person_id": "1439", "person_name": "Alan Strickland", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1439/da277c81-bc3b-4536-af0d-c55504164ceb.png", "party_name": "Labour Party"}, {"person_id": "31148", "person_name": "John Grant", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31148-1c32f6b9-ccf9-4e3d-9502-43ba78be5b8c.png", "party_name": "Reform UK"}, {"person_id": "31326", "person_name": "Paul Howell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31326.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "5854", "person_name": "Anne-Marie Curry", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5854/d86d7b03-be9e-4c49-9fa2-fc1186c6640b.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001382",
+  "pcon24nm": "Newton Aycliffe and Spennymoor",
+  "votes": [
+    {
+      "person_id": "116110",
+      "person_name": "Jack Hughes",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116110/8a422a1e-a718-4c75-b057-427c40a2b5a4.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "116111",
+      "person_name": "Minhajul Suhon",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116111/50c00af4-6184-48fe-b053-d7e5f73b41bd.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "116749",
+      "person_name": "Brian Agar",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116749/d6a7c754-f146-4cd8-8b45-0053b6e78257.png",
+      "party_key": "other",
+      "party_name": "Transform Party"
+    },
+    {
+      "person_id": "1439",
+      "person_name": "Alan Strickland",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1439/da277c81-bc3b-4536-af0d-c55504164ceb.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "31148",
+      "person_name": "John Grant",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31148-1c32f6b9-ccf9-4e3d-9502-43ba78be5b8c.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "31326",
+      "person_name": "Paul Howell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31326.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "5854",
+      "person_name": "Anne-Marie Curry",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5854/d86d7b03-be9e-4c49-9fa2-fc1186c6640b.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

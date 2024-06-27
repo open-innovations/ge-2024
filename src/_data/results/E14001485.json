@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001485", "pcon24nm": "South Dorset", "votes": [{"person_id": "109162", "person_name": "Catherine Bennett", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109162/23015380-bb08-4e59-869f-5b747b18daf4.png", "party_name": "Green Party"}, {"person_id": "111698", "person_name": "Matt Bell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116435/47937e17-899e-4a12-9fe5-995bb6ce4b79.png", "party_name": "Liberal Democrats"}, {"person_id": "117637", "person_name": "Rosie Frisby Morrell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117637/94769987-e222-4850-9327-feff962fffb5.png", "party_name": "Independent"}, {"person_id": "117638", "person_name": "Joy Heather Wilson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117638/776f6324-b352-4d7d-b698-49aa35595064.png", "party_name": "Independent"}, {"person_id": "117639", "person_name": "Morgan Tara Young", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}, {"person_id": "2850", "person_name": "Richard Drax", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553aaca478c2688c57905d0c.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "35535", "person_name": "Giovanna Lewis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35535/cdb955f5-04a7-4c87-bffa-1cefa675db2c.png", "party_name": "Independent"}, {"person_id": "94563", "person_name": "Lloyd Hatton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94563/a575fad5-427c-4b98-af0f-4e2d7674e212.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001485",
+  "pcon24nm": "South Dorset",
+  "votes": [
+    {
+      "person_id": "109162",
+      "person_name": "Catherine Bennett",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109162/23015380-bb08-4e59-869f-5b747b18daf4.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "111698",
+      "person_name": "Matt Bell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116435/47937e17-899e-4a12-9fe5-995bb6ce4b79.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "117637",
+      "person_name": "Rosie Frisby Morrell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117637/94769987-e222-4850-9327-feff962fffb5.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117638",
+      "person_name": "Joy Heather Wilson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117638/776f6324-b352-4d7d-b698-49aa35595064.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117639",
+      "person_name": "Morgan Tara Young",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "2850",
+      "person_name": "Richard Drax",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553aaca478c2688c57905d0c.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "35535",
+      "person_name": "Giovanna Lewis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35535/cdb955f5-04a7-4c87-bffa-1cefa675db2c.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "94563",
+      "person_name": "Lloyd Hatton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94563/a575fad5-427c-4b98-af0f-4e2d7674e212.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001566", "pcon24nm": "Warwick and Leamington", "votes": [{"person_id": "116548", "person_name": "James Uffindell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116548/fde87216-c1e4-4a50-906e-7cd62cf861c1.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "116549", "person_name": "Nigel Philip Clarke", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116549/1e714358-7885-4749-8ca7-d4a5810eb2a8.png", "party_name": "Reform UK"}, {"person_id": "28219", "person_name": "Matt Western", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/28219_YqJXnZZ.png", "party_name": "Labour Party"}, {"person_id": "28237", "person_name": "Louis William McMaster Adam", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/28237.png", "party_name": "Liberal Democrats"}, {"person_id": "53946", "person_name": "Laurie James Steele", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/53946/f515c479-abb6-4a47-9d41-675305093c17.png", "party_name": "UK Independence Party (UKIP)"}, {"person_id": "97345", "person_name": "Hema YellaPragada", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97345/8c58b4d9-b17c-49ec-b47e-ea205b40ee75.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001566",
+  "pcon24nm": "Warwick and Leamington",
+  "votes": [
+    {
+      "person_id": "116548",
+      "person_name": "James Uffindell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116548/fde87216-c1e4-4a50-906e-7cd62cf861c1.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "116549",
+      "person_name": "Nigel Philip Clarke",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116549/1e714358-7885-4749-8ca7-d4a5810eb2a8.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "28219",
+      "person_name": "Matt Western",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/28219_YqJXnZZ.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "28237",
+      "person_name": "Louis William McMaster Adam",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/28237.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "53946",
+      "person_name": "Laurie James Steele",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/53946/f515c479-abb6-4a47-9d41-675305093c17.png",
+      "party_key": "other",
+      "party_name": "UK Independence Party (UKIP)"
+    },
+    {
+      "person_id": "97345",
+      "person_name": "Hema YellaPragada",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97345/8c58b4d9-b17c-49ec-b47e-ea205b40ee75.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

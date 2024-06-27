@@ -1,1 +1,69 @@
-{"pcon24cd": "S14000064", "pcon24nm": "Alloa and Grangemouth", "votes": [{"person_id": "114569", "person_name": "Richard Fairley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116233/9d4be443-5eb6-4265-9102-e9fd9b5f8f6e.png", "party_name": "Reform UK"}, {"person_id": "116996", "person_name": "Tom Flanagan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116996/ed481bed-fd26-4edc-9e72-461fb21160fc.png", "party_name": "Workers Party of Britain"}, {"person_id": "117137", "person_name": "Nariese Whyte", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117137/bbe13bb1-8b24-41c4-93ec-479fa8624f25.png", "party_name": "Scottish Green Party"}, {"person_id": "5926", "person_name": "John Nicolson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54e72898b58df48b5c609f61.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "71831", "person_name": "Kenny MacAskill", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71831-1d41580b-146e-4697-9bfc-2e6d8534f09e.png", "party_name": "Alba Party"}, {"person_id": "72985", "person_name": "Adrian May", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72985-706dfb7a-10c7-4089-b0d0-2e24a7078f7f.png", "party_name": "Liberal Democrats"}, {"person_id": "73804", "person_name": "Eva Comrie", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73804/db62a487-2220-46f0-8403-f220dc227c65.png", "party_name": "Independent"}, {"person_id": "85203", "person_name": "Brian Leishman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85203/302989d8-0eac-4590-b5e5-406793dcc5de.png", "party_name": "Labour Party"}, {"person_id": "85377", "person_name": "Rachel Nunn", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85377/d7ce46cd-c87d-40b4-96a8-98f4acb0765a.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "S14000064",
+  "pcon24nm": "Alloa and Grangemouth",
+  "votes": [
+    {
+      "person_id": "114569",
+      "person_name": "Richard Fairley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116233/9d4be443-5eb6-4265-9102-e9fd9b5f8f6e.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116996",
+      "person_name": "Tom Flanagan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116996/ed481bed-fd26-4edc-9e72-461fb21160fc.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "117137",
+      "person_name": "Nariese Whyte",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117137/bbe13bb1-8b24-41c4-93ec-479fa8624f25.png",
+      "party_key": "other",
+      "party_name": "Scottish Green Party"
+    },
+    {
+      "person_id": "5926",
+      "person_name": "John Nicolson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54e72898b58df48b5c609f61.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "71831",
+      "person_name": "Kenny MacAskill",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71831-1d41580b-146e-4697-9bfc-2e6d8534f09e.png",
+      "party_key": "other",
+      "party_name": "Alba Party"
+    },
+    {
+      "person_id": "72985",
+      "person_name": "Adrian May",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72985-706dfb7a-10c7-4089-b0d0-2e24a7078f7f.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "73804",
+      "person_name": "Eva Comrie",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73804/db62a487-2220-46f0-8403-f220dc227c65.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "85203",
+      "person_name": "Brian Leishman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85203/302989d8-0eac-4590-b5e5-406793dcc5de.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "85377",
+      "person_name": "Rachel Nunn",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85377/d7ce46cd-c87d-40b4-96a8-98f4acb0765a.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

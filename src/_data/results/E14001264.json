@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001264", "pcon24nm": "Hammersmith and Chiswick", "votes": [{"person_id": "113847", "person_name": "Eraj Rostaqi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113847/130d6f05-e74c-406d-a9f5-9dd6be1d7468.png", "party_name": "Liberal Democrats"}, {"person_id": "116960", "person_name": "Bill Colegrave", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116960/681ca085-5862-4559-a2a5-2288e6432594.png", "party_name": "Rejoin EU"}, {"person_id": "117593", "person_name": "Raj Gill", "image": "/assets/images/missing.svg", "party_name": "Workers Party of Britain"}, {"person_id": "234", "person_name": "Andy Slaughter", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/234/251db309-c471-4d47-a291-6cff3dfea552.png", "party_name": "Labour Party"}, {"person_id": "58089", "person_name": "Louise Heathcote", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117594/5718512d-1b7d-4d0c-93d4-f889f1670a08.png", "party_name": "Reform UK"}, {"person_id": "7195", "person_name": "Scott Ejiro Dore", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7195/a608fd3d-841e-48f7-aa73-3e62d4b282fe.png", "party_name": "Workers Revolutionary Party"}, {"person_id": "83921", "person_name": "Naranee Ruthra-Rajan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83921/0449e16a-9ea9-49d2-a4d1-0342b31d7d25.png", "party_name": "Green Party"}, {"person_id": "88610", "person_name": "Andrew Dinsmore", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88610/b910220f-5c41-413e-b812-34913ecccd47.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001264",
+  "pcon24nm": "Hammersmith and Chiswick",
+  "votes": [
+    {
+      "person_id": "113847",
+      "person_name": "Eraj Rostaqi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113847/130d6f05-e74c-406d-a9f5-9dd6be1d7468.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "116960",
+      "person_name": "Bill Colegrave",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116960/681ca085-5862-4559-a2a5-2288e6432594.png",
+      "party_key": "other",
+      "party_name": "Rejoin EU"
+    },
+    {
+      "person_id": "117593",
+      "person_name": "Raj Gill",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "234",
+      "person_name": "Andy Slaughter",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/234/251db309-c471-4d47-a291-6cff3dfea552.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "58089",
+      "person_name": "Louise Heathcote",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117594/5718512d-1b7d-4d0c-93d4-f889f1670a08.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "7195",
+      "person_name": "Scott Ejiro Dore",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7195/a608fd3d-841e-48f7-aa73-3e62d4b282fe.png",
+      "party_key": "other",
+      "party_name": "Workers Revolutionary Party"
+    },
+    {
+      "person_id": "83921",
+      "person_name": "Naranee Ruthra-Rajan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83921/0449e16a-9ea9-49d2-a4d1-0342b31d7d25.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "88610",
+      "person_name": "Andrew Dinsmore",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88610/b910220f-5c41-413e-b812-34913ecccd47.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

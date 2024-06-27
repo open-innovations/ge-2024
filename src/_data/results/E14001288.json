@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001288", "pcon24nm": "Hinckley and Bosworth", "votes": [{"person_id": "117783", "person_name": "Harry Masters", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117783/6e8f3247-1392-460a-96bd-0a305512b47f.png", "party_name": "Independent"}, {"person_id": "388", "person_name": "Michael Mullaney", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/388/ec6360b4-4f8f-426f-b8fb-c4b3578ea067.png", "party_name": "Liberal Democrats"}, {"person_id": "4158", "person_name": "Luke Evans", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116757/694f0d81-c330-450d-b9bb-b69ca0521357.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "75366", "person_name": "Peter Cheshire", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75366/f28e8013-f8f4-4f93-b3b3-c347cb86b7b2.png", "party_name": "Reform UK"}, {"person_id": "79678", "person_name": "Rebecca Pawley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79678/07d8cf57-a888-4525-9fad-46c8e259ce60.png", "party_name": "Labour Party"}, {"person_id": "99078", "person_name": "Cassie Wells", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99078/c85fd9a8-c30c-449e-9c68-bb9617111373.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001288",
+  "pcon24nm": "Hinckley and Bosworth",
+  "votes": [
+    {
+      "person_id": "117783",
+      "person_name": "Harry Masters",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117783/6e8f3247-1392-460a-96bd-0a305512b47f.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "388",
+      "person_name": "Michael Mullaney",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/388/ec6360b4-4f8f-426f-b8fb-c4b3578ea067.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "4158",
+      "person_name": "Luke Evans",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116757/694f0d81-c330-450d-b9bb-b69ca0521357.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "75366",
+      "person_name": "Peter Cheshire",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75366/f28e8013-f8f4-4f93-b3b3-c347cb86b7b2.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "79678",
+      "person_name": "Rebecca Pawley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79678/07d8cf57-a888-4525-9fad-46c8e259ce60.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "99078",
+      "person_name": "Cassie Wells",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99078/c85fd9a8-c30c-449e-9c68-bb9617111373.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

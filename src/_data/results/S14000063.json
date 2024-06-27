@@ -1,1 +1,55 @@
-{"pcon24cd": "S14000063", "pcon24nm": "Airdrie and Shotts", "votes": [{"person_id": "117268", "person_name": "David Hall", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117268/86798914-b1ba-434e-8320-cc1ef633f45e.png", "party_name": "Reform UK"}, {"person_id": "19890", "person_name": "Kenneth Stevenson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19890/71c2fa79-e552-48d4-965e-b3fa8c820dd6.png", "party_name": "Labour Party"}, {"person_id": "22728", "person_name": "Alexandra Herdman", "image": "/assets/images/missing.svg", "party_name": "Conservative and Unionist Party"}, {"person_id": "35249", "person_name": "John Jo Leckie", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35249/83d56063-a6cd-4c24-920f-21f8fbcc4c74.png", "party_name": "British Unionist Party - B.U.P."}, {"person_id": "74466", "person_name": "Josh Robertson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116204/6a7a9d2f-244c-4e3f-82ca-ca236191ed1e.png", "party_name": "Alba Party"}, {"person_id": "8299", "person_name": "Anum Qaisar", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8299/e0347c72-a5cb-42e5-8c85-41bd97d14695.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "86069", "person_name": "Lewis Younie", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86069/1aff6408-670c-482d-ba28-d1b74c8e9761.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "S14000063",
+  "pcon24nm": "Airdrie and Shotts",
+  "votes": [
+    {
+      "person_id": "117268",
+      "person_name": "David Hall",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117268/86798914-b1ba-434e-8320-cc1ef633f45e.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "19890",
+      "person_name": "Kenneth Stevenson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19890/71c2fa79-e552-48d4-965e-b3fa8c820dd6.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "22728",
+      "person_name": "Alexandra Herdman",
+      "image": "/assets/images/missing.svg",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "35249",
+      "person_name": "John Jo Leckie",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35249/83d56063-a6cd-4c24-920f-21f8fbcc4c74.png",
+      "party_key": "other",
+      "party_name": "British Unionist Party - B.U.P."
+    },
+    {
+      "person_id": "74466",
+      "person_name": "Josh Robertson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116204/6a7a9d2f-244c-4e3f-82ca-ca236191ed1e.png",
+      "party_key": "other",
+      "party_name": "Alba Party"
+    },
+    {
+      "person_id": "8299",
+      "person_name": "Anum Qaisar",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8299/e0347c72-a5cb-42e5-8c85-41bd97d14695.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "86069",
+      "person_name": "Lewis Younie",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86069/1aff6408-670c-482d-ba28-d1b74c8e9761.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

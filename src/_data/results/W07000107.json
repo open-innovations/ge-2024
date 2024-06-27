@@ -1,1 +1,48 @@
-{"pcon24cd": "W07000107", "pcon24nm": "Rhondda and Ogmore", "votes": [{"person_id": "116495", "person_name": "Darren James", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116495/34c86bbd-1b12-4d1b-98b7-a421245e48cc.png", "party_name": "Reform UK"}, {"person_id": "12652", "person_name": "Adam Robinson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/12652/0b870a46-9cf8-40b0-a50b-cf5e0a520da9.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "3079", "person_name": "Chris Bryant", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55321cb429c5d53959d9e440.png", "party_name": "Labour Party"}, {"person_id": "5790", "person_name": "Gerald Francis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5790.png", "party_name": "Liberal Democrats"}, {"person_id": "91947", "person_name": "Christine Glossop", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91947/bd02ebae-11b2-45c0-bf5b-bb63ba5b797f.png", "party_name": "Green Party"}, {"person_id": "94219", "person_name": "Owen Cutler", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94219/5d4ec07b-f434-45dd-8fbc-1038a2fe249c.png", "party_name": "Plaid Cymru - The Party of Wales"}]}
+{
+  "pcon24cd": "W07000107",
+  "pcon24nm": "Rhondda and Ogmore",
+  "votes": [
+    {
+      "person_id": "116495",
+      "person_name": "Darren James",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116495/34c86bbd-1b12-4d1b-98b7-a421245e48cc.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "12652",
+      "person_name": "Adam Robinson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/12652/0b870a46-9cf8-40b0-a50b-cf5e0a520da9.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "3079",
+      "person_name": "Chris Bryant",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55321cb429c5d53959d9e440.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "5790",
+      "person_name": "Gerald Francis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5790.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "91947",
+      "person_name": "Christine Glossop",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91947/bd02ebae-11b2-45c0-bf5b-bb63ba5b797f.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "94219",
+      "person_name": "Owen Cutler",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94219/5d4ec07b-f434-45dd-8fbc-1038a2fe249c.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    }
+  ]
+}

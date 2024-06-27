@@ -1,1 +1,62 @@
-{"pcon24cd": "W07000084", "pcon24nm": "Blaenau Gwent and Rhymney", "votes": [{"person_id": "116469", "person_name": "Niamh Salkeld", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116469/8586f104-a824-435e-a87e-7d90069b0f46.png", "party_name": "Plaid Cymru - The Party of Wales"}, {"person_id": "116746", "person_name": "Anne Baker", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116746/5a78c9be-509d-4b7f-8076-332022f5ec29.png", "party_name": "Green Party"}, {"person_id": "117031", "person_name": "Yas Iqbal", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117031/67639496-400a-4839-a163-4cb1a3221004.png", "party_name": "Workers Party of Britain"}, {"person_id": "117588", "person_name": "Mike Whatley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117588/6cb02ed6-a770-4b1d-a6c1-dde5620dc43a.png", "party_name": "Independent"}, {"person_id": "26868", "person_name": "Jackie Charlton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26868-ffc6e084-ff03-477c-a7b1-0810b77611d8.png", "party_name": "Liberal Democrats"}, {"person_id": "3908", "person_name": "Nick Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3908/09425f2d-1049-4e21-9cd2-65738c33c361.png", "party_name": "Labour Party"}, {"person_id": "473", "person_name": "Robert Griffiths", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/473-56ea357b-0028-4076-9224-48458dbbdf00.png", "party_name": "Communist Party of Britain"}, {"person_id": "72611", "person_name": "Hannah Jarvis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72611-f82b56fe-1e55-4242-a11a-37d5c2a0582c.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "W07000084",
+  "pcon24nm": "Blaenau Gwent and Rhymney",
+  "votes": [
+    {
+      "person_id": "116469",
+      "person_name": "Niamh Salkeld",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116469/8586f104-a824-435e-a87e-7d90069b0f46.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    },
+    {
+      "person_id": "116746",
+      "person_name": "Anne Baker",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116746/5a78c9be-509d-4b7f-8076-332022f5ec29.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "117031",
+      "person_name": "Yas Iqbal",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117031/67639496-400a-4839-a163-4cb1a3221004.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "117588",
+      "person_name": "Mike Whatley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117588/6cb02ed6-a770-4b1d-a6c1-dde5620dc43a.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "26868",
+      "person_name": "Jackie Charlton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26868-ffc6e084-ff03-477c-a7b1-0810b77611d8.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "3908",
+      "person_name": "Nick Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3908/09425f2d-1049-4e21-9cd2-65738c33c361.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "473",
+      "person_name": "Robert Griffiths",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/473-56ea357b-0028-4076-9224-48458dbbdf00.png",
+      "party_key": "other",
+      "party_name": "Communist Party of Britain"
+    },
+    {
+      "person_id": "72611",
+      "person_name": "Hannah Jarvis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72611-f82b56fe-1e55-4242-a11a-37d5c2a0582c.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

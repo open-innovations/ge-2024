@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001463", "pcon24nm": "Sefton Central", "votes": [{"person_id": "116874", "person_name": "Nagender Chindam", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116874/992b0c9e-2bd8-4bf8-a334-8b22dcc09d89.png", "party_name": "Reform UK"}, {"person_id": "117562", "person_name": "Ralph Norgate James", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117562/e6d43427-5b9a-4018-9633-929b1ec0b6bd.png", "party_name": "Independent"}, {"person_id": "16205", "person_name": "Marcus Bleasdale", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/16205/4709b80b-2933-42d7-8c04-31cbe5b983b3.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "1961", "person_name": "Bill Esterson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1961/fa2def88-5df7-4165-8fe8-1c2c2d011147.png", "party_name": "Labour Party"}, {"person_id": "44315", "person_name": "Gareth Lloyd-Johnson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/44315.png", "party_name": "Liberal Democrats"}, {"person_id": "74178", "person_name": "Kieran Dams", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74178/cd81da94-a59b-4994-b8bb-24523c79a7b2.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001463",
+  "pcon24nm": "Sefton Central",
+  "votes": [
+    {
+      "person_id": "116874",
+      "person_name": "Nagender Chindam",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116874/992b0c9e-2bd8-4bf8-a334-8b22dcc09d89.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117562",
+      "person_name": "Ralph Norgate James",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117562/e6d43427-5b9a-4018-9633-929b1ec0b6bd.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "16205",
+      "person_name": "Marcus Bleasdale",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/16205/4709b80b-2933-42d7-8c04-31cbe5b983b3.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "1961",
+      "person_name": "Bill Esterson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1961/fa2def88-5df7-4165-8fe8-1c2c2d011147.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "44315",
+      "person_name": "Gareth Lloyd-Johnson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/44315.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "74178",
+      "person_name": "Kieran Dams",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74178/cd81da94-a59b-4994-b8bb-24523c79a7b2.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

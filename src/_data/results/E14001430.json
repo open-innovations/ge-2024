@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001430", "pcon24nm": "Poplar and Limehouse", "votes": [{"person_id": "109133", "person_name": "Tony Glover", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116054/b637d334-06af-499d-8ebd-10f23a3967fc.png", "party_name": "Reform UK"}, {"person_id": "109368", "person_name": "Manny Lawal", "image": "/assets/images/missing.svg", "party_name": "Social Democratic Party"}, {"person_id": "116055", "person_name": "Kamran Khan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116055/64f1752b-b330-4054-8d1d-d0332159982b.png", "party_name": "Workers Party of Britain"}, {"person_id": "34484", "person_name": "Richard Flowers", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34484.png", "party_name": "Liberal Democrats"}, {"person_id": "40023", "person_name": "Ehtashamul Haque", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40023/2e1e9479-312c-40c3-889e-2e9daa5fb1b1.png", "party_name": "Independent"}, {"person_id": "71587", "person_name": "Apsana Begum", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71587.png", "party_name": "Labour Party"}, {"person_id": "83852", "person_name": "Nathalie Bienfait", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83852/c70bbf7f-0943-4011-9e5e-92e4932264b0.png", "party_name": "Green Party"}, {"person_id": "93629", "person_name": "Freddie Downing", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93629/59703e1d-2139-4ab4-895e-031f1536dd28.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001430",
+  "pcon24nm": "Poplar and Limehouse",
+  "votes": [
+    {
+      "person_id": "109133",
+      "person_name": "Tony Glover",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116054/b637d334-06af-499d-8ebd-10f23a3967fc.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "109368",
+      "person_name": "Manny Lawal",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "116055",
+      "person_name": "Kamran Khan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116055/64f1752b-b330-4054-8d1d-d0332159982b.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "34484",
+      "person_name": "Richard Flowers",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34484.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "40023",
+      "person_name": "Ehtashamul Haque",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40023/2e1e9479-312c-40c3-889e-2e9daa5fb1b1.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "71587",
+      "person_name": "Apsana Begum",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71587.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "83852",
+      "person_name": "Nathalie Bienfait",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83852/c70bbf7f-0943-4011-9e5e-92e4932264b0.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "93629",
+      "person_name": "Freddie Downing",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93629/59703e1d-2139-4ab4-895e-031f1536dd28.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

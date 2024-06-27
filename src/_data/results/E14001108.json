@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001108", "pcon24nm": "Bognor Regis and Littlehampton", "votes": [{"person_id": "33261", "person_name": "Carol Birch", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/33261/f2910256-a7dc-4741-a87d-f7ef7375be96.png", "party_name": "Green Party"}, {"person_id": "54627", "person_name": "Henry Jones", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/54627/a0850f69-ca17-4d75-82c3-ab3b8ed03ee7.png", "party_name": "Liberal Democrats"}, {"person_id": "54706", "person_name": "Sandra Elizabeth Daniells", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/54706/0f474234-a698-4e9a-9cd2-bb89642ae21f.png", "party_name": "Reform UK"}, {"person_id": "6686", "person_name": "Alison Griffiths", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116938/c284e222-6948-4105-acfe-9ddc6993e51c.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "6829", "person_name": "David Kurten", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6829-03177629-d60c-4f26-99db-f8658323e41e.png", "party_name": "Heritage Party"}, {"person_id": "83750", "person_name": "Clare Louise Walsh", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83750/9b9ce574-ea8e-4b46-bf4d-e39917ba386a.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001108",
+  "pcon24nm": "Bognor Regis and Littlehampton",
+  "votes": [
+    {
+      "person_id": "33261",
+      "person_name": "Carol Birch",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/33261/f2910256-a7dc-4741-a87d-f7ef7375be96.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "54627",
+      "person_name": "Henry Jones",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/54627/a0850f69-ca17-4d75-82c3-ab3b8ed03ee7.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "54706",
+      "person_name": "Sandra Elizabeth Daniells",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/54706/0f474234-a698-4e9a-9cd2-bb89642ae21f.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "6686",
+      "person_name": "Alison Griffiths",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116938/c284e222-6948-4105-acfe-9ddc6993e51c.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "6829",
+      "person_name": "David Kurten",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6829-03177629-d60c-4f26-99db-f8658323e41e.png",
+      "party_key": "other",
+      "party_name": "Heritage Party"
+    },
+    {
+      "person_id": "83750",
+      "person_name": "Clare Louise Walsh",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83750/9b9ce574-ea8e-4b46-bf4d-e39917ba386a.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

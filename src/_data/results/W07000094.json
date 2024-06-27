@@ -1,1 +1,55 @@
-{"pcon24cd": "W07000094", "pcon24nm": "Clwyd East", "votes": [{"person_id": "2757", "person_name": "Paul Penlington", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2757/178a568c-9b6b-4a2b-b498-1912511178d9.png", "party_name": "Plaid Cymru - The Party of Wales"}, {"person_id": "4241", "person_name": "James Davies", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4241.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "62755", "person_name": "Becky Gittins", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/62755/b2cf2ea8-5e98-4c6c-871a-628c47baf339.png", "party_name": "Labour Party"}, {"person_id": "70065", "person_name": "Alec Dauncey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70065.png", "party_name": "Liberal Democrats"}, {"person_id": "71395", "person_name": "Rob Roberts", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71395.png", "party_name": "Independent"}, {"person_id": "77343", "person_name": "Kirsty Walmsley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/77343-e4322348-0dda-400f-9e64-3c89ef6fccd5.png", "party_name": "Reform UK"}, {"person_id": "87724", "person_name": "Lee Lavery", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87724/617b7f9e-e95f-425f-86bf-2e21147ec585.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "W07000094",
+  "pcon24nm": "Clwyd East",
+  "votes": [
+    {
+      "person_id": "2757",
+      "person_name": "Paul Penlington",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2757/178a568c-9b6b-4a2b-b498-1912511178d9.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    },
+    {
+      "person_id": "4241",
+      "person_name": "James Davies",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4241.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "62755",
+      "person_name": "Becky Gittins",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/62755/b2cf2ea8-5e98-4c6c-871a-628c47baf339.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "70065",
+      "person_name": "Alec Dauncey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70065.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "71395",
+      "person_name": "Rob Roberts",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71395.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "77343",
+      "person_name": "Kirsty Walmsley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/77343-e4322348-0dda-400f-9e64-3c89ef6fccd5.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "87724",
+      "person_name": "Lee Lavery",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87724/617b7f9e-e95f-425f-86bf-2e21147ec585.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

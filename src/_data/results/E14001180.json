@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001180", "pcon24nm": "Coventry East", "votes": [{"person_id": "115528", "person_name": "Sarah Lesadd", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115528/f5861435-81a2-4880-9aa0-8b1898b2d8e3.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "116520", "person_name": "Paul Bedson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116520/38afd1a9-0902-4e68-82b5-2b11952974d3.png", "party_name": "Workers Party of Britain"}, {"person_id": "2655", "person_name": "Mary Creagh", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5534f801b247335574a42e39.png", "party_name": "Labour Party"}, {"person_id": "700", "person_name": "Stephen Robert George Gray", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/700/66a5c2a1-9d7f-4729-be27-6f1c150657cc.png", "party_name": "Green Party"}, {"person_id": "71385", "person_name": "Iddrisu Sufyan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71385.png", "party_name": "Reform UK"}, {"person_id": "851", "person_name": "Dave Nellist", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54beddb25a9c3744778f9b75.png", "party_name": "Trade Unionist and Socialist Coalition"}, {"person_id": "88823", "person_name": "Mike Massimi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88823/75234be3-5363-480b-b569-01b5444ffb97.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001180",
+  "pcon24nm": "Coventry East",
+  "votes": [
+    {
+      "person_id": "115528",
+      "person_name": "Sarah Lesadd",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115528/f5861435-81a2-4880-9aa0-8b1898b2d8e3.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "116520",
+      "person_name": "Paul Bedson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116520/38afd1a9-0902-4e68-82b5-2b11952974d3.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "2655",
+      "person_name": "Mary Creagh",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5534f801b247335574a42e39.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "700",
+      "person_name": "Stephen Robert George Gray",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/700/66a5c2a1-9d7f-4729-be27-6f1c150657cc.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "71385",
+      "person_name": "Iddrisu Sufyan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71385.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "851",
+      "person_name": "Dave Nellist",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54beddb25a9c3744778f9b75.png",
+      "party_key": "other",
+      "party_name": "Trade Unionist and Socialist Coalition"
+    },
+    {
+      "person_id": "88823",
+      "person_name": "Mike Massimi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88823/75234be3-5363-480b-b569-01b5444ffb97.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001465", "pcon24nm": "Sevenoaks", "votes": [{"person_id": "116358", "person_name": "Adam Hibbert", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116358/3a2a3fa8-bd01-43ed-96af-c7bb58fc03cf.png", "party_name": "Social Democratic Party"}, {"person_id": "116359", "person_name": "James Milmine", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116359/a3b1dc85-dc2a-4b26-b5f7-d2102c250345.png", "party_name": "Reform UK"}, {"person_id": "117214", "person_name": "Elwyn Lloyd Jones", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117214/f13a5d1b-790d-4458-ba52-77b8691e6ca9.png", "party_name": "Rejoin EU"}, {"person_id": "28416", "person_name": "Richard Giles Streatfeild", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/28416-39cb121d-98f5-4b83-bb92-f502b0d98738.png", "party_name": "Liberal Democrats"}, {"person_id": "43132", "person_name": "Denise Roseanna Scott-McDonald", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43132/f5943b91-18e0-4e8b-ab3e-18aa24cab1c0.png", "party_name": "Labour and Co-operative Party"}, {"person_id": "72018", "person_name": "Laura Trott", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72018-b1776581-7715-4b33-a4a4-53067adae810.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "78021", "person_name": "Laura Marie Manston", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/78021-f6776322-472e-4496-babf-1b90891e5399.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001465",
+  "pcon24nm": "Sevenoaks",
+  "votes": [
+    {
+      "person_id": "116358",
+      "person_name": "Adam Hibbert",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116358/3a2a3fa8-bd01-43ed-96af-c7bb58fc03cf.png",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "116359",
+      "person_name": "James Milmine",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116359/a3b1dc85-dc2a-4b26-b5f7-d2102c250345.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117214",
+      "person_name": "Elwyn Lloyd Jones",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117214/f13a5d1b-790d-4458-ba52-77b8691e6ca9.png",
+      "party_key": "other",
+      "party_name": "Rejoin EU"
+    },
+    {
+      "person_id": "28416",
+      "person_name": "Richard Giles Streatfeild",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/28416-39cb121d-98f5-4b83-bb92-f502b0d98738.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "43132",
+      "person_name": "Denise Roseanna Scott-McDonald",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43132/f5943b91-18e0-4e8b-ab3e-18aa24cab1c0.png",
+      "party_key": "lab",
+      "party_name": "Labour and Co-operative Party"
+    },
+    {
+      "person_id": "72018",
+      "person_name": "Laura Trott",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72018-b1776581-7715-4b33-a4a4-53067adae810.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "78021",
+      "person_name": "Laura Marie Manston",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/78021-f6776322-472e-4496-babf-1b90891e5399.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

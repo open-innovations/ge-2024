@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001522", "pcon24nm": "Stoke-on-Trent South", "votes": [{"person_id": "102788", "person_name": "Michael Bailey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102788/32ce7c5a-5858-4eeb-b6b4-5d426d29fcf1.png", "party_name": "Reform UK"}, {"person_id": "116880", "person_name": "Carla Parrish", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117047/f769ea95-7099-4bca-85b6-5115baad7e41.png", "party_name": "Independent"}, {"person_id": "117615", "person_name": "Asif Mehmood", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "13786", "person_name": "Allison Gardner", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116542/d3c85ccd-8ce3-403b-92cd-f803722c0eb9.png", "party_name": "Labour Party"}, {"person_id": "19836", "person_name": "Jack Brereton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19836.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "33562", "person_name": "Peggy Wiseman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/33562.png", "party_name": "Green Party"}, {"person_id": "56678", "person_name": "Alec Sandiford", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/76160-cf9de2cf-adfe-48df-85f8-1adccca8fb76.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001522",
+  "pcon24nm": "Stoke-on-Trent South",
+  "votes": [
+    {
+      "person_id": "102788",
+      "person_name": "Michael Bailey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102788/32ce7c5a-5858-4eeb-b6b4-5d426d29fcf1.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116880",
+      "person_name": "Carla Parrish",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117047/f769ea95-7099-4bca-85b6-5115baad7e41.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117615",
+      "person_name": "Asif Mehmood",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "13786",
+      "person_name": "Allison Gardner",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116542/d3c85ccd-8ce3-403b-92cd-f803722c0eb9.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "19836",
+      "person_name": "Jack Brereton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19836.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "33562",
+      "person_name": "Peggy Wiseman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/33562.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "56678",
+      "person_name": "Alec Sandiford",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/76160-cf9de2cf-adfe-48df-85f8-1adccca8fb76.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

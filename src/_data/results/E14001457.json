@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001457", "pcon24nm": "Rushcliffe", "votes": [{"person_id": "115919", "person_name": "James Grice", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115919/8bc00790-e30f-4df7-9944-8b271f72a5a4.png", "party_name": "Reform UK"}, {"person_id": "116877", "person_name": "Lynn Irving", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116877/c32f5849-d554-405f-8e4d-5bc2f226ab3b.png", "party_name": "Independent"}, {"person_id": "117393", "person_name": "Harbant Kaur Sehra", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117393/88dbc8d6-0ae9-4d54-8767-1ada4b10e384.png", "party_name": "Independent"}, {"person_id": "11946", "person_name": "Greg Webb", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117107/5d9ee662-a4c9-42b6-b867-b0cb93ee373e.png", "party_name": "Liberal Democrats"}, {"person_id": "1924", "person_name": "Richard Mallender", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55181d47249b917507bee559.png", "party_name": "Green Party"}, {"person_id": "34697", "person_name": "Ruth Edwards", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34697/b9e8c7e5-14c8-4701-be08-dad582468ef5.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "63001", "person_name": "James William Naish", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/63001/42a2906a-60f5-459c-9273-78a061785d01.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001457",
+  "pcon24nm": "Rushcliffe",
+  "votes": [
+    {
+      "person_id": "115919",
+      "person_name": "James Grice",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115919/8bc00790-e30f-4df7-9944-8b271f72a5a4.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116877",
+      "person_name": "Lynn Irving",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116877/c32f5849-d554-405f-8e4d-5bc2f226ab3b.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117393",
+      "person_name": "Harbant Kaur Sehra",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117393/88dbc8d6-0ae9-4d54-8767-1ada4b10e384.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "11946",
+      "person_name": "Greg Webb",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117107/5d9ee662-a4c9-42b6-b867-b0cb93ee373e.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "1924",
+      "person_name": "Richard Mallender",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55181d47249b917507bee559.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "34697",
+      "person_name": "Ruth Edwards",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34697/b9e8c7e5-14c8-4701-be08-dad582468ef5.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "63001",
+      "person_name": "James William Naish",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/63001/42a2906a-60f5-459c-9273-78a061785d01.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

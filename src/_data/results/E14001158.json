@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001158", "pcon24nm": "Cheadle", "votes": [{"person_id": "116137", "person_name": "Kelly Fowler", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116137/dc6550e6-8292-40a0-9716-4cc5bcd9728e.png", "party_name": "Labour Party"}, {"person_id": "116138", "person_name": "Tanya Manzoor", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116138/aa764bc1-e6ad-4963-b3d7-08c3883785ac.png", "party_name": "Workers Party of Britain"}, {"person_id": "2903", "person_name": "Marcus Jonathan Farmer", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2903.png", "party_name": "Independent"}, {"person_id": "34655", "person_name": "Tom Morrison", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34655.png", "party_name": "Liberal Democrats"}, {"person_id": "4175", "person_name": "Mary Robinson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4175.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "79343", "person_name": "Alexander Frank Richard Drury", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79343/def48036-bb17-45c7-9fcf-84dcf2a0840b.png", "party_name": "Green Party"}, {"person_id": "79360", "person_name": "Stephen George Speakman", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "E14001158",
+  "pcon24nm": "Cheadle",
+  "votes": [
+    {
+      "person_id": "116137",
+      "person_name": "Kelly Fowler",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116137/dc6550e6-8292-40a0-9716-4cc5bcd9728e.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "116138",
+      "person_name": "Tanya Manzoor",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116138/aa764bc1-e6ad-4963-b3d7-08c3883785ac.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "2903",
+      "person_name": "Marcus Jonathan Farmer",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2903.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "34655",
+      "person_name": "Tom Morrison",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34655.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "4175",
+      "person_name": "Mary Robinson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4175.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "79343",
+      "person_name": "Alexander Frank Richard Drury",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79343/def48036-bb17-45c7-9fcf-84dcf2a0840b.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "79360",
+      "person_name": "Stephen George Speakman",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

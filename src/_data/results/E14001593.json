@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001593", "pcon24nm": "Wokingham", "votes": [{"person_id": "116370", "person_name": "Colin Wright", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116370/b56d4815-879d-4ff7-9617-6c781a1f170a.png", "party_name": "Reform UK"}, {"person_id": "116985", "person_name": "Lucy Demery", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116985/b04c7b51-cad6-4bec-9e59-f4478f02e7e1.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "19401", "person_name": "Merv Boniface", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19401/627c87b7-1afe-495a-bdf6-5e2f8fe66e6d.png", "party_name": "Green Party"}, {"person_id": "4543", "person_name": "Clive Jones", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4543/72949d7d-d61e-4840-83d8-a1daaea82304.png", "party_name": "Liberal Democrats"}, {"person_id": "87290", "person_name": "Monica Hamidi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116624/646e66d3-951c-47ac-abc6-444254c35946.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001593",
+  "pcon24nm": "Wokingham",
+  "votes": [
+    {
+      "person_id": "116370",
+      "person_name": "Colin Wright",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116370/b56d4815-879d-4ff7-9617-6c781a1f170a.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116985",
+      "person_name": "Lucy Demery",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116985/b04c7b51-cad6-4bec-9e59-f4478f02e7e1.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "19401",
+      "person_name": "Merv Boniface",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19401/627c87b7-1afe-495a-bdf6-5e2f8fe66e6d.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "4543",
+      "person_name": "Clive Jones",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4543/72949d7d-d61e-4840-83d8-a1daaea82304.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "87290",
+      "person_name": "Monica Hamidi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116624/646e66d3-951c-47ac-abc6-444254c35946.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

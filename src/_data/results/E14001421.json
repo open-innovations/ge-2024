@@ -1,1 +1,76 @@
-{"pcon24cd": "E14001421", "pcon24nm": "Peckham", "votes": [{"person_id": "109389", "person_name": "Alex Kerr", "image": "/assets/images/missing.svg", "party_name": "Rejoin EU"}, {"person_id": "116053", "person_name": "Miatta Fahnbulleh", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116053/3ca2deea-8fb5-4325-899e-a8e3fc108f11.png", "party_name": "Labour and Co-operative Party"}, {"person_id": "117619", "person_name": "Jennifer Blake", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "117620", "person_name": "Stefan David Harvey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117620/ddd22ee7-d4ce-4343-ba99-79cdb1cc27a9.png", "party_name": "Independent"}, {"person_id": "117621", "person_name": "Mariatu Kargbo", "image": "/assets/images/missing.svg", "party_name": "Workers Revolutionary Party"}, {"person_id": "117622", "person_name": "Ben Mascall", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117622/00ed978e-1009-4a9c-9dbf-aed7928a7b67.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "117623", "person_name": "Olusola Oni", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117623/d94fa763-843d-483c-b67d-de503e104631.png", "party_name": "The Yoruba Party in the UK"}, {"person_id": "48361", "person_name": "Claire Frances Sheppard", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48361/f5d39e9a-4c71-4213-8a62-dd7ba0bb9c22.png", "party_name": "Green Party"}, {"person_id": "86201", "person_name": "David Watson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86201/067caa5e-b887-4284-8a10-21b4ee7f49d1.png", "party_name": "Liberal Democrats"}, {"person_id": "87086", "person_name": "Linda Purcell", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "E14001421",
+  "pcon24nm": "Peckham",
+  "votes": [
+    {
+      "person_id": "109389",
+      "person_name": "Alex Kerr",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Rejoin EU"
+    },
+    {
+      "person_id": "116053",
+      "person_name": "Miatta Fahnbulleh",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116053/3ca2deea-8fb5-4325-899e-a8e3fc108f11.png",
+      "party_key": "lab",
+      "party_name": "Labour and Co-operative Party"
+    },
+    {
+      "person_id": "117619",
+      "person_name": "Jennifer Blake",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117620",
+      "person_name": "Stefan David Harvey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117620/ddd22ee7-d4ce-4343-ba99-79cdb1cc27a9.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117621",
+      "person_name": "Mariatu Kargbo",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Workers Revolutionary Party"
+    },
+    {
+      "person_id": "117622",
+      "person_name": "Ben Mascall",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117622/00ed978e-1009-4a9c-9dbf-aed7928a7b67.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "117623",
+      "person_name": "Olusola Oni",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117623/d94fa763-843d-483c-b67d-de503e104631.png",
+      "party_key": "other",
+      "party_name": "The Yoruba Party in the UK"
+    },
+    {
+      "person_id": "48361",
+      "person_name": "Claire Frances Sheppard",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48361/f5d39e9a-4c71-4213-8a62-dd7ba0bb9c22.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "86201",
+      "person_name": "David Watson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86201/067caa5e-b887-4284-8a10-21b4ee7f49d1.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "87086",
+      "person_name": "Linda Purcell",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001077", "pcon24nm": "Basildon and Billericay", "votes": [{"person_id": "115928", "person_name": "Stephen Conlay", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115928/6972e22a-1d07-45e2-92be-61fc1a5ee713.png", "party_name": "Reform UK"}, {"person_id": "36480", "person_name": "Edward Krishan Sainsbury", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/36480.png", "party_name": "Liberal Democrats"}, {"person_id": "5777", "person_name": "Richard John Holden", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5777.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "71287", "person_name": "Stewart Goshawk", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71287/99a5c051-b76d-4714-a26a-cf84d8b91d29.png", "party_name": "Green Party"}, {"person_id": "77652", "person_name": "Christopher David Bateman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77652/e98910c1-8b95-4ad7-890e-265801d60cb5.png", "party_name": "British Democratic Party"}, {"person_id": "88301", "person_name": "Dave Murray", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88301/461e7805-3843-4af7-8ddc-2880e1f1cbb9.png", "party_name": "Trade Unionist and Socialist Coalition"}, {"person_id": "9640", "person_name": "Alex Harrison", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9640/d21ef96d-de57-47bf-aeba-33d582fa8e9a.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001077",
+  "pcon24nm": "Basildon and Billericay",
+  "votes": [
+    {
+      "person_id": "115928",
+      "person_name": "Stephen Conlay",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115928/6972e22a-1d07-45e2-92be-61fc1a5ee713.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "36480",
+      "person_name": "Edward Krishan Sainsbury",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/36480.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "5777",
+      "person_name": "Richard John Holden",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5777.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "71287",
+      "person_name": "Stewart Goshawk",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71287/99a5c051-b76d-4714-a26a-cf84d8b91d29.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "77652",
+      "person_name": "Christopher David Bateman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77652/e98910c1-8b95-4ad7-890e-265801d60cb5.png",
+      "party_key": "other",
+      "party_name": "British Democratic Party"
+    },
+    {
+      "person_id": "88301",
+      "person_name": "Dave Murray",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88301/461e7805-3843-4af7-8ddc-2880e1f1cbb9.png",
+      "party_key": "other",
+      "party_name": "Trade Unionist and Socialist Coalition"
+    },
+    {
+      "person_id": "9640",
+      "person_name": "Alex Harrison",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9640/d21ef96d-de57-47bf-aeba-33d582fa8e9a.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

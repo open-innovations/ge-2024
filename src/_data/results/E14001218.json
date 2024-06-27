@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001218", "pcon24nm": "East Worthing and Shoreham", "votes": [{"person_id": "116693", "person_name": "Debbie Woudman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116693/b422f1fb-c913-4b27-bc91-c59543a07efa.png", "party_name": "Green Party"}, {"person_id": "117723", "person_name": "Ivana Forman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117723/5573a87e-a037-4e54-99c5-7f9e8d7b6463.png", "party_name": "Independent"}, {"person_id": "117724", "person_name": "John William Greenshields", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117724/c54b3844-412d-4bbb-a717-22aec7785230.png", "party_name": "Independent"}, {"person_id": "117725", "person_name": "Frank Ward", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117725/2efdde2f-bfb9-4cd2-a91d-20f2bae494e1.png", "party_name": "Independent"}, {"person_id": "38285", "person_name": "David Batchelor", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/38285/0ffed0c7-a12e-47c8-9a93-37f1c15fdb28.png", "party_name": "Liberal Democrats"}, {"person_id": "63827", "person_name": "Lionel Roger Harman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/63827/0852b092-4297-4f40-860e-346309a8a6cd.png", "party_name": "Reform UK"}, {"person_id": "76990", "person_name": "Leila Williams", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116947/10ffd315-9dcc-4b8e-8785-7301457de475.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "84432", "person_name": "Tom Rutland", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84432/64fbbfa1-d471-4308-a22e-281ca17ec337.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001218",
+  "pcon24nm": "East Worthing and Shoreham",
+  "votes": [
+    {
+      "person_id": "116693",
+      "person_name": "Debbie Woudman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116693/b422f1fb-c913-4b27-bc91-c59543a07efa.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "117723",
+      "person_name": "Ivana Forman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117723/5573a87e-a037-4e54-99c5-7f9e8d7b6463.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117724",
+      "person_name": "John William Greenshields",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117724/c54b3844-412d-4bbb-a717-22aec7785230.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117725",
+      "person_name": "Frank Ward",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117725/2efdde2f-bfb9-4cd2-a91d-20f2bae494e1.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "38285",
+      "person_name": "David Batchelor",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/38285/0ffed0c7-a12e-47c8-9a93-37f1c15fdb28.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "63827",
+      "person_name": "Lionel Roger Harman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/63827/0852b092-4297-4f40-860e-346309a8a6cd.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "76990",
+      "person_name": "Leila Williams",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116947/10ffd315-9dcc-4b8e-8785-7301457de475.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "84432",
+      "person_name": "Tom Rutland",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84432/64fbbfa1-d471-4308-a22e-281ca17ec337.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

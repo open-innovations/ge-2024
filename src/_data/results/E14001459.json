@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001459", "pcon24nm": "Salford", "votes": [{"person_id": "106513", "person_name": "Stephen James Lewthwaite", "image": "/assets/images/missing.svg", "party_name": "Social Democratic Party"}, {"person_id": "108514", "person_name": "Hilary Jane Scott", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108514/1d847dbd-c717-4747-873a-7eded114732a.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "111166", "person_name": "Keith Whalley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111166/f5a6cea8-cafe-4fb9-ad84-466243ac4a91.png", "party_name": "Reform UK"}, {"person_id": "117471", "person_name": "Mustafa Abdullah", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117471/d602bd2f-ee0a-4a29-bd56-7b49bfda0152.png", "party_name": "Workers Party of Britain"}, {"person_id": "35462", "person_name": "Jake Austin", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35462-614e8fa8-e745-4835-b28c-72e7a20927e4.png", "party_name": "Liberal Democrats"}, {"person_id": "5749", "person_name": "Rebecca Long-Bailey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5749-d86828f3-6785-4539-b5a4-612b38b10c4c.png", "party_name": "Labour Party"}, {"person_id": "7571", "person_name": "Wendy Olsen", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7571_02Zxfue.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001459",
+  "pcon24nm": "Salford",
+  "votes": [
+    {
+      "person_id": "106513",
+      "person_name": "Stephen James Lewthwaite",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "108514",
+      "person_name": "Hilary Jane Scott",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108514/1d847dbd-c717-4747-873a-7eded114732a.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "111166",
+      "person_name": "Keith Whalley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111166/f5a6cea8-cafe-4fb9-ad84-466243ac4a91.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117471",
+      "person_name": "Mustafa Abdullah",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117471/d602bd2f-ee0a-4a29-bd56-7b49bfda0152.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "35462",
+      "person_name": "Jake Austin",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35462-614e8fa8-e745-4835-b28c-72e7a20927e4.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "5749",
+      "person_name": "Rebecca Long-Bailey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5749-d86828f3-6785-4539-b5a4-612b38b10c4c.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "7571",
+      "person_name": "Wendy Olsen",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7571_02Zxfue.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

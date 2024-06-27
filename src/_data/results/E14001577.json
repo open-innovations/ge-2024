@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001577", "pcon24nm": "West Lancashire", "votes": [{"person_id": "103959", "person_name": "Graham Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/103959/45c60e65-66c8-456c-9470-24610c135f15.png", "party_name": "Liberal Democrats"}, {"person_id": "112538", "person_name": "Simon Evans", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116188/b948ecd4-0a66-4a63-b243-7cd5198e6464.png", "party_name": "Reform UK"}, {"person_id": "112565", "person_name": "Charlotte Houltram", "image": "/assets/images/missing.svg", "party_name": "Green Party"}, {"person_id": "34346", "person_name": "Ashley Dalton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34346/78abe000-8c84-44fa-a096-63942fea1d22.png", "party_name": "Labour Party"}, {"person_id": "81569", "person_name": "Mike Prendergast", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81569/b61c6348-fc5d-4db1-8426-53f16bd99586.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001577",
+  "pcon24nm": "West Lancashire",
+  "votes": [
+    {
+      "person_id": "103959",
+      "person_name": "Graham Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/103959/45c60e65-66c8-456c-9470-24610c135f15.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "112538",
+      "person_name": "Simon Evans",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116188/b948ecd4-0a66-4a63-b243-7cd5198e6464.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "112565",
+      "person_name": "Charlotte Houltram",
+      "image": "/assets/images/missing.svg",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "34346",
+      "person_name": "Ashley Dalton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34346/78abe000-8c84-44fa-a096-63942fea1d22.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "81569",
+      "person_name": "Mike Prendergast",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81569/b61c6348-fc5d-4db1-8426-53f16bd99586.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001443", "pcon24nm": "Ribble Valley", "votes": [{"person_id": "111178", "person_name": "John Carroll", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117453/b60b7279-ee54-446c-b800-42c5c5d1dda7.png", "party_name": "Reform UK"}, {"person_id": "116173", "person_name": "Maya Ellis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116173/d5822bff-0711-4253-9588-94d99adedc00.png", "party_name": "Labour Party"}, {"person_id": "116922", "person_name": "Qasim Ajmi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116922/eedf1e19-6ca7-4bd3-8d36-18a9a613bfe6.png", "party_name": "Independent"}, {"person_id": "4766", "person_name": "John Potter", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ba11910284be476aae890.png", "party_name": "Liberal Democrats"}, {"person_id": "499", "person_name": "Nigel Evans", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55158e5b4fb3d15c51926db9.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "73230", "person_name": "Caroline Montague", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73230/f660a6a7-bd04-444f-ad9e-b9a87d7ad84e.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001443",
+  "pcon24nm": "Ribble Valley",
+  "votes": [
+    {
+      "person_id": "111178",
+      "person_name": "John Carroll",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117453/b60b7279-ee54-446c-b800-42c5c5d1dda7.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116173",
+      "person_name": "Maya Ellis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116173/d5822bff-0711-4253-9588-94d99adedc00.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "116922",
+      "person_name": "Qasim Ajmi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116922/eedf1e19-6ca7-4bd3-8d36-18a9a613bfe6.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "4766",
+      "person_name": "John Potter",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ba11910284be476aae890.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "499",
+      "person_name": "Nigel Evans",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55158e5b4fb3d15c51926db9.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "73230",
+      "person_name": "Caroline Montague",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73230/f660a6a7-bd04-444f-ad9e-b9a87d7ad84e.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

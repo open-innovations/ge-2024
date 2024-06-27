@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001479", "pcon24nm": "Solihull West and Shirley", "votes": [{"person_id": "10002", "person_name": "Neil Shastri-Hurst", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/10002-c9d8a0b6-15d5-45e7-bbb5-455ba0c46ed6.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "4225", "person_name": "Julian Knight", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4225/d05e4069-8e89-42e1-81ee-af5a2d683106.png", "party_name": "Independent"}, {"person_id": "5799", "person_name": "Ade Adeyemo", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5799/ad853767-6ec9-4bed-aa7e-dea18e305da6.png", "party_name": "Liberal Democrats"}, {"person_id": "72558", "person_name": "Mary Ann McKenna", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72558-d262d56a-7bcd-4f9b-88fb-8fcb11b6dfbe.png", "party_name": "Reform UK"}, {"person_id": "8733", "person_name": "Max McLoughlin", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/8733.png", "party_name": "Green Party"}, {"person_id": "97363", "person_name": "Deirdre Fox", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97363/103030af-9b89-48c3-b25f-f6410baf5dda.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001479",
+  "pcon24nm": "Solihull West and Shirley",
+  "votes": [
+    {
+      "person_id": "10002",
+      "person_name": "Neil Shastri-Hurst",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/10002-c9d8a0b6-15d5-45e7-bbb5-455ba0c46ed6.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "4225",
+      "person_name": "Julian Knight",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4225/d05e4069-8e89-42e1-81ee-af5a2d683106.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "5799",
+      "person_name": "Ade Adeyemo",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5799/ad853767-6ec9-4bed-aa7e-dea18e305da6.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "72558",
+      "person_name": "Mary Ann McKenna",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72558-d262d56a-7bcd-4f9b-88fb-8fcb11b6dfbe.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "8733",
+      "person_name": "Max McLoughlin",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/8733.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "97363",
+      "person_name": "Deirdre Fox",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97363/103030af-9b89-48c3-b25f-f6410baf5dda.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

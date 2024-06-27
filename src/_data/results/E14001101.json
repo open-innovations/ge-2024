@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001101", "pcon24nm": "Bishop Auckland", "votes": [{"person_id": "114035", "person_name": "Sarah Hannan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114035/dd6f09a8-9696-46ea-bd57-ec5538416a34.png", "party_name": "Green Party"}, {"person_id": "116752", "person_name": "Rachel Maughan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116752/21f0d72b-7db1-4e09-b1a1-a8e20119cb1a.png", "party_name": "Transform Party"}, {"person_id": "35869", "person_name": "Helen Cross", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35869.png", "party_name": "Liberal Democrats"}, {"person_id": "4270", "person_name": "Sam Rushworth", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4270_Lbv9aC8.png", "party_name": "Labour Party"}, {"person_id": "5976", "person_name": "Rhys Burriss", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5976/01dfb7fa-6d30-448c-8dcf-a09b0e87360c.png", "party_name": "Reform UK"}, {"person_id": "72490", "person_name": "Jane MacBean", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72490-27504579-ce71-4416-9bea-919bf7180e00.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001101",
+  "pcon24nm": "Bishop Auckland",
+  "votes": [
+    {
+      "person_id": "114035",
+      "person_name": "Sarah Hannan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114035/dd6f09a8-9696-46ea-bd57-ec5538416a34.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "116752",
+      "person_name": "Rachel Maughan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116752/21f0d72b-7db1-4e09-b1a1-a8e20119cb1a.png",
+      "party_key": "other",
+      "party_name": "Transform Party"
+    },
+    {
+      "person_id": "35869",
+      "person_name": "Helen Cross",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35869.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "4270",
+      "person_name": "Sam Rushworth",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4270_Lbv9aC8.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "5976",
+      "person_name": "Rhys Burriss",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5976/01dfb7fa-6d30-448c-8dcf-a09b0e87360c.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "72490",
+      "person_name": "Jane MacBean",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72490-27504579-ce71-4416-9bea-919bf7180e00.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

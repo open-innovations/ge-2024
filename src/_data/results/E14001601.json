@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001601", "pcon24nm": "Wyre Forest", "votes": [{"person_id": "1207", "person_name": "Mark Garnier", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551df8ba238fcf244d9c2462.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "14816", "person_name": "John Davis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14816/0c4093a0-b8ce-417f-a371-666849a5449f.png", "party_name": "Green Party"}, {"person_id": "14818", "person_name": "Bill Hopkins", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116559/1e9affe2-9b26-44e4-812b-98da1902f17d.png", "party_name": "Reform UK"}, {"person_id": "15076", "person_name": "Shazu Miah", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/15076/1baecf06-ae9e-4714-aa13-35d59c719d57.png", "party_name": "Liberal Democrats"}, {"person_id": "62831", "person_name": "Leigh Whitehouse", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116796/3518ad01-bc5b-4d96-93c6-41c2f139a296.png", "party_name": "Independent"}, {"person_id": "81878", "person_name": "Vicki Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81878/df60c96e-60e7-4a36-9006-6197d6106214.png", "party_name": "Labour Party"}, {"person_id": "96900", "person_name": "Nigel Alastair Geary", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96900/159d02ef-1b3b-401a-9bbc-9b9fba66cd69.png", "party_name": "Independent"}]}
+{
+  "pcon24cd": "E14001601",
+  "pcon24nm": "Wyre Forest",
+  "votes": [
+    {
+      "person_id": "1207",
+      "person_name": "Mark Garnier",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551df8ba238fcf244d9c2462.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "14816",
+      "person_name": "John Davis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14816/0c4093a0-b8ce-417f-a371-666849a5449f.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "14818",
+      "person_name": "Bill Hopkins",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116559/1e9affe2-9b26-44e4-812b-98da1902f17d.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "15076",
+      "person_name": "Shazu Miah",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/15076/1baecf06-ae9e-4714-aa13-35d59c719d57.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "62831",
+      "person_name": "Leigh Whitehouse",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116796/3518ad01-bc5b-4d96-93c6-41c2f139a296.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "81878",
+      "person_name": "Vicki Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81878/df60c96e-60e7-4a36-9006-6197d6106214.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "96900",
+      "person_name": "Nigel Alastair Geary",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96900/159d02ef-1b3b-401a-9bbc-9b9fba66cd69.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    }
+  ]
+}

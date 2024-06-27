@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001299", "pcon24nm": "Hyndburn", "votes": [{"person_id": "101180", "person_name": "Sarah Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116886/c0eb2322-331c-4768-9a1e-12ec35d6d0aa.png", "party_name": "Labour Party"}, {"person_id": "109513", "person_name": "Mohammed Shabir Fazal", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109513/007b6cb5-f82d-4c4a-82db-71201fac49ca.png", "party_name": "Green Party"}, {"person_id": "41765", "person_name": "Beth Waller-Slack", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/41765-b11e5bb7-577c-4b12-a719-3c560ce56841.png", "party_name": "Liberal Democrats"}, {"person_id": "44358", "person_name": "Sara Britcliffe", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/44358.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "90698", "person_name": "Richard John Oakley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90698/7ba1c30d-fb6f-4a09-8d65-ab6141fc765f.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "E14001299",
+  "pcon24nm": "Hyndburn",
+  "votes": [
+    {
+      "person_id": "101180",
+      "person_name": "Sarah Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116886/c0eb2322-331c-4768-9a1e-12ec35d6d0aa.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "109513",
+      "person_name": "Mohammed Shabir Fazal",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109513/007b6cb5-f82d-4c4a-82db-71201fac49ca.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "41765",
+      "person_name": "Beth Waller-Slack",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/41765-b11e5bb7-577c-4b12-a719-3c560ce56841.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "44358",
+      "person_name": "Sara Britcliffe",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/44358.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "90698",
+      "person_name": "Richard John Oakley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90698/7ba1c30d-fb6f-4a09-8d65-ab6141fc765f.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

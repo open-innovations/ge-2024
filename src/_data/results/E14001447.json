@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001447", "pcon24nm": "Rochester and Strood", "votes": [{"person_id": "101230", "person_name": "Daniel Dabin", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101230/2227f88f-9b73-477e-8716-06e47c1ea4b4.png", "party_name": "Reform UK"}, {"person_id": "116355", "person_name": "John Innes", "image": "/assets/images/missing.svg", "party_name": "Workers Party of Britain"}, {"person_id": "117814", "person_name": "Peter Richard Ede Burch", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117814/78a0b1ed-fee8-447e-9d9c-76af00943e83.png", "party_name": "Heritage Party"}, {"person_id": "4224", "person_name": "Kelly Tolhurst", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4224/8a4ade61-df1d-4777-a5b4-d0e33cbfb0d8.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "68761", "person_name": "Cat Jamieson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96182/c9143dcc-b8e9-431b-a942-a8fefb2788b5.png", "party_name": "Green Party"}, {"person_id": "69530", "person_name": "Graham Colley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69530.png", "party_name": "Liberal Democrats"}, {"person_id": "84146", "person_name": "Lauren Rae Edwards", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84146-a3e73dbf-61bf-45df-9334-d864005d601e.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001447",
+  "pcon24nm": "Rochester and Strood",
+  "votes": [
+    {
+      "person_id": "101230",
+      "person_name": "Daniel Dabin",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101230/2227f88f-9b73-477e-8716-06e47c1ea4b4.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116355",
+      "person_name": "John Innes",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "117814",
+      "person_name": "Peter Richard Ede Burch",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117814/78a0b1ed-fee8-447e-9d9c-76af00943e83.png",
+      "party_key": "other",
+      "party_name": "Heritage Party"
+    },
+    {
+      "person_id": "4224",
+      "person_name": "Kelly Tolhurst",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4224/8a4ade61-df1d-4777-a5b4-d0e33cbfb0d8.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "68761",
+      "person_name": "Cat Jamieson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96182/c9143dcc-b8e9-431b-a942-a8fefb2788b5.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "69530",
+      "person_name": "Graham Colley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69530.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "84146",
+      "person_name": "Lauren Rae Edwards",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84146-a3e73dbf-61bf-45df-9334-d864005d601e.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

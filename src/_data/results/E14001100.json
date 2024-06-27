@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001100", "pcon24nm": "Birmingham Yardley", "votes": [{"person_id": "115513", "person_name": "Nora Kamberi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116513/a7e9d833-d629-431d-9781-36101d956d02.png", "party_name": "Reform UK"}, {"person_id": "116514", "person_name": "Jody McIntyre", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116514/71f06b58-610b-4a2d-b462-282466dc5331.png", "party_name": "Workers Party of Britain"}, {"person_id": "40575", "person_name": "Roxanne Green", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40575/064cc032-7464-4258-8777-0581018a53c4.png", "party_name": "Green Party"}, {"person_id": "4268", "person_name": "Jess Phillips", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4268/4f22ae8a-ff93-42bb-ba39-bea0a4074361.png", "party_name": "Labour Party"}, {"person_id": "81856", "person_name": "Yvonne Beverley Clements", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81856/d490690b-529f-4c0f-8ad9-10ee80c3f163.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "96", "person_name": "Roger Harmer", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96/cd197ddf-3e83-40ad-8732-db67cc1dd7c0.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001100",
+  "pcon24nm": "Birmingham Yardley",
+  "votes": [
+    {
+      "person_id": "115513",
+      "person_name": "Nora Kamberi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116513/a7e9d833-d629-431d-9781-36101d956d02.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "116514",
+      "person_name": "Jody McIntyre",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116514/71f06b58-610b-4a2d-b462-282466dc5331.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "40575",
+      "person_name": "Roxanne Green",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40575/064cc032-7464-4258-8777-0581018a53c4.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "4268",
+      "person_name": "Jess Phillips",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4268/4f22ae8a-ff93-42bb-ba39-bea0a4074361.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "81856",
+      "person_name": "Yvonne Beverley Clements",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81856/d490690b-529f-4c0f-8ad9-10ee80c3f163.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "96",
+      "person_name": "Roger Harmer",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96/cd197ddf-3e83-40ad-8732-db67cc1dd7c0.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

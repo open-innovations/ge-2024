@@ -1,1 +1,69 @@
-{"pcon24cd": "E14001224", "pcon24nm": "Ely and East Cambridgeshire", "votes": [{"person_id": "116819", "person_name": "Robert Bayley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116819/d6351f08-f0be-44a2-b786-b379bfc46497.png", "party_name": "Social Democratic Party"}, {"person_id": "116896", "person_name": "Ryan Coogan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116896/594ffdde-9b1c-40b5-b65f-b7a4f7d0a1ca.png", "party_name": "Reform UK"}, {"person_id": "117126", "person_name": "Hoo-Ray Henry", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117126/bd908117-e380-4631-aba3-ad54af89e28f.png", "party_name": "The Official Monster Raving Loony Party"}, {"person_id": "117198", "person_name": "Obi Monye", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "117199", "person_name": "Rob Rawlins", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117199/b00c322a-981a-4fa8-b73d-1e755830e0b5.png", "party_name": "Independent"}, {"person_id": "25603", "person_name": "Andy Cogan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/25603/54967c23-82ec-439b-98cb-85daef2fa795.png", "party_name": "Green Party"}, {"person_id": "27709", "person_name": "Charlotte Cane", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/27709/27fdd60a-a269-4dff-b2f4-a96ee5830050.png", "party_name": "Liberal Democrats"}, {"person_id": "35825", "person_name": "Elizabeth McWilliams", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35825/962dfcf6-97bd-4d6e-a8b1-6725dfab39dd.png", "party_name": "Labour Party"}, {"person_id": "4228", "person_name": "Lucy Frazer", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116756/f31cdf38-8fff-4f2b-8f6e-58d4b4ff28bc.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001224",
+  "pcon24nm": "Ely and East Cambridgeshire",
+  "votes": [
+    {
+      "person_id": "116819",
+      "person_name": "Robert Bayley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116819/d6351f08-f0be-44a2-b786-b379bfc46497.png",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "116896",
+      "person_name": "Ryan Coogan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116896/594ffdde-9b1c-40b5-b65f-b7a4f7d0a1ca.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117126",
+      "person_name": "Hoo-Ray Henry",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117126/bd908117-e380-4631-aba3-ad54af89e28f.png",
+      "party_key": "other",
+      "party_name": "The Official Monster Raving Loony Party"
+    },
+    {
+      "person_id": "117198",
+      "person_name": "Obi Monye",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117199",
+      "person_name": "Rob Rawlins",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117199/b00c322a-981a-4fa8-b73d-1e755830e0b5.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "25603",
+      "person_name": "Andy Cogan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/25603/54967c23-82ec-439b-98cb-85daef2fa795.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "27709",
+      "person_name": "Charlotte Cane",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/27709/27fdd60a-a269-4dff-b2f4-a96ee5830050.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "35825",
+      "person_name": "Elizabeth McWilliams",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35825/962dfcf6-97bd-4d6e-a8b1-6725dfab39dd.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "4228",
+      "person_name": "Lucy Frazer",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116756/f31cdf38-8fff-4f2b-8f6e-58d4b4ff28bc.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

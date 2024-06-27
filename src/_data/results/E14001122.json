@@ -1,1 +1,69 @@
-{"pcon24cd": "E14001122", "pcon24nm": "Brent East", "votes": [{"person_id": "113730", "person_name": "James Mutimer", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113730/003b12b3-00b8-4ae1-bc2c-8573d06a6583.png", "party_name": "Workers Party of Britain"}, {"person_id": "116086", "person_name": "Jamila Robertson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116086/12115bf9-17b4-403f-9b0b-bcc560fcfa0b.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "117585", "person_name": "Jenner Clarence Joseph Folwell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117585/59ff19fe-b993-4414-8487-b87b27b53326.png", "party_name": "Independent"}, {"person_id": "117586", "person_name": "Amin Moafi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117586/283611f5-59e9-46c8-abd8-f3917f0301ef.png", "party_name": "Independent"}, {"person_id": "117587", "person_name": "Aadil Shaikh", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117587/ca287e88-49be-4fa9-bf4a-db35547a62e5.png", "party_name": "Independent"}, {"person_id": "1474", "person_name": "Dawn Butler", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1474/94f9ac55-cea1-4f4c-9733-e08f1154abb9.png", "party_name": "Labour Party"}, {"person_id": "88553", "person_name": "Nida Al-Fulaij", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88553/bdda4402-5fae-4b6e-a40b-8f7ffd4969ab.png", "party_name": "Green Party"}, {"person_id": "92068", "person_name": "Zbigniew Kowalczyk", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92068/e0272b7b-2f55-4e06-853e-17f3958fbac3.png", "party_name": "Reform UK"}, {"person_id": "92353", "person_name": "Jonny Singh", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92353/82fc57e8-9afb-46f8-80f4-34dd5011dbb3.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001122",
+  "pcon24nm": "Brent East",
+  "votes": [
+    {
+      "person_id": "113730",
+      "person_name": "James Mutimer",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113730/003b12b3-00b8-4ae1-bc2c-8573d06a6583.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "116086",
+      "person_name": "Jamila Robertson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116086/12115bf9-17b4-403f-9b0b-bcc560fcfa0b.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "117585",
+      "person_name": "Jenner Clarence Joseph Folwell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117585/59ff19fe-b993-4414-8487-b87b27b53326.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117586",
+      "person_name": "Amin Moafi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117586/283611f5-59e9-46c8-abd8-f3917f0301ef.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117587",
+      "person_name": "Aadil Shaikh",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117587/ca287e88-49be-4fa9-bf4a-db35547a62e5.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "1474",
+      "person_name": "Dawn Butler",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1474/94f9ac55-cea1-4f4c-9733-e08f1154abb9.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "88553",
+      "person_name": "Nida Al-Fulaij",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88553/bdda4402-5fae-4b6e-a40b-8f7ffd4969ab.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "92068",
+      "person_name": "Zbigniew Kowalczyk",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92068/e0272b7b-2f55-4e06-853e-17f3958fbac3.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "92353",
+      "person_name": "Jonny Singh",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92353/82fc57e8-9afb-46f8-80f4-34dd5011dbb3.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

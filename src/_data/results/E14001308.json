@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001308", "pcon24nm": "Keighley and Ilkley", "votes": [{"person_id": "105584", "person_name": "John Wood", "image": "/assets/images/missing.svg", "party_name": "Green Party"}, {"person_id": "110912", "person_name": "Vaz Shabir", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110912/865fb252-f56c-4181-aad6-ff34845be8a0.png", "party_name": "Independent"}, {"person_id": "110918", "person_name": "Andrew Mark Judson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110918/7d1a9ea2-5ca2-4d6d-9978-e4cd864d5e7d.png", "party_name": "Reform UK"}, {"person_id": "26213", "person_name": "Robbie Moore", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26213.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "34210", "person_name": "Chris Adams", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34210.png", "party_name": "Liberal Democrats"}, {"person_id": "4363", "person_name": "John Grogan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e828b150e238702c05a3.png", "party_name": "Labour Party"}, {"person_id": "94042", "person_name": "Dominic James Atlas", "image": "/assets/images/missing.svg", "party_name": "Yorkshire Party"}]}
+{
+  "pcon24cd": "E14001308",
+  "pcon24nm": "Keighley and Ilkley",
+  "votes": [
+    {
+      "person_id": "105584",
+      "person_name": "John Wood",
+      "image": "/assets/images/missing.svg",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "110912",
+      "person_name": "Vaz Shabir",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110912/865fb252-f56c-4181-aad6-ff34845be8a0.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "110918",
+      "person_name": "Andrew Mark Judson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110918/7d1a9ea2-5ca2-4d6d-9978-e4cd864d5e7d.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "26213",
+      "person_name": "Robbie Moore",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26213.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "34210",
+      "person_name": "Chris Adams",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34210.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "4363",
+      "person_name": "John Grogan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e828b150e238702c05a3.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "94042",
+      "person_name": "Dominic James Atlas",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Yorkshire Party"
+    }
+  ]
+}

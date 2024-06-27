@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001293", "pcon24nm": "Hornsey and Friern Barnet", "votes": [{"person_id": "113884", "person_name": "Dino Philippos", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116037/1872f94e-4f88-4de1-b18a-e2028ec2649b.png", "party_name": "Workers Party of Britain"}, {"person_id": "117069", "person_name": "Naz Panju", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117069/91999af6-4ef7-4f6b-bfd5-15e33b562f37.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "117706", "person_name": "Navdeep Singh", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117706/6854a2ba-2ddb-48ac-abdc-2ed22ebbb9f5.png", "party_name": "Reform UK"}, {"person_id": "1986", "person_name": "Dawn Barnes", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1986.png", "party_name": "Liberal Democrats"}, {"person_id": "4357", "person_name": "Catherine West", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54cd1ae0668e142f73d3b4b1.png", "party_name": "Labour Party"}, {"person_id": "7988", "person_name": "Helen Spiby-Vann", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7988.png", "party_name": "Christian Peoples Alliance"}, {"person_id": "89027", "person_name": "Fabio Vollono", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89027/362bc8fb-c718-4c27-8ef7-9e70dc117acc.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001293",
+  "pcon24nm": "Hornsey and Friern Barnet",
+  "votes": [
+    {
+      "person_id": "113884",
+      "person_name": "Dino Philippos",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116037/1872f94e-4f88-4de1-b18a-e2028ec2649b.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "117069",
+      "person_name": "Naz Panju",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117069/91999af6-4ef7-4f6b-bfd5-15e33b562f37.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "117706",
+      "person_name": "Navdeep Singh",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117706/6854a2ba-2ddb-48ac-abdc-2ed22ebbb9f5.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "1986",
+      "person_name": "Dawn Barnes",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1986.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "4357",
+      "person_name": "Catherine West",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54cd1ae0668e142f73d3b4b1.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "7988",
+      "person_name": "Helen Spiby-Vann",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7988.png",
+      "party_key": "other",
+      "party_name": "Christian Peoples Alliance"
+    },
+    {
+      "person_id": "89027",
+      "person_name": "Fabio Vollono",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89027/362bc8fb-c718-4c27-8ef7-9e70dc117acc.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

@@ -1,1 +1,76 @@
-{"pcon24cd": "E14001352", "pcon24nm": "Manchester Central", "votes": [{"person_id": "112788", "person_name": "Caitriona Rylance", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/112788/df834b8b-bb0d-46b8-a8eb-2c2d1b29baa1.png", "party_name": "Communist Future"}, {"person_id": "116161", "person_name": "Sebastian Moore", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116161/e216b0a0-fda3-48df-9e0d-53d44dc20cc5.png", "party_name": "Social Democratic Party"}, {"person_id": "116679", "person_name": "Parham Hashemi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116679/8117dfcc-c15e-47fe-a4d4-5af90b260355.png", "party_name": "Workers Party of Britain"}, {"person_id": "117840", "person_name": "David Brown", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}, {"person_id": "117841", "person_name": "Albati Kalonda", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "117842", "person_name": "Sabeena Khan", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "1570", "person_name": "Lucy Powell", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1570/a1b24a0b-ae88-476e-aed7-b23ada68f01d.png", "party_name": "Labour and Co-operative Party"}, {"person_id": "43105", "person_name": "Scott Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/55951.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "75338", "person_name": "Chris Northwood", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75338/dcc3aa17-40c3-48d9-a728-83b10d3ebce0.png", "party_name": "Liberal Democrats"}, {"person_id": "81206", "person_name": "Ekua Bayunu", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81206/b2de0d73-f9bf-4fc5-b927-4feebf8020a9.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001352",
+  "pcon24nm": "Manchester Central",
+  "votes": [
+    {
+      "person_id": "112788",
+      "person_name": "Caitriona Rylance",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/112788/df834b8b-bb0d-46b8-a8eb-2c2d1b29baa1.png",
+      "party_key": "other",
+      "party_name": "Communist Future"
+    },
+    {
+      "person_id": "116161",
+      "person_name": "Sebastian Moore",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116161/e216b0a0-fda3-48df-9e0d-53d44dc20cc5.png",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "116679",
+      "person_name": "Parham Hashemi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116679/8117dfcc-c15e-47fe-a4d4-5af90b260355.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "117840",
+      "person_name": "David Brown",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117841",
+      "person_name": "Albati Kalonda",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117842",
+      "person_name": "Sabeena Khan",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "1570",
+      "person_name": "Lucy Powell",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1570/a1b24a0b-ae88-476e-aed7-b23ada68f01d.png",
+      "party_key": "lab",
+      "party_name": "Labour and Co-operative Party"
+    },
+    {
+      "person_id": "43105",
+      "person_name": "Scott Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/55951.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "75338",
+      "person_name": "Chris Northwood",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75338/dcc3aa17-40c3-48d9-a728-83b10d3ebce0.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "81206",
+      "person_name": "Ekua Bayunu",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81206/b2de0d73-f9bf-4fc5-b927-4feebf8020a9.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

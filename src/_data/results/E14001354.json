@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001354", "pcon24nm": "Manchester Withington", "votes": [{"person_id": "116740", "person_name": "Lizzie Greenwood", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116740/1ac1e002-3f24-412e-8eca-027361327a29.png", "party_name": "Workers Party of Britain"}, {"person_id": "117815", "person_name": "Sarah Louise Garcia de Bustos", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117815/9ff725a1-2bfa-47f8-aa00-7d669cbe3596.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "117818", "person_name": "Kaine Keith Williams", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}, {"person_id": "4378", "person_name": "Jeff Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e839b150e238702c05af.png", "party_name": "Labour Party"}, {"person_id": "6225", "person_name": "Richard Kilpatrick", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/76094-fc4d3ce2-3bfc-47b3-9128-60243a0f5017.png", "party_name": "Liberal Democrats"}, {"person_id": "81177", "person_name": "Sam Easterby-Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81177/7f0cbb28-dbab-43b3-903a-f636b8ddf20e.png", "party_name": "Green Party"}, {"person_id": "81228", "person_name": "Wendy Madeleine Andrew", "image": "/assets/images/missing.svg", "party_name": "Social Democratic Party"}]}
+{
+  "pcon24cd": "E14001354",
+  "pcon24nm": "Manchester Withington",
+  "votes": [
+    {
+      "person_id": "116740",
+      "person_name": "Lizzie Greenwood",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116740/1ac1e002-3f24-412e-8eca-027361327a29.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "117815",
+      "person_name": "Sarah Louise Garcia de Bustos",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117815/9ff725a1-2bfa-47f8-aa00-7d669cbe3596.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "117818",
+      "person_name": "Kaine Keith Williams",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "4378",
+      "person_name": "Jeff Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e839b150e238702c05af.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "6225",
+      "person_name": "Richard Kilpatrick",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/76094-fc4d3ce2-3bfc-47b3-9128-60243a0f5017.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "81177",
+      "person_name": "Sam Easterby-Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81177/7f0cbb28-dbab-43b3-903a-f636b8ddf20e.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "81228",
+      "person_name": "Wendy Madeleine Andrew",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    }
+  ]
+}

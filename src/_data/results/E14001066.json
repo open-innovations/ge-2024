@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001066", "pcon24nm": "Amber Valley", "votes": [{"person_id": "1016", "person_name": "Nigel Mills", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/550c3d333be3632f3135c9fc.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "15638", "person_name": "Alex Stevenson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/15638/5ee462e1-7773-470a-956a-bd768faf4a73.png", "party_name": "Reform UK"}, {"person_id": "4920", "person_name": "Kate Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4920-758b6d23-2336-4a8c-a38f-1cdfe4310a75.png", "party_name": "Liberal Democrats"}, {"person_id": "8433", "person_name": "Matt McGuinness", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8433/f25ae562-701f-4751-bbcc-267eb0b24037.png", "party_name": "Green Party"}, {"person_id": "95581", "person_name": "Linsey Farnsworth", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95581/ce0a550c-2e22-44cb-a707-a837cddbc4db.png", "party_name": "Labour Party"}]}
+{
+  "pcon24cd": "E14001066",
+  "pcon24nm": "Amber Valley",
+  "votes": [
+    {
+      "person_id": "1016",
+      "person_name": "Nigel Mills",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/550c3d333be3632f3135c9fc.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "15638",
+      "person_name": "Alex Stevenson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/15638/5ee462e1-7773-470a-956a-bd768faf4a73.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "4920",
+      "person_name": "Kate Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4920-758b6d23-2336-4a8c-a38f-1cdfe4310a75.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "8433",
+      "person_name": "Matt McGuinness",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8433/f25ae562-701f-4751-bbcc-267eb0b24037.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "95581",
+      "person_name": "Linsey Farnsworth",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95581/ce0a550c-2e22-44cb-a707-a837cddbc4db.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    }
+  ]
+}

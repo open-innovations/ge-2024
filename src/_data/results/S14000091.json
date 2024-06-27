@@ -1,1 +1,41 @@
-{"pcon24cd": "S14000091", "pcon24nm": "Gordon and Buchan", "votes": [{"person_id": "117272", "person_name": "Kris Callander", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117272/fa8f21dc-8ea9-4c92-a286-2b51bcd5de91.png", "party_name": "Reform UK"}, {"person_id": "3239", "person_name": "Richard Gordon Thomson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/21335.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "71838", "person_name": "Nurul Hoque Ali", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71838.png", "party_name": "Labour Party"}, {"person_id": "72918", "person_name": "Harriet Cross", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72918-a97d4a4f-2468-465f-8f6f-d8d7e41b6d04.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "73030", "person_name": "Conrad James Wood", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/73030-29b7eb20-ce3c-4ae2-b2ef-f996fb52a63d.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "S14000091",
+  "pcon24nm": "Gordon and Buchan",
+  "votes": [
+    {
+      "person_id": "117272",
+      "person_name": "Kris Callander",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117272/fa8f21dc-8ea9-4c92-a286-2b51bcd5de91.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "3239",
+      "person_name": "Richard Gordon Thomson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/21335.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "71838",
+      "person_name": "Nurul Hoque Ali",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71838.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "72918",
+      "person_name": "Harriet Cross",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72918-a97d4a4f-2468-465f-8f6f-d8d7e41b6d04.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "73030",
+      "person_name": "Conrad James Wood",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/73030-29b7eb20-ce3c-4ae2-b2ef-f996fb52a63d.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

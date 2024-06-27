@@ -1,1 +1,69 @@
-{"pcon24cd": "E14001174", "pcon24nm": "Clacton", "votes": [{"person_id": "100607", "person_name": "Tony Mack", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100607/c439ed70-393f-4c5c-bfa8-cd993e9f2617.png", "party_name": "Independent"}, {"person_id": "115936", "person_name": "Jovan Owusu-Nepaul", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115936/86c0763c-0caa-4c4d-9d86-d6ff416dfbd7.png", "party_name": "Labour Party"}, {"person_id": "117300", "person_name": "Craig Jamieson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117300/f0674d50-d90c-43b0-8649-d8d774c6d2cd.png", "party_name": "Climate Party"}, {"person_id": "117301", "person_name": "Tasos Papanastasiou", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117301/91a25e85-968b-42c8-893c-99bf9e5677de.png", "party_name": "Heritage Party"}, {"person_id": "24557", "person_name": "Matthew Bensilum", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/24557/f31dd7c4-9b33-4d39-9719-30bfb75abf5d.png", "party_name": "Liberal Democrats"}, {"person_id": "33051", "person_name": "Andrew Pemberton", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/33051.png", "party_name": "UK Independence Party (UKIP)"}, {"person_id": "34417", "person_name": "Natasha Osben", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34417/d4b3f36c-73f2-47d5-9491-1d1d461c5f72.png", "party_name": "Green Party"}, {"person_id": "4179", "person_name": "Giles Watling", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4179.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "4800", "person_name": "Nigel Farage", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4800/b0176bc0-3d95-44d3-9e66-3467cbef66bd.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "E14001174",
+  "pcon24nm": "Clacton",
+  "votes": [
+    {
+      "person_id": "100607",
+      "person_name": "Tony Mack",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100607/c439ed70-393f-4c5c-bfa8-cd993e9f2617.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "115936",
+      "person_name": "Jovan Owusu-Nepaul",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115936/86c0763c-0caa-4c4d-9d86-d6ff416dfbd7.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "117300",
+      "person_name": "Craig Jamieson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117300/f0674d50-d90c-43b0-8649-d8d774c6d2cd.png",
+      "party_key": "other",
+      "party_name": "Climate Party"
+    },
+    {
+      "person_id": "117301",
+      "person_name": "Tasos Papanastasiou",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117301/91a25e85-968b-42c8-893c-99bf9e5677de.png",
+      "party_key": "other",
+      "party_name": "Heritage Party"
+    },
+    {
+      "person_id": "24557",
+      "person_name": "Matthew Bensilum",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/24557/f31dd7c4-9b33-4d39-9719-30bfb75abf5d.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "33051",
+      "person_name": "Andrew Pemberton",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/33051.png",
+      "party_key": "other",
+      "party_name": "UK Independence Party (UKIP)"
+    },
+    {
+      "person_id": "34417",
+      "person_name": "Natasha Osben",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34417/d4b3f36c-73f2-47d5-9491-1d1d461c5f72.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "4179",
+      "person_name": "Giles Watling",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4179.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "4800",
+      "person_name": "Nigel Farage",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4800/b0176bc0-3d95-44d3-9e66-3467cbef66bd.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

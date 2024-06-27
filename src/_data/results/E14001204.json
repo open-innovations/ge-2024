@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001204", "pcon24nm": "Dudley", "votes": [{"person_id": "112498", "person_name": "Shakeela Bibi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/112498/3136d2ee-7dd2-4700-98f9-123f810e32cf.png", "party_name": "Independent"}, {"person_id": "115542", "person_name": "Aftab Hussain", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115542/92490f66-3030-4fea-b406-5879b3ae418a.png", "party_name": "Workers Party of Britain"}, {"person_id": "116524", "person_name": "Andrew Southall", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116524/9180ae76-09e0-4950-a829-bd4c5b56bc72.png", "party_name": "Reform UK"}, {"person_id": "117534", "person_name": "Dharmanand Mortha", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117534/61bae6b9-b211-4a6b-88ca-7c2f51137379.png", "party_name": "Independent"}, {"person_id": "16082", "person_name": "Ian Flynn", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/16082/764a7f9c-5ff1-4b39-98e2-3cb319c3a302.png", "party_name": "Liberal Democrats"}, {"person_id": "52116", "person_name": "Marco Longhi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/52116.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "91620", "person_name": "Sonia Kumar", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91620/07bd4df2-875c-492b-bc7c-1afd660f4132.png", "party_name": "Labour Party"}, {"person_id": "99618", "person_name": "Zia Qari", "image": "/assets/images/missing.svg", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001204",
+  "pcon24nm": "Dudley",
+  "votes": [
+    {
+      "person_id": "112498",
+      "person_name": "Shakeela Bibi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/112498/3136d2ee-7dd2-4700-98f9-123f810e32cf.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "115542",
+      "person_name": "Aftab Hussain",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115542/92490f66-3030-4fea-b406-5879b3ae418a.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "116524",
+      "person_name": "Andrew Southall",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116524/9180ae76-09e0-4950-a829-bd4c5b56bc72.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117534",
+      "person_name": "Dharmanand Mortha",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117534/61bae6b9-b211-4a6b-88ca-7c2f51137379.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "16082",
+      "person_name": "Ian Flynn",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/16082/764a7f9c-5ff1-4b39-98e2-3cb319c3a302.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "52116",
+      "person_name": "Marco Longhi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/52116.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "91620",
+      "person_name": "Sonia Kumar",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91620/07bd4df2-875c-492b-bc7c-1afd660f4132.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "99618",
+      "person_name": "Zia Qari",
+      "image": "/assets/images/missing.svg",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

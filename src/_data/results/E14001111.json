@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001111", "pcon24nm": "Bolton South and Walkden", "votes": [{"person_id": "105696", "person_name": "Philip Kochitty", "image": "/assets/images/missing.svg", "party_name": "Green Party"}, {"person_id": "106651", "person_name": "Don Prof Reis Abraham Halliwell Prf", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106651/ac2b5426-8641-404f-a614-05e7860d5b71.png", "party_name": "Independent"}, {"person_id": "34901", "person_name": "Mohammed Afzal", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34901/a38f1e29-d7bb-4c33-bc81-a4f24aa171fd.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "43246", "person_name": "Julie Pattison", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43246/c1882b9c-1022-47b8-94bb-40d681fc104e.png", "party_name": "Reform UK"}, {"person_id": "662", "person_name": "Yasmin Qureshi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553baf70b9c95afe74c5d335.png", "party_name": "Labour Party"}, {"person_id": "9455", "person_name": "Gemma-Jane Bowker", "image": "/assets/images/missing.svg", "party_name": "Liberal Democrats"}, {"person_id": "95598", "person_name": "Jack Khan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95598/c0c52b4f-81d8-453f-ab3a-f2aab1e70666.png", "party_name": "Workers Party of Britain"}]}
+{
+  "pcon24cd": "E14001111",
+  "pcon24nm": "Bolton South and Walkden",
+  "votes": [
+    {
+      "person_id": "105696",
+      "person_name": "Philip Kochitty",
+      "image": "/assets/images/missing.svg",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "106651",
+      "person_name": "Don Prof Reis Abraham Halliwell Prf",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106651/ac2b5426-8641-404f-a614-05e7860d5b71.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "34901",
+      "person_name": "Mohammed Afzal",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34901/a38f1e29-d7bb-4c33-bc81-a4f24aa171fd.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "43246",
+      "person_name": "Julie Pattison",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43246/c1882b9c-1022-47b8-94bb-40d681fc104e.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "662",
+      "person_name": "Yasmin Qureshi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553baf70b9c95afe74c5d335.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "9455",
+      "person_name": "Gemma-Jane Bowker",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "95598",
+      "person_name": "Jack Khan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95598/c0c52b4f-81d8-453f-ab3a-f2aab1e70666.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    }
+  ]
+}

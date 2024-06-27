@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001581", "pcon24nm": "Weston-super-Mare", "votes": [{"person_id": "100588", "person_name": "Thomas Joseph Harrison Daw", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100588/81f957d8-365b-450b-999b-1c3a1d21c2e3.png", "party_name": "Green Party"}, {"person_id": "116460", "person_name": "Dan Aldridge", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116460/29425386-32d7-4675-8677-2bdce1f37348.png", "party_name": "Labour Party"}, {"person_id": "117278", "person_name": "Richard Andrew Pearse", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117278/cc2ed25b-8be1-4960-9745-8404f076b2c5.png", "party_name": "Reform UK"}, {"person_id": "1329", "person_name": "John Penrose", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1329/db2e2e82-ffa6-471a-97c6-6e8441081ade.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "53277", "person_name": "Patrick Keating", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/53277/3d4b5c27-a7a8-452d-a91e-4dff7b4a8caa.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001581",
+  "pcon24nm": "Weston-super-Mare",
+  "votes": [
+    {
+      "person_id": "100588",
+      "person_name": "Thomas Joseph Harrison Daw",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100588/81f957d8-365b-450b-999b-1c3a1d21c2e3.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "116460",
+      "person_name": "Dan Aldridge",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116460/29425386-32d7-4675-8677-2bdce1f37348.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "117278",
+      "person_name": "Richard Andrew Pearse",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117278/cc2ed25b-8be1-4960-9745-8404f076b2c5.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "1329",
+      "person_name": "John Penrose",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1329/db2e2e82-ffa6-471a-97c6-6e8441081ade.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "53277",
+      "person_name": "Patrick Keating",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/53277/3d4b5c27-a7a8-452d-a91e-4dff7b4a8caa.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

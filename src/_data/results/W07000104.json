@@ -1,1 +1,62 @@
-{"pcon24cd": "W07000104", "pcon24nm": "Newport East", "votes": [{"person_id": "116490", "person_name": "Tommy Short", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116490/89a9dd38-021c-44ac-9b17-2fce244185a2.png", "party_name": "Reform UK"}, {"person_id": "117061", "person_name": "Mike Ford", "image": "/assets/images/missing.svg", "party_name": "Heritage Party"}, {"person_id": "1369", "person_name": "Jessica Morden", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1369/5f7e62c8-a91e-4b79-8ff2-6db654341cef.png", "party_name": "Labour Party"}, {"person_id": "25566", "person_name": "John Miller", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71698-607c6012-d1f4-4e37-ad75-74ce457ab53e.png", "party_name": "Liberal Democrats"}, {"person_id": "2752", "person_name": "Jonathan Clark", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2752.png", "party_name": "Plaid Cymru - The Party of Wales"}, {"person_id": "3762", "person_name": "Pippa Bartolotti", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3762/d2dee6bb-2b4e-4c6c-9fac-48b0926c72b7.png", "party_name": "Independent"}, {"person_id": "72971", "person_name": "Lauren James", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72971-e55a4605-8716-4fdf-a4e8-88c02a79e4be.png", "party_name": "Green Party"}, {"person_id": "76430", "person_name": "Rachel Egerton Buckler", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76430/eea01ecc-192b-455b-af7f-aba1977df4d0.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "W07000104",
+  "pcon24nm": "Newport East",
+  "votes": [
+    {
+      "person_id": "116490",
+      "person_name": "Tommy Short",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116490/89a9dd38-021c-44ac-9b17-2fce244185a2.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117061",
+      "person_name": "Mike Ford",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Heritage Party"
+    },
+    {
+      "person_id": "1369",
+      "person_name": "Jessica Morden",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1369/5f7e62c8-a91e-4b79-8ff2-6db654341cef.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "25566",
+      "person_name": "John Miller",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71698-607c6012-d1f4-4e37-ad75-74ce457ab53e.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "2752",
+      "person_name": "Jonathan Clark",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2752.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    },
+    {
+      "person_id": "3762",
+      "person_name": "Pippa Bartolotti",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3762/d2dee6bb-2b4e-4c6c-9fac-48b0926c72b7.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "72971",
+      "person_name": "Lauren James",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72971-e55a4605-8716-4fdf-a4e8-88c02a79e4be.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "76430",
+      "person_name": "Rachel Egerton Buckler",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76430/eea01ecc-192b-455b-af7f-aba1977df4d0.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

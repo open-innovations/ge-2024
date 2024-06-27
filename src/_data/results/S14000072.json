@@ -1,1 +1,48 @@
-{"pcon24cd": "S14000072", "pcon24nm": "Cumbernauld and Kirkintilloch", "votes": [{"person_id": "117122", "person_name": "Satbir Gill", "image": "/assets/images/missing.svg", "party_name": "Conservative and Unionist Party"}, {"person_id": "117535", "person_name": "Adam Harley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117535/02578105-2b76-498c-9428-21b0c2d215b6.png", "party_name": "Liberal Democrats"}, {"person_id": "20611", "person_name": "Anne McCrossan", "image": "/assets/images/missing.svg", "party_name": "Scottish Green Party"}, {"person_id": "2277", "person_name": "Katrina Murray", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69976.png", "party_name": "Labour Party"}, {"person_id": "5172", "person_name": "Stuart McDonald", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5172/fa2805a8-8755-440a-bae0-410008974488.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "74560", "person_name": "Billy Ross", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74560/74e86bd5-2222-4657-b08a-e3c4a92cfa11.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "S14000072",
+  "pcon24nm": "Cumbernauld and Kirkintilloch",
+  "votes": [
+    {
+      "person_id": "117122",
+      "person_name": "Satbir Gill",
+      "image": "/assets/images/missing.svg",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "117535",
+      "person_name": "Adam Harley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117535/02578105-2b76-498c-9428-21b0c2d215b6.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "20611",
+      "person_name": "Anne McCrossan",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Scottish Green Party"
+    },
+    {
+      "person_id": "2277",
+      "person_name": "Katrina Murray",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69976.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "5172",
+      "person_name": "Stuart McDonald",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5172/fa2805a8-8755-440a-bae0-410008974488.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "74560",
+      "person_name": "Billy Ross",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74560/74e86bd5-2222-4657-b08a-e3c4a92cfa11.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

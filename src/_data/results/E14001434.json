@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001434", "pcon24nm": "Putney", "votes": [{"person_id": "116056", "person_name": "Kieren McCarthy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116056/a92adc8c-a670-4f1e-a024-f4d29b1628d5.png", "party_name": "Liberal Democrats"}, {"person_id": "117713", "person_name": "Felix Burford-Connole", "image": "/assets/images/missing.svg", "party_name": "Rejoin EU"}, {"person_id": "117714", "person_name": "Peter Hunter", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}, {"person_id": "41061", "person_name": "Fergal Joseph McEntee", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/41061.png", "party_name": "Green Party"}, {"person_id": "43423", "person_name": "Fleur Anderson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43423/a69515cb-2c26-4443-a772-acd68e68b124.png", "party_name": "Labour Party"}, {"person_id": "74729", "person_name": "Heiko Khoo", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74729/d8c7930c-4c0f-44e7-a404-dbf73be6c826.png", "party_name": "Workers Party of Britain"}, {"person_id": "91120", "person_name": "Lee Jamie Roberts", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91120/32e0cfc4-2c60-42ea-9c7f-8092450d652d.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001434",
+  "pcon24nm": "Putney",
+  "votes": [
+    {
+      "person_id": "116056",
+      "person_name": "Kieren McCarthy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116056/a92adc8c-a670-4f1e-a024-f4d29b1628d5.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "117713",
+      "person_name": "Felix Burford-Connole",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Rejoin EU"
+    },
+    {
+      "person_id": "117714",
+      "person_name": "Peter Hunter",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "41061",
+      "person_name": "Fergal Joseph McEntee",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/41061.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "43423",
+      "person_name": "Fleur Anderson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43423/a69515cb-2c26-4443-a772-acd68e68b124.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "74729",
+      "person_name": "Heiko Khoo",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74729/d8c7930c-4c0f-44e7-a404-dbf73be6c826.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "91120",
+      "person_name": "Lee Jamie Roberts",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91120/32e0cfc4-2c60-42ea-9c7f-8092450d652d.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

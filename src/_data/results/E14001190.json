@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001190", "pcon24nm": "Darlington", "votes": [{"person_id": "102296", "person_name": "Michael Walker", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116828/6496c16c-805c-4280-843c-158be543a6f6.png", "party_name": "Reform UK"}, {"person_id": "34359", "person_name": "Lola McEvoy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34359/007e16c1-5db5-4392-a6d0-eb38b73f138b.png", "party_name": "Labour Party"}, {"person_id": "34517", "person_name": "Peter Gibson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34517.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "34986", "person_name": "Matthew Snedker", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34986/ce98efa2-15a9-48ce-90a7-9b044a2ba43e.png", "party_name": "Green Party"}, {"person_id": "46334", "person_name": "Simon Thorley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106327/01f78a6f-6b43-4511-b15e-fc26c2847e1a.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001190",
+  "pcon24nm": "Darlington",
+  "votes": [
+    {
+      "person_id": "102296",
+      "person_name": "Michael Walker",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116828/6496c16c-805c-4280-843c-158be543a6f6.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "34359",
+      "person_name": "Lola McEvoy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34359/007e16c1-5db5-4392-a6d0-eb38b73f138b.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "34517",
+      "person_name": "Peter Gibson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34517.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "34986",
+      "person_name": "Matthew Snedker",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34986/ce98efa2-15a9-48ce-90a7-9b044a2ba43e.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "46334",
+      "person_name": "Simon Thorley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106327/01f78a6f-6b43-4511-b15e-fc26c2847e1a.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

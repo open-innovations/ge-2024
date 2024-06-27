@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001435", "pcon24nm": "Queen's Park and Maida Vale", "votes": [{"person_id": "116058", "person_name": "Irakli Menabde", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116058/a5e06d8f-a666-4d14-a4ef-a9e90a1375fe.png", "party_name": "Workers Party of Britain"}, {"person_id": "2", "person_name": "Abdulla Janmohamed Dharamsi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2/6fdf7267-a56e-49d2-acbd-ff22aa85b36b.png", "party_name": "Independent"}, {"person_id": "41003", "person_name": "Vivien Lichtenstein", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/41003/36627c78-83bb-477e-9308-30076658c540.png", "party_name": "Green Party"}, {"person_id": "41763", "person_name": "Georgia Gould", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/41763/57b31604-3b56-4572-ac2d-c25e06bc0625.png", "party_name": "Labour Party"}, {"person_id": "77594", "person_name": "Helen Baxter", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77594/922331ca-1570-41bf-85a6-31c50c905eba.png", "party_name": "Liberal Democrats"}, {"person_id": "81604", "person_name": "Angela Michelle Carter-Begbie", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}, {"person_id": "84237", "person_name": "Samia Hersi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84237-ec5660a8-059f-4ecf-915f-df2a1d7cad33.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001435",
+  "pcon24nm": "Queen's Park and Maida Vale",
+  "votes": [
+    {
+      "person_id": "116058",
+      "person_name": "Irakli Menabde",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116058/a5e06d8f-a666-4d14-a4ef-a9e90a1375fe.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "2",
+      "person_name": "Abdulla Janmohamed Dharamsi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2/6fdf7267-a56e-49d2-acbd-ff22aa85b36b.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "41003",
+      "person_name": "Vivien Lichtenstein",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/41003/36627c78-83bb-477e-9308-30076658c540.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "41763",
+      "person_name": "Georgia Gould",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/41763/57b31604-3b56-4572-ac2d-c25e06bc0625.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "77594",
+      "person_name": "Helen Baxter",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77594/922331ca-1570-41bf-85a6-31c50c905eba.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "81604",
+      "person_name": "Angela Michelle Carter-Begbie",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "84237",
+      "person_name": "Samia Hersi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84237-ec5660a8-059f-4ecf-915f-df2a1d7cad33.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

@@ -1,1 +1,69 @@
-{"pcon24cd": "E14001306", "pcon24nm": "Islington South and Finsbury", "votes": [{"person_id": "116702", "person_name": "Carne Ross", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116702/5831ad39-40f1-4d0c-9e77-ddb8e9a23793.png", "party_name": "Green Party"}, {"person_id": "117478", "person_name": "Ethan Saunders", "image": "/assets/images/missing.svg", "party_name": "Trade Unionist and Socialist Coalition"}, {"person_id": "117479", "person_name": "Andrew Parry", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117479/e7fc5abb-219c-4fab-8465-e5ad099cf58e.png", "party_name": "Independent"}, {"person_id": "117480", "person_name": "Lesley Woodburn", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117480/6079adb7-af13-4273-b526-ea4fdec7c012.png", "party_name": "Party Of Women"}, {"person_id": "2519", "person_name": "Emily Thornberry", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2519/bb3c6938-c32f-4203-b7de-1979491cbc1c.png", "party_name": "Labour Party"}, {"person_id": "4505", "person_name": "Terry Stacy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8db2788906ef2517bd6d.png", "party_name": "Liberal Democrats"}, {"person_id": "47834", "person_name": "Jake Anthony Painter", "image": "/assets/images/missing.svg", "party_name": "Social Democratic Party"}, {"person_id": "65698", "person_name": "Max Jefferson Nelson", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}, {"person_id": "94296", "person_name": "Imogen Alice Sinclair", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94296/de7db9c5-d5df-419d-9bfb-75ca06deb847.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001306",
+  "pcon24nm": "Islington South and Finsbury",
+  "votes": [
+    {
+      "person_id": "116702",
+      "person_name": "Carne Ross",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116702/5831ad39-40f1-4d0c-9e77-ddb8e9a23793.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "117478",
+      "person_name": "Ethan Saunders",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Trade Unionist and Socialist Coalition"
+    },
+    {
+      "person_id": "117479",
+      "person_name": "Andrew Parry",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117479/e7fc5abb-219c-4fab-8465-e5ad099cf58e.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117480",
+      "person_name": "Lesley Woodburn",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117480/6079adb7-af13-4273-b526-ea4fdec7c012.png",
+      "party_key": "other",
+      "party_name": "Party Of Women"
+    },
+    {
+      "person_id": "2519",
+      "person_name": "Emily Thornberry",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2519/bb3c6938-c32f-4203-b7de-1979491cbc1c.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "4505",
+      "person_name": "Terry Stacy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8db2788906ef2517bd6d.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "47834",
+      "person_name": "Jake Anthony Painter",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "65698",
+      "person_name": "Max Jefferson Nelson",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "94296",
+      "person_name": "Imogen Alice Sinclair",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94296/de7db9c5-d5df-419d-9bfb-75ca06deb847.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

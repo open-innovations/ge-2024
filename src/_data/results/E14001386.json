@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001386", "pcon24nm": "North Cotswolds", "votes": [{"person_id": "108986", "person_name": "Anna Mainwaring", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108986/0379be41-cf68-4807-829b-08822346669b.png", "party_name": "Labour Party"}, {"person_id": "116418", "person_name": "Jason Preece", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116418/44e69bc7-95aa-49f0-b592-eb1733e913ae.png", "party_name": "Reform UK"}, {"person_id": "117769", "person_name": "Jean Annlyne Misseys Blackbeard", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117769/44ea3b9d-e5d5-433c-8f03-64779943a983.png", "party_name": "Independent"}, {"person_id": "3809", "person_name": "Geoffrey Clifton-Brown", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5548f7fa84e9778b52be3986.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "4537", "person_name": "Paul Richard Hodgkinson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4537/cf95a4e1-0609-4efd-b101-0a7631360b30.png", "party_name": "Liberal Democrats"}, {"person_id": "75432", "person_name": "Chloe Isobel Turner", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75432/782f3193-6d04-4ce5-8b43-20cba58f3e1b.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001386",
+  "pcon24nm": "North Cotswolds",
+  "votes": [
+    {
+      "person_id": "108986",
+      "person_name": "Anna Mainwaring",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108986/0379be41-cf68-4807-829b-08822346669b.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "116418",
+      "person_name": "Jason Preece",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116418/44e69bc7-95aa-49f0-b592-eb1733e913ae.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117769",
+      "person_name": "Jean Annlyne Misseys Blackbeard",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117769/44ea3b9d-e5d5-433c-8f03-64779943a983.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "3809",
+      "person_name": "Geoffrey Clifton-Brown",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5548f7fa84e9778b52be3986.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "4537",
+      "person_name": "Paul Richard Hodgkinson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4537/cf95a4e1-0609-4efd-b101-0a7631360b30.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "75432",
+      "person_name": "Chloe Isobel Turner",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75432/782f3193-6d04-4ce5-8b43-20cba58f3e1b.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

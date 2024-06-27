@@ -1,1 +1,69 @@
-{"pcon24cd": "S14000060", "pcon24nm": "Aberdeen North", "votes": [{"person_id": "117290", "person_name": "Kenneth Leggat", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117290/3c5da501-d055-4d29-a0e1-29b1ac302676.png", "party_name": "Reform UK"}, {"person_id": "21097", "person_name": "Lynn Thomson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21097/17cf79c9-094f-4e4a-8824-29e494ad572d.png", "party_name": "Labour Party"}, {"person_id": "6042", "person_name": "Kirsty Blackman", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6042/4a1fc754-5bdf-4f8f-aa68-144fcb1dd314.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "74392", "person_name": "Desmond Bouse", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74392/99dff417-dac9-46e9-b878-ac6f0714de15.png", "party_name": "Liberal Democrats"}, {"person_id": "74393", "person_name": "Lucas Grant", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74393-b6ae7cb9-a40e-4959-aaee-a0d9ebb63866.png", "party_name": "Trade Unionist and Socialist Coalition"}, {"person_id": "74616", "person_name": "Gillian Tebberen", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74616/0e1ca666-c068-4752-bb5c-cfed554e6e3e.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "85442", "person_name": "Charlie Abel", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85442/27972931-9c04-49a1-9ab4-3e9b75baf24a.png", "party_name": "Alba Party"}, {"person_id": "85468", "person_name": "Dawn Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85468/f35190da-2c0b-4f75-b8bc-7da4e1f2c00a.png", "party_name": "Scottish Family Party"}, {"person_id": "85482", "person_name": "Esme Houston", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85482/7347c9ec-4633-4c72-81df-125aaae8610a.png", "party_name": "Scottish Green Party"}]}
+{
+  "pcon24cd": "S14000060",
+  "pcon24nm": "Aberdeen North",
+  "votes": [
+    {
+      "person_id": "117290",
+      "person_name": "Kenneth Leggat",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117290/3c5da501-d055-4d29-a0e1-29b1ac302676.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "21097",
+      "person_name": "Lynn Thomson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21097/17cf79c9-094f-4e4a-8824-29e494ad572d.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "6042",
+      "person_name": "Kirsty Blackman",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6042/4a1fc754-5bdf-4f8f-aa68-144fcb1dd314.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "74392",
+      "person_name": "Desmond Bouse",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74392/99dff417-dac9-46e9-b878-ac6f0714de15.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "74393",
+      "person_name": "Lucas Grant",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74393-b6ae7cb9-a40e-4959-aaee-a0d9ebb63866.png",
+      "party_key": "other",
+      "party_name": "Trade Unionist and Socialist Coalition"
+    },
+    {
+      "person_id": "74616",
+      "person_name": "Gillian Tebberen",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74616/0e1ca666-c068-4752-bb5c-cfed554e6e3e.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "85442",
+      "person_name": "Charlie Abel",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85442/27972931-9c04-49a1-9ab4-3e9b75baf24a.png",
+      "party_key": "other",
+      "party_name": "Alba Party"
+    },
+    {
+      "person_id": "85468",
+      "person_name": "Dawn Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85468/f35190da-2c0b-4f75-b8bc-7da4e1f2c00a.png",
+      "party_key": "other",
+      "party_name": "Scottish Family Party"
+    },
+    {
+      "person_id": "85482",
+      "person_name": "Esme Houston",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85482/7347c9ec-4633-4c72-81df-125aaae8610a.png",
+      "party_key": "other",
+      "party_name": "Scottish Green Party"
+    }
+  ]
+}

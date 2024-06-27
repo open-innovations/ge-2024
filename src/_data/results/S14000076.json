@@ -1,1 +1,69 @@
-{"pcon24cd": "S14000076", "pcon24nm": "Dunfermline and Dollar", "votes": [{"person_id": "116838", "person_name": "Lauren Buchanan-Quigley", "image": "/assets/images/missing.svg", "party_name": "Liberal Democrats"}, {"person_id": "117425", "person_name": "Udo Van Den Brock", "image": "/assets/images/missing.svg", "party_name": "Reform UK"}, {"person_id": "117426", "person_name": "George Morton", "image": "/assets/images/missing.svg", "party_name": "Independent"}, {"person_id": "72239", "person_name": "Graham Wilson Hadley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117421/47b80230-abda-49cb-8d35-9d6ec5c95cd0.png", "party_name": "Independent"}, {"person_id": "74093", "person_name": "Graeme Downie", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74093/4c52ba8a-51ad-4b4c-8acb-90d67b742ecd.png", "party_name": "Labour Party"}, {"person_id": "85356", "person_name": "Thomas Heald", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85356/04ed9360-0ae1-4853-bb9d-d7c1c57c6a91.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "85876", "person_name": "Naz Anis-Miah", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85876/1f77b08a-61aa-4993-a79a-6b44f655d35f.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "85904", "person_name": "Ryan Blackadder", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85904/8b04febf-ea5e-4ec4-a52a-a9a426ad9397.png", "party_name": "Scottish Green Party"}, {"person_id": "85976", "person_name": "Danny Smith", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85976/2eafd4ea-281d-4016-9821-ef2d5729f8ba.png", "party_name": "Scottish Family Party"}]}
+{
+  "pcon24cd": "S14000076",
+  "pcon24nm": "Dunfermline and Dollar",
+  "votes": [
+    {
+      "person_id": "116838",
+      "person_name": "Lauren Buchanan-Quigley",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "117425",
+      "person_name": "Udo Van Den Brock",
+      "image": "/assets/images/missing.svg",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117426",
+      "person_name": "George Morton",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "72239",
+      "person_name": "Graham Wilson Hadley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117421/47b80230-abda-49cb-8d35-9d6ec5c95cd0.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "74093",
+      "person_name": "Graeme Downie",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74093/4c52ba8a-51ad-4b4c-8acb-90d67b742ecd.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "85356",
+      "person_name": "Thomas Heald",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85356/04ed9360-0ae1-4853-bb9d-d7c1c57c6a91.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "85876",
+      "person_name": "Naz Anis-Miah",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85876/1f77b08a-61aa-4993-a79a-6b44f655d35f.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "85904",
+      "person_name": "Ryan Blackadder",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85904/8b04febf-ea5e-4ec4-a52a-a9a426ad9397.png",
+      "party_key": "other",
+      "party_name": "Scottish Green Party"
+    },
+    {
+      "person_id": "85976",
+      "person_name": "Danny Smith",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85976/2eafd4ea-281d-4016-9821-ef2d5729f8ba.png",
+      "party_key": "other",
+      "party_name": "Scottish Family Party"
+    }
+  ]
+}

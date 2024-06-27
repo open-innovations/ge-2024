@@ -1,1 +1,69 @@
-{"pcon24cd": "W07000092", "pcon24nm": "Cardiff West", "votes": [{"person_id": "115380", "person_name": "Jess Ryan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115380/b0f2c44d-9fa8-4bb2-8246-5ae1b8f6de5c.png", "party_name": "Green Party"}, {"person_id": "116477", "person_name": "Kiera Marshall", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116477/b569d640-2ae3-4e51-9bcc-7a92f27639db.png", "party_name": "Plaid Cymru - The Party of Wales"}, {"person_id": "116914", "person_name": "Alex Barros-Curtis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116914/1b394261-6391-4d28-8936-a6153768affa.png", "party_name": "Labour Party"}, {"person_id": "117698", "person_name": "John Ernest Urquhart", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117698/fef62a52-3fa5-4661-9ed1-5b4c5a057ca8.png", "party_name": "Independent"}, {"person_id": "117699", "person_name": "Sean Wesley", "image": "/assets/images/missing.svg", "party_name": "Heritage Party"}, {"person_id": "47002", "person_name": "James Robert Hamblin", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/47002.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "4967", "person_name": "Neil John McEvoy", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4967/08ea262b-5e1b-4885-9b60-bab23b556024.png", "party_name": "Propel"}, {"person_id": "6125", "person_name": "Manda Rigby", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6125/1d10f85b-f4be-40d8-a393-d69c38b045e4.png", "party_name": "Liberal Democrats"}, {"person_id": "72356", "person_name": "Peter Meireon Hopkins", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72356-f1949731-623a-48d0-9fd3-091a24470e6c.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "W07000092",
+  "pcon24nm": "Cardiff West",
+  "votes": [
+    {
+      "person_id": "115380",
+      "person_name": "Jess Ryan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115380/b0f2c44d-9fa8-4bb2-8246-5ae1b8f6de5c.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "116477",
+      "person_name": "Kiera Marshall",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116477/b569d640-2ae3-4e51-9bcc-7a92f27639db.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    },
+    {
+      "person_id": "116914",
+      "person_name": "Alex Barros-Curtis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116914/1b394261-6391-4d28-8936-a6153768affa.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "117698",
+      "person_name": "John Ernest Urquhart",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117698/fef62a52-3fa5-4661-9ed1-5b4c5a057ca8.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "117699",
+      "person_name": "Sean Wesley",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Heritage Party"
+    },
+    {
+      "person_id": "47002",
+      "person_name": "James Robert Hamblin",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/47002.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "4967",
+      "person_name": "Neil John McEvoy",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4967/08ea262b-5e1b-4885-9b60-bab23b556024.png",
+      "party_key": "other",
+      "party_name": "Propel"
+    },
+    {
+      "person_id": "6125",
+      "person_name": "Manda Rigby",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6125/1d10f85b-f4be-40d8-a393-d69c38b045e4.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "72356",
+      "person_name": "Peter Meireon Hopkins",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72356-f1949731-623a-48d0-9fd3-091a24470e6c.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

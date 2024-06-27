@@ -1,1 +1,69 @@
-{"pcon24cd": "S14000082", "pcon24nm": "Edinburgh West", "votes": [{"person_id": "116232", "person_name": "Michael Davidson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116232/f6662efc-d929-4a3f-a219-bb036d95ead4.png", "party_name": "Labour Party"}, {"person_id": "117128", "person_name": "Alastair Shields", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117128/04212535-659d-4f64-87b3-b26ff763a7af.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "117514", "person_name": "Nick Hornig", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117514/fb212edb-9fc1-479d-9b6e-c9bbfb1a45fe.png", "party_name": "Independent"}, {"person_id": "4499", "person_name": "Christine Jardine", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4499/bf65ccf4-fe36-47f8-94e7-2c1282afec20.png", "party_name": "Liberal Democrats"}, {"person_id": "73702", "person_name": "James Puchowski", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73702/3c5f0fbf-c0ae-4a95-a002-21d0bd1133ff.png", "party_name": "Scottish Green Party"}, {"person_id": "8275", "person_name": "Tam Laird", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8275/f05e7351-d4d0-41df-9bc2-53442ef0217f.png", "party_name": "Scottish Libertarian Party"}, {"person_id": "84941", "person_name": "Euan Hyslop", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84941/4908ba37-b593-46de-a55a-15a1f0bad3c5.png", "party_name": "Scottish National Party (SNP)"}, {"person_id": "86120", "person_name": "David Henry", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117011/0bfd57d7-a828-4cb5-8c71-63e7509f4ee2.png", "party_name": "Independent"}, {"person_id": "944", "person_name": "Otto Inglis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/944.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "S14000082",
+  "pcon24nm": "Edinburgh West",
+  "votes": [
+    {
+      "person_id": "116232",
+      "person_name": "Michael Davidson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116232/f6662efc-d929-4a3f-a219-bb036d95ead4.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "117128",
+      "person_name": "Alastair Shields",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117128/04212535-659d-4f64-87b3-b26ff763a7af.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "117514",
+      "person_name": "Nick Hornig",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117514/fb212edb-9fc1-479d-9b6e-c9bbfb1a45fe.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "4499",
+      "person_name": "Christine Jardine",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4499/bf65ccf4-fe36-47f8-94e7-2c1282afec20.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "73702",
+      "person_name": "James Puchowski",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73702/3c5f0fbf-c0ae-4a95-a002-21d0bd1133ff.png",
+      "party_key": "other",
+      "party_name": "Scottish Green Party"
+    },
+    {
+      "person_id": "8275",
+      "person_name": "Tam Laird",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8275/f05e7351-d4d0-41df-9bc2-53442ef0217f.png",
+      "party_key": "other",
+      "party_name": "Scottish Libertarian Party"
+    },
+    {
+      "person_id": "84941",
+      "person_name": "Euan Hyslop",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84941/4908ba37-b593-46de-a55a-15a1f0bad3c5.png",
+      "party_key": "snp",
+      "party_name": "Scottish National Party (SNP)"
+    },
+    {
+      "person_id": "86120",
+      "person_name": "David Henry",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117011/0bfd57d7-a828-4cb5-8c71-63e7509f4ee2.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "944",
+      "person_name": "Otto Inglis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/944.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

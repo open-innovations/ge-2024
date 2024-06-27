@@ -1,1 +1,62 @@
-{"pcon24cd": "E14001279", "pcon24nm": "Hendon", "votes": [{"person_id": "109369", "person_name": "Jane Gibson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116033/ff8f5b6a-0ad6-49f7-ac5a-cee4beffdb5b.png", "party_name": "Social Democratic Party"}, {"person_id": "116032", "person_name": "Joshua Leon Pearl", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116032/54d5217a-7e51-45da-97f9-41491b0c4403.png", "party_name": "Reform UK"}, {"person_id": "117364", "person_name": "Imtiaz Palekar", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117364/cf77a5d6-e2bc-4d9a-a632-0bf61358cf54.png", "party_name": "Workers Party of Britain"}, {"person_id": "34528", "person_name": "Ameet Jogia", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34528/f7ae8f45-7f25-4996-93cb-6aa2703a3a17.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "38913", "person_name": "Clareine Enderby", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/38913.png", "party_name": "Liberal Democrats"}, {"person_id": "47145", "person_name": "Gabrielle Bailey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/47145/4b55b044-8a5c-406b-9817-49652fdd9faf.png", "party_name": "Green Party"}, {"person_id": "5863", "person_name": "David Pinto-Duschinsky", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5863/9758aae4-5221-43e5-be52-ba49af883d35.png", "party_name": "Labour Party"}, {"person_id": "88941", "person_name": "Ben Rend", "image": "/assets/images/missing.svg", "party_name": "Rejoin EU"}]}
+{
+  "pcon24cd": "E14001279",
+  "pcon24nm": "Hendon",
+  "votes": [
+    {
+      "person_id": "109369",
+      "person_name": "Jane Gibson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116033/ff8f5b6a-0ad6-49f7-ac5a-cee4beffdb5b.png",
+      "party_key": "other",
+      "party_name": "Social Democratic Party"
+    },
+    {
+      "person_id": "116032",
+      "person_name": "Joshua Leon Pearl",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116032/54d5217a-7e51-45da-97f9-41491b0c4403.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117364",
+      "person_name": "Imtiaz Palekar",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117364/cf77a5d6-e2bc-4d9a-a632-0bf61358cf54.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "34528",
+      "person_name": "Ameet Jogia",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34528/f7ae8f45-7f25-4996-93cb-6aa2703a3a17.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "38913",
+      "person_name": "Clareine Enderby",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/38913.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "47145",
+      "person_name": "Gabrielle Bailey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/47145/4b55b044-8a5c-406b-9817-49652fdd9faf.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "5863",
+      "person_name": "David Pinto-Duschinsky",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5863/9758aae4-5221-43e5-be52-ba49af883d35.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "88941",
+      "person_name": "Ben Rend",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Rejoin EU"
+    }
+  ]
+}

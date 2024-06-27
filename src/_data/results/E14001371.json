@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001371", "pcon24nm": "Mitcham and Morden", "votes": [{"person_id": "116049", "person_name": "Mehmood Jamshed", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116049/9837ed62-230e-4293-b128-40def499b67f.png", "party_name": "Workers Party of Britain"}, {"person_id": "3048", "person_name": "Siobhain McDonagh", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553c30790aa751ab25174175.png", "party_name": "Labour Party"}, {"person_id": "34836", "person_name": "Ruth Price", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34836.png", "party_name": "Reform UK"}, {"person_id": "48223", "person_name": "Pippa Maslin", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86452/8c3c24b6-fcc0-4439-aa91-b403017e2881.png", "party_name": "Green Party"}, {"person_id": "6479", "person_name": "Des Coke", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6479_ApTxaTF.png", "party_name": "Christian Peoples Alliance"}, {"person_id": "70602", "person_name": "Jenifer Ann Gould", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/70602/3437cb27-ced8-47fb-90aa-dcfe3b094ac7.png", "party_name": "Liberal Democrats"}, {"person_id": "92056", "person_name": "Ellie Cox", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92056/4a9f82c7-d793-40cf-b9c8-f9be66d19c3c.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001371",
+  "pcon24nm": "Mitcham and Morden",
+  "votes": [
+    {
+      "person_id": "116049",
+      "person_name": "Mehmood Jamshed",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116049/9837ed62-230e-4293-b128-40def499b67f.png",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "3048",
+      "person_name": "Siobhain McDonagh",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553c30790aa751ab25174175.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "34836",
+      "person_name": "Ruth Price",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34836.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "48223",
+      "person_name": "Pippa Maslin",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86452/8c3c24b6-fcc0-4439-aa91-b403017e2881.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "6479",
+      "person_name": "Des Coke",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6479_ApTxaTF.png",
+      "party_key": "other",
+      "party_name": "Christian Peoples Alliance"
+    },
+    {
+      "person_id": "70602",
+      "person_name": "Jenifer Ann Gould",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/70602/3437cb27-ced8-47fb-90aa-dcfe3b094ac7.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "92056",
+      "person_name": "Ellie Cox",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92056/4a9f82c7-d793-40cf-b9c8-f9be66d19c3c.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}

@@ -1,1 +1,55 @@
-{"pcon24cd": "E14001349", "pcon24nm": "Maidstone and Malling", "votes": [{"person_id": "12169", "person_name": "Maureen Cleator", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116337/2f959932-9b44-40f2-871e-bf3909400131.png", "party_name": "Labour Party"}, {"person_id": "2107", "person_name": "Helen Grant", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2107-803714f4-9d28-4c83-bfc0-db6e5a764f97.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "2111", "person_name": "Stuart Robert Jeffery", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2111.png", "party_name": "Green Party"}, {"person_id": "23", "person_name": "Gary Butler", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117786/b888e23b-9d53-4ff7-9816-6d38d1f53040.png", "party_name": "British Democratic Party"}, {"person_id": "2759", "person_name": "David Sandru Naghi", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7535.png", "party_name": "Liberal Democrats"}, {"person_id": "28382", "person_name": "Yolande Ann Kenward", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/28382.png", "party_name": "Independent"}, {"person_id": "94123", "person_name": "Paul Thomas", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116336/a33002a2-1fde-470d-ae00-b7c46abd4814.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "E14001349",
+  "pcon24nm": "Maidstone and Malling",
+  "votes": [
+    {
+      "person_id": "12169",
+      "person_name": "Maureen Cleator",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116337/2f959932-9b44-40f2-871e-bf3909400131.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "2107",
+      "person_name": "Helen Grant",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2107-803714f4-9d28-4c83-bfc0-db6e5a764f97.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "2111",
+      "person_name": "Stuart Robert Jeffery",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2111.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "23",
+      "person_name": "Gary Butler",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117786/b888e23b-9d53-4ff7-9816-6d38d1f53040.png",
+      "party_key": "other",
+      "party_name": "British Democratic Party"
+    },
+    {
+      "person_id": "2759",
+      "person_name": "David Sandru Naghi",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7535.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "28382",
+      "person_name": "Yolande Ann Kenward",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/28382.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "94123",
+      "person_name": "Paul Thomas",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116336/a33002a2-1fde-470d-ae00-b7c46abd4814.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

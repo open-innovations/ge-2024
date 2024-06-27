@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001584", "pcon24nm": "Widnes and Halewood", "votes": [{"person_id": "106782", "person_name": "Nancy Lola Mills", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106782/55736d93-8976-4239-b3e8-834bc82e44c7.png", "party_name": "Green Party"}, {"person_id": "117084", "person_name": "Michael Murphy", "image": "/assets/images/missing.svg", "party_name": "Workers Party of Britain"}, {"person_id": "1495", "person_name": "Derek Twigg", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553aadb378c2688c57905d0d.png", "party_name": "Labour Party"}, {"person_id": "49135", "person_name": "David Coveney", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49135/6743ca3a-bd2a-4570-9b03-4e1f498aa044.png", "party_name": "Liberal Democrats"}, {"person_id": "53169", "person_name": "Sean Houlston", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/53169/d67eefa4-ef22-41ec-9a6d-60438ae048ce.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "72116", "person_name": "Jake Fraser", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72116-ec4edceb-f40c-4c3e-9a31-46503ae6f728.png", "party_name": "Reform UK"}]}
+{
+  "pcon24cd": "E14001584",
+  "pcon24nm": "Widnes and Halewood",
+  "votes": [
+    {
+      "person_id": "106782",
+      "person_name": "Nancy Lola Mills",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106782/55736d93-8976-4239-b3e8-834bc82e44c7.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "117084",
+      "person_name": "Michael Murphy",
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Workers Party of Britain"
+    },
+    {
+      "person_id": "1495",
+      "person_name": "Derek Twigg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553aadb378c2688c57905d0d.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "49135",
+      "person_name": "David Coveney",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49135/6743ca3a-bd2a-4570-9b03-4e1f498aa044.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "53169",
+      "person_name": "Sean Houlston",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/53169/d67eefa4-ef22-41ec-9a6d-60438ae048ce.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "72116",
+      "person_name": "Jake Fraser",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72116-ec4edceb-f40c-4c3e-9a31-46503ae6f728.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"pcon24cd": "W07000083", "pcon24nm": "Bangor Aberconwy", "votes": [{"person_id": "115343", "person_name": "Claire Hughes", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115343/f4c44945-e23e-4a93-afb9-932eef6a4cca.png", "party_name": "Labour Party"}, {"person_id": "117529", "person_name": "John Clark", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117529/a67c6f43-83b6-4c5c-9a21-5271bdd6523a.png", "party_name": "Reform UK"}, {"person_id": "117531", "person_name": "Steve Marshall", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117531/b4a0c9a6-6b6f-4815-9213-45a5158caa46.png", "party_name": "Climate Party"}, {"person_id": "2283", "person_name": "Robin Millar", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2283.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "25271", "person_name": "Catrin Elen Wager", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/25271/f9aff2b6-fa18-436a-990b-d28fede02988.png", "party_name": "Plaid Cymru - The Party of Wales"}, {"person_id": "5755", "person_name": "Kathrine Jones", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117530/dc51baa4-9ca5-49c9-8846-7796032cfbd1.png", "party_name": "Socialist Labour Party"}, {"person_id": "6949", "person_name": "Petra Haig", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6949/caa4ef0a-b6e7-46d8-ab95-82cfea0a941f.png", "party_name": "Green Party"}, {"person_id": "89237", "person_name": "Rachael Roberts", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89237/56160a8c-91dd-4ef8-b0c1-5715fdefff31.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "W07000083",
+  "pcon24nm": "Bangor Aberconwy",
+  "votes": [
+    {
+      "person_id": "115343",
+      "person_name": "Claire Hughes",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115343/f4c44945-e23e-4a93-afb9-932eef6a4cca.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "117529",
+      "person_name": "John Clark",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117529/a67c6f43-83b6-4c5c-9a21-5271bdd6523a.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "117531",
+      "person_name": "Steve Marshall",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117531/b4a0c9a6-6b6f-4815-9213-45a5158caa46.png",
+      "party_key": "other",
+      "party_name": "Climate Party"
+    },
+    {
+      "person_id": "2283",
+      "person_name": "Robin Millar",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2283.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "25271",
+      "person_name": "Catrin Elen Wager",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/25271/f9aff2b6-fa18-436a-990b-d28fede02988.png",
+      "party_key": "pc",
+      "party_name": "Plaid Cymru - The Party of Wales"
+    },
+    {
+      "person_id": "5755",
+      "person_name": "Kathrine Jones",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117530/dc51baa4-9ca5-49c9-8846-7796032cfbd1.png",
+      "party_key": "other",
+      "party_name": "Socialist Labour Party"
+    },
+    {
+      "person_id": "6949",
+      "person_name": "Petra Haig",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6949/caa4ef0a-b6e7-46d8-ab95-82cfea0a941f.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "89237",
+      "person_name": "Rachael Roberts",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89237/56160a8c-91dd-4ef8-b0c1-5715fdefff31.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

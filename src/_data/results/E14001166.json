@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001166", "pcon24nm": "Chichester", "votes": [{"person_id": "101235", "person_name": "Jessica Brown-Fuller", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101235/c66bffed-d45a-4b89-b8a2-f0d0dd5e40be.png", "party_name": "Liberal Democrats"}, {"person_id": "114761", "person_name": "Tom Collinge", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116292/12615970-ea91-4f3c-b2cf-42f4a93d6bc8.png", "party_name": "Labour Party"}, {"person_id": "116291", "person_name": "Teresa De Santis", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116291/4b63bb95-7be1-4113-add8-b41eff5dc646.png", "party_name": "Reform UK"}, {"person_id": "6138", "person_name": "Gillian Keegan", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6138/e1290bb5-c2a6-4d2c-a067-c62891fd22ce.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "6208", "person_name": "Andrew Emerson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6208.png", "party_name": "Independent"}, {"person_id": "73930", "person_name": "Tim Young", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/73930-62097e94-aa73-47ad-ad4c-77a1724e99ed.png", "party_name": "Green Party"}]}
+{
+  "pcon24cd": "E14001166",
+  "pcon24nm": "Chichester",
+  "votes": [
+    {
+      "person_id": "101235",
+      "person_name": "Jessica Brown-Fuller",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101235/c66bffed-d45a-4b89-b8a2-f0d0dd5e40be.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "114761",
+      "person_name": "Tom Collinge",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116292/12615970-ea91-4f3c-b2cf-42f4a93d6bc8.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "116291",
+      "person_name": "Teresa De Santis",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116291/4b63bb95-7be1-4113-add8-b41eff5dc646.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "6138",
+      "person_name": "Gillian Keegan",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6138/e1290bb5-c2a6-4d2c-a067-c62891fd22ce.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "6208",
+      "person_name": "Andrew Emerson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6208.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "73930",
+      "person_name": "Tim Young",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/73930-62097e94-aa73-47ad-ad4c-77a1724e99ed.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    }
+  ]
+}

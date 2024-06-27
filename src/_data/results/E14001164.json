@@ -1,1 +1,48 @@
-{"pcon24cd": "E14001164", "pcon24nm": "Chester South and Eddisbury", "votes": [{"person_id": "105400", "person_name": "Steve Davies", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105400/1423181f-463e-4837-b51e-4c85d468922b.png", "party_name": "Green Party"}, {"person_id": "114204", "person_name": "Peter Langley", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116140/8ad5819c-69b8-4aa2-84de-496dad488c97.png", "party_name": "Reform UK"}, {"person_id": "14507", "person_name": "Angeliki Stogia", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14507/3528ea68-1c48-42c4-9a1d-02a01e79af67.png", "party_name": "Labour Party"}, {"person_id": "36591", "person_name": "Aphra Brandreth", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/36591/c3f3b40c-73f8-4df3-ae01-e4507935de15.png", "party_name": "Conservative and Unionist Party"}, {"person_id": "66580", "person_name": "Gillian Edwards", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/66580/ccf38227-eb29-4f29-a017-c57e0b8f4286.png", "party_name": "Independent"}, {"person_id": "95430", "person_name": "Rob Herd", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95430/fc45d547-b0f7-461b-8bfe-8954f2099414.png", "party_name": "Liberal Democrats"}]}
+{
+  "pcon24cd": "E14001164",
+  "pcon24nm": "Chester South and Eddisbury",
+  "votes": [
+    {
+      "person_id": "105400",
+      "person_name": "Steve Davies",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105400/1423181f-463e-4837-b51e-4c85d468922b.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "114204",
+      "person_name": "Peter Langley",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116140/8ad5819c-69b8-4aa2-84de-496dad488c97.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "14507",
+      "person_name": "Angeliki Stogia",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14507/3528ea68-1c48-42c4-9a1d-02a01e79af67.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "36591",
+      "person_name": "Aphra Brandreth",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/36591/c3f3b40c-73f8-4df3-ae01-e4507935de15.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    },
+    {
+      "person_id": "66580",
+      "person_name": "Gillian Edwards",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/66580/ccf38227-eb29-4f29-a017-c57e0b8f4286.png",
+      "party_key": "other",
+      "party_name": "Independent"
+    },
+    {
+      "person_id": "95430",
+      "person_name": "Rob Herd",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95430/fc45d547-b0f7-461b-8bfe-8954f2099414.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    }
+  ]
+}

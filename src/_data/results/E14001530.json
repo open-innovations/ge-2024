@@ -1,1 +1,41 @@
-{"pcon24cd": "E14001530", "pcon24nm": "Suffolk Coastal", "votes": [{"person_id": "113685", "person_name": "Jenny Riddell-Carpenter", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115971/5d60fee3-dd9d-4fd1-8a6e-fcf7013167ea.png", "party_name": "Labour Party"}, {"person_id": "117289", "person_name": "Matthew Paul Jackson", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117289/91015dff-2329-4524-8079-f28163b4a535.png", "party_name": "Reform UK"}, {"person_id": "48925", "person_name": "Julia Ewart", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48925/afdb6b48-a172-4624-8171-57ae9523dda9.png", "party_name": "Liberal Democrats"}, {"person_id": "58120", "person_name": "Julian Michael Cusack", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/58120/d12ecc59-6315-4fcd-9119-1c837dd38fef.png", "party_name": "Green Party"}, {"person_id": "84", "person_name": "Th\u00e9r\u00e8se Coffey", "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84/fe807b54-7bd7-415d-8580-f6f62b8c4af4.png", "party_name": "Conservative and Unionist Party"}]}
+{
+  "pcon24cd": "E14001530",
+  "pcon24nm": "Suffolk Coastal",
+  "votes": [
+    {
+      "person_id": "113685",
+      "person_name": "Jenny Riddell-Carpenter",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115971/5d60fee3-dd9d-4fd1-8a6e-fcf7013167ea.png",
+      "party_key": "lab",
+      "party_name": "Labour Party"
+    },
+    {
+      "person_id": "117289",
+      "person_name": "Matthew Paul Jackson",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117289/91015dff-2329-4524-8079-f28163b4a535.png",
+      "party_key": "ref",
+      "party_name": "Reform UK"
+    },
+    {
+      "person_id": "48925",
+      "person_name": "Julia Ewart",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48925/afdb6b48-a172-4624-8171-57ae9523dda9.png",
+      "party_key": "ld",
+      "party_name": "Liberal Democrats"
+    },
+    {
+      "person_id": "58120",
+      "person_name": "Julian Michael Cusack",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/58120/d12ecc59-6315-4fcd-9119-1c837dd38fef.png",
+      "party_key": "green",
+      "party_name": "Green Party"
+    },
+    {
+      "person_id": "84",
+      "person_name": "Th\u00e9r\u00e8se Coffey",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84/fe807b54-7bd7-415d-8580-f6f62b8c4af4.png",
+      "party_key": "con",
+      "party_name": "Conservative and Unionist Party"
+    }
+  ]
+}
