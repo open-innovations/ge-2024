@@ -27,6 +27,8 @@ const site = lume({
   location: new URL("https://ge-2024.open-innovations.org/"),
 });
 
+site.data("cms", "https://cms.ge-2024.open-innovations.org/");
+
 // Set up plugins
 site.use(date());
 site.use(favicon({

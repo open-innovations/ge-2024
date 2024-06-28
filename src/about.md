@@ -1,5 +1,6 @@
 ---
 title: About this site
+templateEngine: vto, markdown
 ---
 
 # About this site
@@ -30,5 +31,4 @@ library. They are orchestrated using DVC.
 
 ## CMS
 
-The CMS for the site is available at <https://ge-2024.deno.dev/>. You will need
-a password.
+The CMS for the site is available at <{{ cms }}>. You will need a password.

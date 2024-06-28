@@ -7,10 +7,10 @@ scripts:
     cmd:
       - pipenv run dvc repro
 
-  formatter:
+  check:
     cmd:
-      - deno lint
-      - deno fmt
+      - deno lint --compact
+      - deno fmt --check
     gitHook: pre-commit
 
   get-fonts:
