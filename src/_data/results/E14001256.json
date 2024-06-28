@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001256",
   "pcon24nm": "Great Yarmouth",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "113529",
       "person_name": "Keir Cozens",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115938/aa45771e-05c0-4dc9-a0c0-dbd74de83bb0.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "117260",
       "person_name": "Paul David Brown",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117260/d62bfab3-28fb-488a-b90a-9d2b97c1ad77.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117261",
       "person_name": "Clare Chantal Roullier",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117261/9966fbf2-f48e-4a08-86ed-ce1be8e28933.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "30097",
       "person_name": "Catherine Blaiklock",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/30097.png",
       "party_key": "other",
-      "party_name": "English Democrats"
+      "party_name": "English Democrats",
+      "votes": null
     },
     {
       "person_id": "34537",
       "person_name": "James Clark",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72524-8a783fb5-5086-48c6-8656-012a371d4061.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "35075",
       "person_name": "Fionna Tod",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35075.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "70502",
       "person_name": "Rupert Lowe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/70502/5693aa29-913c-40e5-8978-fdef2ea8d1ac.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "83241",
       "person_name": "Trevor Rawson",
       "image": "/assets/images/missing.svg",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

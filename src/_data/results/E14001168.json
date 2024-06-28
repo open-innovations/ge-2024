@@ -1,48 +1,58 @@
 {
   "pcon24cd": "E14001168",
   "pcon24nm": "Chippenham",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117000",
       "person_name": "Ed Deedigan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117000/1997bfb6-da56-41d9-94ed-dad43e765baf.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117473",
       "person_name": "Benjamin David Ginsburg",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117473/f83a2987-aea3-4c2f-bc68-d56b3e27ee72.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "23913",
       "person_name": "Sarah Gibson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/23913-80db0cee-f5b8-4869-8ca3-45b36679ce82.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "49292",
       "person_name": "Ravi Venkatesh",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49292/d8386e4c-4558-4deb-853e-b4cec444215e.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "81212",
       "person_name": "Nic Puntis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81212/1d6f6ba4-447f-43a0-8132-1673de974557.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "81255",
       "person_name": "Declan Baseley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81255/5007bc45-1177-410c-9ce7-b10db0ebccda.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

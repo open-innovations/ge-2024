@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001082",
   "pcon24nm": "Beaconsfield",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116272",
       "person_name": "Catherine Harker",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "116690",
       "person_name": "Dominick Pegram",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116690/8ca7adac-3ba1-4dbd-b8b9-7522a03389b9.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "116792",
       "person_name": "Matthew Patterson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116792/c0fbf8de-927c-453d-8338-78e51b644965.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "117540",
       "person_name": "Pippa Allen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117540/9ec175f3-cbc8-4766-8d34-52b1ade25aed.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117541",
       "person_name": "Cole Derek Antony Caesar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117541/634ea11c-4560-4d05-8521-639bf71d6158.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "15007",
       "person_name": "John Anthony Sydney Halsall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/15007/b8c772f4-7edf-4046-a0af-8b4de7b7e32a.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "8004",
       "person_name": "Joy Morrissey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/8004.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "81400",
       "person_name": "Anna Victoria Crabtree",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81400/b065a359-ef7f-4b48-a18c-d1d65ea9de4f.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

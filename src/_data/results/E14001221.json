@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001221",
   "pcon24nm": "Edmonton and Winchmore Hill",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117005",
       "person_name": "Khalid Sadur",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117005/1e593521-5d2d-4458-825c-2d0e22509b90.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "15969",
       "person_name": "Zoe Huggins",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/15969-3da464c4-a50a-4a69-b43d-4be587c09bd9.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "40980",
       "person_name": "Denise Headley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117243/2a6f6532-eef7-4f49-af51-690ee5af973a.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "5106",
       "person_name": "Neville Watson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113807/0901a64e-623f-4907-a77a-0ff5694a6404.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "6425",
       "person_name": "Kate Osamor",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5518ab50249b917507bee597.png",
       "party_key": "lab",
-      "party_name": "Labour and Co-operative Party"
+      "party_name": "Labour and Co-operative Party",
+      "votes": null
     },
     {
       "person_id": "6475",
       "person_name": "Yemi Awolola",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6475/ad5c7f0f-71e1-44bf-971b-729771b1302d.png",
       "party_key": "other",
-      "party_name": "Christian Peoples Alliance"
+      "party_name": "Christian Peoples Alliance",
+      "votes": null
     },
     {
       "person_id": "6790",
       "person_name": "Luke Balnave",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ab3d9c0ff2778587ee2bb.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "90654",
       "person_name": "Tim Martin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90654/0795e4d2-842c-482b-9db5-b17ada1a2555.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

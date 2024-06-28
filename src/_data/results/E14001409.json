@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001409",
   "pcon24nm": "Norwich South",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "113620",
       "person_name": "David Thomas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113620/e6b97205-944c-4692-9d89-77f26a39bdf7.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "115954",
       "person_name": "Graham Burton",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117794",
       "person_name": "Linda Jane Law",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117794/ed85785c-c73f-4f3b-ae4d-0db2b8a27521.png",
       "party_key": "other",
-      "party_name": "Party Of Women"
+      "party_name": "Party Of Women",
+      "votes": null
     },
     {
       "person_id": "117830",
       "person_name": "Elizabeth Ashley Davey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117830/018dcef0-148f-4988-9a32-a632b707e2ce.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "4396",
       "person_name": "Clive Lewis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4396/1c78e065-2846-4d99-bf8a-ba5e23b91a71.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "61105",
       "person_name": "Sean Timothy Bennett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/61105/3101c4dc-bd7e-47e5-be98-b2ce4ee060aa.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "61139",
       "person_name": "Jamie Osborn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/73869-5d9792bb-e638-45fa-ab24-1c4555988607.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

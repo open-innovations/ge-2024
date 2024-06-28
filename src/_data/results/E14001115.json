@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001115",
   "pcon24nm": "Bournemouth East",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "115078",
       "person_name": "Miles Penn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116374/d195b720-cafc-4b9a-a24d-ded44599eca6.png",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "18751",
       "person_name": "Joe Salmon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/18751/16e6b836-1760-46d3-96ee-61c4ad0523c8.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "34580",
       "person_name": "Kieron Wilson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116657/cb082f5c-15c5-4f38-89d2-a9db9597f66b.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "384",
       "person_name": "Tobias Ellwood",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55225992328bff5d39338a65.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "45089",
       "person_name": "Tom Hayes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/45089/8d9da430-267b-480e-b106-90b08578a8fa.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "5307",
       "person_name": "Martin Houlden",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5516155989bca273508c54e7.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "5399",
       "person_name": "Jon Nicholas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71889.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

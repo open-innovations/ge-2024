@@ -1,48 +1,58 @@
 {
   "pcon24cd": "E14001267",
   "pcon24nm": "Harlow",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "115939",
       "person_name": "Malcolm Featherstone",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115939/88a3e5bf-56e1-4953-ae5f-56337b775853.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117603",
       "person_name": "Lois Jasmine Perry",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117603/0edc93ee-3b30-4106-9e0b-aaffa8011c84.png",
       "party_key": "other",
-      "party_name": "UK Independence Party (UKIP)"
+      "party_name": "UK Independence Party (UKIP)",
+      "votes": null
     },
     {
       "person_id": "14391",
       "person_name": "Hannah Ellis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14391/805decc6-fbfc-45ee-862c-b01575290896.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "4305",
       "person_name": "Christopher John Vince",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4305.png",
       "party_key": "lab",
-      "party_name": "Labour and Co-operative Party"
+      "party_name": "Labour and Co-operative Party",
+      "votes": null
     },
     {
       "person_id": "81669",
       "person_name": "Riad Mannan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81669/03636554-3be1-4e77-aba4-c81d3502fee8.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "87957",
       "person_name": "Yasmin Gregory",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87957/6e08bde6-5af3-4e70-b5f1-db6bf4fe34b7.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

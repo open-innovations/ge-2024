@@ -1,41 +1,50 @@
 {
   "pcon24cd": "E14001548",
   "pcon24nm": "Tiverton and Minehead",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "115302",
       "person_name": "Laura Buchanan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115302/53718ccf-8f74-4e4b-bac2-a1f1665350e5.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "116453",
       "person_name": "Frederick Keen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116453/9e7d4d70-9d8b-400b-9583-1fc962a934ea.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "116455",
       "person_name": "Jonathan Reece Barter",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116455/9b4a8864-1bde-49b7-8063-2d270b3d49ff.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "1759",
       "person_name": "Ian Liddell-Grainger",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/552258c0328bff5d39338a5f.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "4997",
       "person_name": "Rachel Gilmour",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4997/b11f53a9-3289-4ef0-a54d-1cf6b597d50e.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

@@ -1,48 +1,58 @@
 {
   "pcon24cd": "E14001197",
   "pcon24nm": "Didcot and Wantage",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "104926",
       "person_name": "Kyn Pomlett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/104926/40f2424d-6abe-4a49-833f-c28af0c41255.png",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "44859",
       "person_name": "Olly Glover",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/44859.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "52415",
       "person_name": "Steve Beatty",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117310/19c301a4-321a-4442-b444-1bda038242a1.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "53718",
       "person_name": "Mocky Khan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/53718/128bfd64-73ec-470f-a7a3-3b553ded0620.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "54088",
       "person_name": "Sam Casey-Rerhaye",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/54088/00881609-64ba-4714-ba69-259f8a1e55ff.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "72039",
       "person_name": "David Mervyn Johnston",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72039/cfc2b5dd-a50c-43be-8d74-34a944abcd62.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

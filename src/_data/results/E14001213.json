@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001213",
   "pcon24nm": "East Ham",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117398",
       "person_name": "Sathish Mohan Ramadoss",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117398/682af2d0-a1c7-470f-ae45-cca4ae9ede24.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117399",
       "person_name": "Anand Kumar Sundar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117399/7e3fad23-f961-49c3-b403-fb4e32acaa4e.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "14335",
       "person_name": "Rosie Pearce",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14335/fcb3d146-c4de-42a5-9c83-1110f96cee53.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "42104",
       "person_name": "Maria Higson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/42104/8aad1554-1504-46da-9c6c-bdb2adfea8b8.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "6863",
       "person_name": "Daniel Charles Oxley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5526915359bbc5c063445ba8.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "93724",
       "person_name": "Tahir Mirza",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93724/d18231db-fc8e-4811-8693-e12aab014254.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "93777",
       "person_name": "Hillary Victoria Briffa",
       "image": "/assets/images/missing.svg",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "983",
       "person_name": "Stephen Timms",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/983/8c0c4b24-13a2-4b29-9fc3-418c2a93af37.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     }
   ]
 }

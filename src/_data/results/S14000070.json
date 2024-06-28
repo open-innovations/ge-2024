@@ -1,62 +1,74 @@
 {
   "pcon24cd": "S14000070",
   "pcon24nm": "Coatbridge and Bellshill",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116686",
       "person_name": "Drew Thomas Gilchrist",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116686/0fe4e7d4-147b-49d7-a240-35937b455e40.png",
       "party_key": "other",
-      "party_name": "Communist Party of Britain"
+      "party_name": "Communist Party of Britain",
+      "votes": null
     },
     {
       "person_id": "117439",
       "person_name": "Fionna McRae",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "22218",
       "person_name": "Steven Bonnar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22218/8a63f0ef-4d4c-4f43-a147-46b72e7025f4.png",
       "party_key": "snp",
-      "party_name": "Scottish National Party (SNP)"
+      "party_name": "Scottish National Party (SNP)",
+      "votes": null
     },
     {
       "person_id": "22229",
       "person_name": "Frank McNally",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22229-235233a5-4cca-40fc-ad2b-0adb11578c9a.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "6607",
       "person_name": "Emma Farthing",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/21084.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "7454",
       "person_name": "Patrick Pearse McAleer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7454.png",
       "party_key": "other",
-      "party_name": "Scottish Green Party"
+      "party_name": "Scottish Green Party",
+      "votes": null
     },
     {
       "person_id": "74581",
       "person_name": "Leo Francis Lanahan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74581-1dbe23af-6838-4f27-b330-b700073633db.png",
       "party_key": "other",
-      "party_name": "Scottish Family Party"
+      "party_name": "Scottish Family Party",
+      "votes": null
     },
     {
       "person_id": "86317",
       "person_name": "Christina Sandhu",
       "image": "/assets/images/missing.svg",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

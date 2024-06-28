@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001362",
   "pcon24nm": "Mid Derbyshire",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "106956",
       "person_name": "Jonathan Peter Tom Davies",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106956/77c71e27-8729-463d-a870-a54f3237441f.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "108637",
       "person_name": "Sue Warren",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108637/01294988-1cda-425c-a410-ce942fc878ad.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "115907",
       "person_name": "Luke Gardiner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115907/0f6ef84a-821c-445c-a8bd-17857653e0b9.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "115908",
       "person_name": "Stephen Dean",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115908/80eb23e0-171a-4724-8924-94f24e8249bd.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "115909",
       "person_name": "Josiah Uche",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115909/a7c7ed34-a256-4b53-a44f-1fcbcd6c9f2f.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "26224",
       "person_name": "Barry Holliday",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/26224/dadf01bf-be47-4b72-bc6c-ec134129ff66.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "73096",
       "person_name": "Gez Kinsella",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73096/e421b4b0-01d7-43a3-a19c-ffb4b223c5db.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

@@ -1,76 +1,90 @@
 {
   "pcon24cd": "S14000075",
   "pcon24nm": "Dundee Central",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117548",
       "person_name": "Niko Omilana",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "21232",
       "person_name": "Emma Farquhar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21232/e0beb300-f7d3-493d-a86f-1f788b14f9f9.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "22042",
       "person_name": "Alan Ross",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22042/c74c84ab-f36a-42ea-998f-255dba18206f.png",
       "party_key": "other",
-      "party_name": "Alba Party"
+      "party_name": "Alba Party",
+      "votes": null
     },
     {
       "person_id": "2464",
       "person_name": "Jim McFarlane",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5547961ca57e7ec942ad8e2d.png",
       "party_key": "other",
-      "party_name": "Trade Unionist and Socialist Coalition"
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "votes": null
     },
     {
       "person_id": "5271",
       "person_name": "Daniel Coleman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5271/702771cc-d0b6-495d-9746-9cc2947cf89b.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "6020",
       "person_name": "Chris Law",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55159f0a4fb3d15c51926dde.png",
       "party_key": "snp",
-      "party_name": "Scottish National Party (SNP)"
+      "party_name": "Scottish National Party (SNP)",
+      "votes": null
     },
     {
       "person_id": "74527",
       "person_name": "Vicky McCann",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74527/65601d1a-075d-4b88-9d49-2f4353f9a801.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "8223",
       "person_name": "Raymond Mennie",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8223/9645be03-2868-4d60-9da8-98f7b3844907.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "8237",
       "person_name": "Richard McCready",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8237/6929a82d-0d21-4398-b550-2a752f67c981.png",
       "party_key": "lab",
-      "party_name": "Labour and Co-operative Party"
+      "party_name": "Labour and Co-operative Party",
+      "votes": null
     },
     {
       "person_id": "85397",
       "person_name": "Susan Ettle",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85397/bce8da93-05b1-4fe0-b082-ef3cfd919b1b.png",
       "party_key": "other",
-      "party_name": "Scottish Family Party"
+      "party_name": "Scottish Family Party",
+      "votes": null
     }
   ]
 }

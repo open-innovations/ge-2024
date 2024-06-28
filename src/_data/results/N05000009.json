@@ -1,48 +1,58 @@
 {
   "pcon24cd": "N05000009",
   "pcon24nm": "Lagan Valley",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117105",
       "person_name": "Patricia Denvir",
       "image": "/assets/images/missing.svg",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "12440",
       "person_name": "Simon Lee",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/12440/adc36cd3-e1fa-48f5-9f83-1563041f3b18.png",
       "party_key": "other",
-      "party_name": "SDLP (Social Democratic & Labour Party)"
+      "party_name": "SDLP (Social Democratic & Labour Party)",
+      "votes": null
     },
     {
       "person_id": "19683",
       "person_name": "Jonathan Buckley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19683.png",
       "party_key": "other",
-      "party_name": "Democratic Unionist Party - D.U.P."
+      "party_name": "Democratic Unionist Party - D.U.P.",
+      "votes": null
     },
     {
       "person_id": "19688",
       "person_name": "Sorcha-Lucy Eastwood",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19688.png",
       "party_key": "other",
-      "party_name": "Alliance - Alliance Party of Northern Ireland"
+      "party_name": "Alliance - Alliance Party of Northern Ireland",
+      "votes": null
     },
     {
       "person_id": "8114",
       "person_name": "Robbie Butler",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8114/bcf61008-1858-4c8e-b0d1-7f63ba23bdb5.png",
       "party_key": "other",
-      "party_name": "Ulster Unionist Party"
+      "party_name": "Ulster Unionist Party",
+      "votes": null
     },
     {
       "person_id": "84456",
       "person_name": "Lorna Smyth",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84456/4a0103ca-3019-4363-9784-800011f32eca.png",
       "party_key": "other",
-      "party_name": "Traditional Unionist Voice - TUV"
+      "party_name": "Traditional Unionist Voice - TUV",
+      "votes": null
     }
   ]
 }

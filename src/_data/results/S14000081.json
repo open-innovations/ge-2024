@@ -1,62 +1,74 @@
 {
   "pcon24cd": "S14000081",
   "pcon24nm": "Edinburgh South West",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117505",
       "person_name": "Ian Harper",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117505/bcb676ce-5d7f-4d29-9ac2-d95f15c5b7d4.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117506",
       "person_name": "Marc Richard Wilkinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117506/e3ce9f9f-78fa-413f-9985-ce639015b867.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "19814",
       "person_name": "Scott Arthur",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19814.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "20619",
       "person_name": "Sue Webber",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116764/d52a6870-ab68-4b76-b791-de22596ba85e.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "5912",
       "person_name": "Joanna Cherry",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5912/4972223d-da03-4762-9b8f-06c1e9bd4d78.png",
       "party_key": "snp",
-      "party_name": "Scottish National Party (SNP)"
+      "party_name": "Scottish National Party (SNP)",
+      "votes": null
     },
     {
       "person_id": "7111",
       "person_name": "Richard Lucas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7111-7abd447f-461c-4fb2-b9b7-a97bc7bcb4e2.png",
       "party_key": "other",
-      "party_name": "Scottish Family Party"
+      "party_name": "Scottish Family Party",
+      "votes": null
     },
     {
       "person_id": "71426",
       "person_name": "Bruce Wilson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71426.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "8302",
       "person_name": "Dan Heap",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8302/f84a8129-dfda-48b8-b012-1ef4dad02aaf.png",
       "party_key": "other",
-      "party_name": "Scottish Green Party"
+      "party_name": "Scottish Green Party",
+      "votes": null
     }
   ]
 }

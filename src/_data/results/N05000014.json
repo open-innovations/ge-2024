@@ -1,62 +1,74 @@
 {
   "pcon24cd": "N05000014",
   "pcon24nm": "South Antrim",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "13370",
       "person_name": "Paul Girvan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/13370/599ae4e1-9314-4eb0-a572-0743be989648.png",
       "party_key": "other",
-      "party_name": "Democratic Unionist Party - D.U.P."
+      "party_name": "Democratic Unionist Party - D.U.P.",
+      "votes": null
     },
     {
       "person_id": "2768",
       "person_name": "Mel Lucas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96223/7069890d-b3ae-412f-8d60-cffbe4267b18.png",
       "party_key": "other",
-      "party_name": "Traditional Unionist Voice - TUV"
+      "party_name": "Traditional Unionist Voice - TUV",
+      "votes": null
     },
     {
       "person_id": "4711",
       "person_name": "Declan Kearney",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553bae7eec0766d3759c0454.png",
       "party_key": "other",
-      "party_name": "Sinn F\u00e9in"
+      "party_name": "Sinn F\u00e9in",
+      "votes": null
     },
     {
       "person_id": "4723",
       "person_name": "Robin Swann",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/550e9a869253711a232cfb99.png",
       "party_key": "other",
-      "party_name": "Ulster Unionist Party"
+      "party_name": "Ulster Unionist Party",
+      "votes": null
     },
     {
       "person_id": "5390",
       "person_name": "Roisin Lynch",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553bb1e1ec0766d3759c045b.png",
       "party_key": "other",
-      "party_name": "SDLP (Social Democratic & Labour Party)"
+      "party_name": "SDLP (Social Democratic & Labour Party)",
+      "votes": null
     },
     {
       "person_id": "69255",
       "person_name": "Lesley Veronica",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69255/52163c46-971b-4425-b3f5-faa84164f11d.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "71629",
       "person_name": "John Blair",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71629.png",
       "party_key": "other",
-      "party_name": "Alliance - Alliance Party of Northern Ireland"
+      "party_name": "Alliance - Alliance Party of Northern Ireland",
+      "votes": null
     },
     {
       "person_id": "95963",
       "person_name": "Siobh\u00e1n McErlean",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95963/0793f76b-5172-4802-bc72-9e76ba8d7749.png",
       "party_key": "other",
-      "party_name": "Aont\u00fa"
+      "party_name": "Aont\u00fa",
+      "votes": null
     }
   ]
 }

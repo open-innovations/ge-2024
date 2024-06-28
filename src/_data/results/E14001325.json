@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001325",
   "pcon24nm": "Leeds West and Pudsey",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "107214",
       "person_name": "Sasha Watson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/107214/4273c341-68e5-4a77-b6d5-1d8984864251.png",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "107224",
       "person_name": "Andrea Whitehead",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117734",
       "person_name": "Jamal El Kheir",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "1299",
       "person_name": "Rachel Reeves",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1299/d6fc0e0f-15eb-47cf-b147-9b4a09b1207c.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "34529",
       "person_name": "Ann Forsaith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34529/8df41969-9ad7-419e-a6b1-87d8082cfe4c.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "36971",
       "person_name": "Dan Walker",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/36971.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "65849",
       "person_name": "Darren James Longhorn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71856-5004da2c-afde-44dc-8fb3-fc20fca932ff.png",
       "party_key": "other",
-      "party_name": "Yorkshire Party"
+      "party_name": "Yorkshire Party",
+      "votes": null
     },
     {
       "person_id": "87561",
       "person_name": "Lee Anthony Farmer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87561/196fc6cf-e1e4-4d1f-b19c-23299ea6299e.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

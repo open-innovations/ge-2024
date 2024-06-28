@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001353",
   "pcon24nm": "Manchester Rusholme",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "106414",
       "person_name": "Thirza Amina Asanga-Rae",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106414/4f245877-119c-4f76-9db3-46c3e15f4b4e.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "117835",
       "person_name": "Faraz Bhatti",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117835/c86013d4-6a1b-42b1-9ab3-7961bdfa3b8a.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117836",
       "person_name": "Mohhamed Bilal",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "117837",
       "person_name": "Joel Patrick McGuigan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117837/3e0d480a-4825-4a0e-bb01-322319096469.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "14797",
       "person_name": "Peter Clifford",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14797/e991fec8-5fdb-43df-9992-c4351a3f0765.png",
       "party_key": "other",
-      "party_name": "Communist League Election Campaign"
+      "party_name": "Communist League Election Campaign",
+      "votes": null
     },
     {
       "person_id": "22549",
       "person_name": "Afzal Khan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22549.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "94240",
       "person_name": "Alexandra Marsanu",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94240/0643d366-8d8a-40d7-88b4-ab6d158d7cc9.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

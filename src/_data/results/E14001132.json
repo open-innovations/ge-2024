@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001132",
   "pcon24nm": "Bristol East",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "115096",
       "person_name": "Dan Conaghan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115096/cce40f35-61f4-4672-b556-fad690ca9acc.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "116798",
       "person_name": "Claire Dunnage",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "117685",
       "person_name": "Wael Mustapha Arafat",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117685/707781e6-041d-4f37-98d2-e8dc7966936c.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117686",
       "person_name": "Farooq Ahmed Siddique",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117686/56e5b2ff-3745-42b5-b963-5fca04ed2a5d.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "57517",
       "person_name": "Tony Sutcliffe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/57517/5fbe50b3-689c-414c-b6de-8efecdadd077.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "893",
       "person_name": "Kerry McCarthy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/893/2170997b-0068-4563-a223-1d37a2ea7adc.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "9771",
       "person_name": "Ani Stafford-Townsend",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9771/e453b4b2-1b4d-4756-b555-ce85ac036784.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

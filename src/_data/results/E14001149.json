@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001149",
   "pcon24nm": "Cambridge",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "108972",
       "person_name": "David Carmona",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115931/ec958436-1473-4682-8a3f-fe3ed9c963e5.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117207",
       "person_name": "Khalid Abu-Tayyem",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117207/0a6684fa-179c-43b8-86c2-39ebcce9d190.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "35883",
       "person_name": "Cheney Payne",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35883/42dbf087-6be4-4beb-8181-228d3ea1adc1.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "38241",
       "person_name": "Sarah Louise Nicmanis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/38241/6c797cea-b291-4e1e-9592-f3dfab31e1c5.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "45",
       "person_name": "Daniel Zeichner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e7c8b150e238702c056c.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "56396",
       "person_name": "Shane Manning",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/56396/dfff9807-fa86-43f1-adc3-ff880f0d09d9.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "7335",
       "person_name": "Keith Alexander Garrett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553c2f8b62bbab35264e7aca.png",
       "party_key": "other",
-      "party_name": "Rebooting Democracy"
+      "party_name": "Rebooting Democracy",
+      "votes": null
     }
   ]
 }

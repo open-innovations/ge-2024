@@ -1,76 +1,90 @@
 {
   "pcon24cd": "E14001563",
   "pcon24nm": "Walthamstow",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "114008",
       "person_name": "Rosalinda Ayo Rowlands",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114008/f718dc84-02c0-40df-ba08-a4b3cc71eac6.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "116081",
       "person_name": "Imran Arshad",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116081/dd84f57d-9cdf-4024-89e2-a287365c1311.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "117274",
       "person_name": "Mohammed Ashfaq",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117274/690f0d59-b843-49c1-b4d1-1f8068341abc.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117275",
       "person_name": "Dan Edelstyn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117275/8f5d83c7-d38a-4db2-9f0c-77e9741873b1.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117276",
       "person_name": "Martin Lonergan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117276/ace821f5-e709-4275-8ce4-a28bd15615b2.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117277",
       "person_name": "Ruth Theresa Rawlins",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117277/7e24707a-9a29-48f8-9a7d-96cf73bb8fad.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "1599",
       "person_name": "Nancy Taaffe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1599/a6dc0049-8097-436c-aefe-f77aeacee286.png",
       "party_key": "other",
-      "party_name": "Trade Unionist and Socialist Coalition"
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "votes": null
     },
     {
       "person_id": "3774",
       "person_name": "Stella Creasy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3774/77c3e3a3-85c3-4498-8ac3-19eed1fa7491.png",
       "party_key": "lab",
-      "party_name": "Labour and Co-operative Party"
+      "party_name": "Labour and Co-operative Party",
+      "votes": null
     },
     {
       "person_id": "6583",
       "person_name": "Rebecca Taylor",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6583/e1177d55-806c-45e1-bede-633a62466c18.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "91577",
       "person_name": "Sanjana Madan Mohan Karnani",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91577/b3e1ec1e-f009-4e59-926f-8d34d97b1b04.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

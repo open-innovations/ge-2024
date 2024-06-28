@@ -1,69 +1,82 @@
 {
   "pcon24cd": "E14001327",
   "pcon24nm": "Leicester South",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "113369",
       "person_name": "Craig Harwood",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113369/3f36ad97-094c-4e48-bd77-16f0f4a8fce6.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "113373",
       "person_name": "Shockat Adam",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113373/958694cc-12f7-4318-952b-b9224add74b6.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117238",
       "person_name": "Ezechiel Adlore",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "The Official Monster Raving Loony Party"
+      "party_name": "The Official Monster Raving Loony Party",
+      "votes": null
     },
     {
       "person_id": "117239",
       "person_name": "Osman Ghani Admani",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117239/4cb05550-660e-49e4-8ea9-21becdc77ee8.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "5545",
       "person_name": "Jon Ashworth",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5532416029c5d53959d9e468.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "59113",
       "person_name": "Gerri Hickton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/59113-bf5f89fe-1686-4b64-864d-5836e7d4f616.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "64319",
       "person_name": "Carol Weaver",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/64319/9e703456-4498-49c4-b732-9b13fe0b851c.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "65836",
       "person_name": "Sharmen Rahman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/65836.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "99209",
       "person_name": "Ann Green",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99209/96cf59c9-e6b4-412c-a9a8-616bfd1516eb.png",
       "party_key": "other",
-      "party_name": "Communist Party of Britain"
+      "party_name": "Communist Party of Britain",
+      "votes": null
     }
   ]
 }

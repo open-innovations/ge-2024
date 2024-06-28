@@ -1,48 +1,58 @@
 {
   "pcon24cd": "S14000067",
   "pcon24nm": "Argyll, Bute and South Lochaber",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116208",
       "person_name": "Hamish Maxwell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116208/dd73c4a6-5fb7-4d77-8aae-dbe8f72d5910.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "3231",
       "person_name": "Alan Reid",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5525eebf413cb4432adffa4f.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "4567",
       "person_name": "Melanie Hurst",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117404/7bff5caf-71b9-4926-ae58-d7832fde4229.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "6044",
       "person_name": "Brendan O'Hara",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6044/be3edbf7-0488-48d7-8570-6f0e0f591c79.png",
       "party_key": "snp",
-      "party_name": "Scottish National Party (SNP)"
+      "party_name": "Scottish National Party (SNP)",
+      "votes": null
     },
     {
       "person_id": "85913",
       "person_name": "Tommy Macpherson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117406/0266662f-a03a-474d-b8ca-fb08d8aa02cc.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "85942",
       "person_name": "Amanda Jane Hargreaves Hampsey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85942/56ffc4fa-76f4-41f3-a8ab-e7fc8542f38d.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

@@ -1,69 +1,82 @@
 {
   "pcon24cd": "E14001081",
   "pcon24nm": "Battersea",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "115978",
       "person_name": "Francis Chubb",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115978/8ca4b14d-96b6-4c6d-8c39-200e0621b9e2.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "116867",
       "person_name": "Ed Dampier",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "117279",
       "person_name": "Georgina Burford-Connole",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Rejoin EU"
+      "party_name": "Rejoin EU",
+      "votes": null
     },
     {
       "person_id": "117280",
       "person_name": "Dan Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117280/43aad647-2040-4cf5-9bdc-50dde83dfc50.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "34349",
       "person_name": "Marsha de Cordova",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34349/205807c1-619c-49b7-9a68-e7cdcc712574.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "5087",
       "person_name": "Barry Edwards",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115979/a524ad49-54b0-4996-894c-364921b5d1d2.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "72131",
       "person_name": "Jake Thomas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72131-bf394dac-7ccf-474c-8fbb-72186b4d75a7.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "84436",
       "person_name": "Tom Pridham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84436/1acc0bac-97bf-41c3-a31d-c71e37edf006.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "92613",
       "person_name": "Joe Taylor",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92613/086cb2bd-a3fb-4f15-a17b-02004c56e3d7.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

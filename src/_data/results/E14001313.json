@@ -1,41 +1,50 @@
 {
   "pcon24cd": "E14001313",
   "pcon24nm": "Kingston upon Hull East",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117209",
       "person_name": "Neil Francis Hunter",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117209/6a35af25-3252-4822-87c9-d13132eae030.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "2684",
       "person_name": "Karl Turner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2684/6e5070cc-3b1c-4e94-bcc4-6cee752b25db.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "31062",
       "person_name": "Kieran Persand",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73984/5e48f8bc-ec9d-4360-ac63-3699b4183bb3.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "34617",
       "person_name": "Julia Brown",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34617/2544e4c1-0d54-4aff-a3a2-fd49e2322183.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "68442",
       "person_name": "Bob Morgan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/68442-ecc1715f-6456-408e-bc9b-bfac64464d36.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

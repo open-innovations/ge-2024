@@ -1,69 +1,82 @@
 {
   "pcon24cd": "E14001355",
   "pcon24nm": "Mansfield",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "113391",
       "person_name": "Steve Yemm",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113391/a8463146-b488-4d36-9532-69ca4451e8bd.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "116839",
       "person_name": "Matt Warnes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116839/86dd2256-cf40-4a75-8fff-e2c2b6536416.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "116991",
       "person_name": "Wesley Milligan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116991/72b5cc2b-b995-47d5-8db8-684dedf81ae3.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "1969",
       "person_name": "Michael Wyatt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/23304.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "20405",
       "person_name": "Ben Bradley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20405.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "25664",
       "person_name": "Philip Shields",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/25664/872def34-75b0-4758-8de9-3e1fa9d4e5fc.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "55684",
       "person_name": "Zen Bilas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/55684.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "6626",
       "person_name": "Karen Rachel Mary Seymour",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6626/55fe435e-986c-472e-a8d6-f1824193d288.png",
       "party_key": "other",
-      "party_name": "Trade Unionist and Socialist Coalition"
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "votes": null
     },
     {
       "person_id": "76939",
       "person_name": "Peter Michael James Dean",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76939/7f7d1560-1f95-43c4-a357-fe0645faa592.png",
       "party_key": "other",
-      "party_name": "Socialist Labour Party"
+      "party_name": "Socialist Labour Party",
+      "votes": null
     }
   ]
 }

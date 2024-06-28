@@ -1,48 +1,58 @@
 {
   "pcon24cd": "E14001258",
   "pcon24nm": "Guildford",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116319",
       "person_name": "Sarah Gillinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116319/58df5815-be35-4876-ba50-cef4a55e5ec8.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "116320",
       "person_name": "Dennis Saunders",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116320/e8bd4fca-58d4-402c-a720-81711b3fcfce.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "26854",
       "person_name": "Sam Peters",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/26854/67a1f6ed-bc56-4d19-b429-8eed64787fe0.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "28127",
       "person_name": "John Hugh Morris",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/28127/40b89fe8-6859-44f0-9944-b7fd99516391.png",
       "party_key": "other",
-      "party_name": "The Peace Party - Non-violence, Justice, Environment"
+      "party_name": "The Peace Party - Non-violence, Justice, Environment",
+      "votes": null
     },
     {
       "person_id": "34110",
       "person_name": "Z\u00f6e Franklin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34110.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "67024",
       "person_name": "Angela Richardson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/67024-f7ee758b-e176-4493-91b3-db0ff98afbe4.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

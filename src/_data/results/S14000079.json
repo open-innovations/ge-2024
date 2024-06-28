@@ -1,76 +1,90 @@
 {
   "pcon24cd": "S14000079",
   "pcon24nm": "Edinburgh North and Leith",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "114547",
       "person_name": "Tracy Gilbert",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114547/cd37a1ab-7d70-4e4f-93b4-8d3649481028.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "116229",
       "person_name": "Mike Andersen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116229/910058f7-ae59-4dd9-830d-903de43a8d4b.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "117415",
       "person_name": "Caroline Waterloo",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117415/d973a769-d903-48d8-8681-f2194534834b.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "20774",
       "person_name": "Jo Mowat",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/20774/0f555a2f-8d3a-40b6-a799-ad6b0c87bf66.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "3094",
       "person_name": "David Don Jacobsen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/21624.png",
       "party_key": "other",
-      "party_name": "Socialist Labour Party"
+      "party_name": "Socialist Labour Party",
+      "votes": null
     },
     {
       "person_id": "6041",
       "person_name": "Deidre Brock",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ba196b9c95afe74c5d324.png",
       "party_key": "snp",
-      "party_name": "Scottish National Party (SNP)"
+      "party_name": "Scottish National Party (SNP)",
+      "votes": null
     },
     {
       "person_id": "6968",
       "person_name": "Alan Melville",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/552690c059bbc5c063445b9f.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "84989",
       "person_name": "Kayleigh O'Neill",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84989/731d55bf-fc3f-4a72-9f0a-bc4ffe1c4718.png",
       "party_key": "other",
-      "party_name": "Scottish Green Party"
+      "party_name": "Scottish Green Party",
+      "votes": null
     },
     {
       "person_id": "86106",
       "person_name": "Niel Deepnarain",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86106/9c950b6e-e046-43aa-86a5-0b130d059105.png",
       "party_key": "other",
-      "party_name": "Scottish Family Party"
+      "party_name": "Scottish Family Party",
+      "votes": null
     },
     {
       "person_id": "86110",
       "person_name": "Richard Charles Shillcock",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86110/34206b2e-83eb-4f0b-a566-1ccaf3499dde.png",
       "party_key": "other",
-      "party_name": "Communist Party of Britain"
+      "party_name": "Communist Party of Britain",
+      "votes": null
     }
   ]
 }

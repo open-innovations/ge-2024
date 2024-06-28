@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001591",
   "pcon24nm": "Witney",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116778",
       "person_name": "Barry Paul Ingleton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116778/84d23a14-d463-4726-bfa6-5a5fdcf40f0e.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "34132",
       "person_name": "Robert Courts",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34132.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "48043",
       "person_name": "Antonio Weiss",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/48043.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "51776",
       "person_name": "Richard Andrew Langridge",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/51776/50f19f99-0e5a-4049-8dc0-7dfde381c3d8.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "51778",
       "person_name": "Andrew Peter Prosser",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/51778/810ed51e-6cec-4848-97d2-187321916ac9.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "87377",
       "person_name": "Charlie Maynard",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87377/bf1eac59-fd28-46dc-8f83-29e21d465453.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "87391",
       "person_name": "David Roy Cox",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87391/f4c33651-e10b-4531-86d2-c709ca357162.png",
       "party_key": "other",
-      "party_name": "Heritage Party"
+      "party_name": "Heritage Party",
+      "votes": null
     }
   ]
 }

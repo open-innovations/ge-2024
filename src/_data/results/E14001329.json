@@ -1,48 +1,58 @@
 {
   "pcon24cd": "E14001329",
   "pcon24nm": "Leigh and Atherton",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "106883",
       "person_name": "Amelia Jones",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106883/0d33750d-67e6-4fc8-afb9-d88d1635d7b2.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "116152",
       "person_name": "George Woodward",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116152/0fb0c993-2440-4701-926a-1df436935fc6.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "13928",
       "person_name": "Jo Platt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/13928.png",
       "party_key": "lab",
-      "party_name": "Labour and Co-operative Party"
+      "party_name": "Labour and Co-operative Party",
+      "votes": null
     },
     {
       "person_id": "15034",
       "person_name": "Stuart David Thomas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/15034-f8ff6973-b803-4d46-b184-07e7d349f68f.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "2247",
       "person_name": "Michael William Winstanley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2247-7559b9b8-4ac6-4f3f-8c80-215d231ad209.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "51068",
       "person_name": "Craig Buckley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/51068/29a05ca6-db67-4472-a418-8519747b8af7.png",
       "party_key": "other",
-      "party_name": "English Democrats"
+      "party_name": "English Democrats",
+      "votes": null
     }
   ]
 }

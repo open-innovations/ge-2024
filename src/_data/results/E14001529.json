@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001529",
   "pcon24nm": "Stroud",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "115276",
       "person_name": "Simon Joseph Opher",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116446/45a318ba-8f3d-41b4-a3cd-074d47880cf6.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "117182",
       "person_name": "Jason Philip Hughes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117182/bd11c4a4-ac5b-4d44-b9fa-0194603cb704.png",
       "party_key": "other",
-      "party_name": "Volt United Kingdom"
+      "party_name": "Volt United Kingdom",
+      "votes": null
     },
     {
       "person_id": "117183",
       "person_name": "Saskia Whitfield",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "18584",
       "person_name": "George James",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/18584/97978b50-827b-47a6-8bd8-2468c651277b.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "34539",
       "person_name": "Siobhan Baillie",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34539.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "5227",
       "person_name": "Pete Kennedy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54a19dc0cca5fe1a31e4a795.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "75511",
       "person_name": "Christopher Lester",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116447/04824f9c-69e3-453a-bac6-18cb232c816c.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     }
   ]
 }

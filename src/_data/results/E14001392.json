@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001392",
   "pcon24nm": "North East Hampshire",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116707",
       "person_name": "Mohamed Miah",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116707/2d3a70b5-eb3d-4ecb-b77f-c94debfcf249.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "117179",
       "person_name": "Paul Morton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117179/47c97d3b-a5f9-445b-a3cd-35cfbb2c1f1b.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "38153",
       "person_name": "Alex Zychowski",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111164/d2f32dca-89de-4f49-9216-5a5cb000a407.png",
       "party_key": "other",
-      "party_name": "Libertarian Party"
+      "party_name": "Libertarian Party",
+      "votes": null
     },
     {
       "person_id": "4217",
       "person_name": "Ranil Malcolm Jayawardena",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4217/299871b7-84f9-4aac-ba6a-b396de525eb2.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "422",
       "person_name": "Howling 'Laud' Hope",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5534fa1fb247335574a42e45.png",
       "party_key": "other",
-      "party_name": "The Official Monster Raving Loony Party"
+      "party_name": "The Official Monster Raving Loony Party",
+      "votes": null
     },
     {
       "person_id": "78508",
       "person_name": "Alex Brewer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78508/08f08791-0f86-44f4-95b2-20b2c6be6769.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "86901",
       "person_name": "Bradley David Phillips",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86901/72f8a092-7573-4dd3-96f0-b97ca40cf9c4.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "9713",
       "person_name": "Duncan Philip Stone",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9713/28310483-fd9e-4e67-9a28-bea5363630e4.png",
       "party_key": "other",
-      "party_name": "Hampshire Independents"
+      "party_name": "Hampshire Independents",
+      "votes": null
     }
   ]
 }

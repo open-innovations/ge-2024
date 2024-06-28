@@ -1,69 +1,82 @@
 {
   "pcon24cd": "E14001171",
   "pcon24nm": "Christchurch",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "101968",
       "person_name": "Susan Graham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101968/3ea00373-25a7-40fa-8d4f-47225236ff12.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "101981",
       "person_name": "Robin Adamson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116392/8977276d-5f58-4516-b8cb-9ec5028b0517.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "116393",
       "person_name": "Trevor Parsons",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "116618",
       "person_name": "Joanna Howard",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116618/27408c09-1029-470e-9901-03e1bfe9f51e.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "117370",
       "person_name": "Sasha Jolliffe Yasawi",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117370/11c0188f-577c-4293-bb87-0f1bf33377d0.png",
       "party_key": "other",
-      "party_name": "Animal Welfare Party"
+      "party_name": "Animal Welfare Party",
+      "votes": null
     },
     {
       "person_id": "3960",
       "person_name": "Mike Cox",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3960/63bb47d1-34d2-41bc-99ab-5709dc27734e.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "4813",
       "person_name": "Steve Unwin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553c05ad10284be476aae8b8.png",
       "party_key": "other",
-      "party_name": "UK Independence Party (UKIP)"
+      "party_name": "UK Independence Party (UKIP)",
+      "votes": null
     },
     {
       "person_id": "596",
       "person_name": "Christopher Chope",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55249f3bf0e9e2c82406eba5.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "60226",
       "person_name": "Simon McCormack",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116658/2f5213f8-0b8d-4888-9f5a-9d164ab86f9d.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     }
   ]
 }

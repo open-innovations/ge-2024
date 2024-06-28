@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001117",
   "pcon24nm": "Bracknell",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116692",
       "person_name": "Emily Torode",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116692/692b0546-3428-4ac0-a7d4-3c5e94eb8623.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "116724",
       "person_name": "Peter Swallow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116724/2d2d08f8-6c5b-4a95-8f42-2cbb9f7c1640.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "34943",
       "person_name": "Olivio Barreto",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34943.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "48024",
       "person_name": "Katie Mansfield",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48024/e767fd9a-0f49-4eda-b630-66abd126e6ab.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "66860",
       "person_name": "Malcolm Tullett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/66860/51535320-5a6a-4935-a527-faa63cf07ce4.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "72017",
       "person_name": "James Sunderland",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72017/a8ec8e55-99d4-431a-90b9-edddd4ca09b4.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "97012",
       "person_name": "Jason Peter Reardon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97012/4f78bbea-36b8-408f-ab9f-18f296d45d3c.png",
       "party_key": "other",
-      "party_name": "Heritage Party"
+      "party_name": "Heritage Party",
+      "votes": null
     }
   ]
 }

@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001536",
   "pcon24nm": "Swindon North",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "14695",
       "person_name": "Andy Bentley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14695/71d8dd60-a011-4daf-bfff-1c030f16aad0.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "18530",
       "person_name": "Debbie Tara Hicks",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/18530.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "190",
       "person_name": "Justin Tomlinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ab7ae3a37ac9054592963.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "7028",
       "person_name": "Flo Clucas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8db4788906ef2517bd6e.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "72289",
       "person_name": "Les Willis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72289-ea7e0ff3-e825-45c2-86a4-aefabe1d0404.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "90373",
       "person_name": "Scott Victor Abbas Hunter",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Trade Unionist and Socialist Coalition"
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "votes": null
     },
     {
       "person_id": "90426",
       "person_name": "Will Stone",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90426/a081fa34-8ad5-4e37-8419-be8620782392.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     }
   ]
 }

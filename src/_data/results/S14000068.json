@@ -1,62 +1,74 @@
 {
   "pcon24cd": "S14000068",
   "pcon24nm": "Bathgate and Linlithgow",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116210",
       "person_name": "Simon Jay",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116210/210cba7a-bd94-4bc5-a690-e48436689772.png",
       "party_key": "other",
-      "party_name": "Scottish Green Party"
+      "party_name": "Scottish Green Party",
+      "votes": null
     },
     {
       "person_id": "117409",
       "person_name": "Stuart James McArthur",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117409/165d471e-7edf-459c-a2ba-fe8ca1d4092b.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117410",
       "person_name": "Jamie McNamee",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117410/12e4741c-b08f-4cf0-a2be-04f3040e845b.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "22418",
       "person_name": "Sally Pattle",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22418.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "22464",
       "person_name": "Kirsteen Sullivan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22464.png",
       "party_key": "lab",
-      "party_name": "Labour and Co-operative Party"
+      "party_name": "Labour and Co-operative Party",
+      "votes": null
     },
     {
       "person_id": "22553",
       "person_name": "Lynn Munro",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22553-a9889a85-8a6a-44a8-9e44-216a17de3274.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "6053",
       "person_name": "Martyn Day",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54fde7111ccf185f0d8cc4b8.png",
       "party_key": "snp",
-      "party_name": "Scottish National Party (SNP)"
+      "party_name": "Scottish National Party (SNP)",
+      "votes": null
     },
     {
       "person_id": "83825",
       "person_name": "John Hannah",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83825/67d897ac-f2aa-4ae3-a363-35a86b959935.png",
       "party_key": "other",
-      "party_name": "Independence for Scotland Party"
+      "party_name": "Independence for Scotland Party",
+      "votes": null
     }
   ]
 }

@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001259",
   "pcon24nm": "Hackney North and Stoke Newington",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "109001",
       "person_name": "Antoinette Fernandez",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109001/b6c51e43-374f-4a00-a2e9-396e9bf687c7.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "117124",
       "person_name": "David Landau",
       "image": "/assets/images/missing.svg",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "117741",
       "person_name": "Ryan Ahmad",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117742",
       "person_name": "Kombat Diva",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "2567",
       "person_name": "Diane Abbott",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2567/0e8b50d2-3c6d-4e2e-8e5b-65bc519d33e6.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "2721",
       "person_name": "Knigel Knapp",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2721.png",
       "party_key": "other",
-      "party_name": "The Official Monster Raving Loony Party"
+      "party_name": "The Official Monster Raving Loony Party",
+      "votes": null
     },
     {
       "person_id": "4887",
       "person_name": "Deborah Cairns",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551ce883209513973bc512cb.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "94996",
       "person_name": "Rebecca Jones",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94996/cc8434e0-cf14-4382-af4e-2566251166ae.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

@@ -1,41 +1,50 @@
 {
   "pcon24cd": "E14001393",
   "pcon24nm": "North East Hertfordshire",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "106218",
       "person_name": "Nikki Da Costa",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106218/9ef97530-6ff0-4e26-b582-513022412671.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "107981",
       "person_name": "Vicky Burt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/107981/67169f90-2398-47ac-9132-bdc481ea2417.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "48231",
       "person_name": "Ruth Brown",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/48231-668f892e-5d20-4342-ac5c-66879a63b4fa.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "65324",
       "person_name": "Steve Adelantado",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/65324/3c0363db-b3b0-40a9-a5bc-d4d6c3bc06ba.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "90696",
       "person_name": "Chris Hinchliff",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90696/a2211dd2-d527-4f70-9371-18e56dea094f.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     }
   ]
 }

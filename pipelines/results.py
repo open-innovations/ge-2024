@@ -11,14 +11,22 @@ DATA_DIR = Path('src/_data/')
 def create_results(constituency):
     target_file = DATA_DIR / f'results/{ constituency }.json'
 
-    results = candidates.selecteq('pcon24cd', constituency)
+    results = candidates.selecteq(
+        'pcon24cd', constituency
+    ).addfield(
+        'votes', None
+    )
 
     # TODO merge any existing votes
 
     data = {
         'pcon24cd': constituency,
         'pcon24nm': constituency_lookup[constituency],
-        'votes': list(results.cutout('pcon24cd', 'post_label').dicts())
+        'total_votes': None,
+        'electorate': None,
+        'turnout_pct': None,
+        'confirmed': False,
+        'votes': list(results.cutout('pcon24cd', 'post_label').dicts()),
     }
 
     with open(target_file, 'w') as json_file:

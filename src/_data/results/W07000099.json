@@ -1,69 +1,82 @@
 {
   "pcon24cd": "W07000099",
   "pcon24nm": "Merthyr Tydfil and Aberdare",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116487",
       "person_name": "Anthony Cole",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116487/cee3e971-fecb-42fb-a0e5-df5c1649910f.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "117784",
       "person_name": "Gareth Thomas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117784/55b74283-fded-4086-a39f-6166c69688ef.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "24615",
       "person_name": "Jade Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/24615/fb745b41-a870-4b06-9888-d1bab48eb821.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "27058",
       "person_name": "Amanda Jenner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72295-718f2670-bd95-4624-805c-9a04478651c5.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "5097",
       "person_name": "Gerald Jones",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553bd0d110284be476aae8ae.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "53517",
       "person_name": "Lorenzo de Gregori",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/53517-e61d6d8d-63ee-4696-a3eb-6f845342411f.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "70712",
       "person_name": "David Griffin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70712.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "73905",
       "person_name": "Bob Davenport",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73905/37bc06b9-836a-4c12-bfd9-7cda50ab29a6.png",
       "party_key": "other",
-      "party_name": "Communist Party of Britain"
+      "party_name": "Communist Party of Britain",
+      "votes": null
     },
     {
       "person_id": "87260",
       "person_name": "Francis Whitefoot",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87260/e098f507-97e6-497d-91b9-912585518625.png",
       "party_key": "pc",
-      "party_name": "Plaid Cymru - The Party of Wales"
+      "party_name": "Plaid Cymru - The Party of Wales",
+      "votes": null
     }
   ]
 }

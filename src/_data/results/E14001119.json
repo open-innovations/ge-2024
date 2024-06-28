@@ -1,69 +1,82 @@
 {
   "pcon24cd": "E14001119",
   "pcon24nm": "Bradford South",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117422",
       "person_name": "Rehiana Ali",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117422/0cc90d56-7be8-4f7a-a1d8-44485d3f02a3.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117424",
       "person_name": "Ian Peter Eglin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117424/7af66a07-bf65-42f0-863f-a34142896349.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "13459",
       "person_name": "Matt Edwards",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/13459/bce720cd-2707-4f54-90c5-1ce5323281b4.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "4898",
       "person_name": "Anthony Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/53813.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "5419",
       "person_name": "Harry Boota",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5419/a3389248-ac7c-4bdd-9306-7ff5cfb5f4c3.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "5600",
       "person_name": "Judith Cummins",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553a94bf3a37ac9054592954.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "7009",
       "person_name": "Th\u00e9r\u00e8se Hirst",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7009-16409ed0-9096-4a88-9c01-d1e9f2580ce6.png",
       "party_key": "other",
-      "party_name": "English Democrats"
+      "party_name": "English Democrats",
+      "votes": null
     },
     {
       "person_id": "8179",
       "person_name": "Jonathan Daniel Stewart Barras",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8179/33599686-8028-401a-98e7-5cf91e33665a.png",
       "party_key": "other",
-      "party_name": "Yorkshire Party"
+      "party_name": "Yorkshire Party",
+      "votes": null
     },
     {
       "person_id": "92411",
       "person_name": "Zaf Shah",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92411/1ef5ff15-9633-4da1-89b0-0a60dcfba37e.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

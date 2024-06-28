@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001580",
   "pcon24nm": "Westmorland and Lonsdale",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "114402",
       "person_name": "Matty Jackman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114402/3dfc616a-9122-4723-9dd9-f5ab001d17a7.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "116190",
       "person_name": "Wendy Long",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "116191",
       "person_name": "Pippa Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116191/742cf9f2-451f-4ce1-ae83-18c5219b1903.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "117240",
       "person_name": "Izzy Solabarrieta",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117240/827094f0-b84b-4510-aff3-ff8b94b51b89.png",
       "party_key": "other",
-      "party_name": "Heritage Party"
+      "party_name": "Heritage Party",
+      "votes": null
     },
     {
       "person_id": "1316",
       "person_name": "Tim Farron",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e97ab150e238702c0673.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "69536",
       "person_name": "John Studholme",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69536.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "92837",
       "person_name": "Phil Clayton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116732/608eceb3-66fd-49d2-9fad-f1086ee933cd.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "92846",
       "person_name": "James Townley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92846/200ed6b4-7c3c-4032-af5e-a4d4e2c7f2aa.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     }
   ]
 }

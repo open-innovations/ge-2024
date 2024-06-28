@@ -1,48 +1,58 @@
 {
   "pcon24cd": "S14000045",
   "pcon24nm": "Midlothian",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "114626",
       "person_name": "Kirsty McNeill",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114626/f85ccc3c-1094-4097-b521-5e6f6189206a.png",
       "party_key": "lab",
-      "party_name": "Labour and Co-operative Party"
+      "party_name": "Labour and Co-operative Party",
+      "votes": null
     },
     {
       "person_id": "114629",
       "person_name": "Keith Cockburn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114629/17243c31-61cc-46d8-901c-f16d8da0af12.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "116252",
       "person_name": "Stefan Garbowski",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116252/24557436-d16d-4b22-99dc-003619377485.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "21605",
       "person_name": "Daniel Fraser",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21605/93e7cab2-4ac8-4e15-bc4e-44410a4c60aa.png",
       "party_key": "other",
-      "party_name": "Scottish Libertarian Party"
+      "party_name": "Scottish Libertarian Party",
+      "votes": null
     },
     {
       "person_id": "6051",
       "person_name": "Owen Thompson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/550b5d843676900a02e1643c.png",
       "party_key": "snp",
-      "party_name": "Scottish National Party (SNP)"
+      "party_name": "Scottish National Party (SNP)",
+      "votes": null
     },
     {
       "person_id": "6608",
       "person_name": "Ross Laird",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6608.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

@@ -1,69 +1,82 @@
 {
   "pcon24cd": "E14001587",
   "pcon24nm": "Winchester",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "107851",
       "person_name": "Lorraine Estelle",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/107851/c0ad2292-66c6-49b3-b717-114642a92ca1.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "108156",
       "person_name": "Hannah Louise Dawson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108156/2e160b06-3aff-44d3-b368-d9200ff3afdd.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "110548",
       "person_name": "Sean Whelan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110548/cf67a139-a685-4b9f-82cd-1071f6be4ebf.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "116367",
       "person_name": "Andrew Davis",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "117474",
       "person_name": "Chris Barfoot",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117474/a1087eae-0d3c-4b67-a509-68c7328cecf3.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117475",
       "person_name": "Kevin D'Cruze",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117475/1836801c-b06f-48d7-adcc-7e425883f987.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "1730",
       "person_name": "Flick Drummond",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1730/54029bee-f114-46fb-bb93-4fc50ea4cdb4.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "71552",
       "person_name": "Danny Chambers",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71552.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "87001",
       "person_name": "Andy Liming",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Hampshire Independents"
+      "party_name": "Hampshire Independents",
+      "votes": null
     }
   ]
 }

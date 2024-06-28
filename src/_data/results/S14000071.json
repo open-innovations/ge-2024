@@ -1,62 +1,74 @@
 {
   "pcon24cd": "S14000071",
   "pcon24nm": "Cowdenbeath and Kirkcaldy",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116217",
       "person_name": "Sonia Davidson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116217/9fe91b6a-c1e8-427d-89e6-727f6452298b.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117134",
       "person_name": "Johnny Gray",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117134/b5580fab-5bcf-4419-ac69-1bb0a8be9c0c.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "15348",
       "person_name": "Caz Paul",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/21195-9abe9066-ccf0-4230-821b-1594d8dfb94d.png",
       "party_key": "other",
-      "party_name": "Scottish Libertarian Party"
+      "party_name": "Scottish Libertarian Party",
+      "votes": null
     },
     {
       "person_id": "15357",
       "person_name": "Neale Hanvey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/15357-8bfa8679-2c90-4578-aa84-45df0209d851.png",
       "party_key": "other",
-      "party_name": "Alba Party"
+      "party_name": "Alba Party",
+      "votes": null
     },
     {
       "person_id": "20570",
       "person_name": "Mags Hall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/20570/17b59f91-8612-4e90-900e-a524ef2258c7.png",
       "party_key": "other",
-      "party_name": "Scottish Green Party"
+      "party_name": "Scottish Green Party",
+      "votes": null
     },
     {
       "person_id": "20956",
       "person_name": "Lesley Backhouse",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/20956/dcd4743b-2c1a-4d3d-902e-4140bfbd52c4.png",
       "party_key": "snp",
-      "party_name": "Scottish National Party (SNP)"
+      "party_name": "Scottish National Party (SNP)",
+      "votes": null
     },
     {
       "person_id": "4338",
       "person_name": "Melanie Ward",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55292be1b6a860ed1648be5e.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "73250",
       "person_name": "Fraser Graham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86095/5804dea3-e849-4db2-90b8-ed75ad0e0410.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001242",
   "pcon24nm": "Fylde",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "107176",
       "person_name": "Cheryl Morrison",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/107176/1cec39b6-83cb-4947-8a38-530723a8d42c.png",
       "party_key": "other",
-      "party_name": "Alliance for Democracy and Freedom"
+      "party_name": "Alliance for Democracy and Freedom",
+      "votes": null
     },
     {
       "person_id": "116787",
       "person_name": "Anne Aitken",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116787/786c13e8-1681-4a32-b4b8-aa76a26ce72b.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "116935",
       "person_name": "Brenden Wilkinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116935/7d994def-8434-45e3-832e-374fe9ec8a2b.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "15320",
       "person_name": "Andrew Snowden",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/15320-817b25bc-e84c-4312-b900-ab20efdf244f.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "25024",
       "person_name": "Brook Wimbury",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/25024.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "5634",
       "person_name": "Mark Jewell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5634/7b57f7a1-a379-4359-985f-3f0d7f32cdc3.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "65537",
       "person_name": "Tom Calver",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/65537.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     }
   ]
 }

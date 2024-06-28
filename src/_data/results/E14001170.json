@@ -1,41 +1,50 @@
 {
   "pcon24cd": "E14001170",
   "pcon24nm": "Chorley",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "595",
       "person_name": "Lindsay Hoyle",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/595/32cedf80-cb31-45c7-92bf-5745d9d93697.png",
       "party_key": "speaker",
-      "party_name": "Speaker seeking re-election"
+      "party_name": "Speaker seeking re-election",
+      "votes": null
     },
     {
       "person_id": "6111",
       "person_name": "Martin Powell-Davies",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116981/23fbf503-b17c-405c-8989-837a623bc360.png",
       "party_key": "other",
-      "party_name": "Trade Unionist and Socialist Coalition"
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "votes": null
     },
     {
       "person_id": "6504",
       "person_name": "Graham Moore",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6504/50a8479a-204f-445a-96c5-132a6e80f5c4.png",
       "party_key": "other",
-      "party_name": "English Constitution Party"
+      "party_name": "English Constitution Party",
+      "votes": null
     },
     {
       "person_id": "72573",
       "person_name": "Ben Holden-Crowther",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72573/daf8c7da-657e-4cb1-a34c-fae893e6b380.png",
       "party_key": "other",
-      "party_name": "Democracy for Chorley"
+      "party_name": "Democracy for Chorley",
+      "votes": null
     },
     {
       "person_id": "77139",
       "person_name": "Mark Worsley Tebbutt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77139/d313dbae-51da-43aa-beae-7ec7e45856a3.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

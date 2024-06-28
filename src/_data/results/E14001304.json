@@ -1,48 +1,58 @@
 {
   "pcon24cd": "E14001304",
   "pcon24nm": "Isle of Wight West",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "114889",
       "person_name": "Rachel Thacker",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114889/d8d5d608-51b3-4492-9a10-bce916f73785.png",
       "party_key": "other",
-      "party_name": "Alliance for Democracy and Freedom"
+      "party_name": "Alliance for Democracy and Freedom",
+      "votes": null
     },
     {
       "person_id": "116329",
       "person_name": "Ian Pickering",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116329/0c1b0074-daf4-4e74-88c6-b7292fcb5d2a.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "24695",
       "person_name": "Bob Seely",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/24695_mnPu6Uo.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "31423",
       "person_name": "Nick Stuart",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31423.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "71981",
       "person_name": "Richard Quigley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71981.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "73043",
       "person_name": "Cameron Palin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73043/adacd2e3-496b-46b7-9080-ef838d6753cf.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

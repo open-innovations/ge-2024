@@ -1,55 +1,66 @@
 {
   "pcon24cd": "W07000082",
   "pcon24nm": "Alyn and Deeside",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "115337",
       "person_name": "Vicki Roskams",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115337/5a01373e-7ece-41c9-88d8-5c4ad8414541.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "116864",
       "person_name": "Edwin Duggan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116864/ed6fe0ed-07c8-49b6-a192-a3e43561a3cb.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "1431",
       "person_name": "Karl Macnaughton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1431-da4d3038-9996-491a-945c-8aa747baf63d.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "2160",
       "person_name": "Richard Marbrow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2160/a357af56-a342-4d4c-8091-2ed98e8fc7c1.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "688",
       "person_name": "Mark Tami",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/688/0f095552-8702-4282-bc08-1e6319d73687.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "72754",
       "person_name": "Jeremy Kent",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72754/cbae6333-3d01-44cb-b4c6-d6aa98fe3c21.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "74108",
       "person_name": "Jack Morris",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74108-f36931b1-3b36-48c6-92e9-3bb4e85b3589.png",
       "party_key": "pc",
-      "party_name": "Plaid Cymru - The Party of Wales"
+      "party_name": "Plaid Cymru - The Party of Wales",
+      "votes": null
     }
   ]
 }

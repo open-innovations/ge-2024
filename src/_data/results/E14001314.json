@@ -1,69 +1,82 @@
 {
   "pcon24cd": "E14001314",
   "pcon24nm": "Kingston upon Hull North and Cottingham",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "109072",
       "person_name": "Michael John Whale",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109072/c695c021-6df9-4f8e-b83e-0036cca44cab.png",
       "party_key": "other",
-      "party_name": "Trade Unionist and Socialist Coalition"
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "votes": null
     },
     {
       "person_id": "112047",
       "person_name": "Rowan Adam Halstead",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/112047/5a5ea984-eaef-419c-9ed1-b401f036400c.png",
       "party_key": "other",
-      "party_name": "Yorkshire Party"
+      "party_name": "Yorkshire Party",
+      "votes": null
     },
     {
       "person_id": "112124",
       "person_name": "Martin Baker",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116575/c5520a30-0f90-41dd-8a85-e8007e66408e.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "116970",
       "person_name": "Ahmet Cinalp",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116970/284e8603-23ec-4a55-8d61-defc16feabf9.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117248",
       "person_name": "Kerry Elizabeth Harrison",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117248/56208c22-e0b3-484d-aebb-91edc7a8ed8e.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "117254",
       "person_name": "Pauline Peachey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117254/3f93df7f-0ef4-4189-a39d-783ab15ad8ee.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "18030",
       "person_name": "Callum Terence Procter",
       "image": "/assets/images/missing.svg",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "1861",
       "person_name": "Diana Johnson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1861/457e39e9-c63d-4c8b-aab9-802a73507882.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "89285",
       "person_name": "Craig Woolmer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89285/d18bc4ea-1dcd-43c8-a783-a9163af64773.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

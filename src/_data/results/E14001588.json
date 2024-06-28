@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001588",
   "pcon24nm": "Windsor",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117709",
       "person_name": "Simran Kaur Dhillon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117709/fbb009a8-f92b-40e4-9e08-499be1964d28.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "117710",
       "person_name": "Harl Grewal",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "24102",
       "person_name": "Michael Edward Boyle",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/24102/c84de748-3cea-4b3c-af12-80c86f148ab7.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "34489",
       "person_name": "Jack Rankin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34489/1361241b-d99b-4e5b-80d2-05857ba1ca25.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "50927",
       "person_name": "Pavitar Kaur Mann",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/50927-a9f207ef-bead-4e8d-869b-8d1a88714804.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "51697",
       "person_name": "David Buckley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/51697/73de7384-13b6-4a36-86e3-949ec68b4d39.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "618",
       "person_name": "Julian Tisi",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/618/489fea73-6ea7-48a2-9d5b-b6c6fd9c1d0d.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

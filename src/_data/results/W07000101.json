@@ -1,69 +1,82 @@
 {
   "pcon24cd": "W07000101",
   "pcon24nm": "Monmouthshire",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116759",
       "person_name": "Owen Lewis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116759/42f5de6c-0ead-4916-96de-11bf1a2241a0.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117795",
       "person_name": "Emma Meredith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117795/9c88b882-61a2-4121-b5e0-bd2a6def1e1b.png",
       "party_key": "other",
-      "party_name": "Heritage Party"
+      "party_name": "Heritage Party",
+      "votes": null
     },
     {
       "person_id": "2291",
       "person_name": "Ioan Bellin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2291/8f71fe6c-d0fa-4416-a9cb-f911879abb05.png",
       "party_key": "pc",
-      "party_name": "Plaid Cymru - The Party of Wales"
+      "party_name": "Plaid Cymru - The Party of Wales",
+      "votes": null
     },
     {
       "person_id": "22937",
       "person_name": "Ian Chandler",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22937.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "3827",
       "person_name": "David Davies",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3827/a671b1b6-3a98-411c-9df4-b182e445c302.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "49863",
       "person_name": "June Davies",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49863.png",
       "party_key": "other",
-      "party_name": "True & Fair Party"
+      "party_name": "True & Fair Party",
+      "votes": null
     },
     {
       "person_id": "755",
       "person_name": "Bill Powell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/8078.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "82963",
       "person_name": "Max Windsor-Peplow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88812/6c587517-7f0a-4aa0-b632-b7f27bb6c95f.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "9433",
       "person_name": "Catherine Fookes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9433/c12f0c05-57a9-4b74-b23e-56ae04de9bc4.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     }
   ]
 }

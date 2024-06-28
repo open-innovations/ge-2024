@@ -1,55 +1,66 @@
 {
   "pcon24cd": "W07000105",
   "pcon24nm": "Newport West and Islwyn",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "10581",
       "person_name": "Kerry Ann Vosper",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/10581/d0822d4d-f84b-4814-9e97-86182715c9dc.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "117797",
       "person_name": "George Etheridge",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "1396",
       "person_name": "Paul Taylor",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116492/3fc12eab-5ffa-4756-b209-9b984fb2dd02.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "32097",
       "person_name": "Mike Hamilton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/32097-3141c3b7-fd9b-49cc-b5e1-f616ac8701fd.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "33462",
       "person_name": "Nick Jones",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/33462/3408455f-bee1-4fef-9368-bcc28abcc83b.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "4383",
       "person_name": "Ruth Jones",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4383.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "91810",
       "person_name": "Brandon Ham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91810/2025b71a-0f4b-487f-b516-26f1fc5d8879.png",
       "party_key": "pc",
-      "party_name": "Plaid Cymru - The Party of Wales"
+      "party_name": "Plaid Cymru - The Party of Wales",
+      "votes": null
     }
   ]
 }

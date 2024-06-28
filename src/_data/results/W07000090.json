@@ -1,48 +1,58 @@
 {
   "pcon24cd": "W07000090",
   "pcon24nm": "Cardiff North",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116911",
       "person_name": "Malcolm Phillips",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116911/792adf08-d51a-4e67-8c4d-40fb78323d56.png",
       "party_key": "pc",
-      "party_name": "Plaid Cymru - The Party of Wales"
+      "party_name": "Plaid Cymru - The Party of Wales",
+      "votes": null
     },
     {
       "person_id": "3342",
       "person_name": "Lawrence Gwynn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3342/12228f65-02c9-4ba0-8c87-4bbf82c42661.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "8071",
       "person_name": "Joel Williams",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8071/29ad7ec9-fee6-4858-ae81-15322c0f0988.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "8175",
       "person_name": "Anna McMorrin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8175/08ed0b74-da6a-4057-a25c-8c08b42f0e9e.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "92979",
       "person_name": "Irfan Latif",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92979/b0d8afe6-dc2c-4c74-b2b5-49e201dfa97b.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "94124",
       "person_name": "Meg Shepherd-Foster",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94124/de6687b6-f295-4d69-9910-647cccbaebb2.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

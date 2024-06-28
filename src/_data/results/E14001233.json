@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001233",
   "pcon24nm": "Fareham and Waterlooville",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "110777",
       "person_name": "Baz Marie",
       "image": "/assets/images/missing.svg",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "116941",
       "person_name": "Edward Dean",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116941/97eee729-ce9c-41f7-93ea-8c76f8b07490.png",
       "party_key": "other",
-      "party_name": "Rejoin EU"
+      "party_name": "Rejoin EU",
+      "votes": null
     },
     {
       "person_id": "116956",
       "person_name": "Bella Hewitt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116956/42f20235-0f4c-4a1e-ae97-ec5b4d545031.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "17720",
       "person_name": "Kevan Chippindall-Higgin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35118.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "6499",
       "person_name": "Suella Braverman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6499/6560a324-ba1d-4093-b972-4c94a759556c.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "75473",
       "person_name": "Gemma Furnivall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/75473-452caaa6-0bc9-4ad6-bc11-16330a86e312.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "77280",
       "person_name": "Robert John Holliday",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Hampshire Independents"
+      "party_name": "Hampshire Independents",
+      "votes": null
     }
   ]
 }

@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001549",
   "pcon24nm": "Tonbridge",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "100293",
       "person_name": "Ian Grattidge",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100293/eed818a0-0e65-428e-abc7-f538a373deb3.png",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "108083",
       "person_name": "Lewis William John Bailey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108083/aba0194e-a11a-4ffb-8289-7bf4d6c41b32.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "111237",
       "person_name": "Teresa Hansford",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116365/1206e27a-b2a7-41b2-8ffa-46d8a8459f90.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "116836",
       "person_name": "John Woollcombe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116836/d0e2e78b-edff-44cc-bde5-08daef07a7db.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "4238",
       "person_name": "Tom Tugendhat",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4238/82c53112-ac2f-4422-8de3-f9ac9847aa0d.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "56799",
       "person_name": "Tim Shaw",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/56799/90334eaa-d8a2-44d4-9f74-20ef963bbfd7.png",
       "party_key": "other",
-      "party_name": "Independent Alliance (Kent)"
+      "party_name": "Independent Alliance (Kent)",
+      "votes": null
     },
     {
       "person_id": "84129",
       "person_name": "Anna Victoria Cope",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84129/b0f91c48-93a9-4c18-a637-c741ba17bdfb.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

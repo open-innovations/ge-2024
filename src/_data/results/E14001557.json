@@ -1,69 +1,82 @@
 {
   "pcon24cd": "E14001557",
   "pcon24nm": "Tynemouth",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "109978",
       "person_name": "Mustaque Rahman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109978/21017775-aa66-4b30-bbc4-d9a95b78fbb7.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "111531",
       "person_name": "Chloe-Louise Reilly",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116659/d5189e27-f4d3-4a48-8f69-95603762a8e6.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "111585",
       "person_name": "Rosie Elliott",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111585/b196af96-2d1f-4bc0-8142-4d2c0778a67e.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "112587",
       "person_name": "Adam Thewlis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116917/7a6965e2-2dc6-44ae-8cf0-80edb24f4966.png",
       "party_key": "other",
-      "party_name": "Heritage Party"
+      "party_name": "Heritage Party",
+      "votes": null
     },
     {
       "person_id": "117445",
       "person_name": "Christopher Greener",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117445/61171ebe-d101-4c3b-98ce-332fac78b97a.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117446",
       "person_name": "Kelly Jane Oliver Dougall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117446/a707ffe5-bdc2-4619-9cdf-fffac23e24ed.png",
       "party_key": "other",
-      "party_name": "Party Of Women"
+      "party_name": "Party Of Women",
+      "votes": null
     },
     {
       "person_id": "2910",
       "person_name": "Alan Campbell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2910/9b23eac0-d1d2-43ba-ab7c-e06e96c37507.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "2912",
       "person_name": "John Appleby",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2912/e61a9223-eb6f-4182-946e-2cb7d0f5f83e.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "40105",
       "person_name": "Lewis Bartoli",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/40105-1db4b447-c50e-4202-be76-7b8bb21f4b88.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

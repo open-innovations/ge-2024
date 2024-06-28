@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001324",
   "pcon24nm": "Leeds South West and Morley",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "110019",
       "person_name": "James Kendall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116579/42c08eee-d865-44dd-bf72-f411baa44a8e.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "18822",
       "person_name": "Chris Bell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/18822/5b269b9f-46dc-44d6-94d8-7febbbd57f77.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "34406",
       "person_name": "Mark Sewards",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34406/5f78c786-b292-42f3-a5b3-fc4d9cabc3bd.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "4210",
       "person_name": "Andrea Jenkyns",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4210/541e6968-3c71-4514-8e5a-3510deef91d6.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "47010",
       "person_name": "Michael Fox",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/47010/858dcceb-4467-4156-971a-fecb157ac3b4.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "72846",
       "person_name": "Nigel Perry",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72846-96693f15-f143-4ed4-8479-64f4858c860d.png",
       "party_key": "other",
-      "party_name": "Social Democratic Party"
+      "party_name": "Social Democratic Party",
+      "votes": null
     },
     {
       "person_id": "75920",
       "person_name": "Howard Graham Dews",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75920/7849e013-6e0b-4bcf-9e01-d1d3a29e3c80.png",
       "party_key": "other",
-      "party_name": "Yorkshire Party"
+      "party_name": "Yorkshire Party",
+      "votes": null
     }
   ]
 }

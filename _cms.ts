@@ -78,19 +78,44 @@ cms.collection(
   "gh:src/_data/results/*.json",
   [
     {
+      label: "Constituency name",
       name: "pcon24nm",
-      label: "Constituency",
       type: "text",
-      attributes: {
-        readonly: true,
-      },
+      attributes: { readonly: true },
     },
     {
       name: "pcon24cd",
       type: "hidden",
-      attributes: {
-        readonly: true,
-      },
+      attributes: { readonly: true },
+    },
+    {
+      label: "Total votes cast",
+      description:
+        "The count of all votes cast. This will most likely be higher than the sum of the votes cast for the candidates below due to spoiled ballots (which it can be used to calculate). This is also used in combination with the electorate to calculate turnout.",
+      name: "total_votes",
+      type: "number",
+      attributes: { min: 0 },
+    },
+    {
+      label: "Electorate",
+      description: "Registered voting population size",
+      name: "electorate",
+      type: "number",
+      attributes: { min: 0 },
+    },
+    {
+      label: "Turnout",
+      description:
+        "Percentage of electorate voting. Used if votes cast and electorate not both known.",
+      name: "turnout_pct",
+      type: "number",
+      attributes: { min: 0, max: 100 },
+    },
+    {
+      label: "Result is confirmed?",
+      description: "Check this box if the result has been confirmed.",
+      name: "confirmed",
+      type: "checkbox",
     },
     {
       name: "votes",
@@ -99,43 +124,29 @@ cms.collection(
         {
           name: "person_name",
           type: "text",
-          attributes: {
-            readonly: true,
-          },
+          attributes: { readonly: true },
         },
         {
           name: "party_name",
           type: "text",
-          attributes: {
-            readonly: true,
-          },
+          attributes: { readonly: true },
         },
         {
           name: "votes",
           type: "number",
-          attributes: {
-            min: 0,
-          },
+          attributes: { min: 0 },
         },
         {
           name: "person_id",
           type: "hidden",
-          attributes: {
-            readonly: true,
-          },
+          attributes: { readonly: true },
         },
         {
           name: "image",
           type: "hidden",
-          attributes: {
-            readonly: true,
-          },
+          attributes: { readonly: true },
         },
       ],
-    },
-    {
-      name: "confirmed",
-      type: "checkbox",
     },
   ],
 );

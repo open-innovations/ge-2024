@@ -1,97 +1,114 @@
 {
   "pcon24cd": "E14001444",
   "pcon24nm": "Richmond and Northallerton",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "115786",
       "person_name": "Lee Martin Taylor",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115786/50aeb1dd-b998-4f49-ba77-cbad27932b2c.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "116584",
       "person_name": "Daniel George Callaghan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116584/a8deeb2b-12c2-4ee3-aae6-f2a85b10d95f.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "116748",
       "person_name": "Tom Wilson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116748/be728177-2b0b-4d97-9cac-01ef6afdc86f.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "117727",
       "person_name": "Jason Barnett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117727/010979a5-b8a1-45b9-8b2f-7b8a574dfbe3.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117728",
       "person_name": "Angie Campion",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117728/899a171e-8d4d-4241-9138-75ace08683c0.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117732",
       "person_name": "Brian Neil Richmond",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "16133",
       "person_name": "Rio Goldhammer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/16133/7ebc062a-b0eb-41df-816b-5ef7f628bdd4.png",
       "party_key": "other",
-      "party_name": "Yorkshire Party"
+      "party_name": "Yorkshire Party",
+      "votes": null
     },
     {
       "person_id": "32485",
       "person_name": "Louise Anne Dickens",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "34750",
       "person_name": "Count Binface",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72363-41c603b5-0bc1-4ecc-b3aa-6b3ba7ea5e12.png",
       "party_key": "other",
-      "party_name": "Count Binface Party"
+      "party_name": "Count Binface Party",
+      "votes": null
     },
     {
       "person_id": "5371",
       "person_name": "Rishi Sunak",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5371/a9e8f41b-2e54-4105-8766-785c5c8282b0.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "55114",
       "person_name": "Kevin Foster",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/55114/37c72b43-cd30-4be6-ade2-aebca1896e86.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "72266",
       "person_name": "Sir Archibald Stanton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72266-830af731-a1dc-4f43-972f-ce3ab2cedde2.png",
       "party_key": "other",
-      "party_name": "The Official Monster Raving Loony Party"
+      "party_name": "The Official Monster Raving Loony Party",
+      "votes": null
     },
     {
       "person_id": "74380",
       "person_name": "Niko Omilana",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74380/e07ec0b4-79bf-41c9-bdb7-097b8a00ed49.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     }
   ]
 }

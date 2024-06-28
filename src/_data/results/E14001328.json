@@ -1,55 +1,66 @@
 {
   "pcon24cd": "E14001328",
   "pcon24nm": "Leicester West",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116903",
       "person_name": "Rahoul Naik",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116903/a5fdeffb-65ba-45bf-a39c-ced4ec951c60.png",
       "party_key": "other",
-      "party_name": "One Leicester"
+      "party_name": "One Leicester",
+      "votes": null
     },
     {
       "person_id": "1292",
       "person_name": "Liz Kendall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1292/d72cf7b9-fcca-49bb-8de2-1bc13f9fa6d0.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "23557",
       "person_name": "Ian Edward Hayes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/23557/175ad330-7565-4395-838b-75c7d3024738.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "3711",
       "person_name": "Steve Score",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3711/8e15a6e7-184d-4c2b-9cb8-1ed7a935f84f.png",
       "party_key": "other",
-      "party_name": "Trade Unionist and Socialist Coalition"
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "votes": null
     },
     {
       "person_id": "39873",
       "person_name": "Max Chauhan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/39873-dfc3e860-e5d9-47c4-bcfb-2423af7beea7.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "64089",
       "person_name": "Aasiya Bora",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/64089/f0f5fad9-fa8b-4e1a-af0e-c8278199fdc5.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "98997",
       "person_name": "Benjamin Feist",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98997/d7d3ea8b-622d-48f6-bd21-584803918d72.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

@@ -1,48 +1,58 @@
 {
   "pcon24cd": "E14001068",
   "pcon24nm": "Ashfield",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "102675",
       "person_name": "Daniel Holmes",
       "image": "/assets/images/missing.svg",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "116655",
       "person_name": "Alexander Coates",
       "image": "/assets/images/missing.svg",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "3232",
       "person_name": "Jason Zadrozny",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3232/5cd35754-fe71-4f05-8b3e-dd2903b7be17.png",
       "party_key": "other",
-      "party_name": "Ashfield Independents"
+      "party_name": "Ashfield Independents",
+      "votes": null
     },
     {
       "person_id": "4366",
       "person_name": "Rhea Keehn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5515b34bcaf202e56580fb30.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "55799",
       "person_name": "Lee Anderson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/55799/0cd627e8-d1b9-48b0-9f1d-defebdd9534a.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "71847",
       "person_name": "Debbie Soloman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71847.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     }
   ]
 }

@@ -1,90 +1,106 @@
 {
   "pcon24cd": "E14001290",
   "pcon24nm": "Holborn and St Pancras",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "113881",
       "person_name": "Andrew Feinstein",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113881/12c28cf7-b9d4-458f-b892-fbdd57286c6c.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "116034",
       "person_name": "Dave Roberts",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "116629",
       "person_name": "Wais Islam",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116629/8f467a4b-7a62-408d-8d10-4a2509e2bfab.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117397",
       "person_name": "Senthil Kumar",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "2323",
       "person_name": "Nick the Incredible Flying Brick",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2323_YdsbOzt.png",
       "party_key": "other",
-      "party_name": "The Official Monster Raving Loony Party"
+      "party_name": "The Official Monster Raving Loony Party",
+      "votes": null
     },
     {
       "person_id": "40908",
       "person_name": "David Robert Stansell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40908/5c94e8fb-0dd9-43e7-8fff-265b2fb4abb3.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "5077",
       "person_name": "Keir Starmer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5077/41a9ad59-6cfc-4c96-8025-eb32c1e58386.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "5961",
       "person_name": "John Poynton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54f59942ef7ec0da070128e4.png",
       "party_key": "other",
-      "party_name": "UK Independence Party (UKIP)"
+      "party_name": "UK Independence Party (UKIP)",
+      "votes": null
     },
     {
       "person_id": "72613",
       "person_name": "Tom Scripps",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72613/7610d863-da77-4fdd-994b-b5d39628e7a8.png",
       "party_key": "other",
-      "party_name": "Socialist Equality Party"
+      "party_name": "Socialist Equality Party",
+      "votes": null
     },
     {
       "person_id": "7292",
       "person_name": "Bobby \"Elmo\" Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/552cf2433d3371cf3592d9d5.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "91460",
       "person_name": "Mehreen Malik",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116979/18498669-99ca-4649-b812-47e4ef1e25d5.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "92711",
       "person_name": "Charlie Clinton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92711/c22bf66f-6d98-4f6f-b31b-95c49bd003f4.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     }
   ]
 }

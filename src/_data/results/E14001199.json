@@ -1,48 +1,58 @@
 {
   "pcon24cd": "E14001199",
   "pcon24nm": "Doncaster East and the Isle of Axholme",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116572",
       "person_name": "Irwen Martin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116572/2db06242-a469-4159-b923-f204920665eb.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117573",
       "person_name": "Mike Longfellow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117573/ae7de6ab-8ed5-42f4-b854-f7da5a8379ee.png",
       "party_key": "other",
-      "party_name": "Climate Party"
+      "party_name": "Climate Party",
+      "votes": null
     },
     {
       "person_id": "549",
       "person_name": "Nicola Jane Turner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553bb2d2b9c95afe74c5d338.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "72038",
       "person_name": "Nicholas Fletcher",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72038/68bfad7b-6bb5-4a03-a8e6-348f461b1b9d.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "81674",
       "person_name": "Lee Pitcher",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81674/93bbc8fa-af4b-43f4-a650-64485f3b8811.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "82926",
       "person_name": "Paul David Garrett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/82926/d8eb5dad-daa6-420f-8dcd-c05f667e3dfb.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

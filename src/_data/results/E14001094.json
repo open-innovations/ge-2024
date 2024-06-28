@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001094",
   "pcon24nm": "Birmingham Hall Green and Moseley",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "115498",
       "person_name": "Shakeel Afsar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116509/b30e5eef-1fc0-4abc-a652-8a0edaa5f44b.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "116688",
       "person_name": "Zain Ahmed",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116688/09daaff4-1033-41b4-8f92-271736b11843.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     },
     {
       "person_id": "117003",
       "person_name": "Mohammad Hafeez",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117086/d128ef3d-e188-4694-8c4a-ad22b124dc73.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117469",
       "person_name": "Stephen Gerard McBrine",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117469/0883a75e-bcb3-4ab3-a4fa-f57e484d87ea.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117470",
       "person_name": "Babar Saleem Raja",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117470/43e776c7-040d-4ceb-b99c-802e1381c005.png",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "40866",
       "person_name": "Izzy Knowles",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40866/ce45af15-aaa1-4f92-86f4-cef1888a6c58.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "98968",
       "person_name": "Henry Stephen Whitlock Morris",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98968/9fc25407-07c8-4401-85b6-e7118ba80b32.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "9962",
       "person_name": "Tahir Ali",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/9962-af040ffb-52b4-42e0-aded-105e0674b686.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     }
   ]
 }

@@ -1,62 +1,74 @@
 {
   "pcon24cd": "W07000085",
   "pcon24nm": "Brecon, Radnor and Cwm Tawe",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "116470",
       "person_name": "Adam Hill",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116470/13b6d41a-e877-48b4-8312-d7be90e37e7f.png",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117341",
       "person_name": "Jonathan Harrington",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Abolish The Welsh Assembly Party"
+      "party_name": "Abolish The Welsh Assembly Party",
+      "votes": null
     },
     {
       "person_id": "26866",
       "person_name": "Emily Durrant-Munro",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26866-27c3e4ed-94a7-4d90-8b23-ee25debc8bb0.png",
       "party_key": "pc",
-      "party_name": "Plaid Cymru - The Party of Wales"
+      "party_name": "Plaid Cymru - The Party of Wales",
+      "votes": null
     },
     {
       "person_id": "4274",
       "person_name": "Matthew Dorrance",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4274/6249fb89-c6c0-48b7-8b96-9b96e6cc3b4c.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "70555",
       "person_name": "Fay Jones",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70555.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "71555",
       "person_name": "David Chadwick",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71555.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "8247",
       "person_name": "Lady Lily The Pink",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/8247.png",
       "party_key": "other",
-      "party_name": "The Official Monster Raving Loony Party"
+      "party_name": "The Official Monster Raving Loony Party",
+      "votes": null
     },
     {
       "person_id": "88134",
       "person_name": "Ammi Kaur-Dhaliwal",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88134/d53ac5c7-64d6-465b-bca0-780834f50437.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }

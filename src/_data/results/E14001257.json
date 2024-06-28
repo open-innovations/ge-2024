@@ -1,62 +1,74 @@
 {
   "pcon24cd": "E14001257",
   "pcon24nm": "Greenwich and Woolwich",
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
+  "confirmed": false,
   "votes": [
     {
       "person_id": "117481",
       "person_name": "Priyank Bakshi",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117481/63e0855b-e370-4c6b-a52b-7cc2bd91fc13.png",
       "party_key": "other",
-      "party_name": "Climate Party"
+      "party_name": "Climate Party",
+      "votes": null
     },
     {
       "person_id": "117482",
       "person_name": "Jonathan Goff",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117482/08295e09-83b7-4fb2-8bb7-dadf9d69f02b.png",
       "party_key": "con",
-      "party_name": "Conservative and Unionist Party"
+      "party_name": "Conservative and Unionist Party",
+      "votes": null
     },
     {
       "person_id": "117483",
       "person_name": "Abdoul Aziz Ndiaye",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
-      "party_name": "Reform UK"
+      "party_name": "Reform UK",
+      "votes": null
     },
     {
       "person_id": "117484",
       "person_name": "Niko Omilana",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
-      "party_name": "Independent"
+      "party_name": "Independent",
+      "votes": null
     },
     {
       "person_id": "117485",
       "person_name": "Sheikh Raquib",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117485/67593b0a-3bdf-4cf5-bd1f-e16411271d88.png",
       "party_key": "other",
-      "party_name": "Workers Party of Britain"
+      "party_name": "Workers Party of Britain",
+      "votes": null
     },
     {
       "person_id": "4343",
       "person_name": "Matthew Pennycook",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4343/6bce10a3-572c-48f0-aab8-fe8d227dfc53.png",
       "party_key": "lab",
-      "party_name": "Labour Party"
+      "party_name": "Labour Party",
+      "votes": null
     },
     {
       "person_id": "73033",
       "person_name": "Chris Annous",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73033/aabc9139-81d8-48cc-b5be-0c62caf7d891.png",
       "party_key": "ld",
-      "party_name": "Liberal Democrats"
+      "party_name": "Liberal Democrats",
+      "votes": null
     },
     {
       "person_id": "90126",
       "person_name": "Stacy Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90126/a44f86bb-5868-401f-95af-39552ee4f785.png",
       "party_key": "green",
-      "party_name": "Green Party"
+      "party_name": "Green Party",
+      "votes": null
     }
   ]
 }
