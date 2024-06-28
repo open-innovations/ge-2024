@@ -5,7 +5,7 @@ import petl as etl
 from tqdm import tqdm
 
 INPUT_DIR = Path('data/')
-DATA_DIR = Path('src/_data/')
+DATA_DIR = Path('src/constituency/_data/')
 
 
 def create_results(constituency):

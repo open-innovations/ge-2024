@@ -75,7 +75,7 @@ cms.field("result-table", {
 
 cms.collection(
   "results",
-  "gh:src/_data/results/*.json",
+  "gh:src/constituency/_data/results/*.json",
   [
     {
       label: "Constituency name",
