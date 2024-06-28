@@ -43,6 +43,19 @@ body {
       gap: 0 1rem;
     }
   }
+  & > aside {
+    position: sticky;
+    top: 0;
+    z-index: 10000;
+    background: #F9BC26;
+    padding-block: 0.5rem;
+    font-family: Poppins;
+    font-size: 1.1rem;
+    text-align: center;
+    & > * {
+      margin-block: 0;
+    }
+  }
   & > footer {
     color: white;
     background: black;
