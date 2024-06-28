@@ -17,3 +17,6 @@ table {
     }
   }
 }
+.oi-legend {
+  font-size: min(1rem, 2.5vw);
+}
