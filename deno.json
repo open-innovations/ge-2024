@@ -15,9 +15,29 @@
     ]
   },
   "fmt": {
-    "exclude": ["_site", "_cache", "src/**/_data/**/*.json", "dist"]
+    "exclude": [
+      "_site",
+      "_cache",
+      "src/**/_data/**/*.json",
+      "dist"
+    ]
   },
   "lint": {
-    "exclude": ["_site", "_cache", "dist"]
+    "exclude": [
+      "_site",
+      "_cache",
+      "dist"
+    ]
+  },
+  "deploy": {
+    "project": "c2e3d5ef-d48f-45d2-b99b-9b0cf9560edb",
+    "exclude": [
+      "**/node_modules"
+    ],
+    "include": [
+      "_cms.ts",
+      "deno.json"
+    ],
+    "entrypoint": "_cms.ts"
   }
 }
