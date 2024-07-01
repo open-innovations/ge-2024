@@ -64,7 +64,7 @@ export default function* ({
           : `gain`
       }`;
       description =
-        `${headline}. ${winner.person_name} (${winner.party_name})${provisional} elected to ${pcon24cd}.`;
+        `${headline}. ${winner.person_name} (${winner.party_name})${provisional} elected to ${pcon24nm}.`;
       metas.image = winner.image;
     }
 

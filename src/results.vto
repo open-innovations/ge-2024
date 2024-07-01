@@ -5,7 +5,9 @@ title: Results
   Download <a href="/results.json">this results file</a> (JSON format)
 </p>
 
-{{ if search.pages("constituency winner!=null").length > 0 }}
+{{ set results = search.pages("constituency winner!=null", "pcon24nm") }}
+
+{{ if results.length > 0 }}
 <table style="text-align: center;">
   <thead>
     <tr>
@@ -14,7 +16,7 @@ title: Results
     </tr>
   </thead>
   <tbody>
-    {{ for c of search.pages("constituency winner!=null", "pcon24nm") }}
+    {{ for c of results }}
       <tr>
         <th scope="row">
           <a href="{{ c.url }}">
