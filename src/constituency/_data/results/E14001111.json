@@ -9,7 +9,7 @@
     {
       "person_id": "105696",
       "person_name": "Philip Kochitty",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105696/1eb533bc-cb7e-4310-aad2-39ff5f6f95f6.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

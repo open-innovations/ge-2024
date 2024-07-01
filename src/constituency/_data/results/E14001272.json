@@ -17,7 +17,7 @@
     {
       "person_id": "53296",
       "person_name": "Tommy Dudley",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/53296/2c56f6fa-9b6f-474d-9742-2ff69e01ff09.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

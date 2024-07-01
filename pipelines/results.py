@@ -1,3 +1,4 @@
+import os
 import json
 from pathlib import Path
 
@@ -22,23 +23,24 @@ def create_results(constituency):
 
     results = candidates.selecteq(
         'pcon24cd', constituency
+    ).addfield(
+        'votes', None
     )
 
-    try:
-        with open(target_file) as json_file:
-            current_data = json.load(json_file)
-        data.update(current_data)
-        results = results.leftjoin(
-            etl.fromdicts(
-                current_data['votes']
-            ).cut(
-                'person_id', 'votes'
-            ), key='person_id'
-        )
-    except:
-        results = results.addfield(
-            'votes', None
-        )
+    if not reset:
+        try:
+            with open(target_file) as json_file:
+                current_data = json.load(json_file)
+            data.update(current_data)
+            results = results.leftjoin(
+                etl.fromdicts(
+                    current_data['votes']
+                ).cut(
+                    'person_id', 'votes'
+                ), key='person_id'
+            )
+        except:
+            pass
 
     data['votes'] = list(results.cutout('pcon24cd', 'post_label').dicts())
 
@@ -71,4 +73,6 @@ def main():
 
 
 if __name__ == "__main__":
+    global reset
+    reset = os.environ.get('RESET_RESULTS') == 'RESET'
     main()

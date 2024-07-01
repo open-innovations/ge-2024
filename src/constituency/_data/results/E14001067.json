@@ -33,7 +33,7 @@
     {
       "person_id": "117295",
       "person_name": "Mike Smith",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117295/17be1386-1139-40ad-b674-93278dda36b2.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
       "votes": null

@@ -17,7 +17,7 @@
     {
       "person_id": "117425",
       "person_name": "Udo Van Den Brock",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117425/53f1591b-a9e3-4da7-b185-74078bf0168e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
       "votes": null

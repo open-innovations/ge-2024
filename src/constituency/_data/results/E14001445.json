@@ -25,7 +25,7 @@
     {
       "person_id": "117546",
       "person_name": "Chris French",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117546/97e4b171-69ad-496d-84c2-0d4ad05bc563.png",
       "party_key": "other",
       "party_name": "The Mitre TW9",
       "votes": null

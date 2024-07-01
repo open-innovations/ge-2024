@@ -7,14 +7,6 @@
   "confirmed": false,
   "votes": [
     {
-      "person_id": "112788",
-      "person_name": "Caitriona Rylance",
-      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/112788/df834b8b-bb0d-46b8-a8eb-2c2d1b29baa1.png",
-      "party_key": "other",
-      "party_name": "Communist Future",
-      "votes": null
-    },
-    {
       "person_id": "116161",
       "person_name": "Sebastian Moore",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116161/e216b0a0-fda3-48df-9e0d-53d44dc20cc5.png",
@@ -52,6 +44,14 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117842/1c3453e1-c98f-4667-a01e-363b780fafce.png",
       "party_key": "other",
       "party_name": "Independent",
+      "votes": null
+    },
+    {
+      "person_id": "117945",
+      "person_name": "Caitriona Rylance",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117945/37bd9fb9-e81a-471c-a2c5-cc208e197d06.png",
+      "party_key": "other",
+      "party_name": "Communist Future",
       "votes": null
     },
     {
