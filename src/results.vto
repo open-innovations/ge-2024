@@ -1,13 +1,15 @@
 ---
 title: Results
 ---
+<p>
+  Download <a href="/results.json">this results file</a> (JSON format)
+</p>
 
 <table style="text-align: center;">
   <thead>
     <tr>
       <th>Constituency</th>
-      <th>Incumbent</th>
-      <th>Winner</th>
+      <th>Elected</th>
     </tr>
   </thead>
   <tbody>
@@ -18,7 +20,6 @@ title: Results
             {{ c.title }}
           </a>
         </th> 
-        {{ comp.party({ party: c.notional.party_key, tag: 'td' }) }}
         {{ if c.winner }}
           {{ comp.party({
             party: c.winner.party_key,
