@@ -6,8 +6,6 @@ site:
       title: Constituencies
     - url: /results/
       title: Results
-    - url: /about/
-      title: About
 
 metas:
   title: "=title"
