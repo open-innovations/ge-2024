@@ -20,3 +20,39 @@ table {
 .oi-legend {
   font-size: min(1rem, 2.5vw);
 }
+
+ul.blocks {
+  list-style: none;
+  padding-inline-start: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  & > li {
+    color: black;
+    background-color: #bbbbbb;
+    transition: all 0.3s;
+    &:hover {
+      color: white;
+      background-color: black;
+    }
+    flex-grow: 1;
+    & > * {
+      display: block;
+      padding: 1em;
+    }
+    & a {
+      color: inherit;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.marker-bar {
+  --size: 1rem;
+  background: linear-gradient(to right, var(--incumbent, "black") 2rem, transparent 2rem, transparent 2.25rem, var(--winner, "#aaa") 2.25rem);
+  border-radius: var(--size, 1rem);
+  height:var(--size, 1rem);
+}

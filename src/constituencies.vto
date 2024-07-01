@@ -2,10 +2,34 @@
 title: Constituencies
 ---
 
-<ul>
-{{ for c of search.pages('constituency') }}
-  <li>
-    <a href="{{ c.url }}">{{ c.title }}</a>
+<ul class="blocks">
+{{ for c of search.pages('constituency', 'pcon24nm') }}
+  {{ set incumbent = c.notional.party_key }}
+  {{ set winner = c.winner?.party_key }}
+  <li
+    style="
+      --incumbent: {{ colour.names[incumbent] }};
+      --winner: {{ colour.names[winner] || "#999999" }};
+    "
+    data-incumbent="{{ incumbent }}"
+    data-winner="{{ winner }}"
+    data-confirmed="{{ c.results.confirmed }}"
+  >
+    <a href="{{ c.url }}">
+      {{ c.title }}
+      <p>
+        {{ c.notional.party_name }} &rarr; 
+        <strong>
+        {{ if c.winner }}
+          {{ c.winner?.party_name || "<em>Undeclared</em>" }}
+          {{ if !c.results.confirmed }}(Provisional){{ /if }}
+        {{ else }}
+          <em>Undeclared</em>
+        {{ /if }}
+        </strong>
+      </p>
+      <div class="marker-bar"></div>
+    </a>
   </li>
 {{ /for }}
 </ul>
