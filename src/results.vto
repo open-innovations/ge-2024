@@ -2,22 +2,33 @@
 title: Results
 ---
 
-<table>
+<table style="text-align: center;">
   <thead>
     <tr>
       <th>Constituency</th>
       <th>Incumbent</th>
       <th>Winner</th>
-      <th>Links</th>
     </tr>
   </thead>
   <tbody>
-    {{ for c of search.pages("constituency") }}
+    {{ for c of search.pages("constituency", "pcon24nm") }}
       <tr>
-        <th scope="row">{{ c.title }}</th> 
-        <td>{{ comp.party({ party: c.notional.party_key }) }}</td>
-        <td>{{ c.results.winner ? comp.party({ party: c.results.winner }) : "Result not yet available" }}</td>
-        <td><a href="{{ c.url }}">Constituency page</a></td>
+        <th scope="row">
+          <a href="{{ c.url }}">
+            {{ c.title }}
+          </a>
+        </th> 
+        {{ comp.party({ party: c.notional.party_key, tag: 'td' }) }}
+        {{ if c.winner }}
+          {{ comp.party({
+            party: c.winner.party_key,
+            name: c.winner.party_name + (c.results.confirmed ? "" : " (provisional)"),
+            tag: 'td'
+          })
+        }}  
+        {{ else }}
+          <td>Result not yet available</td>
+        {{ /if }}
       </tr>
     {{ /for }}
   </tbody>
