@@ -65,7 +65,7 @@
     {
       "person_id": "99618",
       "person_name": "Zia Qari",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99618/57466339-5882-488c-a7cd-32b3e15dd159.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

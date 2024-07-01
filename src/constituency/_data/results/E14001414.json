@@ -9,7 +9,7 @@
     {
       "person_id": "116710",
       "person_name": "Brad Davies",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116710/56af374d-57d7-40db-9643-7cae9ae7017b.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

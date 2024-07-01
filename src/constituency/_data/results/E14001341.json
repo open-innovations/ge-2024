@@ -49,7 +49,7 @@
     {
       "person_id": "76659",
       "person_name": "Maria Teresa Coughlan",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76659/d9519677-0989-4052-9625-685597416807.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

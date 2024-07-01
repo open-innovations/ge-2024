@@ -25,7 +25,7 @@
     {
       "person_id": "117303",
       "person_name": "Muhammad Azeem",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117303/00e3490c-3432-4969-bcc7-2b2bf0df3acc.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

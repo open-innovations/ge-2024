@@ -49,7 +49,7 @@
     {
       "person_id": "117842",
       "person_name": "Sabeena Khan",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117842/1c3453e1-c98f-4667-a01e-363b780fafce.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

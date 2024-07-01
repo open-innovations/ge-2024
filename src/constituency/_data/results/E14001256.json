@@ -65,7 +65,7 @@
     {
       "person_id": "83241",
       "person_name": "Trevor Rawson",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83241/547c2181-03e0-4d8a-b444-685bf83d696e.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

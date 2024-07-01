@@ -65,7 +65,7 @@
     {
       "person_id": "98823",
       "person_name": "Trevor Mayne",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98823/27deb3d0-1bac-43ae-a346-dad3d94e7d80.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

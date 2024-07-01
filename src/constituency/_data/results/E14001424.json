@@ -25,7 +25,7 @@
     {
       "person_id": "116169",
       "person_name": "Susan Denham-Smith",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116169/cf698364-b961-4029-947a-8f034354afc7.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

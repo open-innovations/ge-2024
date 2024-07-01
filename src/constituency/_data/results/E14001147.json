@@ -1,9 +1,9 @@
 {
   "pcon24cd": "E14001147",
   "pcon24nm": "Calder Valley",
-  "total_votes": 0,
-  "electorate": 0,
-  "turnout_pct": 0,
+  "total_votes": null,
+  "electorate": null,
+  "turnout_pct": null,
   "confirmed": false,
   "votes": [
     {
@@ -12,7 +12,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100961/90bd6cbe-00b1-49c8-ad5a-495ac3022b5c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "116566",
@@ -20,7 +20,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116566/041b1940-a64a-42d3-a7de-aedf31864ca2.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "117715",
@@ -28,7 +28,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117715/a0911ab1-00c4-407c-8a5a-95c901837dcf.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "34374",
@@ -36,7 +36,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34374.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "4289",
@@ -44,7 +44,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4289-a3a0e16e-b161-49db-bbc5-4eb3090f8488.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": null
     },
     {
       "person_id": "661",
@@ -52,7 +52,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/661/ee0cedc4-0f2f-433e-8fe6-d270e564a3d4.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 2
+      "votes": null
     },
     {
       "person_id": "7667",
@@ -60,7 +60,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7667.png",
       "party_key": "other",
       "party_name": "Yorkshire Party",
-      "votes": 3
+      "votes": null
     }
   ]
 }

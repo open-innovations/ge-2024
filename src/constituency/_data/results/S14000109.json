@@ -65,7 +65,7 @@
     {
       "person_id": "86002",
       "person_name": "Kevin Thomas Blades",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86002/62d5b43b-cc35-449f-b9d3-a5e6cbcbe95e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
       "votes": null

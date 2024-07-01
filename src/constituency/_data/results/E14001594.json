@@ -41,7 +41,7 @@
     {
       "person_id": "89509",
       "person_name": "Kwaku Tano-Yeboah",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89509/f0eeccda-23bd-4a32-b524-cd8896081779.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

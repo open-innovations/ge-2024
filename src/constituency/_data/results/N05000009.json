@@ -9,7 +9,7 @@
     {
       "person_id": "117105",
       "person_name": "Patricia Denvir",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117105/65799910-b9a2-47ab-bdab-4b55947fa953.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

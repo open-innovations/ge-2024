@@ -25,7 +25,7 @@
     {
       "person_id": "116698",
       "person_name": "Sebastian Newsam",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116698/6eccda73-5ec9-4583-8228-fa9f29aeeee7.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

@@ -25,7 +25,7 @@
     {
       "person_id": "117741",
       "person_name": "Ryan Ahmad",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117741/3f363a31-cec8-4aa4-8a14-be7616cd03ff.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

@@ -33,7 +33,7 @@
     {
       "person_id": "117676",
       "person_name": "Kris Stone",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117676/1b31c054-d805-4323-9a2d-fe81e3309993.png",
       "party_key": "other",
       "party_name": "Chesterfield And North Derbyshire Independents (CANDI)",
       "votes": null

@@ -33,7 +33,7 @@
     {
       "person_id": "47481",
       "person_name": "Alison Wilson",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/47481/93e6e807-39cc-45da-abfc-012b114f3066.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

@@ -25,7 +25,7 @@
     {
       "person_id": "115818",
       "person_name": "Matthew Leese",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115818/367aa7d8-c746-4a24-872d-327a0f2ed580.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
       "votes": null

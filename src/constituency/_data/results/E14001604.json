@@ -33,7 +33,7 @@
     {
       "person_id": "117800",
       "person_name": "Ruairi Kendall",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117800/cc61b57f-8e8b-4186-80ae-796d4be1d27e.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

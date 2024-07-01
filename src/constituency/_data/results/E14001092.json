@@ -17,7 +17,7 @@
     {
       "person_id": "117401",
       "person_name": "Joshua Matthews",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117401/c98090fd-5c77-4e28-9644-fc6542345396.png",
       "party_key": "ref",
       "party_name": "Reform UK",
       "votes": null

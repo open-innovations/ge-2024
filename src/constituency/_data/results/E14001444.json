@@ -65,7 +65,7 @@
     {
       "person_id": "32485",
       "person_name": "Louise Anne Dickens",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/32485/95157738-899d-4b6d-81ce-270b08c8ff0d.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

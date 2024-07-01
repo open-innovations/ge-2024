@@ -25,7 +25,7 @@
     {
       "person_id": "117426",
       "person_name": "George Morton",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117426/93f04ed8-2281-4cbd-a577-1e2c7640222c.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

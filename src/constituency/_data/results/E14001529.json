@@ -25,7 +25,7 @@
     {
       "person_id": "117183",
       "person_name": "Saskia Whitfield",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117183/6a7201c4-5a30-41d1-8351-456580b5d0ea.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

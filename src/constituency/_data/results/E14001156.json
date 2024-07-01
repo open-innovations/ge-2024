@@ -17,7 +17,7 @@
     {
       "person_id": "117510",
       "person_name": "Mike Hallatt",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117510/ccf5a43b-d6e5-4b25-9d84-4c1db7c66fa0.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null
@@ -33,7 +33,7 @@
     {
       "person_id": "34525",
       "person_name": "Patrick Spencer",
-      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34525.png",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34525/f6d24829-be27-4378-9ed5-6bfe01f7c3bb.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

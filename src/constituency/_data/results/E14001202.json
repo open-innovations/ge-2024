@@ -81,7 +81,7 @@
     {
       "person_id": "79011",
       "person_name": "Colin Tasker",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79011/8f36a1b6-0c63-4178-9f8b-0b6942f659c6.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

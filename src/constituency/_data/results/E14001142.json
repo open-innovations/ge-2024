@@ -17,7 +17,7 @@
     {
       "person_id": "15136",
       "person_name": "David Roper",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/15136/ec54cc95-8363-4d11-a314-35d6dd833773.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

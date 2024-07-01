@@ -25,7 +25,7 @@
     {
       "person_id": "117619",
       "person_name": "Jennifer Blake",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117619/95db7540-feca-4054-addc-d3436ee4fe44.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

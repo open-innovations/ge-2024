@@ -49,7 +49,7 @@
     {
       "person_id": "99644",
       "person_name": "Stephen James Price",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99644/2a273808-5f3a-46fb-92a0-239ae056a8fe.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

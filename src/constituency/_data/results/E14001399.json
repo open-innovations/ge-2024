@@ -17,7 +17,7 @@
     {
       "person_id": "116425",
       "person_name": "Oscar Livesey Lodwick",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116425/1edf7096-9a47-42ca-a688-eb49a846e729.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

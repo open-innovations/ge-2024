@@ -57,7 +57,7 @@
     {
       "person_id": "96707",
       "person_name": "Gita Joshi",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96707/85e2c26e-0194-4508-9731-500dc4c55fb7.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

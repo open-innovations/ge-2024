@@ -17,7 +17,7 @@
     {
       "person_id": "116655",
       "person_name": "Alexander Coates",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116655/d87b825a-06b4-43d1-8be4-1460eec38b8e.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

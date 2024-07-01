@@ -9,7 +9,7 @@
     {
       "person_id": "105368",
       "person_name": "Will Grant",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105368/818b491c-63ee-4807-87ad-fa9f5aa3afdf.png",
       "party_key": "other",
       "party_name": "Yorkshire Party",
       "votes": null

@@ -17,7 +17,7 @@
     {
       "person_id": "117710",
       "person_name": "Harl Grewal",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117710/1771ff1c-788d-4d35-aa0d-83e517ffacaf.png",
       "party_key": "ref",
       "party_name": "Reform UK",
       "votes": null

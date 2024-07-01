@@ -57,7 +57,7 @@
     {
       "person_id": "73558",
       "person_name": "Spencer Donnelly",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73558/260b2c5b-26d1-47b1-bb97-d833142c38fa.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

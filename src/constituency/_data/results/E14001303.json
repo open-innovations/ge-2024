@@ -17,7 +17,7 @@
     {
       "person_id": "117691",
       "person_name": "David Groocock",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117691/7c5b23dd-face-47dd-9579-2248ac3f8074.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null
