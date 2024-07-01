@@ -18,7 +18,7 @@ stages:
       - src/_data/notional.json:
           cache: false
   results:
-    frozen: true
+    # frozen: true
     cmd: python pipelines/results.py
     deps:
       - pipelines/results.py

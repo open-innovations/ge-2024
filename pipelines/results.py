@@ -11,14 +11,6 @@ DATA_DIR = Path('src/constituency/_data/')
 def create_results(constituency):
     target_file = DATA_DIR / f'results/{ constituency }.json'
 
-    results = candidates.selecteq(
-        'pcon24cd', constituency
-    ).addfield(
-        'votes', None
-    )
-
-    # TODO merge any existing votes
-
     data = {
         'pcon24cd': constituency,
         'pcon24nm': constituency_lookup[constituency],
@@ -26,8 +18,29 @@ def create_results(constituency):
         'electorate': None,
         'turnout_pct': None,
         'confirmed': False,
-        'votes': list(results.cutout('pcon24cd', 'post_label').dicts()),
     }
+
+    results = candidates.selecteq(
+        'pcon24cd', constituency
+    )
+
+    try:
+        with open(target_file) as json_file:
+            current_data = json.load(json_file)
+        data.update(current_data)
+        results = results.leftjoin(
+            etl.fromdicts(
+                current_data['votes']
+            ).cut(
+                'person_id', 'votes'
+            ), key='person_id'
+        )
+    except:
+        results = results.addfield(
+            'votes', None
+        )
+
+    data['votes'] = list(results.cutout('pcon24cd', 'post_label').dicts())
 
     with open(target_file, 'w') as json_file:
         json.dump(data, json_file, indent=2)
@@ -52,7 +65,6 @@ def main():
         candidates,
         'pcon24cd', 'post_label'
     )
-
 
     for constituency in tqdm(set(candidates.values('pcon24cd'))):
         create_results(constituency)
