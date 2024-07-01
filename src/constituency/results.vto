@@ -3,7 +3,7 @@ layout: none.vto
 url: /results.json
 ---
 {{
-  search.pages('constituency', 'pcon24cd').map(c => ({
+  search.pages('constituency winner!=null', 'pcon24cd').map(c => ({
       pcon24cd: c.pcon24cd,
       pcon24nm: c.pcon24nm,
       party_key: c.winner?.party_key,
