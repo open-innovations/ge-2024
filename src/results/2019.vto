@@ -1,0 +1,40 @@
+---
+title: 2019 General Election Results (projected)
+---
+<p>
+  The map below shows the result of the 2019 General Election if it had been held with the new boundaries.
+  It is based on estimates created by BBC News, ITV News, Sky News and the Press Association, and was sourced from <a href="https://electionresults.parliament.uk/general-elections/5/majority">UK Parliament election results website</a>.
+</p>
+
+{{ comp.oi.map.hex_cartogram({
+  config: {
+    hexjson: hexjson.constituencies,
+    data: notional,
+
+    matchKey: "pcon24cd",
+    value: "party_key",
+
+    columns: [
+      { name: "info", template: "<h2><a href='/constituency/{{ pcon24cd }}/'>{{ pcon24nm }}</a></h2>" },
+    ],
+
+    tooltip: "{{ info }}",
+
+    // Add label
+    label: "{{ PCON24NM | slice(0,3) }}",
+
+    // Add filter tool
+    tools: {
+			filter:{
+				label: "n"
+      }
+    },
+
+    // Add auto-generated legend
+    legend: {
+      position: "top right",
+      title: 'Key',
+      items: Object.entries(parties).map(([k, v]) => ({ value: colour.names[k], label: v.name })),
+    },
+  },
+}) }}

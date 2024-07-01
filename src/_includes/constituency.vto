@@ -12,6 +12,12 @@ layout: page.vto
   }) }} seat.
 </p>
 
+{{ if winner }}
+  <p>{{ winner.person_name }} representing {{ comp.party({ party: winner.party_key, name: winner.party_name }) }} has been elected.</p>
+{{ else }}
+  <p>Results are not yet available.</p>
+{{ /if }}
+
 <h2>Results</h2>
 
 {{ if results.votes.length > 0 }}

@@ -22,13 +22,27 @@ export default function* ({
     [key: string]: unknown;
   }[];
   results: {
-    [key: string]: unknown;
+    [key: string]: {
+      votes: {
+        votes: number;
+        [key: string]: unknown;
+      }[];
+    };
   };
 }) {
   for (
     const [pcon24cd, { n: pcon24nm }] of Object.entries<HexData>(constituencies)
   ) {
     const localResults = results![pcon24cd] || {};
+
+    const resultsCount = localResults
+      .votes
+      .filter((x) => x.votes > 0)
+      .length;
+
+    const winner = resultsCount > 0
+      ? localResults.votes.sort((a, b) => b.votes - a.votes)[0]
+      : null;
 
     const overrideNotional = notional.find((x) => x.pcon24cd == pcon24cd);
 
@@ -39,6 +53,7 @@ export default function* ({
       pcon24nm,
       results: localResults,
       notional: overrideNotional,
+      winner,
     };
   }
 }
