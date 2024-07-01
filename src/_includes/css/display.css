@@ -77,3 +77,8 @@ ul.blocks {
     left: var(--filter-padding);
   }
 }
+
+.oi-map-inner {
+  max-width: 30em;
+  margin-inline: auto;
+}
