@@ -24,7 +24,7 @@ import autoDependency from "https://deno.land/x/oi_lume_utils@v0.4.0/processors/
 
 const site = lume({
   src: "./src",
-  location: new URL("https://ge-2024.open-innovations.org/"),
+  location: new URL("https://ge2024.hexmap.uk/"),
 });
 
 site.data("cms", "https://cms.ge-2024.open-innovations.org/");
