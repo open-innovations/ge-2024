@@ -3,8 +3,6 @@ title: About this site
 templateEngine: vto, markdown
 ---
 
-# About this site
-
 ## Data sources and pipelines
 
 | Data source  | Publisher        | License   | Details                                                                                                                                                             |
