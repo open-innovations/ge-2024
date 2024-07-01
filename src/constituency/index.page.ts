@@ -23,8 +23,10 @@ export default function* ({
   }[];
   results: {
     [key: string]: {
+      confirmed: boolean;
       votes: {
         votes: number;
+        image: string;
         [key: string]: unknown;
       }[];
     };
@@ -46,8 +48,30 @@ export default function* ({
 
     const overrideNotional = notional.find((x) => x.pcon24cd == pcon24cd);
 
+    let description = `No result available for ${pcon24nm}.`;
+
+    const metas = {
+      image: "https://placehold.co/400/svg?text=Awaiting+result",
+    };
+
+    if (winner) {
+      const provisional = localResults.confirmed ? "" : " provisionally";
+
+      const headline = `${winner.party_name} ${
+        overrideNotional.party_key ==
+            winner.party_key
+          ? `hold`
+          : `gain`
+      }`;
+      description =
+        `${headline}. ${winner.person_name} (${winner.party_name})${provisional} elected to ${pcon24cd}.`;
+      metas.image = winner.image;
+    }
+
     yield {
       title: pcon24nm,
+      description,
+      metas,
       url: `/constituency/${pcon24cd}/`,
       pcon24cd,
       pcon24nm,
