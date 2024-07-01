@@ -62,3 +62,18 @@ ul.blocks {
   border-radius: var(--size, 1rem);
   height:var(--size, 1rem);
 }
+
+.oi-filter {
+  --control-radius: 2.5rem;
+  & input {
+    border-radius: var(--control-radius);
+  }
+  & .oi-filter-button {
+    border: none;
+    border-top-left-radius: var(--control-radius);
+    border-bottom-left-radius: var(--control-radius);
+    position: relative;
+    top: var(--filter-padding);
+    left: var(--filter-padding);
+  }
+}
