@@ -2,7 +2,7 @@
 title: Constituencies
 ---
 
-<ul class="blocks">
+<ul id="constituency-list" class="blocks" data-dependencies="/assets/js/constituency-filter.js">
 {{ for c of search.pages('constituency', 'pcon24nm') }}
   {{ set incumbent = c.notional.party_key }}
   {{ set winner = c.winner?.party_key }}
@@ -11,6 +11,7 @@ title: Constituencies
       --incumbent: {{ colour.names[incumbent] }};
       --winner: {{ colour.names[winner] || "#999999" }};
     "
+    data-name="{{ c.title |> toUpperCase }}"
     data-incumbent="{{ incumbent }}"
     data-winner="{{ winner }}"
     data-confirmed="{{ c.results.confirmed }}"

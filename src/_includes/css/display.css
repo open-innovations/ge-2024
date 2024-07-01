@@ -82,3 +82,15 @@ ul.blocks {
   max-width: 30em;
   margin-inline: auto;
 }
+
+#constituency-filter {
+  &, & div {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 0.2rem;
+  }
+  & div + div {
+    margin-inline-start: 1em;
+  }
+}
