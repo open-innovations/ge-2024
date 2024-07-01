@@ -10,7 +10,7 @@ body {
     color: white;
     background: #6d6d6d;
     font-family: Poppins, sans-serif;
-    font-size: 2rem;
+    font-size: min(2rem, 5vw);
     font-weight: 600;
     text-align: center;
     & a {
@@ -19,7 +19,7 @@ body {
       display: block;
     }
     & img {
-      width: 5rem;
+      width: min(5rem, 10vw);
     }
   }
   & > nav {
