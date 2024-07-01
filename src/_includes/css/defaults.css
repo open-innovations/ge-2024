@@ -59,6 +59,9 @@ body {
   & > footer {
     color: white;
     background: black;
+    & a {
+      color: inherit;
+    }
   }
 }
 a:hover {
