@@ -7,8 +7,8 @@
 -}}
 
 {{- set src = thumbnail(winner?.person_id) || "/assets/images/missing.svg" -}}
-{{- set c = comp.colour({ colour: winner?.party_key || "none" }) -}}
-{{- set c2 = comp.colour({ colour: previous }) -}}
+{{- set c = comp.colour({ colour: (winner?.party_key ? parties[winner?.party_key].colour : "none") }) -}}
+{{- set c2 = comp.colour({ colour: parties[previous].colour }) -}}
 
 <div class="winner" style="background:{{ comp.flash_gradient({ main: c.hex, secondary: c2.hex }) }};background-size:100% 50%;background-repeat: no-repeat;background-position: top left, bottom left;color:{{ c.contrast }};">
   <div class="image">
