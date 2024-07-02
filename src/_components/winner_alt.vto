@@ -9,11 +9,8 @@
 {{- set src = thumbnail(winner?.person_id) || "/assets/images/missing.svg" -}}
 {{- set c = comp.colour({ colour: winner?.party_key || "none" }) -}}
 {{- set c2 = comp.colour({ colour: previous }) -}}
-{{- set gradient -}}
-linear-gradient(110deg, {{ c.hex }} 0%, {{ c.hex }} calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), {{ c2.hex }} calc(100% - 1.75em)), linear-gradient(70deg, {{ c.hex }} 0%, {{ c.hex }} calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), {{ c2.hex }} calc(100% - 1.75em))
-{{- /set -}}
 
-<div class="winner" style="background:{{ gradient }};background-size:100% 50%;background-repeat: no-repeat;background-position: top left, bottom left;color:{{ c.contrast }};"">
+<div class="winner" style="background:{{ comp.flash_gradient({ main: c.hex, secondary: c2.hex }) }};background-size:100% 50%;background-repeat: no-repeat;background-position: top left, bottom left;color:{{ c.contrast }};">
   <div class="image">
     <img src="{{ src }}" />
   </div>
