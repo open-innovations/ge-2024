@@ -10,7 +10,7 @@ url: /constituency/
 	{{ set winner = c.winner?.party_key }}
 	<li data-name="{{ c.title |> toUpperCase }}" data-incumbent="{{ incumbent }}" data-winner="{{ winner }}" data-confirmed="{{ c.results.confirmed }}">
 		<a href="{{ c.url }}">
-{{ comp.winner_alt({
+{{ comp.winner({
 	winner: c.winner,
 	previous: c.notional.party_key,
 	results: c.results,
