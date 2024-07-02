@@ -5,8 +5,7 @@
   "electorate": 0,
   "turnout_pct": 0,
   "confirmed": false,
-  "result_timestamp": null,
-  "last_updated": "2024-07-02T21:47:00.000Z",
+  "result_timestamp": "2024-07-04T22:01:00.000Z",
   "votes": [
     {
       "person_id": "104012",
