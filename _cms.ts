@@ -109,8 +109,8 @@ cms.collection(
       attributes: { min: 0, max: 100 },
     },
     {
-      label: "Result is confirmed?",
-      description: "Check this box if the result has been confirmed.",
+      label: "Is result confirmed?",
+      description: "Check this box if the result has been confirmed. It will be marked as provisional otherwise.",
       name: "confirmed",
       type: "checkbox",
     },
