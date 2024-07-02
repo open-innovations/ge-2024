@@ -6,11 +6,11 @@ table {
 }
 .oi-viz {
   .tooltip .inner {
+    & a {
+      color: inherit;
+    }
     & * {
       margin: 0;
-      & a {
-        color: inherit;
-      }
       & + * {
         margin-block-start: 1.25em;
       }
