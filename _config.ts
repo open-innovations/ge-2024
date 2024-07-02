@@ -75,7 +75,7 @@ site.remoteFile(
 
 site.copy("assets/images/");
 site.copy("assets/fonts/");
-site.copy("assets/js/");
+site.copy([".js"]);
 
 import { DOMParser } from "https://esm.sh/linkedom@0.16.11";
 
