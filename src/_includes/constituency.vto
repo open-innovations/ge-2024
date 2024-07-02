@@ -3,10 +3,6 @@ layout: titled.vto
 ---
 
 {{ comp.winner({'winner':winner,'previous':notional.party_key,results, thumbnails}) }}
-{{ if winner }}
-{{ else }}
-	<p>Results are not yet available.</p>
-{{ /if }}
 
 <h2>Candidates</h2>
 {{ if results.votes.length > 0 }}
