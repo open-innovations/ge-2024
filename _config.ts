@@ -32,7 +32,9 @@ site.data("cms", "https://cms.ge-2024.open-innovations.org/");
 
 // Set up plugins
 site.use(date());
-site.use(esbuild());
+site.use(esbuild({
+  extensions: [".ts"],
+}));
 site.use(favicon({
   input: "assets/images/oi-logo-black.svg",
 }));
@@ -69,6 +71,7 @@ site.remoteFile(
 
 site.copy("assets/images/");
 site.copy("assets/fonts/");
+site.copy("assets/js/");
 
 import { DOMParser } from "https://esm.sh/linkedom@0.16.11";
 
