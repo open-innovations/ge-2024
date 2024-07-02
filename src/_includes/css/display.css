@@ -15,10 +15,13 @@ table {
         margin-block-start: 1.25em;
       }
     }
+    & a {
+      color: inherit;
+    }
+    & .title { font-family: Poppins; }
+	> a { display: block; }
   }
-}
-.oi-legend {
-  font-size: min(1rem, 2.5vw);
+  .oi-legend-inner .oi-legend-item { border: 1px solid #eee; border-radius: 4px; margin-right: 0.25rem; margin-bottom: 0.25rem; }
 }
 
 ul.blocks {
@@ -67,15 +70,27 @@ ul.blocks {
   --control-radius: 2.5rem;
   & input {
     border-radius: var(--control-radius);
+    width: 20em;
+    max-width: 90%;
   }
   & .oi-filter-button {
     border: none;
-    border-top-left-radius: var(--control-radius);
-    border-bottom-left-radius: var(--control-radius);
+    border-radius: var(--control-radius);
     position: relative;
     top: var(--filter-padding);
     left: var(--filter-padding);
   }
+  .oi-filter-results {
+	  width: calc(20em - var(--filter-padding)*2);
+	  min-width: unset!important;
+	  padding: 0 0 0 calc(2em + var(--filter-padding));
+	  button { border: 0px; border-bottom: 1px solid black; font-size: 1em; }
+	  button:last-child { border-bottom: 0; }
+  }
+}
+.oi-filter.searching .oi-filter-button {
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
 }
 
 .oi-map-inner {
@@ -94,4 +109,22 @@ ul.blocks {
   & div + div {
     margin-inline-start: 1em;
   }
+}
+
+.winner {
+	display: flex;
+	padding: 1rem;
+	margin-bottom: 0.5rem;
+	img { width: 80px; height: 80px; margin-right: 1rem; }
+	.headline { font-size: 1.25em; font-weight: bold; }
+	.headline, strong { font-family: Poppins; }
+}
+table.results {
+	width: 100%;
+	td { text-align: left; line-height: 1.5em; }
+	td:first-child { width: 3em; line-height: 0; }
+	td:first-child a { display: inline-block; }
+	img { height: 3em; width: 3em; }
+	.party-bar { display: inline-block; height: 3em; float: left; margin-right: 0.25em; min-width: 2px; }
+	strong { font-family: Poppins; }
 }

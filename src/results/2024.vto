@@ -35,9 +35,11 @@ metas:
 
     // Add auto-generated legend
     legend: {
-      position: "top right",
+      position: "bottom",
       title: 'Key',
-      items: Object.entries(parties).map(([k, v]) => ({ value: colour.names[k], label: v.name })),
+      items: buildLegend(results,'winner','winner',{
+				"speaker":"The Speaker"
+			}),
     },
 	
 	"boundaries": {

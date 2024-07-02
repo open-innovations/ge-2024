@@ -33,11 +33,14 @@ metas:
     },
 
     // Add auto-generated legend
-    legend: {
-      position: "top right",
+	legend: {
+      position: "bottom",
       title: 'Key',
-      items: Object.entries(parties).map(([k, v]) => ({ value: colour.names[k], label: v.name })),
+      items: buildLegend(notional,'party_key','party_key',{
+				"speaker":"The Speaker"
+			}),
     },
+	
 	
 	"boundaries": {
 		"country": {

@@ -2,43 +2,23 @@
 layout: titled.vto
 ---
 
-<p>Constituency page for {{ pcon24nm }} ({{ pcon24cd }})</p>
+{{ if winner }}
+	{{ comp.winner({'winner':winner,'previous':notional.party_key,'results':results}) }}
+{{ else }}
+	<p>Results are not yet available.</p>
+{{ /if }}
 
+{{ if results.votes.length > 0 }}
+	<h2>Results</h2>
+	{{ comp.resultsTable({'results':results}) }}
+	<p>{{ comp.cmsLink({ code: pcon24cd }) }}</p>
+{{ else }}
+	<p>No candidate data is available for {{ pcon24nm }}.
+{{ /if }}
+
+<h2>2019 General Election</h2>
 <p>
   Based on projection, if the 2019 General Election had been run against the new constituency boundaries,
   this would have been a
   {{ comp.party({ party: notional.party_key }) }} seat.
 </p>
-
-{{ if winner }}
-  <p>{{ winner.person_name }} representing {{ comp.party({ party: winner.party_key, name: winner.party_name }) }} has been elected.</p>
-{{ else }}
-  <p>Results are not yet available.</p>
-{{ /if }}
-
-<h2>Results</h2>
-
-{{ if results.votes.length > 0 }}
-<table>
-  <thead>
-  <tr>
-    <th colspan="2">Candidate</th>
-    <th>Party</th>
-    <th>Votes cast</th>
-  </tr>
-  </thead>
-  <tbody>
-  {{ for key, r of results.votes.toSorted((a, b) => (b.votes || 0) - (a.votes || 0)) }}
-    <tr style="text-align: center;">
-      <td>{{ r.person_name }}</td>
-      <td><img src="{{ r.image }}" alt="Photograph of {{ r.person_name }}"/></td>
-      {{ comp.party({ party: r.party_key, name: r.party_name, tag: 'td' }) }}
-      <td>{{ r.votes }}</td>
-    </tr>
-  {{ /for }}
-  </tbody>
-</table>
-<p>{{ comp.cmsLink({ code: pcon24cd }) }}</p>
-{{ else }}
-<p>No candidate data is available for {{ pcon24nm }}.
-{{ /if }}
