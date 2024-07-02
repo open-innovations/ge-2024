@@ -136,6 +136,8 @@ ul.blocks {
   }
 }
 
+h1, h2, h3 { margin-bottom: 0.5rem; }
+
 .winner {
 	display: flex;
 	padding: 1rem;
@@ -157,8 +159,13 @@ table.results {
 main > section {
 	position: relative;
 }
+
 #messages {
-	position: absolute;
-	top: -1.5rem;
-	left: 1rem;
+	float: right;
+}
+#lastupdate {
+	background: #efefef;
+	color: #555;
+	padding: 0.5rem;
+	margin-top: 0;
 }

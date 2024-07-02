@@ -195,7 +195,7 @@ OI.ready(function(){
 
 			let date = new Date();
 			let time = (date.getHours() < 9 ? "0":"")+date.getHours()+":"+(date.getMinutes() < 10 ? "0":"")+date.getMinutes();
-			document.getElementById('lastupdate').innerHTML = 'Updated: '+date.toLocaleDateString("en-GB",{
+			document.getElementById('lastupdate').querySelector('span').innerHTML = 'Updated: '+date.toLocaleDateString("en-GB",{
 				year: "numeric",
 				month: "long",
 				day: "numeric",
@@ -207,7 +207,6 @@ OI.ready(function(){
 		};
 		
 		if(pcon24cd){
-			this.checkResults();
 			let _obj = this;
 			let int = setInterval(function(){ _obj.checkResults() },60000);
 		}else{

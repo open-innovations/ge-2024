@@ -3,7 +3,7 @@ layout: titled.vto
 ---
 <section> <!-- default holder -->
 
-	<span id="messages"></span>
+	<p id="lastupdate"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-clock-fill" viewBox="0 0 16 16"><path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z"/></svg> <span>{{ if results?.last_updated }}Updated: {{ results.last_updated |> date("FRIENDLY") }}{{ /if }}</span><span id="messages"></span></p>
 
 	{{ comp.winner_alt({
 	  winner: winner,
@@ -19,7 +19,6 @@ layout: titled.vto
 	{{ else }}
 	  <p>No candidate data is available for {{ pcon24nm }}.
 	{{ /if }}
-	<p id="lastupdate">{{ if results?.last_updated }}Updated: {{ results.last_updated |> date("FRIENDLY") }}{{ /if }}</p>
 
 	<h2>2019 General Election</h2>
 	<p>
