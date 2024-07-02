@@ -192,10 +192,11 @@ OI.ready(function(){
 			banner.elected.innerHTML = (winner.person_name ? 'Elected: <strong>'+winner.person_name+'</strong>' : '');
 			banner.majority.innerHTML = (majority ? 'Majority: <strong>'+majority+'</strong>' : '');
 
+			let date = (results.updated ? new Date(results.updated) : new Date());
+			let dbit = "Updated: ";
 
-			let date = new Date();
-			let time = (date.getHours() < 9 ? "0":"")+date.getHours()+":"+(date.getMinutes() < 10 ? "0":"")+date.getMinutes();
-			document.getElementById('lastupdate').querySelector('span').innerHTML = 'Updated: '+date.toLocaleDateString("en-GB",{
+			let time = (date.getUTCHours() < 9 ? "0":"")+(date.getUTCHours())+":"+(date.getMinutes() < 10 ? "0":"")+date.getMinutes();
+			document.getElementById('lastupdate').querySelector('span').innerHTML = dbit+date.toLocaleDateString("en-GB",{
 				year: "numeric",
 				month: "long",
 				day: "numeric",
@@ -208,7 +209,8 @@ OI.ready(function(){
 		
 		if(pcon24cd){
 			let _obj = this;
-			let int = setInterval(function(){ _obj.checkResults() },60000);
+			let interval = setInterval(function(){ _obj.checkResults() },60000);
+			//setTimeout(function(){ _obj.checkResults() },3000);
 		}else{
 			msg.error('No PCON24CD provided',{'fade':10000});
 		}
