@@ -7,6 +7,7 @@ layout: titled.vto
 <h2>Candidates</h2>
 {{ if results.votes.length > 0 }}
 	{{ comp.resultsTable({ results, thumbnails }) }}
+	<p>Candidate images from <a href="https://democracyclub.org.uk/">Democracy Club</a>. Data collated by Open Innovations.</p>
 {{#	<p>{{ comp.cmsLink({ code: pcon24cd }) }}</p>#}}
 {{ else }}
 	<p>No candidate data is available for {{ pcon24nm }}.
@@ -14,7 +15,6 @@ layout: titled.vto
 
 <h2>2019 General Election</h2>
 <p>
-  Based on projection, if the 2019 General Election had been run against the new constituency boundaries,
-  this would have been a
-  {{ comp.party({ party: notional.party_key }) }} seat.
+  It is projected that this would have been a
+  {{ comp.party({ party: notional.party_key }) }} seat in the 2019 General Election if it had been contested with the new constituency boundaries.
 </p>
