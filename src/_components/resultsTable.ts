@@ -1,11 +1,9 @@
 import { Colour } from "https://deno.land/x/oi_lume_viz@v0.15.6/lib/colour/colour.ts";
 
-export default function ({ results, parties, thumbnails }: Lume.Data) {
+export default function ({ results, parties, thumbnail }: Lume.Data) {
   const pts = Object.keys(parties);
   let html = '<table class="results"><tbody>';
   let r, i, key, party, c, src, total, pc, w, v;
-
-  if (typeof thumbnails === "undefined") thumbnails = {};
 
   total = results.total_votes || 0;
   if (total == 0) {
@@ -38,10 +36,7 @@ export default function ({ results, parties, thumbnails }: Lume.Data) {
 	if(results.confirmed) html += pc + (v ? "(" + v + ")" : v);
 	html += '" data-party="' + r.party_key + '">';
     html += "<td>";
-    src = "/assets/images/missing.svg";
-    if (typeof thumbnails[r.person_id] === "string") {
-      src = thumbnails[r.person_id]; // r.image
-    }
+    src = thumbnail(r.person_id) || "/assets/images/missing.svg"; // r.image
     html += '<a href="https://whocanivotefor.co.uk/person/' + r.person_id +
       '/" title="' + r.person_name + '"><img src="' + src +
       '" alt="Photograph of ' + r.person_name + '"/></a>';
