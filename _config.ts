@@ -69,7 +69,7 @@ site.remoteFile(
 site.copy("assets/images/");
 site.copy("assets/fonts/");
 
-import { DOMParser } from "https://esm.sh/linkedom@0.14.25";
+import { DOMParser } from "https://esm.sh/linkedom@0.16.11";
 
 site.filter("getSelector", (content: string, selector: string) => {
   const frag = new DOMParser().parseFromString(content, "text/html");
