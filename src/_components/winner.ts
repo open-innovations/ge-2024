@@ -3,7 +3,7 @@ import { Colour } from "https://deno.land/x/oi_lume_viz@v0.15.6/lib/colour/colou
 export default function (
   { winner, previous, results, parties, thumbnails }: Lume.Data,
 ) {
-  const html = "";
+  let html = "";
   const party = winner.party_key;
   const pts = Object.keys(parties);
   const key = pts.includes(party) ? party : "other";
