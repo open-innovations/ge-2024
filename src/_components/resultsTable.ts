@@ -16,8 +16,14 @@ export default function ({ results, parties, thumbnail }: Lume.Data) {
     }
   }
 
-  for (i = 0; i < results.votes.length; i++) {
-    r = results.votes[i];
+  const sortedVotes = results.votes.toSorted((a, b) => {
+    const v = b.votes - a.votes;
+    if (v !== 0) return v;
+    const n = a.person_name < b.person_name ? -1 : 1;
+    return n;
+  })
+  for (i = 0; i < sortedVotes.length; i++) {
+    r = sortedVotes[i];
     party = r.party_key;
     key = pts.includes(party) ? party : "other";
     c = parties[party].colour;
