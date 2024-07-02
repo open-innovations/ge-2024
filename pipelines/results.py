@@ -19,6 +19,8 @@ def create_results(constituency):
         'electorate': None,
         'turnout_pct': None,
         'confirmed': False,
+        'result_timestamp': None,
+        'last_updated': None,
     }
 
     results = candidates.selecteq(

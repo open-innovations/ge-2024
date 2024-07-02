@@ -5,6 +5,8 @@
   "electorate": null,
   "turnout_pct": null,
   "confirmed": false,
+  "result_timestamp": null,
+  "last_updated": null,
   "votes": [
     {
       "person_id": "110181",
