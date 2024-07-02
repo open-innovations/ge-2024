@@ -1,0 +1,19 @@
+{{ set results = search.pages("constituency")
+    .map(x => x.winner?.party_key)
+    .reduce((a, c) => ({ ...a, [c]: (a[c] + 1) || 1, total: a.total + 1 }), { total: 0 })
+}}
+
+{{ set series = Object.entries(results)
+    .toSorted((a, b) => b[1] - a[1])
+    .filter(x => !["undefined", "total"].includes(x[0]))
+    .map(x => ({ value: x[0], colour: x[0] }))
+}}
+
+{{ comp.oi.chart.waffle({
+  config: {
+    data: [results],
+    total: "total",
+    size: [50, 15],
+    series,
+  }
+}) }}
