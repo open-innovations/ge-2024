@@ -5,7 +5,6 @@
   "electorate": 0,
   "turnout_pct": 0,
   "confirmed": false,
-  "result_timestamp": "2024-07-04T22:01:00.000Z",
   "votes": [
     {
       "person_id": "104012",
@@ -37,7 +36,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116663/34e371eb-5bd3-4227-ac20-7f183e1574db.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1100
     },
     {
       "person_id": "47708",
