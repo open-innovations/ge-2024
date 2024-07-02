@@ -17,7 +17,9 @@
   <nav>
     <ul>
     {{ for link of site.nav }}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+      <li class="{{
+          if (url.startsWith(link.url) && link.url != '/') || (url == link.url)
+      }}current{{ /if }}"><a href="{{ link.url }}">{{ link.title }}</a></li>
     {{ /for }}
     </ul>
   </nav>

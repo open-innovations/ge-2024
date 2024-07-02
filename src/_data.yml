@@ -4,7 +4,7 @@ site:
   nav:
     - url: /
       title: Maps
-    - url: /constituencies/
+    - url: /constituency/
       title: Constituencies
     - url: /results/
       title: Results

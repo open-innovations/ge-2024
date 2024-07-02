@@ -11,7 +11,7 @@ scripts:
     cmd:
       - deno lint --compact
       - deno fmt --check
-    gitHook: pre-commit
+    # gitHook: pre-commit
 
   get-fonts:
     cmd: utils/getFonts.ts

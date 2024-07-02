@@ -34,12 +34,18 @@ body {
     & ul {
       padding: 0;
       margin-block: 0;
-      padding-block: 0.5rem;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       list-style: none;
-      gap: 0 1rem;
+    }
+    & li {
+      padding-block: 0.5rem;
+      padding-inline: 1rem;
+      &:hover, &.current {
+        color: black;
+        background: white;
+      }
     }
   }
   & > aside {
