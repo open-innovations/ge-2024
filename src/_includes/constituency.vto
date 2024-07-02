@@ -3,14 +3,14 @@ layout: titled.vto
 ---
 
 {{ if winner }}
-	{{ comp.winner({'winner':winner,'previous':notional.party_key,'results':results}) }}
+	{{ comp.winner({ winner, previous: notional.party_key, results, thumbnails }) }}
 {{ else }}
 	<p>Results are not yet available.</p>
 {{ /if }}
 
 {{ if results.votes.length > 0 }}
 	<h2>Results</h2>
-	{{ comp.resultsTable({'results':results}) }}
+	{{ comp.resultsTable({ results, thumbnails }) }}
 	<p>{{ comp.cmsLink({ code: pcon24cd }) }}</p>
 {{ else }}
 	<p>No candidate data is available for {{ pcon24nm }}.
@@ -22,3 +22,5 @@ layout: titled.vto
   this would have been a
   {{ comp.party({ party: notional.party_key }) }} seat.
 </p>
+
+{{ thumbnails |> JSON.stringify }}
