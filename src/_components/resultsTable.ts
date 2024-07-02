@@ -1,4 +1,4 @@
-import { Colour } from "https://deno.land/x/oi_lume_viz@v0.15.6/lib/colour/colour.ts";
+import { Colour } from "https://deno.land/x/oi_lume_viz@v0.15.7/lib/colour/colour.ts";
 
 export default function ({ results, parties, thumbnail }: Lume.Data) {
   const pts = Object.keys(parties);
@@ -20,7 +20,7 @@ export default function ({ results, parties, thumbnail }: Lume.Data) {
     r = results.votes[i];
     party = r.party_key;
     key = pts.includes(party) ? party : "other";
-    c = Colour(key);
+    c = parties[party].colour;
     v = r.votes || 0;
     if (total > 0) {
       pc = (100 * v / total).toFixed(1) + "%";
@@ -43,7 +43,7 @@ export default function ({ results, parties, thumbnail }: Lume.Data) {
     html += "</td>";
     html += "<td>";
     html += '<span class="party-bar" style="width:' + w + "%;background:" +
-      c.hex + ";color:" + c.contrast + ';"></span>';
+      c + ";color:" + Colour(c).contrast + ';"></span>';
     html += '<span class="party">' + parties[r.party_key].pa +
       "</span>";
     if(results.confirmed && pc) html += ' / <strong class="percent">' + pc + "</strong>";
