@@ -1,6 +1,7 @@
 ---
 title: Constituencies
 ---
+<div> <!-- holder -->
 
 <ul id="constituency-list" class="blocks" data-dependencies="/assets/js/constituency-filter.js">
 {{ for c of search.pages('constituency', 'pcon24nm') }}
@@ -34,3 +35,5 @@ title: Constituencies
   </li>
 {{ /for }}
 </ul>
+
+</div>
