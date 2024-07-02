@@ -2,6 +2,8 @@ layout: titled.vto
 
 site:
   nav:
+    - url: /
+      title: Maps
     - url: /constituencies/
       title: Constituencies
     - url: /results/
