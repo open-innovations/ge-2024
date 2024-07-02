@@ -21,14 +21,18 @@
       "_cache",
       "src/**/_data/**/*.json",
       "dist",
-      "src/about.md"
+      "src/about.md",
+      "src/_components/winner.ts",
+      "src/_components/resultsTable.ts"
     ]
   },
   "lint": {
     "exclude": [
       "_site",
       "_cache",
-      "dist"
+      "dist",
+      "src/_components/winner.ts",
+      "src/_components/resultsTable.ts"
     ]
   },
   "deploy": {

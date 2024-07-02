@@ -47,8 +47,8 @@ export default {
   none: {
     name: "Not yet declared",
     pa: "TBD",
-    colour: "#dfdfdf"
-  }
+    colour: "#dfdfdf",
+  },
 };
 
 //
