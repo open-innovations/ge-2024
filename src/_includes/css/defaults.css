@@ -8,7 +8,7 @@ body {
   background: white;
   & > header {
     color: white;
-    background: #6d6d6d;
+    background: black;
     font-family: Poppins, sans-serif;
     font-size: min(1.5rem, 5vw);
     font-weight: 600;
