@@ -1,11 +1,3 @@
-{{->
-  const calculateMajority = (r) => {
-      const allVotes = results.votes.toSorted((a, b) => b.votes - a.votes).map(x => x.votes);
-      return allVotes[0] - allVotes[1];
-  }
-  const majority = calculateMajority(results);
--}}
-
 {{- set src = thumbnail(winner?.person_id) || "/assets/images/missing.svg" -}}
 {{- set c = comp.colour({ colour: (winner?.party_key ? parties[winner?.party_key].colour : "none") }) -}}
 {{- set c2 = comp.colour({ colour: parties[previous].colour }) -}}
@@ -27,7 +19,7 @@
     </span>
 	{{- if !title }}
 		{{ if winner }}<br>Elected: <strong>{{ winner.person_name }}</strong>{{ /if }}
-		{{ if majority && results.confirmed }}<br>Majority: <strong>{{ majority }}</strong>{{ /if }}
+		{{ if winner?.majority && results.confirmed }}<br>Majority: <strong>{{ winner.majority }}</strong>{{ /if }}
 	{{ /if -}}
   </div>
 </div>
