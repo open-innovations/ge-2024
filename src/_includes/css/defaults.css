@@ -73,10 +73,9 @@ table {
 
 input {
   font: inherit;
-  padding: 0.3em;
+  padding: 0.5em;
   border: 1px solid black;
-  border-radius: 0.5em;
-  padding-inline: 1em;
+  border-radius: 4px;
   &[type=checkbox] {
     width: 1em;
     aspect-ratio: 1/1;

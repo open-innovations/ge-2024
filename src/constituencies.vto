@@ -3,10 +3,13 @@ title: Constituencies
 ---
 <div> <!-- holder -->
 
-<ul id="constituency-list" class="blocks" data-dependencies="/assets/js/constituency-filter.js">
+<ul id="constituency-list" class="list" data-dependencies="/assets/js/constituency-filter.js">
 {{ for c of search.pages('constituency', 'pcon24nm') }}
+
   {{ set incumbent = c.notional.party_key }}
   {{ set winner = c.winner?.party_key }}
+
+
   <li
     style="
       --incumbent: {{ colour.names[incumbent] }};
@@ -17,7 +20,18 @@ title: Constituencies
     data-winner="{{ winner }}"
     data-confirmed="{{ c.results.confirmed }}"
   >
+
+
     <a href="{{ c.url }}">
+
+{{ comp.winner_alt({
+  winner: c.winner,
+  previous: c.notional.party_key,
+  results: c.results,
+  title: c.title,
+  list: true
+})}}
+		<!--
       <h2>{{ c.title }}</h2>
       <p>
         {{ c.notional.party_name }} &rarr; 
@@ -30,7 +44,7 @@ title: Constituencies
         {{ /if }}
         </strong>
       </p>
-      <div class="marker-bar"></div>
+      <div class="marker-bar"></div>-->
     </a>
   </li>
 {{ /for }}
