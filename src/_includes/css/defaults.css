@@ -75,4 +75,15 @@ table {
 input {
   font: inherit;
   padding: 0.3em;
+  border: 1px solid black;
+  border-radius: 0.5em;
+  padding-inline: 1em;
+  &[type=checkbox] {
+    width: 1em;
+    aspect-ratio: 1/1;
+    /* appearance: none; */
+    &:checked {
+      background-color: black;
+    }
+  }
 }

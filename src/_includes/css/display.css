@@ -86,9 +86,10 @@ ul.blocks {
 #constituency-filter {
   &, & div {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
-    align-items: baseline;
-    gap: 0.2rem;
+    align-items: center;
+    gap: 1rem 0.4em;
   }
   & div + div {
     margin-inline-start: 1em;
