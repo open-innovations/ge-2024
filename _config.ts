@@ -34,7 +34,7 @@ site.data("cms", "https://cms.ge-2024.open-innovations.org/");
 site.use(date());
 site.use(esbuild());
 site.use(favicon({
-  input: "assets/images/oi-logo.svg",
+  input: "assets/images/oi-logo-black.svg",
 }));
 site.use(feed());
 site.use(metas());
@@ -54,6 +54,11 @@ site.loadData([".hexjson"], json);
 site.remoteFile(
   "assets/images/oi-logo.svg",
   "https://open-innovations.org/resources/images/logos/oi-square-white.svg",
+);
+
+site.remoteFile(
+  "assets/images/oi-logo-black.svg",
+  "https://open-innovations.org/resources/images/logos/oi-square-black.svg",
 );
 
 site.remoteFile(
