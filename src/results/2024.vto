@@ -5,7 +5,7 @@ metas:
 ---
 {{ set results =
   search.pages('constituency')
-  |> map(c => ({ pcon24cd: c.pcon24cd, winner: c.winner?.party_key || "" }))
+  |> map(c => ({ pcon24cd: c.pcon24cd, winner: c.winner?.party_key || "", winner_name: c.winner?.party_name || "Awaiting result" }))
 }}
 
 {{ comp.oi.map.hex_cartogram({
@@ -19,6 +19,7 @@ metas:
 
     columns: [
       { name: "info", template: "<a href='/constituency/{{ pcon24cd }}/' class='title'>{{ n }}</a>" },
+      { name: "label", template: "{{ n }} ({{ winner_name }})" },
     ],
 
     tooltip: "{{ info }}",
@@ -29,7 +30,7 @@ metas:
     // Add filter tool
     tools: {
 			filter:{
-				label: "n"
+				label: "label"
       }
     },
 

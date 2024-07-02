@@ -18,6 +18,7 @@ metas:
 
     columns: [
       { name: "info", template: "<a href='/constituency/{{ pcon24cd }}/' class='title'>{{ pcon24nm }}</a>" },
+      { name: "label", template: "{{ n }} ({{ party_name }})" },
     ],
 
     tooltip: "{{ info }}",
@@ -28,7 +29,7 @@ metas:
     // Add filter tool
     tools: {
 			filter:{
-				label: "n"
+				label: "label"
       }
     },
 
