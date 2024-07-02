@@ -128,6 +128,11 @@ cms.collection(
       type: "time"
     },
     {
+      name: "last_updated",
+      type: "hidden",
+      transform: () => new Date(),
+    },
+    {
       name: "votes",
       type: "result-table",
       fields: [
