@@ -1,30 +1,23 @@
 ---
-title: 2024 General Election Results
-metas:
-  image: /assets/images/2024.svg
+url: /assets/images/2019.svg
+layout: none.vto
 ---
-{{ set results =
-  search.pages('constituency')
-  |> map(c => ({ pcon24cd: c.pcon24cd, winner: c.winner?.party_key || "" }))
-}}
-
 {{ comp.oi.map.hex_cartogram({
   config: {
-
     hexjson: hexjson.constituencies,
-    data: results,
+    data: notional,
 
     matchKey: "pcon24cd",
-    value: "winner",
+    value: "party_key",
 
     columns: [
-      { name: "info", template: "<a href='/constituency/{{ pcon24cd }}/' class='title'>{{ n }}</a>" },
+      { name: "info", template: "<a href='/constituency/{{ pcon24cd }}/' class='title'>{{ pcon24nm }}</a>" },
     ],
 
     tooltip: "{{ info }}",
 
     // Add label
-    // label: "{{ n | slice(0,2) }}",
+    label: "{{ PCON24NM | slice(0,3) }}",
 
     // Add filter tool
     tools: {
@@ -50,4 +43,4 @@ metas:
 		"region": "country"
 	},
   },
-}) }}
+}) |> getSelector("svg") }}

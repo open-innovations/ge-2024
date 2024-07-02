@@ -8,9 +8,9 @@ import favicon from "lume/plugins/favicon.ts";
 import feed from "lume/plugins/feed.ts";
 import metas from "lume/plugins/metas.ts";
 import pagefind from "lume/plugins/pagefind.ts";
+import postcss from "lume/plugins/postcss.ts";
 import sheets from "lume/plugins/sheets.ts";
 import sitemap from "lume/plugins/sitemap.ts";
-import postcss from "lume/plugins/postcss.ts";
 
 // OI Lume viz
 import oiLumeViz from "https://deno.land/x/oi_lume_viz@v0.15.6/mod.ts";
@@ -68,5 +68,12 @@ site.remoteFile(
 
 site.copy("assets/images/");
 site.copy("assets/fonts/");
+
+import { DOMParser } from "https://esm.sh/linkedom@0.14.25";
+
+site.filter("getSelector", (content: string, selector: string) => {
+  const frag = new DOMParser().parseFromString(content, "text/html");
+  return frag.querySelector(selector).toString();
+});
 
 export default site;

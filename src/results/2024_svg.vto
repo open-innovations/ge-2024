@@ -1,12 +1,7 @@
 ---
-title: 2024 General Election Results
-metas:
-  image: /assets/images/2024.svg
+layout: none.vto
+url: /assets/images/2024.svg
 ---
-{{ set results =
-  search.pages('constituency')
-  |> map(c => ({ pcon24cd: c.pcon24cd, winner: c.winner?.party_key || "" }))
-}}
 
 {{ comp.oi.map.hex_cartogram({
   config: {
@@ -50,4 +45,4 @@ metas:
 		"region": "country"
 	},
   },
-}) }}
+}) |> getSelector("svg") }}
