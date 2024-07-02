@@ -6,10 +6,10 @@ body {
   }
   & > header {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     gap: 0.5em 0.5rem;
-    padding: 0.5rem;
+    padding: 1rem 0.5rem;
   }
   & main {
     padding-block-end: 100px;

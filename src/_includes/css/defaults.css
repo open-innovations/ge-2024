@@ -10,16 +10,15 @@ body {
     color: white;
     background: #6d6d6d;
     font-family: Poppins, sans-serif;
-    font-size: min(2rem, 5vw);
+    font-size: min(1.5rem, 5vw);
     font-weight: 600;
-    text-align: center;
     & a {
       color: inherit;
       text-decoration: none;
       display: block;
     }
     & img {
-      width: min(5rem, 10vw);
+      width: 1.5em;
     }
   }
   & > nav {
