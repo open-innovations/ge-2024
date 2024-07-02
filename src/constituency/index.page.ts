@@ -37,13 +37,17 @@ export default function* ({
   ) {
     const localResults = results![pcon24cd] || {};
 
+    if (localResults.votes) {
+      localResults.votes.sort((a, b) => a.person_name < b.person_name ? -1 : 1);
+    }
+
     const resultsCount = localResults
       .votes
       .filter((x) => x.votes > 0)
       .length;
 
     const winner = resultsCount > 0
-      ? localResults.votes.sort((a, b) => b.votes - a.votes)[0]
+      ? localResults.votes.toSorted((a, b) => b.votes - a.votes)[0]
       : null;
 
     const overrideNotional = notional.find((x) => x.pcon24cd == pcon24cd);
