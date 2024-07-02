@@ -51,9 +51,6 @@ cms.field("result-table", {
   async applyChanges(data, changes, field: ResolvedField) {
     const currentData = data[field.name] as Data[] || [];
 
-    console.log({
-      currentData,
-    });
     const value = await Promise.all(
       Object.values(changes[field.name] || {}).map(
         async (subchanges, index) => {
