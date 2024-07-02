@@ -1,8 +1,16 @@
+{{->
+  const calculateMajority = (r) => {
+      const allVotes = results.votes.toSorted((a, b) => b.votes - a.votes).map(x => x.votes);
+      return allVotes[0] - allVotes[1];
+  }
+  const majority = calculateMajority(results);
+-}}
+
 {{- set src = thumbnail(winner?.person_id) || "/assets/images/missing.svg" -}}
 {{- set c = comp.colour({ colour: (winner?.party_key ? parties[winner?.party_key].colour : "none") }) -}}
 {{- set c2 = comp.colour({ colour: parties[previous].colour }) -}}
 
-<div class="winner" style="background:{{ comp.flash_gradient({ main: c.hex, secondary: c2.hex }) }};background-size:100% 50%;background-repeat: no-repeat;background-position: top left, bottom left;color:{{ c.contrast }};">
+<div class="winner" {{- if results }}data-id="{{ results.pcon24cd }}"{{ /if -}} data-previous="{{ previous }}" style="background:{{ comp.flash_gradient({ main: c.hex, secondary: c2.hex }) }};background-size:100% 50%;background-repeat: no-repeat;background-position: top left, bottom left;color:{{ c.contrast }};">
 {{#- if !list }}
   <div class="image">
     <img src="{{ src }}" />
@@ -18,8 +26,8 @@
 	  {{ /if -}}
     </span>
 	{{- if !title }}
-		{{ if winner }}<br>Elected: <strong>{{ winner.person_name }}</strong>{{ /if }}
-		{{ if winner?.majority && results.confirmed }}<br>Majority: <strong>{{ winner.majority }}</strong>{{ /if }}
+		<br><span class="elected">{{ if winner }}Elected: <strong>{{ winner.person_name }}</strong>{{ /if }}</span>
+		<br><span class="majority">{{ if majority && results.confirmed }}Majority: <strong>{{ majority }}</strong>{{ /if }}</span>
 	{{ /if -}}
   </div>
 </div>

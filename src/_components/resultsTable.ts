@@ -40,7 +40,9 @@ export default function ({ results, parties, thumbnail }: Lume.Data) {
 
     html += '<tr title="' + r.person_name + " (" + r.party_name + ")";
 	if(results.confirmed) html += pc + (v ? "(" + v + ")" : v);
-	html += '" data-party="' + party + '">';
+	html += '"';
+	html += ' data-party="' + party + '"';
+	html += ' data-id="' + r.person_id + '">';
     html += "<td>";
     src = thumbnail(r.person_id) || "/assets/images/missing.svg"; // r.image
     html += '<a href="https://whocanivotefor.co.uk/person/' + r.person_id +
@@ -52,7 +54,7 @@ export default function ({ results, parties, thumbnail }: Lume.Data) {
       c + ";color:" + Colour(c).contrast + ';"></span>';
     html += '<span class="party">' + (party != "other" ? parties[party].pa : r.party_name) +
       "</span>";
-    if(results.confirmed && pc) html += ' / <strong class="percent">' + pc + "</strong>";
+	html += '<span class="percent">' + (results.confirmed && pc ? '<strong>'+pc+'</strong>' : '') + "</span>";
     html += '<br /><span class="candidate">' + r.person_name + "</span>";
     html += "</td>";
     html += "</tr>";

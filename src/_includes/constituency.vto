@@ -1,8 +1,10 @@
 ---
 layout: titled.vto
 ---
+<section> <!-- default holder -->
 
-<div> <!-- default holder -->
+	<span id="messages"></span>
+
 	{{ comp.winner_alt({
 	  winner: winner,
 	  previous: notional.party_key,
@@ -17,15 +19,17 @@ layout: titled.vto
 	{{ else }}
 	  <p>No candidate data is available for {{ pcon24nm }}.
 	{{ /if }}
+	<p id="lastupdate">{{ if results?.last_updated }}Updated: {{ results.last_updated |> date("FRIENDLY") }}{{ /if }}</p>
 
 	<h2>2019 General Election</h2>
 	<p>
 	  It is projected that this would have been a
 	  {{ comp.party({ party: notional.party_key }) }} seat in the 2019 General Election if it had been contested with the new constituency boundaries.
 	</p>
+</section>
 
-  {{ if results?.last_updated }}
-    <p>Last updated on {{ results.last_updated |> date("FRIENDLY") }}</p>
-  {{ /if }}
 
-</div>
+<script>
+parties = {{ parties |> JSON.stringify() }}
+</script>
+<script src="/assets/js/constituency-update.js"></script>

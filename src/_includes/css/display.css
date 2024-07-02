@@ -35,6 +35,7 @@ ul.list {
 			text-decoration: none;
 			& > .winner {
 				padding: 0.5em;
+				padding-right: 6%;
 			}
 		}
 		& > a:hover, & > a:focus {
@@ -149,6 +150,15 @@ table.results {
 	td:first-child { width: 3em; line-height: 0; }
 	td:first-child a { display: inline-block; }
 	img { height: 3em; width: 3em; }
-	.party-bar { display: inline-block; height: 3em; float: left; margin-right: 0.25em; min-width: 4px; }
+	.party-bar { display: inline-block; height: 3em; float: left; margin-right: 0.25em; min-width: 4px; transition: all 1s ease-in; }
 	.candidate, strong { font-family: Poppins; }
+}
+
+main > section {
+	position: relative;
+}
+#messages {
+	position: absolute;
+	top: -1.5rem;
+	left: 1rem;
 }
