@@ -1,8 +1,6 @@
 export const layout = "constituency.vto";
 export const tags = ["constituency"];
 
-import allThumbnails from "../../data/thumbnails.json" with { type: "json" };
-
 type HexData = {
   n: string;
 };
@@ -44,11 +42,6 @@ export default function* ({
       localResults.votes.sort((a, b) => a.person_name < b.person_name ? -1 : 1);
     }
 
-    const thumbnails = localResults.votes.map((x) => x.person_id).reduce(
-      (a, v) => ({ ...a, [v]: allThumbnails[v] }),
-      {},
-    );
-
     const resultsCount = localResults
       .votes
       .filter((x) => x.votes > 0)
@@ -88,7 +81,6 @@ export default function* ({
       pcon24cd,
       pcon24nm,
       results: localResults,
-      thumbnails,
       notional: overrideNotional,
       winner,
     };
