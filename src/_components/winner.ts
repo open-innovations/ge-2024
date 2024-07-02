@@ -1,47 +1,47 @@
 import { Colour } from "https://deno.land/x/oi_lume_viz@v0.15.6/lib/colour/colour.ts";
 
-export default function (
-  { winner, previous, results, parties, thumbnails }: Lume.Data,
-) {
-  let html = "";
-  const party = winner.party_key;
-  const pts = Object.keys(parties);
-  const key = pts.includes(party) ? party : "other";
-  const c = Colour(key);
-  let bg = c.hex;
-  let src = "/assets/images/missing.svg";
-  let maj;
+export default function ({ winner, previous, results, parties, thumbnails }: Lume.Data, ) {
+	const pts = Object.keys(parties);
 
-  if (typeof thumbnails === "undefined") thumbnails = {};
+	if (typeof thumbnails === "undefined") thumbnails = {};
+	let party,key,pid,party_name,person_name,change,src,maj,name;
+	let html = "";
 
-  if (typeof thumbnails[winner.person_id] === "string") {
-    src = thumbnails[winner.person_id]; // r.image
-  }
+	if(typeof thumbnails==="undefined") thumbnails = {};
 
-  if (results.votes.length > 0) {
-    maj = results.votes[0].votes - results.votes[1].votes;
-  }
+	if(winner && 'party_key' in winner){
+		party = winner.party_key;
+		key = pts.includes(party) ? party : "other";
+		pid = winner.person_id;
+		party_name = winner.party_name;
+		person_name = winner.person_name;
+		change = ' '+(previous == party ? 'HOLD':'GAIN');
+		if(pid in thumbnails && typeof thumbnails[pid]==="string"){
+			src = thumbnails[pid]; // r.image
+		}
+	}else{
+		party_name = "Awaiting results";
+		person_name = "";
+		party = "";
+		key = "none";
+		pid = null;
+		change = "";
+		src = "/assets/images/missing.svg";
+	}
+	const c = Colour(key);
+	let bg = c.hex;
 
-  if (previous != party) {
-    const c2 = Colour(previous);
-    //bg = 'linear-gradient(90deg, transparent 0%, transparent calc(96% - 0.25em), white calc(96% - 0.25em), white 96%, ' + c2.hex + ' 96%, ' + c2.hex + ' 100%), '+c.hex;
-    bg = "linear-gradient(110deg, " + c.hex + " 0%, " + c.hex +
-      " calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), " +
-      c2.hex + " calc(100% - 1.75em)), linear-gradient(70deg, " + c.hex +
-      " 0%, " + c.hex +
-      " calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), " +
-      c2.hex +
-      " calc(100% - 1.75em));background-size: 100% 50%;background-repeat: no-repeat;background-position: top left, bottom left;";
-  }
-  html += '<div class="winner" style="background:' + bg + ";color:" +
-    c.contrast + ';">';
-  html += '<div class="image"><img src="' + src + '" /></div>';
-  html += '<div class="about">';
-  html += '<span class="headline">' + winner.party_name +
-    (previous == party ? " HOLD" : " GAIN") + "</span>";
-  html += "<br />Elected: <strong>" + winner.person_name + "</strong>";
-  html += "<br />Majority: <strong>" + maj.toLocaleString() + "</strong>";
-  html += "</div>";
-  html += "</div>";
-  return html;
+	if(previous != party){
+		const c2 = Colour(previous);
+		bg = 'linear-gradient(110deg, ' + c.hex + ' 0%, ' + c.hex + ' calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), ' + c2.hex + ' calc(100% - 1.75em)), linear-gradient(70deg, ' + c.hex + ' 0%, ' + c.hex + ' calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), ' + c2.hex + ' calc(100% - 1.75em));background-size: 100% 50%;background-repeat: no-repeat;background-position: top left, bottom left;';
+	}
+	html += '<div class="winner" style="background:' + bg + ';color:' + c.contrast + ';">';
+	if(src) html += '<div class="image"><img src="' + src + '" /></div>';
+	html += '<div class="about">';
+	html += '<span class="headline">' + party_name + change + '</span>';
+	html += '<br />' + (person_name ? 'Elected: <strong>' + person_name + '</strong>':'');
+	html += '<br />' + (maj ? 'Majority: <strong>' + maj.toLocaleString() + '</strong>' : '');
+	html += '</div>';
+	html += '</div>';
+	return html;
 }

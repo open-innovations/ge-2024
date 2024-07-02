@@ -44,6 +44,11 @@ export default {
     pa: "Speaker",
     colour: "#909090",
   },
+  none: {
+    name: "Not yet declared",
+    pa: "TBD",
+    colour: "#dfdfdf"
+  }
 };
 
 //

@@ -60,11 +60,12 @@ site.remoteFile(
   "assets/images/oi-logo-black.svg",
   "https://open-innovations.org/resources/images/logos/oi-square-black.svg",
 );
-
+/*
 site.remoteFile(
   "assets/images/missing.svg",
   "https://placehold.co/400/svg?text=No+image",
 );
+*/
 
 site.copy("assets/images/");
 site.copy("assets/fonts/");

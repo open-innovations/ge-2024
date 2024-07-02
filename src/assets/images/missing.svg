@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="640" overflow="auto" viewBox="-32 -32 64 64" xmlns="http://www.w3.org/2000/svg">
+<mask id="oi-person"><path d="m-32-32h64v64h-20v-24a4 4 0 0 0 -4 -4h-16a4 4 0 0 0 -4 4v24h-36zm44 27m-24 -4a12 12 0 1 0 24 0 12 12 0 1 0-24 0" fill="#fff"></path></mask>
+<g id="oi-logo" fill="#bbbbbb"><circle r="32" mask="url(#oi-person)"></circle></g>
+</svg>

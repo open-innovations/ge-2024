@@ -125,6 +125,6 @@ table.results {
 	td:first-child { width: 3em; line-height: 0; }
 	td:first-child a { display: inline-block; }
 	img { height: 3em; width: 3em; }
-	.party-bar { display: inline-block; height: 3em; float: left; margin-right: 0.25em; min-width: 2px; }
-	strong { font-family: Poppins; }
+	.party-bar { display: inline-block; height: 3em; float: left; margin-right: 0.25em; min-width: 4px; }
+	.candidate, strong { font-family: Poppins; }
 }
