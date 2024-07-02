@@ -15,7 +15,7 @@ title: 2019 General Election Results (projected)
     value: "party_key",
 
     columns: [
-      { name: "info", template: "<h2><a href='/constituency/{{ pcon24cd }}/'>{{ pcon24nm }}</a></h2>" },
+      { name: "info", template: "<a href='/constituency/{{ pcon24cd }}/' class='title'>{{ pcon24nm }}</a>" },
     ],
 
     tooltip: "{{ info }}",
@@ -36,5 +36,15 @@ title: 2019 General Election Results (projected)
       title: 'Key',
       items: Object.entries(parties).map(([k, v]) => ({ value: colour.names[k], label: v.name })),
     },
+	
+	"boundaries": {
+		"country": {
+			"stroke": "white",
+			"stroke-width": 1.5,
+			/*"stroke-dasharray": "2.5 2",*/
+			"stroke-linecap": "round"
+		},
+		"region": "country"
+	},
   },
 }) }}

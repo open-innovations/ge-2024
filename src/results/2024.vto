@@ -16,7 +16,7 @@ title: 2024 General Election Results
     value: "winner",
 
     columns: [
-      { name: "info", template: "<h2><a href='/constituency/{{ pcon24cd }}/'>{{ n }}</a></h2>" },
+      { name: "info", template: "<a href='/constituency/{{ pcon24cd }}/' class='title'>{{ n }}</a>" },
     ],
 
     tooltip: "{{ info }}",
@@ -37,5 +37,15 @@ title: 2024 General Election Results
       title: 'Key',
       items: Object.entries(parties).map(([k, v]) => ({ value: colour.names[k], label: v.name })),
     },
+	
+	"boundaries": {
+		"country": {
+			"stroke": "white",
+			"stroke-width": 1.5,
+			/*"stroke-dasharray": "2.5 2",*/
+			"stroke-linecap": "round"
+		},
+		"region": "country"
+	},
   },
 }) }}
