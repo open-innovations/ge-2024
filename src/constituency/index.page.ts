@@ -24,7 +24,7 @@ type Results = {
       [key: string]: unknown;
     }[];
   };
-}
+};
 
 export default function* ({
   hexjson: {
@@ -34,7 +34,7 @@ export default function* ({
   },
   notional: allNotional,
   results: allResults,
-}: Lume.Data & { notional: Notional[]; results: Results; }) {
+}: Lume.Data & { notional: Notional[]; results: Results }) {
   for (
     const [pcon24cd, { n: pcon24nm }] of Object.entries<HexData>(constituencies)
   ) {
@@ -49,7 +49,7 @@ export default function* ({
     // Filter the votes with a result, sort by votes
     const votes = results.votes
       .filter((x) => x.votes > 0)
-      .toSorted((a, b) => b.votes - a.votes) || null
+      .toSorted((a, b) => b.votes - a.votes) || null;
 
     // The winner is the one with the most votes. That's how this works
     const winner = votes[0];
