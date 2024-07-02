@@ -11,10 +11,6 @@ title: Constituencies
 
 
   <li
-    style="
-      --incumbent: {{ colour.names[incumbent] }};
-      --winner: {{ colour.names[winner] || "#999999" }};
-    "
     data-name="{{ c.title |> toUpperCase }}"
     data-incumbent="{{ incumbent }}"
     data-winner="{{ winner }}"
