@@ -23,7 +23,7 @@ linear-gradient(110deg, {{ c.hex }} 0%, {{ c.hex }} calc(100% - 2em), white calc
       {{ previous == winner?.party_key ? "HOLD": "GAIN" }}
       {{- if !results.confirmed }} / provisional{{ /if -}}
     </span>
-    <br>{{ if winner }}Elected: <strong>{{ winner.person_name }}</strong>{{ /if }}
-    <br>{{ if majority }}Majority: <strong>{{ majority }}</strong>{{ /if }}
+    {{ if winner }}<br>Elected: <strong>{{ winner.person_name }}</strong>{{ /if }}
+    {{ if majority && results.confirmed }}<br>Majority: <strong>{{ majority }}</strong>{{ /if }}
   </div>
 </div>
