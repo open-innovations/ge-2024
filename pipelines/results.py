@@ -19,8 +19,8 @@ def create_results(constituency):
         'electorate': None,
         'turnout_pct': None,
         'confirmed': False,
-        'result_timestamp': None,
-        'last_updated': None,
+        'declaration_date': None,
+        'declaration_time': None,
     }
 
     results = candidates.selecteq(
@@ -33,6 +33,8 @@ def create_results(constituency):
         try:
             with open(target_file) as json_file:
                 current_data = json.load(json_file)
+            current_data.pop('last_updated', None)
+            current_data.pop('result_timestamp', None)
             data.update(current_data)
             results = results.leftjoin(
                 etl.fromdicts(
