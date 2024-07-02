@@ -51,9 +51,6 @@ cms.field("result-table", {
   async applyChanges(data, changes, field: ResolvedField) {
     const currentData = data[field.name] as Data[] || [];
 
-    console.log({
-      currentData,
-    });
     const value = await Promise.all(
       Object.values(changes[field.name] || {}).map(
         async (subchanges, index) => {
@@ -112,10 +109,23 @@ cms.collection(
       attributes: { min: 0, max: 100 },
     },
     {
-      label: "Result is confirmed?",
-      description: "Check this box if the result has been confirmed.",
+      label: "Is result confirmed?",
+      description: "Check this box if the result has been confirmed. It will be marked as provisional otherwise.",
       name: "confirmed",
       type: "checkbox",
+    },
+    {
+      label: "Date declared",
+      description: "When was the result declared by the returning officer",
+      name: "declaration_date",
+      type: "date",
+      value: "2024-07-05",
+    },
+    {
+      label: "Time declared",
+      description: "At what time was the result declared by the returning officer",
+      name: "declaration_time",
+      type: "time"
     },
     {
       name: "votes",
