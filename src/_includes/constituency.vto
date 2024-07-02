@@ -3,7 +3,12 @@ layout: titled.vto
 ---
 
 <div> <!-- default holder -->
-{{ comp.winner({'winner':winner,'previous':notional.party_key,results }) }}
+{{ comp.winner_alt({
+  winner: winner,
+  previous: notional.party_key,
+  results
+})}}
+{{# {{ comp.winner({'winner':winner,'previous':notional.party_key,results }) }} #}}
 
 <h2>Candidates</h2>
 {{ if results.votes.length > 0 }}
