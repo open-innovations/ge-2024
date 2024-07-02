@@ -26,7 +26,7 @@ export default function ({ results, parties, thumbnails }: Lume.Data) {
     v = r.votes || 0;
     if (total > 0) {
       pc = (100 * v / total).toFixed(1) + "%";
-      w = (75 * v / total).toFixed(1);
+      w = (60 * v / total).toFixed(1);
       v = v.toLocaleString() + " votes";
     } else {
       pc = "";
@@ -34,8 +34,9 @@ export default function ({ results, parties, thumbnails }: Lume.Data) {
       v = "";
     }
 
-    html += '<tr title="' + r.person_name + " (" + r.party_name + "): " + v +
-      (v ? "(" + pc + ")" : pc) + '" data-party="' + r.party_key + '">';
+    html += '<tr title="' + r.person_name + " (" + r.party_name + ")";
+	if(results.confirmed) html += pc + (v ? "(" + v + ")" : v);
+	html += '" data-party="' + r.party_key + '">';
     html += "<td>";
     src = "/assets/images/missing.svg";
     if (typeof thumbnails[r.person_id] === "string") {
@@ -48,9 +49,9 @@ export default function ({ results, parties, thumbnails }: Lume.Data) {
     html += "<td>";
     html += '<span class="party-bar" style="width:' + w + "%;background:" +
       c.hex + ";color:" + c.contrast + ';"></span>';
-    html += '<span class="party">' + parties[r.party_key].name +
+    html += '<span class="party">' + parties[r.party_key].pa +
       "</span>";
-    if(pc) html += ' / <strong class="percent">' + pc + "</strong>";
+    if(results.confirmed && pc) html += ' / <strong class="percent">' + pc + "</strong>";
     html += '<br /><span class="candidate">' + r.person_name + "</span>";
     html += "</td>";
     html += "</tr>";

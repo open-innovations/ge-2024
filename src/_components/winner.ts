@@ -16,6 +16,7 @@ export default function ({ winner, previous, results, parties, thumbnails }: Lum
 		party_name = winner.party_name;
 		person_name = winner.person_name;
 		change = ' '+(previous == party ? 'HOLD':'GAIN');
+		if(!results.confirmed) change += ' / provisional';
 		if(pid in thumbnails && typeof thumbnails[pid]==="string"){
 			src = thumbnails[pid]; // r.image
 		}
