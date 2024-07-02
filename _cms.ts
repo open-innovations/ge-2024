@@ -115,6 +115,19 @@ cms.collection(
       type: "checkbox",
     },
     {
+      label: "Date declared",
+      description: "When was the result declared by the returning officer",
+      name: "declaration_date",
+      type: "date",
+      value: "2024-07-05",
+    },
+    {
+      label: "Time declared",
+      description: "At what time was the result declared by the returning officer",
+      name: "declaration_time",
+      type: "time"
+    },
+    {
       name: "votes",
       type: "result-table",
       fields: [
