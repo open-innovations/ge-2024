@@ -1,13 +1,10 @@
 import { Colour } from "https://deno.land/x/oi_lume_viz@v0.15.6/lib/colour/colour.ts";
 
-export default function ({ winner, previous, results, parties, thumbnails }: Lume.Data, ) {
+export default function ({ winner, previous, results, parties, thumbnail }: Lume.Data, ) {
 	const pts = Object.keys(parties);
 
-	if (typeof thumbnails === "undefined") thumbnails = {};
 	let party,key,pid,party_name,person_name,change,src,maj,name;
 	let html = "";
-
-	if(typeof thumbnails==="undefined") thumbnails = {};
 
 	if(winner && 'party_key' in winner){
 		party = winner.party_key;
@@ -17,9 +14,7 @@ export default function ({ winner, previous, results, parties, thumbnails }: Lum
 		person_name = winner.person_name;
 		change = ' '+(previous == party ? 'HOLD':'GAIN');
 		if(!results.confirmed) change += ' / provisional';
-		if(pid in thumbnails && typeof thumbnails[pid]==="string"){
-			src = thumbnails[pid]; // r.image
-		}
+    src = thumbnail(pid); // r.image
 	}else{
 		party_name = "Awaiting results";
 		person_name = "";
