@@ -7,6 +7,7 @@
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
+  "last_updated": null,
   "votes": [
     {
       "person_id": "106919",

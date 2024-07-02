@@ -41,5 +41,5 @@ stages:
       size: 997949
     - path: pipelines/results.py
       hash: md5
-      md5: aea145d7653bc70c776d12459b61dbc3
-      size: 1978
+      md5: c52a7933b4eeb437b814731614ff13b0
+      size: 1902

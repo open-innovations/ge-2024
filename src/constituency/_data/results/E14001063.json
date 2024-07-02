@@ -6,6 +6,8 @@
   "turnout_pct": 0,
   "confirmed": false,
   "declaration_date": "2024-07-02",
+  "declaration_time": null,
+  "last_updated": "2024-07-02T22:28:19.494Z",
   "votes": [
     {
       "person_id": "104012",
@@ -55,6 +57,5 @@
       "party_name": "Conservative and Unionist Party",
       "votes": 0
     }
-  ],
-  "last_updated": "2024-07-02T22:28:19.494Z"
+  ]
 }
