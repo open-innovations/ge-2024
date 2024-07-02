@@ -9,8 +9,8 @@ layout: titled.vto
 	  results
 	})}}
 
-	<h2>Candidates</h2>
 	{{ if results.votes.length > 0 }}
+	<h2>Candidates</h2>
 	  {{ comp.resultsTable({ results }) }}
 	  <p>Candidate images from <a href="https://democracyclub.org.uk/">Democracy Club</a>. Data collated by Open Innovations.</p>
 	{{#	<p>{{ comp.cmsLink({ code: pcon24cd }) }}</p>#}}
@@ -23,5 +23,9 @@ layout: titled.vto
 	  It is projected that this would have been a
 	  {{ comp.party({ party: notional.party_key }) }} seat in the 2019 General Election if it had been contested with the new constituency boundaries.
 	</p>
+
+  {{ if results?.last_updated }}
+    <p>Last updated on {{ results.last_updated |> date("FRIENDLY") }}</p>
+  {{ /if }}
 
 </div>

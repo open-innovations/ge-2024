@@ -31,7 +31,11 @@ const site = lume({
 site.data("cms", "https://cms.ge-2024.open-innovations.org/");
 
 // Set up plugins
-site.use(date());
+site.use(date({
+  formats: {
+    FRIENDLY: "do MMMM yyyy 'at' h:mm bbb"
+  }
+}));
 site.use(esbuild({
   extensions: [".ts"],
 }));
