@@ -6,7 +6,11 @@
 {{ set series = Object.entries(results)
     .toSorted((a, b) => b[1] - a[1])
     .filter(x => !["undefined", "total"].includes(x[0]))
-    .map(x => ({ value: x[0], colour: x[0] }))
+    .map(([id, total]) => ({
+      value: id,
+      colour: id,
+      tooltip: parties[id].name + ": " + total,
+    }))
 }}
 
 {{ comp.oi.chart.waffle({
@@ -15,6 +19,6 @@
     total: "total",
     size: [50, 13],
     series,
-	gravity: left
+	  gravity: left
   }
 }) }}
