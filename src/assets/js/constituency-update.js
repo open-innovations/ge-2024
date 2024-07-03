@@ -99,7 +99,7 @@ OI.ready(function(){
 		this.checkResults = function(){
 			let url = 'https://raw.githubusercontent.com/open-innovations/ge-2024/main/src/constituency/_data/results/'+pcon24cd+'.json';
 			msg.info('Checking for updates '+loader,{'id':'load'});
-			fetch(url,{}).then(response => {
+			fetch(url,{cache: "no-store"}).then(response => {
 				if(!response.ok) msg.error('Network response was not OK');
 				return response.json();
 			}).then(json => {
@@ -107,7 +107,7 @@ OI.ready(function(){
 				this.update();
 			}).catch(error => {
 				msg.remove('load');
-				msg.error('There has been a problem loading the HexJSON from <em>%c'+url+'%c</em>','font-style:italic;','font-style:normal;',{'fade':10000});
+				msg.error('There has been a problem getting updates',{'fade':5000});
 			});
 			return this;
 		};
@@ -121,8 +121,8 @@ OI.ready(function(){
 				return allVotes[0] - allVotes[1];
 			}
 			majority = calculateMajority(results);
-			c1 = '#dfdfdf';
-			c2 = '#dfdfdf';
+			c1 = {'bg':'#dfdfdf','color':'black'};
+			c2 = {'bg':'#dfdfdf','color':'black'};
 
 			total = results.total_votes || 0;
 			mostvotes = 0;
@@ -142,7 +142,6 @@ OI.ready(function(){
 				r = results.votes[i];
 				pid = r.person_id;
 				party = r.party_key;
-
 				c = parties[party].colour;
 				v = r.votes || 0;
 				if (total > 10) {
@@ -153,16 +152,18 @@ OI.ready(function(){
 					pc = "";
 					w = "0";
 					v = "";
+					majority = "";
 				}
 
 				if(pid in candidates){
 					title = r.person_name + " (" + r.party_name + ")" + (results.confirmed ? ' '+pc+(v ? "("+v+")" : v) : '');
+
 					candidates[pid].el.setAttribute('title',title);
 					candidates[pid].party.innerHTML = (party != "other" ? parties[party].pa : r.party_name);
 					candidates[pid].bar.style.width = w + '%';
 					candidates[pid].percent.innerHTML = (pc ? ' / <strong>'+pc+'</strong>' : '');
 
-					if(r.party_key==winner.party_key){
+					if(winner && r.party_key==winner.party_key){
 						c1 = {
 							'bg':window.getComputedStyle(candidates[pid].bar).backgroundColor,
 							'color':window.getComputedStyle(candidates[pid].bar).color
@@ -185,22 +186,31 @@ OI.ready(function(){
 				if(!results.confirmed) headline += ' / provisional';
 			}
 
-			bg = 'linear-gradient(110deg, '+c1.bg+' 0%, '+c1.bg+' calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), '+c2.bg+' calc(100% - 1.75em)), linear-gradient( 70deg, '+c1.bg+' 0%, '+c1.bg+' calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), '+c2.bg+' calc(100% - 1.75em))';
+			//bg = 'linear-gradient(110deg, '+c1.bg+' 0%, '+c1.bg+' calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), '+c2.bg+' calc(100% - 1.75em)), linear-gradient( 70deg, '+c1.bg+' 0%, '+c1.bg+' calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), '+c2.bg+' calc(100% - 1.75em))';
+			bg = 'linear-gradient(100deg, '+c1.bg+' 0%, '+c1.bg+' 95%, white 95%, white 96%, '+c2.bg+' 96%)';
 			banner.el.style.backgroundImage = bg;
 			banner.el.style.color = c1.color;
 			banner.headline.innerHTML = headline;
-			banner.elected.innerHTML = (winner.person_name ? 'Elected: <strong>'+winner.person_name+'</strong>' : '');
+			banner.elected.innerHTML = (winner && winner.person_name ? 'Elected: <strong>'+winner.person_name+'</strong>' : '');
 			banner.majority.innerHTML = (majority ? 'Majority: <strong>'+majority+'</strong>' : '');
 
-			let date = (results.updated ? new Date(results.updated) : new Date());
-			let dbit = "Updated: ";
+			let dstr = "";
+			let date;
+			console.log(results);
+			if(results.declaration_time===null){
+				if(results.last_updated===null){
+					date = new Date();
+				}else{
+					date = new Date(results.last_updated);
+				}
+				dstr = "Updated: "+formatDateTime(date);
+			}else{
+				date = new Date(results.declaration_date + "T" + results.declaration_time + "Z");
+				dstr = "Declared: "+formatDateTime(date);
+			}
+			console.log(dstr)
 
-			let time = (date.getUTCHours() < 9 ? "0":"")+(date.getUTCHours())+":"+(date.getMinutes() < 10 ? "0":"")+date.getMinutes();
-			document.getElementById('lastupdate').querySelector('span').innerHTML = dbit+date.toLocaleDateString("en-GB",{
-				year: "numeric",
-				month: "long",
-				day: "numeric",
-			})+' ('+time+')';
+			document.getElementById('lastupdate').querySelector('span').innerHTML = dstr;
 
 			msg.remove('load');
 
@@ -210,12 +220,24 @@ OI.ready(function(){
 		if(pcon24cd){
 			let _obj = this;
 			let interval = setInterval(function(){ _obj.checkResults() },60000);
-			//setTimeout(function(){ _obj.checkResults() },3000);
+			setTimeout(function(){ _obj.checkResults() },3000);
 		}else{
 			msg.error('No PCON24CD provided',{'fade':10000});
 		}
 
 		return this;
 	}
+
 	let result = new GEResults(parties);
+
+	function formatDateTime(date){
+		const month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+		const y = date.getFullYear();
+		const m = date.getMonth();
+		const d = date.getDate();
+		const nth = (d>3&&d<21?"th":d%10==1?"st":d%10==2?"nd":d%10==3?"rd":"th");
+		const hh = date.getHours();
+		const mm = date.getMinutes();
+		return d+nth+" "+month[m]+" "+y+" at "+hh+":"+mm+(hh==0 ? " midnight":(hh< 12 ? " am":" pm"));
+	}
 });

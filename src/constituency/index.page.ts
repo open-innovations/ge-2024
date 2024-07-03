@@ -66,7 +66,7 @@ export default function* ({
     const notional = allNotional.find((x) => x.pcon24cd == pcon24cd)!;
 
     // Set some metadata
-    let description = `No result available for ${pcon24nm}.`;
+    let description = `Awaiting result for ${pcon24nm}.`;
 
     const metas = {
       image: "https://placehold.co/400/svg?text=Awaiting+result",
@@ -78,8 +78,8 @@ export default function* ({
       const headline = `${winner.party_name} ${
         notional.party_key ==
             winner.party_key
-          ? `hold`
-          : `gain`
+          ? `HOLD`
+          : `GAIN`
       }`;
       description =
         `${headline}. ${winner.person_name} (${winner.party_name})${provisional} elected to ${pcon24nm}.`;

@@ -168,4 +168,8 @@ main > section {
 	color: #555;
 	padding: 0.5rem;
 	margin-top: 0;
+	& svg.bi-clock-fill {
+		top: 2px;
+		position: relative;
+	}
 }
