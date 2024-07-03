@@ -86,6 +86,37 @@ cms.collection(
       attributes: { readonly: true },
     },
     {
+      name: "votes",
+      type: "result-table",
+      fields: [
+        {
+          name: "person_name",
+          type: "text",
+          attributes: { readonly: true },
+        },
+        {
+          name: "party_name",
+          type: "text",
+          attributes: { readonly: true },
+        },
+        {
+          name: "votes",
+          type: "number",
+          attributes: { min: 0 },
+        },
+        {
+          name: "person_id",
+          type: "hidden",
+          attributes: { readonly: true },
+        },
+        {
+          name: "image",
+          type: "hidden",
+          attributes: { readonly: true },
+        },
+      ],
+    },
+    {
       label: "Total votes cast",
       description:
         "The count of all votes cast. This will most likely be higher than the sum of the votes cast for the candidates below due to spoiled ballots (which it can be used to calculate). This is also used in combination with the electorate to calculate turnout.",
@@ -131,37 +162,6 @@ cms.collection(
       name: "last_updated",
       type: "hidden",
       transform: () => new Date(),
-    },
-    {
-      name: "votes",
-      type: "result-table",
-      fields: [
-        {
-          name: "person_name",
-          type: "text",
-          attributes: { readonly: true },
-        },
-        {
-          name: "party_name",
-          type: "text",
-          attributes: { readonly: true },
-        },
-        {
-          name: "votes",
-          type: "number",
-          attributes: { min: 0 },
-        },
-        {
-          name: "person_id",
-          type: "hidden",
-          attributes: { readonly: true },
-        },
-        {
-          name: "image",
-          type: "hidden",
-          attributes: { readonly: true },
-        },
-      ],
     },
   ],
 );
