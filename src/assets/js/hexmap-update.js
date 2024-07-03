@@ -95,15 +95,15 @@ OI.ready(function(){
 				return this;
 			}
 			for(let i = 0; i < this.results.length; i++){
-				let pid = this.results[i].pcon24cd||"";
-				let pty = this.results[i].party_key||"";
+				let pid = this.results[i].id||"";
+				let pty = this.results[i].p||"";
 				if(pid && pid in hexes){
 					let colour = (pty in parties ? parties[pty].colour : '#dfdfdf');
 					hexes[pid].path.setAttribute('fill',colour)
 				}else{
-					console.warn('Bad constituency code '+this.results[i].pcon24cd);
+					console.warn('Bad constituency code '+this.results[i].id);
 				}
-				if(this.results[i].confirmed) confirmed++;
+				if(this.results[i].c) confirmed++;
 			}
 
 			// Build legend and replace the existing one
