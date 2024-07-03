@@ -1,4 +1,5 @@
 body {
+	line-height: 1.44em;
   & > main > *, & > header > *, & > nav > *, & > footer > *, & > aside > * {
     max-width: 1080px;
     margin-inline: auto;
