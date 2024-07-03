@@ -120,7 +120,7 @@ OI.ready(function(){
 
 				let dstr = "";
 				let date = new Date();
-				dstr = "Last checked: "+formatDateTime(date);
+				dstr = "Last updated: "+formatDateTime(date);
 				document.getElementById('lastupdate').querySelector('span').innerHTML = dstr;
 
 				msg.remove('load');
