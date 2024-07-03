@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} &mdash; {{ metas.site }}</title>
+  <link rel="stylesheet" href="/components.css">
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+{{ content }}
+
+<script defer src="https://open-innovations.org/resources/oi.log.js"></script>
+<script>
+  addEventListener('DOMContentLoaded', () => {
+    OI.log.setup({
+      id:'odileeds',
+      target:['ge2024.hexmap.uk']
+    }).add('action=view');
+  })
+</script>
+</body>
+</html>
