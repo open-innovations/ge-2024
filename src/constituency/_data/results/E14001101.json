@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001101",
   "pcon24nm": "Bishop Auckland",
-  "total_votes": null,
-  "electorate": null,
-  "turnout_pct": null,
+  "total_votes": 0,
+  "electorate": 0,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-03T15:59:57.267Z",
   "votes": [
     {
       "person_id": "114035",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114035/dd6f09a8-9696-46ea-bd57-ec5538416a34.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "116752",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116752/21f0d72b-7db1-4e09-b1a1-a8e20119cb1a.png",
       "party_key": "other",
       "party_name": "Transform Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "35869",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35869.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4270",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4270_Lbv9aC8.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5976",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5976/01dfb7fa-6d30-448c-8dcf-a09b0e87360c.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "72490",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72490-27504579-ce71-4416-9bea-919bf7180e00.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
