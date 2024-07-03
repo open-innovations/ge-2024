@@ -21,7 +21,7 @@ body {
   }
   & > footer {
     min-height: 3rem;
-    padding-block: 3rem;
+    padding-block: 2rem 3rem;
     & * {
       margin-block-start: 0;
     }
@@ -39,4 +39,4 @@ body {
     }
   }
 }
-p { margin-block-start: 1em; }
+main p { margin-block-start: 1em; }
