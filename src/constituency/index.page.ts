@@ -55,9 +55,6 @@ export default function* ({
     const winner = ballot[0] || null;
 
     if (winner) {
-      console.log({
-        winner,
-      })
       // We will disregard votes of below this clip in calculating majority, as it's probably work in progress
       const LOW_VOTE_CLIP = 10;
       const majority = winner && ballot[0] && ballot[0].votes > LOW_VOTE_CLIP && ballot[1] && ballot[1].votes > LOW_VOTE_CLIP ? ballot[0].votes - ballot[1].votes : null;
