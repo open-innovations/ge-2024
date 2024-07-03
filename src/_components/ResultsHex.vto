@@ -1,0 +1,43 @@
+{{ comp.oi.map.hex_cartogram({
+  config: {
+    // These are derived from passed in values
+    data: data,
+    value: value,
+    columns: [
+      { name: "info", template: "<a href='/constituency/{{ pcon24cd }}/' class='title'>{{ n }}</a>" },
+      { name: "label", template: "{{ n }} ({{ " + label + "}})" },
+    ],
+
+    // The rest is static configuration... Changes made here will be applied across all hexmaps
+    hexjson: hexjson.constituencies,
+    matchKey: "pcon24cd",
+    tooltip: "{{ info }}",
+
+    // Add label
+    // label: "{{ n | slice(0,2) }}",
+
+    // Add filter tool
+    tools: {
+			filter:{
+				label: "label"
+      }
+    },
+
+    // Add auto-generated legend
+    legend: {
+      position: "bottom",
+      title: 'Key',
+      items: buildLegend(data,value,value,{ "speaker":"speaker" },parties),
+    },
+	
+    boundaries: {
+      country: {
+        "stroke": "white",
+        "stroke-width": 1.5,
+        /*"stroke-dasharray": "2.5 2",*/
+        "stroke-linecap": "round"
+      },
+      region: "country"
+    },
+  },
+}) }}

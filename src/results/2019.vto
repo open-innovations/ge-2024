@@ -8,49 +8,8 @@ metas:
   It is based on estimates created by BBC News, ITV News, Sky News and the Press Association, and was sourced from <a href="https://electionresults.parliament.uk/general-elections/5/majority">UK Parliament election results website</a>.
 </p>
 
-{{ comp.oi.map.hex_cartogram({
-  config: {
-    hexjson: hexjson.constituencies,
-    data: notional,
-
-    matchKey: "pcon24cd",
-    value: "party_key",
-
-    columns: [
-      { name: "info", template: "<a href='/constituency/{{ pcon24cd }}/' class='title'>{{ pcon24nm }}</a>" },
-      { name: "label", template: "{{ n }} ({{ party_name }})" },
-    ],
-
-    tooltip: "{{ info }}",
-
-    // Add label
-    label: "{{ PCON24NM | slice(0,3) }}",
-
-    // Add filter tool
-    tools: {
-			filter:{
-				label: "label"
-      }
-    },
-
-    // Add auto-generated legend
-	legend: {
-      position: "bottom",
-      title: 'Key',
-      items: buildLegend(notional,'party_key','party_key',{
-				"speaker":"speaker"
-			},parties),
-    },
-	
-	
-	"boundaries": {
-		"country": {
-			"stroke": "white",
-			"stroke-width": 1.5,
-			/*"stroke-dasharray": "2.5 2",*/
-			"stroke-linecap": "round"
-		},
-		"region": "country"
-	},
-  },
+{{ comp.ResultsHex({
+  data: notional,
+  value: "party_key",
+  label: "party_name",
 }) }}

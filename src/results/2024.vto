@@ -8,49 +8,8 @@ metas:
   |> map(c => ({ pcon24cd: c.pcon24cd, winner: c.winner?.party_key || "", winner_name: c.winner?.party_name || "Awaiting result" }))
 }}
 
-{{ comp.oi.map.hex_cartogram({
-  config: {
-
-    hexjson: hexjson.constituencies,
-    data: results,
-
-    matchKey: "pcon24cd",
-    value: "winner",
-
-    columns: [
-      { name: "info", template: "<a href='/constituency/{{ pcon24cd }}/' class='title'>{{ n }}</a>" },
-      { name: "label", template: "{{ n }} ({{ winner_name }})" },
-    ],
-
-    tooltip: "{{ info }}",
-
-    // Add label
-    // label: "{{ n | slice(0,2) }}",
-
-    // Add filter tool
-    tools: {
-			filter:{
-				label: "label"
-      }
-    },
-
-    // Add auto-generated legend
-    legend: {
-      position: "bottom",
-      title: 'Key',
-      items: buildLegend(results,'winner','winner',{
-				"speaker":"speaker"
-			},parties),
-    },
-	
-	"boundaries": {
-		"country": {
-			"stroke": "white",
-			"stroke-width": 1.5,
-			/*"stroke-dasharray": "2.5 2",*/
-			"stroke-linecap": "round"
-		},
-		"region": "country"
-	},
-  },
+{{ comp.ResultsHex({
+  data: results,
+  value: "winner",
+  label: "winner_name",
 }) }}
