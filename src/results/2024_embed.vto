@@ -1,0 +1,13 @@
+---
+layout: base.vto
+url: /results/2024/embed/
+refresh: 30
+---
+{{ set results = search.pages("constituency") |> extractResults }}
+
+{{ comp.ResultsHex({
+  data: results,
+  value: "winner",
+  label: "winner_name",
+  credits: 'Data: Open Innovations / Hex layout: <a href="https://open-innovations.org/blog/2023-08-03-hexes-for-the-next-general-election">Open Innovations and collaborators</a>',
+}) }}

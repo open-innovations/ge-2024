@@ -3,10 +3,7 @@ title: 2024 General Election Results
 metas:
   image: https://ge2024.hexmap.uk/assets/images/2024.svg
 ---
-{{ set results =
-  search.pages('constituency')
-  |> map(c => ({ pcon24cd: c.pcon24cd, winner: c.winner?.party_key || "", winner_name: c.winner?.party_name || "Awaiting result" }))
-}}
+{{ set results = search.pages("constituency") |> extractResults }}
 
 <div id="ge2024">
 	<p id="lastupdate">

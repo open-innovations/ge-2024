@@ -3,7 +3,14 @@ title: About this site
 templateEngine: vto, markdown
 ---
 
+
 <div> <!-- HODL -->
+
+Embed the results map!
+
+```html
+<iframe src="https://ge2024.hexmap.uk/results/2024/embed/" style="width: 400px; aspect-ratio: 1/1.5;">
+```
 
 ## Data sources and pipelines
 

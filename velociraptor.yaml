@@ -9,9 +9,14 @@ scripts:
 
   check:
     cmd:
-      - deno lint --compact
-      - deno fmt --check
-    # gitHook: pre-commit
+      - git diff --cached --name-only | xargs deno lint --compact
+      - git diff --cached --name-only | xargs deno fmt --check
+    gitHook: pre-commit
+  fix:
+    cmd:
+      - git diff --cached --name-only | xargs deno lint --fix --compact
+      - git diff --cached --name-only | xargs deno fmt
+
 
   get-fonts:
     cmd: utils/getFonts.ts

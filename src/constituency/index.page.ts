@@ -1,30 +1,7 @@
+import { ConstituencyPage, HexData, Notional, Results } from "../../types.ts";
+
 export const layout = "constituency.vto";
 export const tags = ["constituency"];
-
-type HexData = {
-  n: string;
-};
-
-type Notional = {
-  pcon24cd: string;
-  party_key: string;
-  majority: number;
-  valid_votes: number;
-  [key: string]: unknown;
-};
-
-type Results = {
-  [key: string]: {
-    confirmed: boolean;
-    votes: {
-      person_id: string;
-      person_name: string;
-      votes: number;
-      image: string;
-      [key: string]: unknown;
-    }[];
-  };
-};
 
 export default function* ({
   hexjson: {
@@ -34,7 +11,9 @@ export default function* ({
   },
   notional: allNotional,
   results: allResults,
-}: Lume.Data & { notional: Notional[]; results: Results }) {
+}: Lume.Data & { notional: Notional[]; results: Results }): Generator<
+  ConstituencyPage
+> {
   for (
     const [pcon24cd, { n: pcon24nm }] of Object.entries<HexData>(constituencies)
   ) {
@@ -50,14 +29,18 @@ export default function* ({
     const ballot = results.votes
       .toSorted((a, b) => b.votes - a.votes)
       .filter((x) => x.votes > 0);
-      
+
     // The winner is the one with the most votes. That's how this works
     const winner = ballot[0] || null;
 
     if (winner) {
       // We will disregard votes of below this clip in calculating majority, as it's probably work in progress
       const LOW_VOTE_CLIP = 10;
-      const majority = winner && ballot[0] && ballot[0].votes > LOW_VOTE_CLIP && ballot[1] && ballot[1].votes > LOW_VOTE_CLIP ? ballot[0].votes - ballot[1].votes : null;
+      const majority =
+        winner && ballot[0] && ballot[0].votes > LOW_VOTE_CLIP && ballot[1] &&
+          ballot[1].votes > LOW_VOTE_CLIP
+          ? ballot[0].votes - ballot[1].votes
+          : null;
 
       winner.majority = majority;
     }
