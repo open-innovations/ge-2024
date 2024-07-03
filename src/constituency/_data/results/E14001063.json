@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116264/0ceee8e5-3c72-4494-98b3-6a5fea416689.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1234
+      "votes": 1
     },
     {
       "person_id": "36425",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116663/34e371eb-5bd3-4227-ac20-7f183e1574db.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1100
+      "votes": 0
     },
     {
       "person_id": "47708",
