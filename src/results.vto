@@ -13,6 +13,8 @@ title: Results
   Download <a href="/results.json">this results file</a> (JSON format)
 </p>
 
+{{#
+
 {{ set results = search.pages("constituency winner!=null", "pcon24nm") }}
 
 {{ if results.length > 0 }}
@@ -50,5 +52,7 @@ title: Results
   No results have been recorded yet.
 </p>
 {{ /if }}
+
+#}}
 
 </div>

@@ -6,13 +6,12 @@ description: |
 metas:
   image: https://ge2024.hexmap.uk/assets/images/2024.svg
 ---
-<div> <!-- holder -->
 
 <p>
   We are collecting the data on the night of the 2024 UK General Election and keeping this updated as the counts are declared.
 </p>
 
-
+<div>
 {{ comp layout.panelSelector.set { label: 'Choose the visualisation layer', titleSelector: "h3", position: "top" } }}
 
 	{{ comp layout.panelSelector.panel { id: "ge2024", title: "2024", classes: "panel" } }}
@@ -24,6 +23,5 @@ metas:
 	{{ /comp }}
 
 {{ /comp }}
-
 
 </div>

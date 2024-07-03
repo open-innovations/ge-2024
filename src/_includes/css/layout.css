@@ -1,12 +1,12 @@
 body {
-	line-height: 1.44em;
+  line-height: 1.44em;
   & > main > *, & > header > *, & > nav > *, & > footer > *, & > aside > * {
     max-width: 1080px;
     margin-inline: auto;
     padding-inline: 1rem;
   }
   & > main {
-	  margin-block: 2rem;
+	  padding-block: 2rem;
   }
   & > header > * {
     display: flex;
@@ -40,6 +40,7 @@ body {
   }
 }
 main p, footer p { margin-block-start: 1em; }
+main > *:first-child, footer > *:first-child { margin-block-start: 0em; }
 h1,h2,h3,h4 { line-height: 1em; }
 h1 { font-size: 2em; margin-top: 2rem; }
 h2 { font-size: 1.7em; margin-top: 2rem; font-weight: 500; }
