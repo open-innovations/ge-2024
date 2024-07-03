@@ -7,7 +7,7 @@ import esbuild from "lume/plugins/esbuild.ts";
 import favicon from "lume/plugins/favicon.ts";
 import feed from "lume/plugins/feed.ts";
 import metas from "lume/plugins/metas.ts";
-import pagefind from "lume/plugins/pagefind.ts";
+// import pagefind from "lume/plugins/pagefind.ts";
 import postcss from "lume/plugins/postcss.ts";
 import sheets from "lume/plugins/sheets.ts";
 import sitemap from "lume/plugins/sitemap.ts";
@@ -44,7 +44,7 @@ site.use(favicon({
 }));
 site.use(feed());
 site.use(metas());
-site.use(pagefind());
+// site.use(pagefind());
 site.use(sitemap());
 site.use(oiLumeViz({
   colour: { names },
