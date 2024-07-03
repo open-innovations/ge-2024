@@ -2,10 +2,12 @@ layout: titled.vto
 
 site:
   nav:
+    - url: /about/
+      title: About
     - url: /
       title: Maps
     - url: /constituency/
-      title: Constituencies
+      title: List
     - url: /results/
       title: Results
 

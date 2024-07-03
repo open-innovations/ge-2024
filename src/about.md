@@ -3,6 +3,13 @@ title: About this site
 templateEngine: vto, markdown
 ---
 
+This site shows data for the 2024 UK General Election on a hex map and by constituency.
+
+## Hex maps
+
+At Open Innovations we have a bit of a reputation for hex maps (technically, cartograms). When it comes to showing data about constituencies - where every constituency should have an equal visual weight in a visualisation - [we think hex maps do a better job](https://open-innovations.org/blog/2017-05-08-mapping-election-with-hexes) than geographic maps. Particularly, strictly geographic representations of constituencies biases the overall impression in favour of the much larger, rural constituencies and effectively hides geographically small inner city constituencies. Obviously there are trade-offs when you abstract the geography - individual constituencies can't necessarily preserve their real-life neighbours and so relative positions do get distorted - but we feel that getting the correct overall impression from a visualisation matters more.
+
+Given the 2023 boundary reviews we are using our new constituency hex. We have a [blog post about the design of the layout](https://open-innovations.org/blog/2023-08-03-hexes-for-the-next-general-election) including some of the reasoning behind it. If you are particularly unhappy with the layout, you can try to [edit the layout](https://open-innovations.org/projects/hexmaps/builder.html?https://raw.githubusercontent.com/odileeds/hexmaps/gh-pages/maps/uk-constituencies-2023.hexjson) and send us the new HexJSON.
 
 <div> <!-- HODL -->
 
