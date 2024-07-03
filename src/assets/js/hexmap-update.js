@@ -123,7 +123,7 @@ OI.ready(function(){
 
 			let dstr = "";
 			let date = new Date();
-			dstr = "Updated: "+formatDateTime(date);
+			dstr = ""+formatDateTime(date);
 			document.getElementById('lastupdate').querySelector('span').innerHTML = dstr;
 
 			return this;
