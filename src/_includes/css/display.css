@@ -123,7 +123,7 @@ ul.blocks {
   margin-inline: auto;
 }
 .oi-map-inner .hex path {
-	transition: all 0.5s ease-in;
+	transition: all 1s ease-in;
 }
 
 #constituency-filter {
@@ -164,15 +164,22 @@ main > section {
 }
 
 #messages {
-	float: right;
+	flex-grow: 1;
+	text-align: right;
+	& .message:after {
+		content: " /";
+		margin-right: 0.25em;
+	}
+	& .message:last-child:after {
+		content: "";
+		margin-right: 0;
+	}
 }
 #lastupdate {
 	background: #efefef;
 	color: #555;
 	padding: 0.5rem;
 	margin-top: 0;
-	& svg {
-		top: 2px;
-		position: relative;
-	}
+	display: flex;
+	gap: 0.25em;
 }

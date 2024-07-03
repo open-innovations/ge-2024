@@ -9,19 +9,30 @@ metas:
 <div> <!-- holder -->
 
 <p>
-  This site presents the results of the 2024 UK General Election.
-  We are preparing to collect the data on the night, and keep it updated as the counts are declared.
+  We are collecting the data on the night of the 2024 UK General Election and keeping this updated as the counts are declared.
 </p>
 
-<p>
-  <em>Please note</em>, we're testing at the moment, so you might see test data.
-  Please disregard until the night of 4th July.
-</p>
+{{#
+{{ comp.layout.panelSelector.set({ label: 'Choose the visualisation layer', titleSelector: "h3", position: "top" }) }}
 
-<h2>2024 Results</h2>
-{{ include './results/2024.vto' }}
+	{{ comp.layout.panelSelector.panel({ id: "ge2024", title: "2024", classes: "doublepadded" }) }}
+		<h3>General Election - 4 July 2024</h3>
+	{{ /comp }}
 
-<h2>2019 Results</h2>
-{{ include './results/2019.vto' }}
+	{{ comp.layout.panelSelector.panel({ id: "ge2019", title: "2019", classes: "doublepadded" }) }}
+		<h3>General Election - 12 December 2019</h3>
+	{{ /comp }}
+
+{{ /comp }}
+#}}
+
+<section>
+	{{ include './results/2024.vto' }}
+</section>
+
+<section>
+	<h2>2019 Results</h2>
+	{{ include './results/2019.vto' }}
+</section>
 
 </div>

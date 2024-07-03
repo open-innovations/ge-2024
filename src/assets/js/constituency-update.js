@@ -83,7 +83,7 @@ OI.ready(function(){
 		let pcon24cd = banner.el.getAttribute('data-id');
 		let previous = banner.el.getAttribute('data-previous');
 		let candidates = {};
-		let pid;
+		let pid,interval;
 
 		for(let r = 0; r < tr.length; r++){
 			el = tr[r];
@@ -207,6 +207,9 @@ OI.ready(function(){
 			}else{
 				date = new Date(results.declaration_date + "T" + results.declaration_time + "Z");
 				dstr = "Declared: "+formatDateTime(date);
+				// Cancel updating
+				clearInterval(interval);
+				msg.log("Updating is paused")
 			}
 			console.log(dstr)
 
@@ -219,7 +222,7 @@ OI.ready(function(){
 		
 		if(pcon24cd){
 			let _obj = this;
-			let interval = setInterval(function(){ _obj.checkResults() },60000);
+			interval = setInterval(function(){ _obj.checkResults() },60000);
 			setTimeout(function(){ _obj.checkResults() },3000);
 		}else{
 			msg.error('No PCON24CD provided',{'fade':10000});

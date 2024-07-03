@@ -14,7 +14,7 @@
 OI.ready(function(){
 
 	if(!OI.logger){
-		// Version 1.4
+		// Version 1.4.1
 		OI.logger = function(title,attr){
 			if(!attr) attr = {};
 			title = title||"OI Logger";
@@ -39,17 +39,22 @@ OI.ready(function(){
 					if(opt.length > 0) opt = opt[opt.length-1];
 					if(attr.visible.includes(cls)) opt.visible = true;
 					if(opt.visible){
-						var el = document.createElement('div');
-						el.classList.add('message',cls);
-						el.innerHTML = txt.replace(/\%c/g,"");
-						el.style.display = (txt ? 'block' : 'none');
-						attr.el.prepend(el);
-						id = "default";
-						if(opt.id){
-							id = opt.id;
+						var id = "default";
+						if(opt.id) id = opt.id;
+						// Get an existing element
+						var el = attr.el.querySelector('#'+id);
+						if(!el){
+							// Create the element
+							el = document.createElement('div');
+							el.classList.add('message',cls);
+							attr.el.prepend(el);
 							el.setAttribute('id',opt.id);
 						}
-						ms[id] = setTimeout(function(){ el.remove(); },opt.fade||5000);
+						el.innerHTML = txt.replace(/\%c/g,"");
+						el.style.display = (txt ? 'inline-block' : 'none');
+						if(typeof opt.fade==="number"){
+							ms[id] = setTimeout(function(){ el.remove(); },opt.fade);
+						}
 					}
 				}
 			}
@@ -72,6 +77,7 @@ OI.ready(function(){
 		let loader = '<svg version="1.1" width="1em" height="1em" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(.11601 0 0 .11601 -49.537 -39.959)"><path d="m610.92 896.12m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.83333s" repeatCount="indefinite" /></path><path d="m794.82 577.6m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.6666s" repeatCount="indefinite" /></path><path d="m1162.6 577.6m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.5s" repeatCount="indefinite" /></path><path d="m1346.5 896.12m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.3333s" repeatCount="indefinite" /></path><path d="m1162.6 1214.6m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.1666s" repeatCount="indefinite" /></path><path d="m794.82 1214.6m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="0s" repeatCount="indefinite" /></path></g></svg>';
 		let msg = new OI.logger(this.name+' v'+this.version,{el:document.getElementById('messages'),'visible':['info','warning','error']});
 		let hs = el.querySelectorAll('.data-layer .hex');
+		let interval;
 		// Build a lookup for hexes
 		let hexes = {};
 		for(let h = 0; h < hs.length; h++){
@@ -81,7 +87,7 @@ OI.ready(function(){
 		let legend = el.querySelector('.oi-legend-items');
 
 		this.update = function(){
-
+			let confirmed = 0;
 			if(typeof this.results!=="object"){
 				msg.error("Poorly formatted results",{'fade':10000});
 				return this;
@@ -95,15 +101,29 @@ OI.ready(function(){
 				}else{
 					console.warn('Bad constituency code '+this.results[i].pcon24cd);
 				}
+				if(this.results[i].confirmed) confirmed++;
 			}
 
 			// Build legend and replace the existing one
 			let items = buildLegend(this.results,"party_key","party_name",{ "speaker":"speaker" },parties);
 			let str = "";
-			for(let i = 0; i < items.length; i++){
+			for(let i = items.length-1; i >= 0; i--){
 				str += '<div class="oi-legend-item" data-series="'+i+'"><i class="oi-legend-icon" style="background:'+items[i].colour+'"></i><span class="oi-legend-label">'+items[i].label+'</span></div>';
 			}
 			legend.innerHTML = str;
+
+			if(confirmed==650){
+				msg.info("All results are confirmed",{'id':'official'})
+				// Cancel updating
+				clearInterval(interval);
+			}else{
+				msg.info(confirmed+" of 650 reported",{'id':'official'})				
+			}
+
+			let dstr = "";
+			let date = new Date();
+			dstr = "Updated: "+formatDateTime(date);
+			document.getElementById('lastupdate').querySelector('span').innerHTML = dstr;
 
 			return this;
 		};
@@ -117,12 +137,6 @@ OI.ready(function(){
 			}).then(json => {
 				this.results = json;
 				this.update();
-
-				let dstr = "";
-				let date = new Date();
-				dstr = "Last updated: "+formatDateTime(date);
-				document.getElementById('lastupdate').querySelector('span').innerHTML = dstr;
-
 				msg.remove('load');
 			}).catch(error => {
 				msg.remove('load');
@@ -131,11 +145,28 @@ OI.ready(function(){
 			return this;
 		};
 
+		this.init = function(){
+			msg.log('init');
+			let checker;
+			let date = new Date();
 
-		let _obj = this;
-		let interval = setInterval(function(){ _obj.checkResults() },60000);
-		setTimeout(function(){ _obj.checkResults() },3000);
-		
+			if(date < new Date("2024-07-04T07:00+0100")){
+				msg.info("Polling not open",{'id':'official'});
+				if(!interval) interval = setInterval(function(){ _obj.init() },10000);
+			}else if(date < new Date("2024-07-04T22:00+0100")){
+				msg.info("Polls open",{'id':'official'});
+				if(!interval) interval = setInterval(function(){ _obj.init() },10000);
+			}else{
+				if(interval) clearInterval(interval);
+				interval = setInterval(function(){ _obj.checkResults() },60000);
+			}
+
+			return this;
+		};
+
+		//let _obj = this;
+		//setTimeout(function(){ _obj.init() },2000);
+		this.init();
 		return this;
 	}
 
