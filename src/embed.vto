@@ -1,0 +1,69 @@
+---
+title: Use these visualisations
+---
+
+<div>
+
+  <p>
+    We'd be delighted if you shared out visualisations.
+    All we ask is that you attribute the hexmaps to <a href="https://open-innovations.org/">Open Innovations</a>, and link back to <a href="{{ '/' |> url(true) }}">this site</a>.
+  </p>
+
+  <p>Here are a few ways you could do this.</p>
+
+  <h2>Iframe</h2>
+  
+  <p>You can embed the map on your own site. This will refresh every 60 seconds.</p>
+  
+  <pre>
+  {{-
+  `<iframe src="https://ge2024.hexmap.uk/results/2024/embed/"
+        style="width: 400px; aspect-ratio: 1/1.5;">`
+  |> escape -}}
+  </pre>
+
+  <p>The aspect ratio might need to be adjusted if the image is much smaller than this.</p>
+
+  <div style="display: flex; justify-content: center;">
+  <iframe src="https://ge2024.hexmap.uk/results/2024/embed/"
+        style="width: 400px; aspect-ratio: 1/1.5;"></iframe>
+  </div>
+
+  <h2>HTMX (experimental)</h2>
+  
+  <p>
+    Do you do HTMX? You can embed the visualisations with the following code.
+    <strong>Please note</strong> The tooltips don't work properly yet.
+  </p>
+  
+  <pre>
+  {{-
+  `<div hx-get="https://ge2024.hexmap.uk/results/2024/"
+     hx-select=".oi-map-inner,.oi-legend,.oi-attribution"
+     hx-trigger="load, click, every 60s"></div>`
+  |> escape -}}
+  </pre>
+  
+  <p>We recommend adding something like the following styles to the document to style the legend.</p>
+
+  <pre>{{
+  `<style>
+  .oi-legend { text-align: center; font-size: 0.9rem; }
+  .oi-legend * { display: inline-block; }
+  .oi-legend * + * { margin-inline-start: 0.5em; }
+  .oi-legend-icon { width: 1em; aspect-ratio: 1 / 1; }
+</style>` |> escape
+  }}</pre>
+  
+  
+  <script src="https://unpkg.com/htmx.org@2.0.0" integrity="sha384-wS5l5IKJBvK6sPTKa2WZ1js3d947pvWXbPJ1OmWfEuxLgeHcEbjUUA5i9V5ZkpCw" crossorigin="anonymous"></script>
+  <style>
+    .oi-legend { text-align: center; font-size: 0.9rem; }
+    .oi-legend * { display: inline-block; }
+    .oi-legend * + * { margin-inline-start: 0.5em; }
+    .oi-legend-icon { width: 1em; aspect-ratio: 1 / 1; }
+  </style>
+  <div hx-get="/results/2024/"
+       hx-select=".oi-map-inner,.oi-legend,.oi-attribution"
+       hx-trigger="load, click, every 60s"></div>
+</div>

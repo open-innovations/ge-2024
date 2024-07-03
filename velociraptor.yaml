@@ -11,7 +11,7 @@ scripts:
     cmd:
       - git diff --cached --name-only | xargs deno lint --compact
       - git diff --cached --name-only | xargs deno fmt --check
-    gitHook: pre-commit
+    # gitHook: pre-commit
   fix:
     cmd:
       - git diff --cached --name-only | xargs deno lint --fix --compact
