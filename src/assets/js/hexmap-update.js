@@ -89,6 +89,7 @@ OI.ready(function(){
 
 		this.update = function(){
 			let confirmed = 0;
+			let gotresult = 0;
 			if(typeof this.results!=="object"){
 				msg.error("Poorly formatted results",{'fade':10000});
 				return this;
