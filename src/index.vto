@@ -12,27 +12,18 @@ metas:
   We are collecting the data on the night of the 2024 UK General Election and keeping this updated as the counts are declared.
 </p>
 
-{{#
-{{ comp.layout.panelSelector.set({ label: 'Choose the visualisation layer', titleSelector: "h3", position: "top" }) }}
 
-	{{ comp.layout.panelSelector.panel({ id: "ge2024", title: "2024", classes: "doublepadded" }) }}
-		<h3>General Election - 4 July 2024</h3>
+{{ comp layout.panelSelector.set { label: 'Choose the visualisation layer', titleSelector: "h3", position: "top" } }}
+
+	{{ comp layout.panelSelector.panel { id: "ge2024", title: "2024", classes: "panel" } }}
+		{{ include './results/2024.vto' }}
 	{{ /comp }}
 
-	{{ comp.layout.panelSelector.panel({ id: "ge2019", title: "2019", classes: "doublepadded" }) }}
-		<h3>General Election - 12 December 2019</h3>
+	{{ comp layout.panelSelector.panel { id: "ge2019", title: "2019", classes: "panel" } }}
+		{{ include './results/2019.vto' }}
 	{{ /comp }}
 
 {{ /comp }}
-#}}
 
-<section>
-	{{ include './results/2024.vto' }}
-</section>
-
-<section>
-	<h2>2019 Results</h2>
-	{{ include './results/2019.vto' }}
-</section>
 
 </div>

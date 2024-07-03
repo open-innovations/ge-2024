@@ -78,6 +78,7 @@ OI.ready(function(){
 		let msg = new OI.logger(this.name+' v'+this.version,{el:document.getElementById('messages'),'visible':['info','warning','error']});
 		let hs = el.querySelectorAll('.data-layer .hex');
 		let interval;
+		let _obj = this;
 		// Build a lookup for hexes
 		let hexes = {};
 		for(let h = 0; h < hs.length; h++){
@@ -164,7 +165,7 @@ OI.ready(function(){
 			return this;
 		};
 
-		//let _obj = this;
+		//
 		//setTimeout(function(){ _obj.init() },2000);
 		this.init();
 		return this;
