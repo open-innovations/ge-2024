@@ -2,7 +2,8 @@
   "lock": false,
   "imports": {
     "lume/": "https://deno.land/x/lume@v2.2.2/",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@v0.5.2/"
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@v0.5.2/",
+    "oi_lume_viz/": "https://deno.land/x/oi_lume_viz@v0.15.7/"
   },
   "tasks": {
     "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",

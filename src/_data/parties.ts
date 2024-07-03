@@ -1,110 +1,109 @@
 // Press Association codes from https://election.pressassociation.com/general-election/general-election-2024/
 // Colours from our 2019 results
 export default {
-	con: {
-		name: "Conservative and Unionist Party",
-		pa: "Con",
-		colour: "#0485A8",
-	},
-	lab: {
-		name: "Labour Party",
-		pa: "Lab",
-		colour: "#DC4343",
-	},
-	green: {
-		name: "Green Party",
-		pa: "Green",
-		colour: "#5EBD4C",
-	},
-	ld: {
-		name: "Liberal Democrats",
-		pa: "LD",
-		colour: "#EAA544",
-	},
-	ref: {
-		name: "Reform UK",
-		pa: "Reform",
-		colour: "#09d2e0",
-	},
-	snp: {
-		name: "Scottish National Party",
-		pa: "SNP",
-		colour: "#EBDB1C",
-	},
-	pc: {
-		name: "Plaid Cymru",
-		pa: "PC",
-		colour: "#4FBA7C",
-	},
-	ukip: {
-		name: "UK Independence Party",
-		pa: "UKIP",
-		colour: "#73537A",
-	},
-	dup: {
-		name: "Democratic Unionist Party",
-		pa: "DUP",
-		colour: "#BF3759",
-	},
-	uup: {
-		name: "Ulster Unionist Party",
-		pa: "UUP",
-		colour: "#3b75a8",
-	},
-	sdlp: {
-		name: "Social Democratic and Labour Party",
-		pa: "SDLP",
-		colour: "#53BC5B",
-	},
-	alba: {
-		name: "Alba",
-		pa: "Alba",
-		colour: "#0015ff",
-	},
-	sf: {
-		name: "Sinn Féin",
-		pa: "SF",
-		colour: "#2C604D",
-	},
-	alliance: {
-		name: "Alliance",
-		pa: "Alliance",
-		colour: "#EAA544",
-	},
-	apni: {
-		name: "Alliance",
-		pa: "Alliance",
-		colour: "#EAA544",
-	},
-	wpb: {
-		name: "Workers Party of Britain",
-		pa: "WPB",
-		colour: "#539acb",
-	},
-	other: {
-		name: "Other",
-		pa: "Other",
-		colour: "#440d54",
-	},
-	speaker: {
-		name: "Speaker seeking re-election",
-		pa: "Speaker",
-		colour: "#909090",
-	},
-	none: {
-		name: "Not yet declared",
-		pa: "TBD",
-		colour: "#dfdfdf",
-	}
-
-//
-//	 "brexit": "#0FA697",
-//	 "ind": "#CCA7C6",
-//	 "xspeaker": "#909090",
-//	 "monster": "#cccccc",
-//	 "none": "#dfdfdf",
-//
-/*
+  con: {
+    name: "Conservative and Unionist Party",
+    pa: "Con",
+    colour: "#0485A8",
+  },
+  lab: {
+    name: "Labour Party",
+    pa: "Lab",
+    colour: "#DC4343",
+  },
+  green: {
+    name: "Green Party",
+    pa: "Green",
+    colour: "#5EBD4C",
+  },
+  ld: {
+    name: "Liberal Democrats",
+    pa: "LD",
+    colour: "#EAA544",
+  },
+  ref: {
+    name: "Reform UK",
+    pa: "Reform",
+    colour: "#09d2e0",
+  },
+  snp: {
+    name: "Scottish National Party",
+    pa: "SNP",
+    colour: "#EBDB1C",
+  },
+  pc: {
+    name: "Plaid Cymru",
+    pa: "PC",
+    colour: "#4FBA7C",
+  },
+  ukip: {
+    name: "UK Independence Party",
+    pa: "UKIP",
+    colour: "#73537A",
+  },
+  dup: {
+    name: "Democratic Unionist Party",
+    pa: "DUP",
+    colour: "#BF3759",
+  },
+  uup: {
+    name: "Ulster Unionist Party",
+    pa: "UUP",
+    colour: "#3b75a8",
+  },
+  sdlp: {
+    name: "Social Democratic and Labour Party",
+    pa: "SDLP",
+    colour: "#53BC5B",
+  },
+  alba: {
+    name: "Alba",
+    pa: "Alba",
+    colour: "#0015ff",
+  },
+  sf: {
+    name: "Sinn Féin",
+    pa: "SF",
+    colour: "#2C604D",
+  },
+  alliance: {
+    name: "Alliance",
+    pa: "Alliance",
+    colour: "#EAA544",
+  },
+  apni: {
+    name: "Alliance",
+    pa: "Alliance",
+    colour: "#EAA544",
+  },
+  wpb: {
+    name: "Workers Party of Britain",
+    pa: "WPB",
+    colour: "#539acb",
+  },
+  other: {
+    name: "Other",
+    pa: "Other",
+    colour: "#440d54",
+  },
+  speaker: {
+    name: "Speaker seeking re-election",
+    pa: "Speaker",
+    colour: "#909090",
+  },
+  none: {
+    name: "Not yet declared",
+    pa: "TBD",
+    colour: "#dfdfdf",
+  },
+  //
+  //	 "brexit": "#0FA697",
+  //	 "ind": "#CCA7C6",
+  //	 "xspeaker": "#909090",
+  //	 "monster": "#cccccc",
+  //	 "none": "#dfdfdf",
+  //
+  /*
 		"Abolish the Welsh Assembly Party": "Abolish",
 		"Alliance for Democracy and Freedom": "ADF",
 		"Alliance for Green Socialism": "Green Soc",
@@ -186,4 +185,3 @@ export default {
 		"Women’s Equality Party": "Women",
 		"Workers’ Revolutionary Party": "WRP",*/
 };
-

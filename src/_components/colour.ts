@@ -1,5 +1,5 @@
-import { Colour } from "https://deno.land/x/oi_lume_viz@v0.15.6/lib/colour/colour.ts";
+import { Colour } from "oi_lume_viz/lib/colour/colour.ts";
 
-export default function ({ colour }: Lume.Page) {
+export default function ({ colour }: Lume.Page & { colour: string }) {
   return Colour(colour);
 }

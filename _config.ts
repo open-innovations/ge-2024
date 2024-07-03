@@ -13,7 +13,7 @@ import sheets from "lume/plugins/sheets.ts";
 import sitemap from "lume/plugins/sitemap.ts";
 
 // OI Lume viz
-import oiLumeViz from "https://deno.land/x/oi_lume_viz@v0.15.7/mod.ts";
+import oiLumeViz from "oi_lume_viz/mod.ts";
 // Local config (data files) for insertion into oiLumeViz plugin
 import { names } from "./src/_data/colour.ts";
 
@@ -33,8 +33,8 @@ site.data("cms", "https://cms.ge-2024.open-innovations.org/");
 // Set up plugins
 site.use(date({
   formats: {
-    FRIENDLY: "do MMMM yyyy 'at' h:mm bbb"
-  }
+    FRIENDLY: "do MMMM yyyy 'at' h:mm bbb",
+  },
 }));
 site.use(esbuild({
   extensions: [".ts"],
