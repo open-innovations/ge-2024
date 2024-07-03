@@ -114,11 +114,11 @@ OI.ready(function(){
 			legend.innerHTML = str;
 
 			if(confirmed==650){
-				msg.info("All results are confirmed",{'id':'official'})
+				msg.info("All results are confirmed",{'id':'official'});
 				// Cancel updating
 				clearInterval(interval);
 			}else{
-				msg.info(confirmed+" of 650 reported",{'id':'official'})				
+				msg.info(this.results.length+" of 650 reported",{'id':'official'});
 			}
 
 			let dstr = "";
