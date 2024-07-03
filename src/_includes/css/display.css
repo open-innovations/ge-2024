@@ -4,7 +4,9 @@ table {
   
   }
 }
+
 .oi-viz {
+  margin-top: 1em;
   .tooltip .inner {
     & a {
       color: inherit;
@@ -144,7 +146,7 @@ h1, h2, h3 { margin-bottom: 0.5rem; }
 .winner {
 	display: flex;
 	padding: 1rem;
-	margin-bottom: 0.5rem;
+	margin-bottom: 0.25rem;
 	img { width: 80px; height: 80px; margin-right: 1rem; }
 	.headline, .title { font-size: 1.25em; font-weight: bold; }
 	.headline, strong, .title { font-family: Poppins; }
@@ -193,4 +195,6 @@ article.panel {
 	margin-top: 0;
 	display: flex;
 	gap: 0.25em;
+	align-items: center;
+	& > svg { position: relative; top: -1px; }
 }

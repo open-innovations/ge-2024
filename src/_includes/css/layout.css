@@ -39,4 +39,9 @@ body {
     }
   }
 }
-main p { margin-block-start: 1em; }
+main p, footer p { margin-block-start: 1em; }
+h1,h2,h3,h4 { line-height: 1em; }
+h1 { font-size: 2em; margin-top: 2rem; }
+h2 { font-size: 1.7em; margin-top: 2rem; font-weight: 500; }
+h3 { font-size: 1.4em; margin-top: 2rem; }
+h1:first-child, h2:first-child, h3:first-child { margin-top: 0; }
