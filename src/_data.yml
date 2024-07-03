@@ -12,5 +12,6 @@ site:
 metas:
   title: "=title"
   description: "=description"
+  image: https://ge2024.hexmap.uk/assets/images/2024.svg
   site: "General Election 2024"
   twitter: openinnovates
