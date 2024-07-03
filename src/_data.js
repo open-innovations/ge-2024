@@ -15,7 +15,7 @@ export function buildLegend(data, column, labelcol, labels = {}, parties) {
     let lbl = lookup[party].label;
     if (lbl in labels) lbl = labels[lbl];
     if (party in labels) lbl = labels[party];
-    if (lbl in parties) lbl = parties[lbl].pa;
+    if (party in parties) lbl = parties[lbl].pa;
     else console.warn("No match for " + lbl + " (" + party + ")");
     legend.push({
       "colour": party,
