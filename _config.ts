@@ -84,4 +84,12 @@ site.filter("getSelector", (content: string, selector: string) => {
   return frag.querySelector(selector).toString();
 });
 
+site.filter("setAttributes", (content: string, attributes: { [k: string]: unknown }, type = "image/svg+xml") => {
+  const frag = new DOMParser().parseFromString(content, type);
+  for (const [k, v] of Object.entries(attributes)) {
+    frag.children[0].setAttribute(k, v);
+  }
+  return frag.toString();
+})
+
 export default site;

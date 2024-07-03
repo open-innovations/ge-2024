@@ -2,4 +2,4 @@
 url: /assets/images/2019.svg
 layout: none.vto
 ---
-{{ include "./2019.vto" |> getSelector("svg") }}
+{{ include "./2019.vto" |> getSelector("svg") |> setAttributes({ style: '', width: 400, height: 300 }) }}
