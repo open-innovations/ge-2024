@@ -80,6 +80,7 @@ export default function* ({
       results,
       notional,
       winner,
+      date: results?.last_updated
     };
   }
 }

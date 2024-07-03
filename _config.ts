@@ -42,7 +42,26 @@ site.use(esbuild({
 site.use(favicon({
   input: "assets/images/oi-logo-black.svg",
 }));
-site.use(feed());
+site.use(feed({
+  output: ["/feed.rss", "/feed.json"],
+  query: "constituency !results.last_updated=null",
+  sort: "date=desc",
+  limit: 100,
+  info: {
+    title: "GE 2024",
+    description: "Open Innovations UK General Election results updated",
+    published: new Date(),
+    lang: "en",
+    generator: true,
+  },
+  items: {
+    title: "=title",
+    description: "=description",
+    published: "=date",
+    content: "$ div.winner",
+    image: "=metas.image",
+  }
+}));
 site.use(metas());
 // site.use(pagefind());
 site.use(sitemap());

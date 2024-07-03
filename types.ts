@@ -50,4 +50,5 @@ export type ConstituencyPage = {
   results: Result;
   notional: Notional;
   winner: Vote & { majority?: number };
+  date: DateTime;
 };
