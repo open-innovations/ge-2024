@@ -130,7 +130,8 @@ OI.ready(function(){
 		};
 
 		this.checkResults = function(){
-			let url = 'https://ge2024.hexmap.uk/results.json';
+			//let url = 'https://ge2024.hexmap.uk/results.json';
+			let url = 'https://open-innovations.org/projects/ge2024/results.json';
 			msg.info('Checking for updates '+loader,{'id':'load'});
 			fetch(url,{cache: "no-store"}).then(response => {
 				if(!response.ok) msg.error('Cannot auto-update');
@@ -151,7 +152,11 @@ OI.ready(function(){
 			let checker;
 			let date = new Date();
 
-			if(date < new Date("2024-07-04T07:00+0100")){
+			if(date < new Date("2024-07-04T00:00+0100")){
+				if(interval) clearInterval(interval);
+				interval = setInterval(function(){ _obj.checkResults() },60000);
+				this.checkResults();
+			}else if(date < new Date("2024-07-04T07:00+0100")){
 				msg.info("Polling not open",{'id':'official'});
 				if(!interval) interval = setInterval(function(){ _obj.init() },10000);
 			}else if(date < new Date("2024-07-04T22:00+0100")){
@@ -160,14 +165,15 @@ OI.ready(function(){
 			}else{
 				if(interval) clearInterval(interval);
 				interval = setInterval(function(){ _obj.checkResults() },60000);
+				this.checkResults();
 			}
 
 			return this;
 		};
 
-		//
 		//setTimeout(function(){ _obj.init() },2000);
 		this.init();
+
 		return this;
 	}
 
