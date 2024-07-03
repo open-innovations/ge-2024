@@ -3,9 +3,9 @@
   "pcon24nm": "Blyth and Ashington",
   "total_votes": 0,
   "electorate": 0,
-  "turnout_pct": 0,
+  "turnout_pct": 1,
   "confirmed": false,
-  "last_updated": "2024-07-03T17:42:04.158Z",
+  "last_updated": "2024-07-03T21:19:51.016Z",
   "votes": [
     {
       "person_id": "3057",
