@@ -29,7 +29,7 @@ OI.ready(function(){
 			this.remove = function(id){
 				var el = attr.el.querySelector('#'+id);
 				if(ms[id]) clearTimeout(ms[id]);
-				el.remove();
+				if(el) el.remove();
 			};
 			function updatePage(){
 				if(attr.el){
@@ -107,7 +107,7 @@ OI.ready(function(){
 			}
 
 			// Build legend and replace the existing one
-			let items = buildLegend(this.results,"party_key","party_name",{ "speaker":"speaker" },parties);
+			let items = buildLegend(this.results,"p","party_name",{ "speaker":"speaker" },parties);
 			let str = "";
 			for(let i = items.length-1; i >= 0; i--){
 				str += '<div class="oi-legend-item" data-series="'+i+'"><i class="oi-legend-icon" style="background:'+items[i].colour+'"></i><span class="oi-legend-label">'+items[i].label+'</span></div>';
