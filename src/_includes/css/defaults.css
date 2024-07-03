@@ -30,6 +30,9 @@ body {
     & a {
       color: inherit;
       text-decoration: none;;
+      padding-block: 0.5rem;
+      padding-inline: 1rem;
+      display: block;
     }
     & ul {
       padding: 0;
@@ -40,8 +43,6 @@ body {
       list-style: none;
     }
     & li {
-      padding-block: 0.5rem;
-      padding-inline: 1rem;
       &:hover, &.current {
         color: black;
         background: white;
