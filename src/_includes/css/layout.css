@@ -4,6 +4,9 @@ body {
     margin-inline: auto;
     padding-inline: 1rem;
   }
+  & > main {
+	  margin-block: 2rem;
+  }
   & > header > * {
     display: flex;
     flex-direction: row;
@@ -15,16 +18,9 @@ body {
       margin-block: 0;
     }
   }
-  & main {
-    padding-block-end: 12rem; /* To allow for footer */
-  }
   & > footer {
     min-height: 3rem;
-    padding-block: 1rem;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    padding-block: 3rem;
     & * {
       margin-block-start: 0;
     }
@@ -34,12 +30,6 @@ body {
       & > * {
         flex-grow: 0;
         flex-shrink: 0;
-        & > * {
-          margin: 0;
-          & + * {
-            margin-block-start: 0.5em;
-          }
-        }
       }
       & > *:first-child {
         flex-grow: 1;
@@ -48,3 +38,4 @@ body {
     }
   }
 }
+p { margin-block-start: 1em; }
