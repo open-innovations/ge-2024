@@ -232,12 +232,16 @@ OI.ready(function(){
 
 	function formatDateTime(date){
 		const month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-		const y = date.getFullYear();
-		const m = date.getMonth();
-		const d = date.getDate();
+		let y = date.getFullYear();
+		let m = date.getUTCMonth();
+		let d = date.getUTCDate();
+		let hh = (date.getUTCHours() + 1);	// Force BST in case people have privacy set
+		let mm = date.getMinutes();
+		if(hh >= 24){
+			hh -= 24;
+			d++;
+		}
 		const nth = (d>3&&d<21?"th":d%10==1?"st":d%10==2?"nd":d%10==3?"rd":"th");
-		const hh = date.getHours();
-		const mm = date.getMinutes();
-		return d+nth+" "+month[m]+" "+y+" at "+hh+":"+mm+(hh==0 ? " midnight":(hh< 12 ? " am":" pm"));
+		return d+nth+" "+month[m]+" "+y+" at "+(hh < 10 ? "0":"")+hh+":"+(mm < 10 ? "0":"")+mm+(hh==0 ? " midnight":(hh< 12 ? " am":" pm"))+" BST";
 	}
 });
