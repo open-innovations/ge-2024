@@ -226,8 +226,12 @@ OI.ready(function(){
 		
 		if(pcon24cd){
 			let _obj = this;
-			interval = setInterval(function(){ _obj.checkResults() },60000);
-			setTimeout(function(){ _obj.checkResults() },3000);
+			let now = new Date();
+			// Only check regularly before the end of Friday 
+			if(now < new Date("2024-07-05T23:00+0100")){
+				interval = setInterval(function(){ _obj.checkResults() },60000);
+				setTimeout(function(){ _obj.checkResults() },3000);
+			}
 		}else{
 			msg.error('No PCON24CD provided',{'fade':10000});
 		}
