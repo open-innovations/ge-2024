@@ -38,4 +38,12 @@ stages:
     deps:
       - pipelines/constituencies.py
       - data/Demographic-data-for-new-parliamentary-constituencies-May-2024.xlsx
-    
+    outs: 
+      - src/_data/drilldown/households.csv:
+          cache: false
+      - src/_data/drilldown/housing_tenure.csv:
+          cache: false
+      - src/_data/drilldown/age.csv:
+          cache: false
+      - src/_data/drilldown/population.csv:
+          cache: false

@@ -82,19 +82,19 @@ if __name__ == "__main__":
     england_wales_population = get_data('EW_data', 'Population', ['Topic', 'England & Wales value'])
     northern_ireland_population = get_data('NI_data', 'Population', ['Topic', 'Northern Ireland value'])
     uk_population = concatenate_nations_data([england_wales_population, northern_ireland_population])
-    write_csv(uk_population, 'data/population.csv')
+    write_csv(uk_population, 'src/_data/drilldown/population.csv')
 
     ew_age = get_data('EW_data', 'Age', ['Topic', 'England & Wales value'], value_type=float, pct=True)
     ni_age = get_data('NI_data', 'Age', ['Topic', 'Northern Ireland value'], value_type=float, pct=True)
     uk_age = concatenate_nations_data([ew_age, ni_age])
-    write_csv(uk_age, 'data/age.csv')
+    write_csv(uk_age, 'src/_data/drilldown/age.csv')
 
     ew_housing_tenure = get_data('EW_data', 'Housing tenure', ['Topic', 'England & Wales value'], value_type=float, pct=True)
     ni_housing_tenure = get_data('NI_data', 'Housing tenure', ['Topic', 'Northern Ireland value'], value_type=float, pct=True)
     uk_housing_tenure = concatenate_nations_data([ew_housing_tenure, ni_housing_tenure])
-    write_csv(uk_housing_tenure, 'data/housing_tenure.csv')
+    write_csv(uk_housing_tenure, 'src/_data/drilldown/housing_tenure.csv')
 
     ew_households = get_data('EW_data', 'Households', ['Topic', 'England & Wales value'], value_type=int)
     ni_households = get_data('NI_data', 'Households', ['Topic', 'Northern Ireland value'], value_type=int)
     uk_households = concatenate_nations_data([ew_households, ni_households])
-    write_csv(uk_households, 'data/households.csv')
+    write_csv(uk_households, 'src/_data/drilldown/households.csv')
