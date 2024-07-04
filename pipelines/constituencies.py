@@ -124,4 +124,5 @@ if __name__ == "__main__":
     constituency_drilldown = uk_age.join([uk_households, uk_population, uk_housing_tenure])
     constituency_drilldown = constituency_drilldown.merge(geo_codes, on='PCON24CD')
     constituency_drilldown.set_index('PCON24CD', inplace=True)
+    constituency_drilldown = constituency_drilldown[['Population', 'Households']]
     write_json(constituency_drilldown, 'src/constituency/_data/drilldown.json')
