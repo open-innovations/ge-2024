@@ -16,11 +16,12 @@
 {{ if series.length > 0 }}
 {{ comp.oi.chart.waffle({
   config: {
+    width: 640,
     data: [results],
     total: "total",
-    size: [50, 13],
+    size: [26, 25],
     series,
-	  gravity: left
+	gravity: "left"
   }
 }) }}
 {{ else }}
