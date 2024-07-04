@@ -68,22 +68,10 @@ stages:
       size: 1140765
     - path: pipelines/constituencies.py
       hash: md5
-      md5: bb4996ad81fe7dd02929cf4eac01ce1b
-      size: 4568
+      md5: 752b67605c45625cab40552c3367af3a
+      size: 4798
     outs:
-    - path: src/_data/drilldown/age.csv
+    - path: src/_data/drilldown.json
       hash: md5
-      md5: 4434063b21aeb3d071c537983b249455
-      size: 33819
-    - path: src/_data/drilldown/households.csv
-      hash: md5
-      md5: 55d844575b16685751ced944e8588450
-      size: 19962
-    - path: src/_data/drilldown/housing_tenure.csv
-      hash: md5
-      md5: 5b5a38096d9448d8058f34aa7c88d943
-      size: 30635
-    - path: src/_data/drilldown/population.csv
-      hash: md5
-      md5: f87f79de38c026b20fe3635af4937e93
-      size: 20304
+      md5: 2010202cbc662a564a2db92c8eebd519
+      size: 265414
