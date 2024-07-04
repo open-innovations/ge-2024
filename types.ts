@@ -52,6 +52,7 @@ export type ConstituencyPage = LumeCommon & {
   pcon24cd: string;
   pcon24nm: string;
   results: Result;
+  headline: string;
   notional: Notional;
   winner: Vote & { majority?: number };
   date: DateTime;

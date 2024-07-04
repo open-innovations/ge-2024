@@ -100,6 +100,7 @@ export default function* ({
       results,
       notional,
       winner,
+      headline,
       date: results?.last_updated,
       drilldown: drilldown[pcon24cd] || null,
       age: age[pcon24cd] || null,

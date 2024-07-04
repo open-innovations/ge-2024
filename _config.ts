@@ -46,7 +46,7 @@ site.use(feed({
   output: ["/feed.rss", "/feed.json"],
   query: "constituency !results.last_updated=null",
   sort: "date=desc",
-  limit: 100,
+  limit: 20,
   info: {
     title: "GE 2024",
     description: "Open Innovations UK General Election results updated",
@@ -56,9 +56,9 @@ site.use(feed({
   },
   items: {
     title: "=title",
-    description: "=description",
+    content: "=description",
     published: "=date",
-    content: "$ div.winner",
+    description: "=headline",
     image: "=metas.image",
   }
 }));
