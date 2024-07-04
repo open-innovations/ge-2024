@@ -20,7 +20,7 @@
     {
       "person_id": "117072",
       "person_name": "Karen Cooksley",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117072/f4aeb9a4-e2f3-4224-a7e2-9d7607ce9bdd.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

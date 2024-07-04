@@ -5,6 +5,8 @@
   "electorate": 0,
   "turnout_pct": 0,
   "confirmed": false,
+  "declaration_date": null,
+  "declaration_time": null,
   "last_updated": "2024-07-03T21:39:28.083Z",
   "votes": [
     {
@@ -66,7 +68,7 @@
     {
       "person_id": "87578",
       "person_name": "Rob Walker",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87578/1c5baa14-4542-420e-8bf5-d80e40471433.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
       "votes": 500

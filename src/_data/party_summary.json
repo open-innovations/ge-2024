@@ -1,7 +1,7 @@
 [
   {
     "party_key": "other",
-    "candidate_count": 1335
+    "candidate_count": 1175
   },
   {
     "party_key": "con",
@@ -16,12 +16,12 @@
     "candidate_count": 630
   },
   {
-    "party_key": "ref",
-    "candidate_count": 609
+    "party_key": "green",
+    "candidate_count": 629
   },
   {
-    "party_key": "green",
-    "candidate_count": 585
+    "party_key": "ref",
+    "candidate_count": 609
   },
   {
     "party_key": "snp",
@@ -30,6 +30,34 @@
   {
     "party_key": "pc",
     "candidate_count": 32
+  },
+  {
+    "party_key": "alba",
+    "candidate_count": 19
+  },
+  {
+    "party_key": "apni",
+    "candidate_count": 18
+  },
+  {
+    "party_key": "sdlp",
+    "candidate_count": 18
+  },
+  {
+    "party_key": "uup",
+    "candidate_count": 17
+  },
+  {
+    "party_key": "dup",
+    "candidate_count": 16
+  },
+  {
+    "party_key": "sf",
+    "candidate_count": 14
+  },
+  {
+    "party_key": "tuv",
+    "candidate_count": 14
   },
   {
     "party_key": "speaker",

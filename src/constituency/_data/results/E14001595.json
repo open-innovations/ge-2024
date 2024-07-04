@@ -36,7 +36,7 @@
     {
       "person_id": "33654",
       "person_name": "Victoria Helena Wilson",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/33654/4cdd24e4-620c-4e82-8f84-02c5bd7f46d6.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

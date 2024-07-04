@@ -27,7 +27,7 @@
     },
     {
       "person_id": "32066",
-      "person_name": "Joanna Nora Kenny",
+      "person_name": "Joanna Kenny",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/32066/9be087ff-af05-4998-a63f-236e44688aaa.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
@@ -52,7 +52,7 @@
     {
       "person_id": "72463",
       "person_name": "Jay Latham",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72463/b5e4bb0c-12a8-4965-b49b-5fdb6863f08d.png",
       "party_key": "other",
       "party_name": "The Liberal Party",
       "votes": null

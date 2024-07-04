@@ -20,7 +20,7 @@
     {
       "person_id": "117084",
       "person_name": "Michael Murphy",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117084/17cdf15a-d7c9-42d2-9007-505d6620e819.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

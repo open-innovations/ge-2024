@@ -12,7 +12,7 @@
     {
       "person_id": "117600",
       "person_name": "Peter White",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117600/2b3a15ae-50fa-4fb6-838e-40b3040cb174.png",
       "party_key": "other",
       "party_name": "The Liberal Party",
       "votes": null

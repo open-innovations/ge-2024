@@ -45,7 +45,7 @@
       "person_id": "838",
       "person_name": "George Kerevan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553be5f1ec0766d3759c0468.png",
-      "party_key": "other",
+      "party_key": "alba",
       "party_name": "Alba Party",
       "votes": null
     },
@@ -61,7 +61,7 @@
       "person_id": "84830",
       "person_name": "Shona McIntosh",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84830/105ea30e-072d-4ed2-9cf4-17eb934c3878.png",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     }

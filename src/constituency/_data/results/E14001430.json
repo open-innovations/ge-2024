@@ -20,7 +20,7 @@
     {
       "person_id": "109368",
       "person_name": "Manny Lawal",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109368/a4d921b5-8797-41b5-a878-df0631e078b6.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
       "votes": null

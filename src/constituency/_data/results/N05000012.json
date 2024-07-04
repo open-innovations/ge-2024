@@ -13,7 +13,7 @@
       "person_id": "108645",
       "person_name": "Helen Maher",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108645/059f20f8-673d-4518-9743-e9f28fb6ff7c.png",
-      "party_key": "other",
+      "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
       "votes": null
     },
@@ -37,7 +37,7 @@
       "person_id": "19673",
       "person_name": "Philip McGuigan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19673.png",
-      "party_key": "other",
+      "party_key": "sf",
       "party_name": "Sinn F\u00e9in",
       "votes": null
     },
@@ -45,7 +45,7 @@
       "person_id": "2134",
       "person_name": "Jim Allister",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2134/178b2b5b-9ee3-4113-94d6-d154c41d58c3.png",
-      "party_key": "other",
+      "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
       "votes": null
     },
@@ -53,7 +53,7 @@
       "person_id": "2135",
       "person_name": "Ian Paisley Jr",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553572bb367dc5383f552cd2.png",
-      "party_key": "other",
+      "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
       "votes": null
     },
@@ -61,7 +61,7 @@
       "person_id": "34317",
       "person_name": "Jackson Minford",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34317/faec514b-0d11-4ffa-a3df-3908ada99a09.png",
-      "party_key": "other",
+      "party_key": "uup",
       "party_name": "Ulster Unionist Party",
       "votes": null
     },
@@ -69,7 +69,7 @@
       "person_id": "50314",
       "person_name": "Sian Mulholland",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/50314.png",
-      "party_key": "other",
+      "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
       "votes": null
     }

@@ -20,7 +20,7 @@
     {
       "person_id": "116151",
       "person_name": "Graham Padden",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116151/6ff8a6c4-d283-4d35-a383-2877e42b46f1.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null
@@ -60,7 +60,7 @@
     {
       "person_id": "77488",
       "person_name": "Graham Wickens",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77488/3bdd4ecd-c55f-4d47-8fff-72f4d84f724c.png",
       "party_key": "green",
       "party_name": "Green Party",
       "votes": null

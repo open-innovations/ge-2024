@@ -13,7 +13,7 @@
       "person_id": "11857",
       "person_name": "Colum Eastwood",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11857/435a0df9-b4ca-4032-a7ba-38cdd42cd5df.png",
-      "party_key": "other",
+      "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
       "votes": null
     },
@@ -37,7 +37,7 @@
       "person_id": "50319",
       "person_name": "Rachael Ferguson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/50319/ac41b688-2278-4c39-a97f-d502653ad6e6.png",
-      "party_key": "other",
+      "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
       "votes": null
     },
@@ -45,7 +45,7 @@
       "person_id": "69218",
       "person_name": "Sandra Duffy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69218/702a5dae-3730-4985-a8b2-e661edcbb9b4.png",
-      "party_key": "other",
+      "party_key": "sf",
       "party_name": "Sinn F\u00e9in",
       "votes": null
     },
@@ -53,7 +53,7 @@
       "person_id": "7209",
       "person_name": "Gary Middleton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72315-5b582878-76da-4bf3-ba13-b93a3536defd.png",
-      "party_key": "other",
+      "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
       "votes": null
     },
@@ -69,7 +69,7 @@
       "person_id": "96086",
       "person_name": "Janice Montgomery",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96086/00999cec-8c34-4d16-8ea4-21e42d66abe2.png",
-      "party_key": "other",
+      "party_key": "uup",
       "party_name": "Ulster Unionist Party",
       "votes": null
     }

@@ -12,7 +12,7 @@
     {
       "person_id": "110091",
       "person_name": "George William Carter",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110091/8cd6d913-97c6-4cfc-b51f-69728f38ea04.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

@@ -28,7 +28,7 @@
     {
       "person_id": "116920",
       "person_name": "Nahim Rubani",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116920/ca467498-c1cf-4e4b-8af8-6bfc22ef61eb.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

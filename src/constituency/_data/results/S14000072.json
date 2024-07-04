@@ -12,7 +12,7 @@
     {
       "person_id": "117122",
       "person_name": "Satbir Gill",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117122/551b9138-045f-48f4-bce2-4254c9d6f285.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null
@@ -29,7 +29,7 @@
       "person_id": "20611",
       "person_name": "Anne McCrossan",
       "image": "/assets/images/missing.svg",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     },

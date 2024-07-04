@@ -12,7 +12,7 @@
     {
       "person_id": "116199",
       "person_name": "John Barstow",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116199/8703abff-f288-448f-81d3-23f48157a96a.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

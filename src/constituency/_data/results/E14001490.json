@@ -20,7 +20,7 @@
     {
       "person_id": "115926",
       "person_name": "Mick Stott",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115926/a50a2dd4-a5aa-472b-9c43-9c0b67a6d688.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

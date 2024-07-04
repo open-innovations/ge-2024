@@ -20,7 +20,7 @@
     {
       "person_id": "116523",
       "person_name": "Andrew Flaxman",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116523/29e8d294-52b0-4a94-bf5f-a173dee31138.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
       "votes": null

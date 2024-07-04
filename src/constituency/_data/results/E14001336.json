@@ -76,7 +76,7 @@
     {
       "person_id": "81611",
       "person_name": "Laura Victoria Ashby",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81611/5693f732-ae27-43c5-b41f-0b92c95bb08d.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

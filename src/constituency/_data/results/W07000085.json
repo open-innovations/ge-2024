@@ -20,7 +20,7 @@
     {
       "person_id": "117341",
       "person_name": "Jonathan Harrington",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117341/0d102c23-3f61-4771-a721-edb4ee8c28ff.png",
       "party_key": "other",
       "party_name": "Abolish The Welsh Assembly Party",
       "votes": null
@@ -44,7 +44,7 @@
     {
       "person_id": "70555",
       "person_name": "Fay Jones",
-      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70555.png",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/70555/bbf04e6e-bde7-4fa7-b8eb-16d795c9ce04.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

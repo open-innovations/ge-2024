@@ -60,7 +60,7 @@
     {
       "person_id": "75707",
       "person_name": "Tamas Kovacs",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75707/8ef60758-f86c-4f86-b1bd-96f92e5c00b9.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

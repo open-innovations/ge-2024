@@ -12,7 +12,7 @@
     {
       "person_id": "116167",
       "person_name": "Shaun Long",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116167/5070ccba-26ca-4872-89d0-ed66dc8699e4.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
       "votes": null

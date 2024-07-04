@@ -28,7 +28,7 @@
     {
       "person_id": "117593",
       "person_name": "Raj Gill",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117593/3c05940a-46f5-4ae4-b431-2f01087dc161.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

@@ -52,7 +52,7 @@
     {
       "person_id": "84112",
       "person_name": "Alec Leishman",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84112/fda24d35-90b9-4cb0-aeb3-2a94c76ad658.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null
@@ -61,7 +61,7 @@
       "person_id": "86185",
       "person_name": "Athol Bond",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86185/c4d2ab69-6c66-46ac-a9ad-bdddd7c55434.png",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     },

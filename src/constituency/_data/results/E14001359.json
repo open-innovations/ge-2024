@@ -36,7 +36,7 @@
     {
       "person_id": "116812",
       "person_name": "Richard Brunning",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116812/73341864-36fc-472d-b893-3987894663dc.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
       "votes": null

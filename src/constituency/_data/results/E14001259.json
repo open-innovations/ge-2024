@@ -20,7 +20,7 @@
     {
       "person_id": "117124",
       "person_name": "David Landau",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117124/ff264b1f-5da5-4058-bf1a-9a990c322fc6.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

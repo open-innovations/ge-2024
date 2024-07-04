@@ -76,7 +76,7 @@
     {
       "person_id": "99391",
       "person_name": "Dipesh Jitendra Patel",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99391/a76dc8db-8e78-4f9e-85d9-0795f8276e2c.png",
       "party_key": "lab",
       "party_name": "Labour Party",
       "votes": null

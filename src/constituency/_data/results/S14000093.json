@@ -37,7 +37,7 @@
       "person_id": "5411",
       "person_name": "Iain Hamilton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117142/91ace1e8-3ad1-4f05-8e62-de1f5b5afe0d.png",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     },
@@ -45,7 +45,7 @@
       "person_id": "5715",
       "person_name": "Chris McEleny",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74657-da24e797-c37a-4006-912c-2a298adf9beb.png",
-      "party_key": "other",
+      "party_key": "alba",
       "party_name": "Alba Party",
       "votes": null
     },
@@ -68,7 +68,7 @@
     {
       "person_id": "85407",
       "person_name": "Ted Runciman",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85407/7c39711e-c3e4-43c9-bf74-b28ca63b2753.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

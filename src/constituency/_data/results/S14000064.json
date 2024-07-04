@@ -29,7 +29,7 @@
       "person_id": "117137",
       "person_name": "Nariese Whyte",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117137/bbe13bb1-8b24-41c4-93ec-479fa8624f25.png",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     },
@@ -45,7 +45,7 @@
       "person_id": "71831",
       "person_name": "Kenny MacAskill",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71831-1d41580b-146e-4697-9bfc-2e6d8534f09e.png",
-      "party_key": "other",
+      "party_key": "alba",
       "party_name": "Alba Party",
       "votes": null
     },

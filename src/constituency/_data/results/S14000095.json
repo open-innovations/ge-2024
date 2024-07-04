@@ -53,7 +53,7 @@
       "person_id": "71768",
       "person_name": "Cameron Glasgow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71768/8a2a1680-37aa-4a42-9033-27c89c189dd8.png",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     },
@@ -61,7 +61,7 @@
       "person_id": "95434",
       "person_name": "Debbie Ewen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95434/bb960d16-c4ff-4a23-ac81-159de731a043.png",
-      "party_key": "other",
+      "party_key": "alba",
       "party_name": "Alba Party",
       "votes": null
     }

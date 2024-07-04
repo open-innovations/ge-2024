@@ -60,7 +60,7 @@
     {
       "person_id": "7236",
       "person_name": "Marilyn Mary Gordon",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7236/ec764924-84f0-4066-8147-f66d42614484.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

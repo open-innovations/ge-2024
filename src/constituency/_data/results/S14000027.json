@@ -60,7 +60,7 @@
     {
       "person_id": "85649",
       "person_name": "Kenny Barker",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85649/f70f3c3e-0a7a-4acb-b0db-f6f51ada0806.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

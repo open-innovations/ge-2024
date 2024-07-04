@@ -28,7 +28,7 @@
     {
       "person_id": "117351",
       "person_name": "Karen Anne Harries",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117351/0020217c-b63e-46ea-a48f-e748cbca9dee.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

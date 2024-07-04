@@ -60,7 +60,7 @@
     {
       "person_id": "18030",
       "person_name": "Callum Terence Procter",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/18030/aa5223d1-8363-4b04-9485-66c9be6d17b6.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

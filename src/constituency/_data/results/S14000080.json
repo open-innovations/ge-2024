@@ -21,7 +21,7 @@
       "person_id": "114555",
       "person_name": "Jo Phillips",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114555/dfa8a2e2-cb3c-4ebc-b8d2-550acf4aded1.png",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     },
@@ -45,7 +45,7 @@
       "person_id": "117430",
       "person_name": "Lynne Lyon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117430/0b8e32d9-6ad5-4897-b857-92587e7ef36c.png",
-      "party_key": "other",
+      "party_key": "alba",
       "party_name": "Alba Party",
       "votes": null
     },

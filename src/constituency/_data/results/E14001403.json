@@ -44,7 +44,7 @@
     {
       "person_id": "9685",
       "person_name": "Phil Heath",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9685/c0e64e6c-7f08-4601-840c-a3c43efc897f.png",
       "party_key": "other",
       "party_name": "Hampshire Independents",
       "votes": null

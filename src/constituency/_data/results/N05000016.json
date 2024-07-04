@@ -13,7 +13,7 @@
       "person_id": "108654",
       "person_name": "Will Polland",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108654/31500bf1-7ecd-4051-8f5a-d4edee415cfd.png",
-      "party_key": "other",
+      "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
       "votes": null
     },
@@ -21,7 +21,7 @@
       "person_id": "108702",
       "person_name": "Noel Sands",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108702/16c81c7a-1a28-46df-b355-4e327c701113.png",
-      "party_key": "other",
+      "party_key": "sf",
       "party_name": "Sinn F\u00e9in",
       "votes": null
     },
@@ -52,7 +52,7 @@
     {
       "person_id": "117826",
       "person_name": "Garreth Falls",
-      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117826/f4495cee-8f3d-48a1-b4a3-095c9ed9b880.png",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117826/914357b6-8146-42a3-86b1-2b7cfdbaabf2.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null
@@ -61,7 +61,7 @@
       "person_id": "3066",
       "person_name": "Jim Shannon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3066/dc5c7536-2385-48b9-8f86-d9a18bfdcec4.png",
-      "party_key": "other",
+      "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
       "votes": null
     },
@@ -69,7 +69,7 @@
       "person_id": "49643",
       "person_name": "Michelle Guy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49643.png",
-      "party_key": "other",
+      "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
       "votes": null
     },
@@ -77,7 +77,7 @@
       "person_id": "69271",
       "person_name": "Richard Smart",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69271.png",
-      "party_key": "other",
+      "party_key": "uup",
       "party_name": "Ulster Unionist Party",
       "votes": null
     },
@@ -85,7 +85,7 @@
       "person_id": "84283",
       "person_name": "Ron McDowell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84283-01929ae7-3d1c-4af7-940f-2843796daa08.png",
-      "party_key": "other",
+      "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
       "votes": null
     }

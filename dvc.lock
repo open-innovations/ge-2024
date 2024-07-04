@@ -5,8 +5,8 @@ stages:
     deps:
     - path: data/lookup_party.csv
       hash: md5
-      md5: 5db9797fb53aa9fd4739a504495f5f8f
-      size: 153
+      md5: 63bb7611490e1336f3c8d83db772e283
+      size: 235
     - path: pipelines/candidates.py
       hash: md5
       md5: 04749eebd262b60496da245cd440671e
@@ -14,12 +14,12 @@ stages:
     outs:
     - path: data/candidates.csv
       hash: md5
-      md5: e424393dbed6ea0ff310fdaa173bd890
-      size: 997949
+      md5: 168da2b59f709908d2c2a077687aa76a
+      size: 1002930
     - path: src/_data/party_summary.json
       hash: md5
-      md5: 49629d9976cf1b6fc10a7b86fc7845f2
-      size: 545
+      md5: fe5824fe9bd802e21227f90ff577176a
+      size: 960
   notional:
     cmd: python pipelines/notional.py
     deps:
@@ -37,8 +37,8 @@ stages:
     deps:
     - path: data/candidates.csv
       hash: md5
-      md5: e424393dbed6ea0ff310fdaa173bd890
-      size: 997949
+      md5: 168da2b59f709908d2c2a077687aa76a
+      size: 1002930
     - path: pipelines/results.py
       hash: md5
       md5: c52a7933b4eeb437b814731614ff13b0

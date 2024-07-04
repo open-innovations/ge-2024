@@ -13,7 +13,7 @@
       "person_id": "12439",
       "person_name": "Carla Lockhart",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/12439.png",
-      "party_key": "other",
+      "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
       "votes": null
     },
@@ -21,7 +21,7 @@
       "person_id": "4679",
       "person_name": "Catherine Nelson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49903.png",
-      "party_key": "other",
+      "party_key": "sf",
       "party_name": "Sinn F\u00e9in",
       "votes": null
     },
@@ -29,7 +29,7 @@
       "person_id": "49545",
       "person_name": "Kate Evans",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49545.png",
-      "party_key": "other",
+      "party_key": "uup",
       "party_name": "Ulster Unionist Party",
       "votes": null
     },
@@ -37,7 +37,7 @@
       "person_id": "50332",
       "person_name": "E\u00f3in Tennyson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/50332/6a91eae1-cce0-4f5b-a895-54542d3c11ca.png",
-      "party_key": "other",
+      "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
       "votes": null
     },
@@ -45,7 +45,7 @@
       "person_id": "6462",
       "person_name": "Malachy Quinn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6462.png",
-      "party_key": "other",
+      "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
       "votes": null
     }

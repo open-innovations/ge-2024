@@ -28,7 +28,7 @@
     {
       "person_id": "117354",
       "person_name": "Steph Koffi",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117354/56dbc28c-2e6b-4791-acb8-aab0f1c00b9e.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null
@@ -52,7 +52,7 @@
     {
       "person_id": "72343",
       "person_name": "Richard Galloway",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72343/1e17e0a4-4603-495a-9a19-0a32abb95e5c.png",
       "party_key": "other",
       "party_name": "Shared Ground",
       "votes": null

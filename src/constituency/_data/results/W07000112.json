@@ -68,7 +68,7 @@
     {
       "person_id": "93497",
       "person_name": "Sam Andrew Wood",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93497/b3017be3-3768-45ac-be9c-5d06f44e6047.png",
       "party_key": "other",
       "party_name": "Libertarian Party",
       "votes": null

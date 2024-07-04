@@ -21,7 +21,7 @@
       "person_id": "116725",
       "person_name": "D\u00e1ire Hughes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116725/22693e64-d0fd-47c7-bd03-1db597efa025.png",
-      "party_key": "other",
+      "party_key": "sf",
       "party_name": "Sinn F\u00e9in",
       "votes": null
     },
@@ -29,7 +29,7 @@
       "person_id": "49544",
       "person_name": "Pete Byrne",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49544.png",
-      "party_key": "other",
+      "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
       "votes": null
     },
@@ -45,7 +45,7 @@
       "person_id": "69167",
       "person_name": "Gareth Wilson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69167/7efe89fb-3443-47a5-b783-534c66bd9626.png",
-      "party_key": "other",
+      "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
       "votes": null
     },
@@ -53,7 +53,7 @@
       "person_id": "69381",
       "person_name": "Helena Young",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69381/46541696-9f3f-4223-95e8-2a6331ab8ea7.png",
-      "party_key": "other",
+      "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
       "votes": null
     },
@@ -61,7 +61,7 @@
       "person_id": "8158",
       "person_name": "Sam Nicholson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/8158.png",
-      "party_key": "other",
+      "party_key": "uup",
       "party_name": "Ulster Unionist Party",
       "votes": null
     },
@@ -69,7 +69,7 @@
       "person_id": "84459",
       "person_name": "Keith Ratcliffe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84459/3e0c61d0-8225-4fbc-a9db-9cb2123af84b.png",
-      "party_key": "other",
+      "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
       "votes": null
     }

@@ -28,7 +28,7 @@
     {
       "person_id": "117678",
       "person_name": "Sean Ellis Stewart",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117678/f12e3cd7-bb7d-4200-8a4e-89b233074adb.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

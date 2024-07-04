@@ -5,6 +5,8 @@
   "electorate": 0,
   "turnout_pct": 0,
   "confirmed": false,
+  "declaration_date": null,
+  "declaration_time": null,
   "last_updated": "2024-07-04T03:28:37.795Z",
   "votes": [
     {
@@ -59,7 +61,7 @@
       "person_id": "85442",
       "person_name": "Charlie Abel",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85442/27972931-9c04-49a1-9ab4-3e9b75baf24a.png",
-      "party_key": "other",
+      "party_key": "alba",
       "party_name": "Alba Party",
       "votes": 0
     },
@@ -75,7 +77,7 @@
       "person_id": "85482",
       "person_name": "Esme Houston",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85482/7347c9ec-4633-4c72-81df-125aaae8610a.png",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": 0
     }

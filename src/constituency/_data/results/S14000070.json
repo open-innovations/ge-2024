@@ -53,7 +53,7 @@
       "person_id": "7454",
       "person_name": "Patrick Pearse McAleer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7454.png",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     },
@@ -68,7 +68,7 @@
     {
       "person_id": "86317",
       "person_name": "Christina Sandhu",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86317/32537c38-b5ae-4191-8caf-fea7400851e4.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
       "votes": null

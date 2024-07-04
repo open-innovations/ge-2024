@@ -20,7 +20,7 @@
     {
       "person_id": "116355",
       "person_name": "John Innes",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116355/8d61d3c2-21d2-4b1d-8f0e-6c0cb25a1bc0.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
       "votes": null

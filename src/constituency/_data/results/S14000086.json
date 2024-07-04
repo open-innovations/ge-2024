@@ -21,14 +21,14 @@
       "person_id": "116784",
       "person_name": "Ewan Lewis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116784/e62ca8b3-edae-4f4f-83a4-a5ed294d41ba.png",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     },
     {
       "person_id": "117680",
       "person_name": "Gary Steele",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117680/044bb596-26f3-4a78-a1d7-14c849f53d94.png",
       "party_key": "other",
       "party_name": "Communist Party of Britain",
       "votes": null
@@ -77,7 +77,7 @@
       "person_id": "85763",
       "person_name": "Catherine McKernan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85763/d2ffa997-4b36-4c1f-946b-e0730ee8b791.png",
-      "party_key": "other",
+      "party_key": "alba",
       "party_name": "Alba Party",
       "votes": null
     }

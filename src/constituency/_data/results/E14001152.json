@@ -28,7 +28,7 @@
     {
       "person_id": "117606",
       "person_name": "Thomas Alexander Ben Lynestrider",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117606/fb5c6db3-b201-407e-843a-a6dba2ec2f4c.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

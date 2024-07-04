@@ -61,7 +61,7 @@
       "person_id": "86035",
       "person_name": "Zohaib Arshad",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86035/db548deb-1066-4e85-8d93-33236182707e.png",
-      "party_key": "other",
+      "party_key": "alba",
       "party_name": "Alba Party",
       "votes": null
     },
@@ -69,7 +69,7 @@
       "person_id": "86057",
       "person_name": "Rachel Kidd",
       "image": "/assets/images/missing.svg",
-      "party_key": "other",
+      "party_key": "green",
       "party_name": "Scottish Green Party",
       "votes": null
     }

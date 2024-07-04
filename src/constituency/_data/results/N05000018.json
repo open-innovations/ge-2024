@@ -21,7 +21,7 @@
       "person_id": "117823",
       "person_name": "Stevan Patterson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117823/0a091244-6da9-413a-ba62-c9a597832da3.png",
-      "party_key": "other",
+      "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
       "votes": null
     },
@@ -29,7 +29,7 @@
       "person_id": "1871",
       "person_name": "Thomas Buchanan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1871.png",
-      "party_key": "other",
+      "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
       "votes": null
     },
@@ -37,7 +37,7 @@
       "person_id": "36364",
       "person_name": "\u00d3rfhlaith Begley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/36364.png",
-      "party_key": "other",
+      "party_key": "sf",
       "party_name": "Sinn F\u00e9in",
       "votes": null
     },
@@ -45,7 +45,7 @@
       "person_id": "5185",
       "person_name": "Daniel McCrossan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5185_pV4vr24.png",
-      "party_key": "other",
+      "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
       "votes": null
     },
@@ -53,7 +53,7 @@
       "person_id": "6365",
       "person_name": "Stephen Donnelly",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6365/caf96e6c-c7e6-4525-9b5d-e8c697afc39c.png",
-      "party_key": "other",
+      "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
       "votes": null
     },
@@ -61,7 +61,7 @@
       "person_id": "95741",
       "person_name": "Matthew Bell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95741/ee793d80-f8c0-4b37-a3e7-b0d65d519d1d.png",
-      "party_key": "other",
+      "party_key": "uup",
       "party_name": "Ulster Unionist Party",
       "votes": null
     },

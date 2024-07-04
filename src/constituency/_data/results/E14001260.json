@@ -28,7 +28,7 @@
     {
       "person_id": "117758",
       "person_name": "Carol Susan Small",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117758/9e68eb16-8665-4ad7-92df-8ae4e1f0f349.png",
       "party_key": "other",
       "party_name": "Workers Revolutionary Party",
       "votes": null

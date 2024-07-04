@@ -20,7 +20,7 @@
     {
       "person_id": "102754",
       "person_name": "Mark Weaden",
-      "image": "/assets/images/missing.svg",
+      "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102754/ce1d6d18-3831-411d-8a5e-ed05b10d73ca.png",
       "party_key": "other",
       "party_name": "Independent",
       "votes": null

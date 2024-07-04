@@ -5,6 +5,8 @@
   "electorate": 0,
   "turnout_pct": 0,
   "confirmed": false,
+  "declaration_date": null,
+  "declaration_time": null,
   "last_updated": "2024-07-03T16:54:38.542Z",
   "votes": [
     {
