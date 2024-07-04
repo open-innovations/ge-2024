@@ -1,11 +1,11 @@
 {
   "pcon24cd": "E14001107",
   "pcon24nm": "Blyth and Ashington",
-  "total_votes": 0,
+  "total_votes": 40527,
   "electorate": 75452,
   "turnout_pct": 53,
-  "confirmed": false,
-  "last_updated": "2024-07-04T22:33:09.696Z",
+  "confirmed": true,
+  "last_updated": "2024-07-04T23:45:46.726Z",
   "votes": [
     {
       "person_id": "3057",
