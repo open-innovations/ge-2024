@@ -5,9 +5,9 @@
   "electorate": 73122,
   "turnout_pct": null,
   "confirmed": false,
-  "declaration_date": "2024-07-04",
-  "declaration_time": "12:00",
-  "last_updated": "2024-07-02T22:38:38.225Z",
+  "declaration_date": null,
+  "declaration_time": null,
+  "last_updated": null,
   "votes": [
     {
       "person_id": "3873",

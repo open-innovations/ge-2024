@@ -7,7 +7,7 @@
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": "2024-07-03T15:40:28.716Z",
+  "last_updated": null,
   "votes": [
     {
       "person_id": "111186",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111200/cda432cc-2773-43cb-baad-bb69e4f9f457.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 1
+      "votes": null
     },
     {
       "person_id": "116127",

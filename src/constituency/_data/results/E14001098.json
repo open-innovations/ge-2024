@@ -7,7 +7,7 @@
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": "2024-07-03T16:58:05.572Z",
+  "last_updated": null,
   "votes": [
     {
       "person_id": "10067",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3367/9d82c6a7-038a-4642-a86c-7b5cfa35b710.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": null
     },
     {
       "person_id": "3444",

@@ -7,7 +7,7 @@
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": "2024-07-03T16:53:55.920Z",
+  "last_updated": null,
   "votes": [
     {
       "person_id": "110648",
@@ -63,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55159c964fb3d15c51926dd4.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "votes": null
     },
     {
       "person_id": "98551",

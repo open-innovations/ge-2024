@@ -1,11 +1,13 @@
 {
   "pcon24cd": "N05000001",
   "pcon24nm": "Belfast East",
-  "total_votes": 0,
+  "total_votes": null,
   "electorate": 70076,
-  "turnout_pct": 0,
+  "turnout_pct": null,
   "confirmed": false,
-  "last_updated": "2024-07-04T12:01:59.367Z",
+  "declaration_date": null,
+  "declaration_time": null,
+  "last_updated": null,
   "votes": [
     {
       "person_id": "117116",
@@ -13,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117116/85ac5b1d-452e-441f-aaa9-28cabadcfeaa.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "117813",
@@ -21,15 +23,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117813/5f197a9d-dee2-4c04-ac13-56da85d3f94d.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "19745",
-      "person_name": "Séamas de Faoite",
+      "person_name": "S\u00e9amas de Faoite",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19745.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": 1
+      "votes": null
     },
     {
       "person_id": "2454",
@@ -37,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2454-e112a0fb-2c92-4d45-ae66-da5d41500530.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "4595",
@@ -45,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4595/b68f6a37-8ff7-4db1-a651-6c86340f731d.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "50553",
@@ -53,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/50553/0779c86c-17a7-4b09-bd37-a806060e6e8c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "84284",
@@ -61,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84284/72db8c0a-f2e3-4d7c-87c9-3d2c7d1a83dd.png",
       "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
-      "votes": 0
+      "votes": null
     }
   ]
 }

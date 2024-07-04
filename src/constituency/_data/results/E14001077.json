@@ -7,7 +7,7 @@
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": "2024-07-03T22:25:30.530Z",
+  "last_updated": null,
   "votes": [
     {
       "person_id": "115928",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115928/6972e22a-1d07-45e2-92be-61fc1a5ee713.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 1
+      "votes": null
     },
     {
       "person_id": "36480",

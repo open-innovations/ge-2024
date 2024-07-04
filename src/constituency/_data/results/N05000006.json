@@ -1,11 +1,13 @@
 {
   "pcon24cd": "N05000006",
   "pcon24nm": "East Londonderry",
-  "total_votes": 0,
+  "total_votes": null,
   "electorate": 72213,
-  "turnout_pct": 0,
+  "turnout_pct": null,
   "confirmed": false,
-  "last_updated": "2024-07-04T13:31:18.899Z",
+  "declaration_date": null,
+  "declaration_time": null,
+  "last_updated": null,
   "votes": [
     {
       "person_id": "108735",
@@ -13,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108735/4313f23b-fa91-4aa1-a614-c730c2ecdc41.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "116672",
@@ -21,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116672/f40361cb-b234-4c53-8c1e-433ad98de7b5.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "2139",
@@ -29,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55351cdcb247335574a42e79.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": 1
+      "votes": null
     },
     {
       "person_id": "49383",
@@ -37,23 +39,23 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49383.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "49598",
       "person_name": "Kathleen McGurk",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49598.png",
       "party_key": "sf",
-      "party_name": "Sinn Féin",
-      "votes": 0
+      "party_name": "Sinn F\u00e9in",
+      "votes": null
     },
     {
       "person_id": "84446",
       "person_name": "Gemma Brolly",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84446-223a891b-8e2d-4605-bc41-407c302187c8.png",
       "party_key": "other",
-      "party_name": "Aontú",
-      "votes": 0
+      "party_name": "Aont\u00fa",
+      "votes": null
     },
     {
       "person_id": "95799",
@@ -61,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95799/393ed60a-7bcf-423f-a1ba-2160edf8989e.png",
       "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "95844",
@@ -69,7 +71,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95844/6ab716c4-a1ae-49d4-a6c7-cf73e89e52c1.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "96558",
@@ -77,7 +79,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96558/ac6b7e3e-8edd-4c01-8b46-dd1610a2e487.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": 0
+      "votes": null
     }
   ]
 }

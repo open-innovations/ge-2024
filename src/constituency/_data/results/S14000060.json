@@ -7,7 +7,7 @@
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": "2024-07-04T03:28:37.795Z",
+  "last_updated": null,
   "votes": [
     {
       "person_id": "117290",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74392/99dff417-dac9-46e9-b878-ac6f0714de15.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "votes": null
     },
     {
       "person_id": "74393",

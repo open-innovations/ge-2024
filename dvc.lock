@@ -41,8 +41,8 @@ stages:
       size: 1002930
     - path: pipelines/results.py
       hash: md5
-      md5: f36758053303d1aef1bdcc82fe540ccb
-      size: 2809
+      md5: ec5c1627b0fb09bcbb66650e223136df
+      size: 2782
   thumbnails:
     cmd: python pipelines/thumbnails.py
     deps:

@@ -25,7 +25,7 @@ def create_results(constituency):
         return current_data[k] if k in current_data and current_data[k] else None
 
     def check_votes(entry):
-        if not ('votes' in current_data or current_data['votes']):
+        if not 'votes' in current_data:
             return entry
 
         current_votes = next(
