@@ -255,7 +255,7 @@ OI.ready(function(){
 
 			if(results.declaration_time){
 				if(!results.declaration_date) results.declaration_date = "2024-07-05";
-				date = new Date(results.declaration_date + "T" + results.declaration_time + "Z");
+				date = new Date(results.declaration_date + "T" + results.declaration_time + "+0100");
 				dstr = "Declared: "+formatDateTime(date);
 				// Cancel updating
 				clearInterval(interval);
