@@ -4,6 +4,10 @@ url: /results/2024/embed/
 refresh: 60
 ---
 {{ set results = search.pages("constituency") |> extractResults }}
+<style>
+body { background: white; }
+.oi-viz { margin-top: 0; }
+</style>
 
 {{ comp.ResultsHex({
   data: results,
