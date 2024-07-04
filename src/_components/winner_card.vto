@@ -1,0 +1,18 @@
+{{- set src = thumbnail(winner?.person_id) || "/assets/images/missing.svg" -}}
+<div class="about">
+{{#-
+  <div class="image">
+    <img src="{{ src }}" />
+  </div>
+-#}}
+
+  <span class="headline">
+    {{- winner?.party_key ? parties[winner?.party_key].name : "Awaiting results" -}}
+    {{- if winner }}
+      {{ previous == winner?.party_key ? "HOLD": "GAIN" }}
+      {{- if !results.confirmed }} / provisional{{ /if -}}
+    {{ /if -}}
+  </span>
+  <br><span class="elected">{{ if winner }}Elected: <strong>{{ winner.person_name }}</strong>{{ /if }}</span>
+  <br><span class="majority">{{ if winner?.majority && results.confirmed }}Majority: <strong>{{ winner.majority }}</strong>{{ /if }}</span>
+</div>

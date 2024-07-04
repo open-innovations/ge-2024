@@ -1,37 +1,10 @@
-{{->
-  const calculateMajority = (r) => {
-      const allVotes = results.votes.toSorted((a, b) => b.votes - a.votes).map(x => x.votes);
-      return allVotes[0] - allVotes[1];
-  }
-  const majority = calculateMajority(results);
--}}
-
-{{- set src = thumbnail(winner?.person_id) || "/assets/images/missing.svg" -}}
 {{- set c = comp.colour({ colour: winner?.party_key || "none" }) -}}
 {{- set c2 = comp.colour({ colour: parties[previous].colour }) -}}
 
 <div class="winner" {{- if results }}data-id="{{ results.pcon24cd }}"{{ /if -}} data-previous="{{ previous }}" style="background:{{ comp.flash_gradient({ main: c.hex, secondary: c2.hex }) }};background-size:100% 100%;background-repeat: no-repeat;color:{{ c.contrast }};">
-{{#- if !list }}
-  <div class="image">
-    <img src="{{ src }}" />
-  </div>
-{{ /if -#}}
-  <div class="about">
-  {{- if title }}<strong class="title">{{ title }}</strong>: {{ /if -}}
-    <span class="headline">
-	{{- if list }}
-      {{- winner?.party_key ? parties[winner?.party_key].pa : "" -}}
-	{{ else }}
-      {{- winner?.party_key ? parties[winner?.party_key].name : "Awaiting results" -}}
-	{{ /if -}}
-	  {{- if winner }}
-		  {{ previous == winner?.party_key ? "HOLD": "GAIN" }}
-		  {{- if !results.confirmed }} / provisional{{ /if -}}
-	  {{ /if -}}
-    </span>
-	{{- if !title }}
-		<br><span class="elected">{{ if winner }}Elected: <strong>{{ winner.person_name }}</strong>{{ /if }}</span>
-		<br><span class="majority">{{ if majority && results.confirmed }}Majority: <strong>{{ majority }}</strong>{{ /if }}</span>
-	{{ /if -}}
-  </div>
+{{ if list }}
+  {{ comp.winner_list({ title, winner, previous, results })}}
+{{ else }}
+  {{ comp.winner_card({ winner, results, previous }) }}
+{{ /if }}
 </div>
