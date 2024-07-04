@@ -5,12 +5,14 @@ name: Build site
 
 'on':
   workflow_dispatch: {}
+  schedule:
+    - cron: "*/5 22-23,0-10 4-6 7 *"   # <=== Change this value
   push:
     branches: [ main ]
     paths:
       - src/**
       # Exclude the results directory to avoid triggering on every change
-      # - '!src/_data/results/**'
+      - '!src/_data/results/**'
       - data/**
       - _config.ts
       - deno.json
