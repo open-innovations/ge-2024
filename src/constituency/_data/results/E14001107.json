@@ -1,9 +1,9 @@
 {
   "pcon24cd": "E14001107",
   "pcon24nm": "Blyth and Ashington",
-  "total_votes": 0,
-  "electorate": 0,
-  "turnout_pct": 0,
+  "total_votes": null,
+  "electorate": 75452,
+  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3057-961e1086-f440-4d7a-b982-d040741e335f.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "31563",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/31563/7a594851-711f-4d70-851e-1e85cc12da1a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "331",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34779.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "72219",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72219/e6fefc66-f301-4e4c-8286-cb35af01c628.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": null
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "pcon24cd": "E14001098",
   "pcon24nm": "Birmingham Perry Barr",
-  "total_votes": 0,
-  "electorate": 0,
-  "turnout_pct": 0,
+  "total_votes": null,
+  "electorate": 74048,
+  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/10067.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "117580",
@@ -23,7 +23,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "117581",
@@ -31,7 +31,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "117583",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117583/43e37eba-7c4e-478f-b19f-218de2ecb990.png",
       "party_key": "other",
       "party_name": "Socialist Labour Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "3367",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3444.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "3670",
@@ -63,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116950/93919386-2ce6-49f9-9e7d-42c027eefae8.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "88795",
@@ -71,7 +71,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88795/cd554d85-6b01-4aef-b31c-c84431fe3523.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": null
     }
   ]
 }

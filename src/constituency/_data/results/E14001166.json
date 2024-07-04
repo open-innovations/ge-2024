@@ -2,7 +2,7 @@
   "pcon24cd": "E14001166",
   "pcon24nm": "Chichester",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 76765,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

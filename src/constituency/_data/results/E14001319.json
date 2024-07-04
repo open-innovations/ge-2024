@@ -1,9 +1,9 @@
 {
   "pcon24cd": "E14001319",
   "pcon24nm": "Leeds Central and Headingley",
-  "total_votes": 0,
-  "electorate": 0,
-  "turnout_pct": 0,
+  "total_votes": null,
+  "electorate": 75396,
+  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,

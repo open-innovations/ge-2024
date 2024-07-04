@@ -2,7 +2,7 @@
   "pcon24cd": "E14001203",
   "pcon24nm": "Droitwich and Evesham",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 74345,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

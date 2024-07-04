@@ -2,7 +2,7 @@
   "pcon24cd": "E14001336",
   "pcon24nm": "Lincoln",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 74128,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

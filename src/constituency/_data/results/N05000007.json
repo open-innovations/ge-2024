@@ -2,7 +2,7 @@
   "pcon24cd": "N05000007",
   "pcon24nm": "Fermanagh and South Tyrone",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 74643,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

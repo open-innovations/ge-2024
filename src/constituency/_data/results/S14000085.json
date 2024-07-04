@@ -2,7 +2,7 @@
   "pcon24cd": "S14000085",
   "pcon24nm": "Glasgow North",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 73210,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

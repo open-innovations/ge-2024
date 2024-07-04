@@ -1,9 +1,9 @@
 {
   "pcon24cd": "E14001072",
   "pcon24nm": "Banbury",
-  "total_votes": 0,
-  "electorate": 0,
-  "turnout_pct": 0,
+  "total_votes": null,
+  "electorate": 69943,
+  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110648/50948425-3afe-4ce5-a856-0bb1f80fd877.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "116269",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116269/eb418446-ab9d-4417-962b-6fcf8f3f6a5b.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "117246",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117246/3f7973e1-972c-47af-ae83-2cec8a54d2dc.png",
       "party_key": "other",
       "party_name": "Climate Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "117247",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117247/06ef6046-2768-4413-9885-6a37eddf3f90.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "4258",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105789/8d274c88-33ce-4cf4-997e-5c1c782e177f.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "4535",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4535/99364bc1-0814-4d12-83b9-d95c968b9088.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": null
     },
     {
       "person_id": "4907",
@@ -71,7 +71,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98551/872f1606-89f1-47cd-8563-e6d6e2528935.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": null
     }
   ]
 }
