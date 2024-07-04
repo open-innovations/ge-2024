@@ -83,7 +83,7 @@ OI.ready(function(){
 		let hexes = {};
 		for(let h = 0; h < hs.length; h++){
 			hid = hs[h].getAttribute('data-id');
-			hexes[hid] = {'el':hs[h],'path':hs[h].querySelector('path')};
+			hexes[hid] = {'el':hs[h],'path':hs[h].querySelector('path'),'title':hs[h].querySelector('title').innerHTML.replace(/<[^\>]+>/g,'')};
 		}
 		let legend = el.querySelector('.oi-legend-items');
 
@@ -94,12 +94,14 @@ OI.ready(function(){
 				msg.error("Poorly formatted results",{'fade':10000});
 				return this;
 			}
+			let dat = {};
 			for(let i = 0; i < this.results.length; i++){
 				let pid = this.results[i].id||"";
 				let pty = this.results[i].p||"";
 				if(pid && pid in hexes){
 					let colour = (pty in parties ? parties[pty].colour : '#dfdfdf');
-					hexes[pid].path.setAttribute('fill',colour)
+					hexes[pid].path.setAttribute('fill',colour);
+					dat[pid] = hexes[pid].title + ' ('+parties[pty].pa+')';
 				}else{
 					console.warn('Bad constituency code '+this.results[i].id);
 				}
@@ -113,6 +115,14 @@ OI.ready(function(){
 				str += '<div class="oi-legend-item" data-series="'+i+'"><i class="oi-legend-icon" style="background:'+items[i].colour+'"></i><span class="oi-legend-label">'+items[i].label+'</span></div>';
 			}
 			legend.innerHTML = str;
+
+			// Update map filter
+			let filter = el.querySelector('.oi-filter');
+			if(filter){
+				let fid = filter.getAttribute('data-id');
+				filter = OI.FilterMap.get(fid);
+				filter.updateData(dat);
+			}
 
 			if(confirmed==650){
 				msg.info("All results are confirmed",{'id':'official'});
