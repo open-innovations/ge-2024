@@ -69,7 +69,7 @@ export default {
   sf: {
     name: "Sinn Féin",
     pa: "SF",
-    colour: "#2C604D",
+    colour: "#2C604D"
   },
   alliance: {
     name: "Alliance",
