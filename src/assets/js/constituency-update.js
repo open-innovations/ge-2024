@@ -266,7 +266,7 @@ OI.ready(function(){
 				}else{
 					date = new Date();
 				}
-				dstr = "Updated: "+formatDateTime(date);
+				dstr = ""+formatDateTime(date);
 			}
 
 			document.getElementById('lastupdate').querySelector('span').innerHTML = dstr;
@@ -305,6 +305,6 @@ OI.ready(function(){
 			d++;
 		}
 		const nth = (d>3&&d<21?"th":d%10==1?"st":d%10==2?"nd":d%10==3?"rd":"th");
-		return d+nth+" "+month[m]+" "+y+" at "+(hh < 10 ? "0":"")+hh+":"+(mm < 10 ? "0":"")+mm+(hh==0 ? " midnight":(hh< 12 ? " am":" pm"))+" BST";
+		return d+nth+" "+month[m]+" "+y+" at "+hh+":"+(mm < 10 ? "0":"")+mm+(hh==0 ? " midnight":(hh< 12 ? " am":" pm"))+" BST";
 	}
 });

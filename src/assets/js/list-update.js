@@ -11,6 +11,65 @@
 
 })(window || this);
 
+/*
+	Open Innovations Contrasting colour
+*/
+(function(root){
+
+	// Convert to sRGB colorspace
+	// https://www.w3.org/TR/2008/REC-WCAG20-20081211/#relativeluminancedef
+	function sRGBToLinear(v){
+		v /= 255;
+		if (v <= 0.03928) return v/12.92;
+		else return Math.pow((v+0.055)/1.055,2.4);
+	}
+	function h2d(h) {return parseInt(h,16);}
+	// https://www.w3.org/TR/2008/REC-WCAG20-20081211/#relativeluminancedef
+	function relativeLuminance(rgb){ return 0.2126 * sRGBToLinear(rgb[0]) + 0.7152 * sRGBToLinear(rgb[1]) + 0.0722 * sRGBToLinear(rgb[2]); }
+	// https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#contrast-ratiodef
+	function contrastRatio(a, b){
+		var L1 = relativeLuminance(a);
+		var L2 = relativeLuminance(b);
+		if(L1 < L2){
+			var temp = L2;
+			L2 = L1;
+			L1 = temp;
+		}
+		return (L1 + 0.05) / (L2 + 0.05);
+	}	
+	function contrastColour(c){
+		var rgb = [];
+		if(c.indexOf('#')==0){
+			rgb = [h2d(c.substring(1,3)),h2d(c.substring(3,5)),h2d(c.substring(5,7))];
+		}else if(c.indexOf('rgb')==0){
+			var bits = c.match(/[0-9\.]+/g);
+			if(bits.length == 4) this.alpha = parseFloat(bits[3]);
+			rgb = [parseInt(bits[0]),parseInt(bits[1]),parseInt(bits[2])];
+		}
+		var cols = {
+			"black": [0, 0, 0],
+			"white": [255, 255, 255],
+		};
+		var maxRatio = 0;
+		var contrast = "white";
+		for(var col in cols){
+			var contr = contrastRatio(rgb, cols[col]);
+			if(contr > maxRatio){
+				maxRatio = contr;
+				contrast = col;
+			}
+		}
+		if(maxRatio < 4.5){
+			console.warn('Text contrast poor ('+maxRatio.toFixed(1)+') for %c'+c+'%c','background:'+c+';color:'+contrast,'background:none;color:inherit;');
+		}else if(maxRatio < 7){
+			//console.warn('Text contrast good ('+maxRatio.toFixed(1)+') for %c'+c+'%c','background:'+c+';color:'+contrast,'background:none;color:inherit;');
+		}
+		return contrast;
+	}
+	root.OI.contrastColour = contrastColour;
+
+})(window || this);
+
 OI.ready(function(){
 
 	if(!OI.logger){
@@ -71,48 +130,46 @@ OI.ready(function(){
 		};
 	}
 
-	function GEHexmapResults(el,parties){
-		this.name = "GE Hexmap Results";
+	function GEListResults(el,parties){
+		this.name = "GE List Results";
 		this.version = "1.0";
 		let loader = '<svg version="1.1" width="1em" height="1em" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(.11601 0 0 .11601 -49.537 -39.959)"><path d="m610.92 896.12m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.83333s" repeatCount="indefinite" /></path><path d="m794.82 577.6m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.6666s" repeatCount="indefinite" /></path><path d="m1162.6 577.6m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.5s" repeatCount="indefinite" /></path><path d="m1346.5 896.12m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.3333s" repeatCount="indefinite" /></path><path d="m1162.6 1214.6m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="-0.1666s" repeatCount="indefinite" /></path><path d="m794.82 1214.6m183.9-106.17-183.9-106.17-183.9 106.17v212.35l183.9 106.17 183.9-106.17z" fill="black"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.7;1" dur="1s" begin="0s" repeatCount="indefinite" /></path></g></svg>';
 		let msg = new OI.logger(this.name+' v'+this.version,{el:document.getElementById('messages'),'visible':['info','warning','error']});
-		let hs = el.querySelectorAll('.data-layer .hex');
+		let cons = el.querySelectorAll('li .winner');
 		let interval;
 		let _obj = this;
-		// Build a lookup for hexes
-		let hexes = {};
-		for(let h = 0; h < hs.length; h++){
-			hid = hs[h].getAttribute('data-id');
-			hexes[hid] = {'el':hs[h],'path':hs[h].querySelector('path')};
+
+		// Build a lookup for rows
+		let rows = {};
+		for(let c = 0; c < cons.length; c++){
+			let cid = cons[c].getAttribute('data-id');
+			rows[cid] = {'el':cons[c],'previous':cons[c].getAttribute('data-previous'),'headline':cons[c].querySelector('.headline')};
 		}
-		let legend = el.querySelector('.oi-legend-items');
 
 		this.update = function(){
-			let confirmed = 0;
-			let gotresult = 0;
 			if(typeof this.results!=="object"){
 				msg.error("Poorly formatted results",{'fade':10000});
 				return this;
 			}
+			let confirmed = 0;
 			for(let i = 0; i < this.results.length; i++){
 				let pid = this.results[i].id||"";
 				let pty = this.results[i].p||"";
-				if(pid && pid in hexes){
-					let colour = (pty in parties ? parties[pty].colour : '#dfdfdf');
-					hexes[pid].path.setAttribute('fill',colour)
+				if(this.results[i].c) confirmed++;
+				if(pid && pid in rows){
+					// Update colours
+					let c1 = (rows[pid].previous in parties ? parties[rows[pid].previous].colour : '#dfdfdf');
+					let c2 = (pty in parties ? parties[pty].colour : '#dfdfdf');
+					bg = 'linear-gradient(100deg, '+c1+' 0%, '+c1+' 95%, white 95%, white 96%, '+c2+' 96%)';
+					rows[pid].el.style.backgroundImage = bg;
+					rows[pid].el.style.color = OI.contrastColour(c1);
+					// Update text
+					rows[pid].headline.innerHTML = (pty in parties ? parties[pty].pa : pty) + " " + (rows[pid].previous==pty ? "HOLD":"GAIN") + (this.results[i].c ? "":" / provisional");
+
 				}else{
 					console.warn('Bad constituency code '+this.results[i].id);
 				}
-				if(this.results[i].c) confirmed++;
 			}
-
-			// Build legend and replace the existing one
-			let items = buildLegend(this.results,"p","party_name",{ "speaker":"speaker" },parties);
-			let str = "";
-			for(let i = items.length-1; i >= 0; i--){
-				str += '<div class="oi-legend-item" data-series="'+i+'"><i class="oi-legend-icon" style="background:'+items[i].colour+'"></i><span class="oi-legend-label">'+items[i].label+'</span></div>';
-			}
-			legend.innerHTML = str;
 
 			if(confirmed==650){
 				msg.info("All results are confirmed",{'id':'official'});
@@ -150,7 +207,6 @@ OI.ready(function(){
 
 		this.init = function(){
 			msg.log('init');
-			let checker;
 			let date = new Date();
 
 			if(date < new Date("2024-07-04T00:00+0100")){
@@ -173,54 +229,15 @@ OI.ready(function(){
 		};
 
 		//setTimeout(function(){ _obj.init() },2000);
+		//this.checkResults();
 		this.init();
 
 		return this;
 	}
 
 
-	let result = new GEHexmapResults(document.getElementById('ge2024'),parties);
+	let result = new GEListResults(document.getElementById('constituency-list'),parties);
 
-	function buildLegend(data, column, labelcol, labels = {}, parties) {
-
-		const lookup = {};
-		for (let r = 0; r < data.length; r++) {
-			const v = data[r][column];
-			if (v) {
-				if (!lookup[v]) lookup[v] = { "count": 0, "label": v };
-				lookup[v].count++;
-				if (labelcol && labelcol in data[r]) lookup[v].label = data[r][labelcol];
-			}
-		}
-
-		const legend = [];
-		for (const party in lookup) {
-			let lbl = lookup[party].label;
-			let colour = "#dfdfdf";
-			if (lbl in labels) lbl = labels[lbl];
-			if (party in labels) lbl = labels[party];
-			if (party in parties){
-				lbl = parties[party].pa;
-				colour = parties[party].colour;
-			}else console.warn("No match for " + lbl + " (" + party + ")");
-			legend.push({
-				"colour": colour,
-				"count": lookup[party].count,
-				"label": lbl + ": " + lookup[party].count,
-			});
-		}
-
-		legend.sort(function (a, b) {
-			if (a.colour == "Spk") return -1;
-			if (b.colour == "Spk") return 1;
-			// Sort by count
-			if (a.count - b.count != 0) return (a.count - b.count);
-			// Fall back to sorting by label
-			return (a.label.toLowerCase() < b.label.toLowerCase() ? 1 : -1);
-		});
-
-		return legend;
-	}
 	function formatDateTime(date){
 		const month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 		let y = date.getFullYear();

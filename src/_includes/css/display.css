@@ -129,6 +129,7 @@ ul.blocks {
 }
 
 #constituency-filter {
+  margin-block-start: 1rem;
   &, & div {
     display: flex;
     flex-wrap: wrap;

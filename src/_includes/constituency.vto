@@ -8,7 +8,7 @@ layout: titled.vto
     <span>{{ if results?.declaration_time -}}
       Declared: {{ results.declaration_date + "T" + results.declaration_time + "Z" |> date("FRIENDLY") }}	
 	{{ else if results?.last_updated -}}
-      Updated: {{ results.last_updated |> date("FRIENDLY") }}
+      {{ results.last_updated |> date("FRIENDLY") }}
     {{- else -}}
       Never updated
     {{- /if }}</span>
