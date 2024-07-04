@@ -160,7 +160,7 @@ OI.ready(function(){
 					// Update colours
 					let c1 = (rows[pid].previous in parties ? parties[rows[pid].previous].colour : '#dfdfdf');
 					let c2 = (pty in parties ? parties[pty].colour : '#dfdfdf');
-					bg = 'linear-gradient(100deg, '+c1+' 0%, '+c1+' 95%, white 95%, white calc(95% + 0.5rem), '+c2+' calc(95% + 0.5rem))';
+					bg = 'linear-gradient(100deg, '+c2+' 0%, '+c2+' 95%, white 95%, white calc(95% + 0.5rem), '+c1+' calc(95% + 0.5rem))';
 					rows[pid].el.style.backgroundImage = bg;
 					rows[pid].el.style.color = OI.contrastColour(c1);
 					// Update text
