@@ -61,6 +61,11 @@ export default {
     pa: "Alba",
     colour: "#0015ff",
   },
+  wpb: {
+    name: "Workers Party of Britain",
+    pa: "WPB",
+    colour: "#539acb",
+  },
   sf: {
     name: "Sinn Féin",
     pa: "SF",
@@ -76,10 +81,10 @@ export default {
     pa: "Alliance",
     colour: "#EAA544",
   },
-  wpb: {
-    name: "Workers Party of Britain",
-    pa: "WPB",
-    colour: "#539acb",
+  tuv: {
+	name: "Traditional Unionist Voice",
+	pa: "TUV",
+	colour: "#6dcad2"
   },
   other: {
     name: "Other",
