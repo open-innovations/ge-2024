@@ -1,0 +1,27 @@
+{
+  "imports": {
+    "lume/": "https://deno.land/x/lume@v2.2.2/"
+  },
+  "tasks": {
+    "lume": "echo \"import 'lume/cli.ts'\" | deno run -A -",
+    "build": "deno task lume",
+    "serve": "deno task lume -s"
+  },
+  "compilerOptions": {
+    "types": [
+      "lume/types.ts"
+    ]
+  },
+  "deploy": {
+    "project": "bc164f6d-faed-4afe-a847-306337d31318",
+    "exclude": [
+      "**/node_modules"
+    ],
+    "include": [
+      "serve.ts",
+      "_site/",
+      "deno.json"
+    ],
+    "entrypoint": "serve.ts"
+  }
+}
