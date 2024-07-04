@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001377",
   "pcon24nm": "Newcastle upon Tyne Central and West",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 76460,
-  "turnout_pct": null,
+  "turnout_pct": 54,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "00:41",
+  "last_updated": "2024-07-04T23:41:49.542Z",
   "votes": [
     {
       "person_id": "110604",
@@ -15,7 +15,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 7815
     },
     {
       "person_id": "3658",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55292052b6a860ed1648be47.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 18875
     },
     {
       "person_id": "3665",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3665.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 3228
     },
     {
       "person_id": "37665",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/37665/0114025b-d0b8-4d6d-bdc6-d41b4b7a523d.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 1636
     },
     {
       "person_id": "37915",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/37915.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1946
     },
     {
       "person_id": "74893",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74893/6277d47f-775e-4884-af19-12363b52e8ab.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 4228
     },
     {
       "person_id": "85834",
@@ -63,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85834/2e3cc6bf-fe93-4672-a32a-16f7ea3fd175.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 3627
     }
   ]
 }
