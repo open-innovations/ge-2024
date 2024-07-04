@@ -40,7 +40,11 @@ export type Results = {
   [pcon24cd: string]: Result;
 };
 
-export type ConstituencyPage = {
+type LumeCommon = {
+  layout: string;
+  tags: string[];
+}
+export type ConstituencyPage = LumeCommon & {
   title: string;
   description: string;
   metas: { image: string };
@@ -52,3 +56,13 @@ export type ConstituencyPage = {
   winner: Vote & { majority?: number };
   date: DateTime;
 };
+
+export type SocialImage = {
+  name: string;
+  headline: string;
+  candidate: string;
+  party_key: string;
+  previous_key: string;
+  provisional: boolean;
+  image: string;
+}

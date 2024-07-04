@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1000 400"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     style="font-family:sans-serif;"
+>
+  <path fill="{{ comp.colour({ colour: party_key }).hex }}" d="M 0 0 H 950 l -100 400 H 0 Z"/>
+  <path fill="{{ comp.colour({ colour: previous_key }).hex }}" d="M 1000 400 h -140 l 100 -400 H 1000 Z"/>
+
+  <g transform="translate(200, 100)" fill="{{ comp.colour({ colour: party_key }).contrast }}">
+
+  <text font-size="30">{{ name }}</text>
+  <text font-size="30" y="50" font-weight="bold">{{ headline }}</text>
+  {{ if provisional }}<text font-size="20" y="75">Provisional result</text>{{ /if }}
+  
+  {{ if candidate }}<text font-size="20" y="200">{{ candidate }} elected</text>{{ /if }}
+  {{# <image width="40" height="40" xlink:href="{{ image }}"/> #}}
+  </g>
+
+  <mask id="oi-person"><path d="m-32-32h64v64h-12v-24a4 4 0 0 0 -4 -4h-8a4 4 0 0 0 -4 4v24h-36zm44 27m-8 0a8 8 0 1 0 16 0 8 8 0 1 0-16 0" fill="#fff"></path></mask>
+  <g id="oi-logo" fill="{{ comp.colour({ colour: previous_key }).contrast }}" transform="translate(940, 340)"><circle r="32" mask="url(#oi-person)"></circle></g>
+
+</svg>

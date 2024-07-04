@@ -1,7 +1,4 @@
-import { ConstituencyPage, HexData, Notional, Results } from "../../types.ts";
-
-export const layout = "constituency.vto";
-export const tags = ["constituency"];
+import { ConstituencyPage, HexData, Notional, Results, SocialImage } from "../../types.ts";
 
 export default function* ({
   hexjson: {
@@ -12,7 +9,7 @@ export default function* ({
   notional: allNotional,
   results: allResults,
 }: Lume.Data & { notional: Notional[]; results: Results }): Generator<
-  ConstituencyPage
+  ConstituencyPage | SocialImage
 > {
   for (
     const [pcon24cd, { n: pcon24nm }] of Object.entries<HexData>(constituencies)
@@ -52,13 +49,15 @@ export default function* ({
     let description = `Awaiting result for ${pcon24nm}.`;
 
     const metas = {
-      image: "https://placehold.co/400/svg?text=Awaiting+result",
+      image: `https://ge2024.hexmap.uk/assets/social/${ pcon24cd }.png`,
     };
-
+    
+    let headline = "Awaiting result";
+    
     if (winner) {
       const provisional = results.confirmed ? "" : " provisionally";
 
-      const headline = `${winner.party_name} ${
+      headline = `${winner.party_name} ${
         notional.party_key ==
             winner.party_key
           ? `HOLD`
@@ -66,11 +65,25 @@ export default function* ({
       }`;
       description =
         `${headline}. ${winner.person_name} (${winner.party_name})${provisional} elected to ${pcon24nm}.`;
-      metas.image = winner.image;
+    }
+
+    // Generate social share image
+    yield {
+      layout: 'social_share.vto',
+      url: `/assets/social/${ pcon24cd }.svg`,
+      name: pcon24nm,
+      headline: headline,
+      party_key: winner?.party_key || "none",
+      previous_key: notional.party_key,
+      candidate: winner?.person_name || "",
+      image: metas.image,
+      provisional: results.confirmed == false || true,
     }
 
     // Return all the data
     yield {
+      layout: "constituency.vto",
+      tags: ["constituency"],
       title: pcon24nm,
       description,
       metas,
