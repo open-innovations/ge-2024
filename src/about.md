@@ -11,7 +11,6 @@ At Open Innovations we have a bit of a reputation for hex maps (technically, car
 
 Given the 2023 boundary reviews we are using our new constituency hex. We have a [blog post about the design of the layout](https://open-innovations.org/blog/2023-08-03-hexes-for-the-next-general-election) including some of the reasoning behind it. If you are particularly unhappy with the layout, you can try to [edit the layout](https://open-innovations.org/projects/hexmaps/builder.html?https://raw.githubusercontent.com/odileeds/hexmaps/gh-pages/maps/uk-constituencies-2023.hexjson) and send us the new HexJSON.
 
-
 ## Data sources and pipelines
 
 <div> <!-- HODL -->
@@ -39,6 +38,8 @@ library. They are orchestrated using DVC.
 [P_result]: https://github.com/open-innovations/ge-2024/blob/main/pipelines/results.py
 
 </div> <!-- HODL -->
+
+{{#
 
 ## Data model
 
@@ -90,3 +91,5 @@ erDiagram
 ## CMS
 
 The CMS for the site is available at <{{ cms }}>. You will need a password.
+
+#}}
