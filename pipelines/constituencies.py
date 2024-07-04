@@ -105,7 +105,7 @@ if __name__ == "__main__":
     # age_copy = age_copy.transpose()
     # age_copy.index.rename('age_band', inplace=True)
     # write_csv(uk_age, 'src/_data/age.csv')
-    my_func(uk_age, dir='src/_data/age/', index_rename='age_band')
+    my_func(uk_age, dir='src/constituency/_data/age', index_rename='age_band')
     
 
     ew_housing_tenure = get_data('EW_data', 'Housing tenure', ['Topic', 'England & Wales value'], value_type=float, pct=True)
@@ -115,7 +115,7 @@ if __name__ == "__main__":
     # housing_copy = housing_copy.transpose()
     # housing_copy.index.rename('tenure_type', inplace=True)
     # write_csv(uk_housing_tenure, 'src/_data/housing_tenure.csv')
-    my_func(uk_housing_tenure, dir='src/_data/housing_tenure', index_rename='tenure_type')
+    my_func(uk_housing_tenure, dir='src/constituency/_data/housing_tenure', index_rename='tenure_type')
 
     ew_households = get_data('EW_data', 'Households', ['Topic', 'England & Wales value'], value_type=int)
     ni_households = get_data('NI_data', 'Households', ['Topic', 'Northern Ireland value'], value_type=int)
@@ -124,4 +124,4 @@ if __name__ == "__main__":
     constituency_drilldown = uk_age.join([uk_households, uk_population, uk_housing_tenure])
     constituency_drilldown = constituency_drilldown.merge(geo_codes, on='PCON24CD')
     constituency_drilldown.set_index('PCON24CD', inplace=True)
-    write_json(constituency_drilldown, 'src/_data/drilldown.json')
+    write_json(constituency_drilldown, 'src/constituency/_data/drilldown.json')

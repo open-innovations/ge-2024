@@ -68,10 +68,10 @@ stages:
       size: 1140765
     - path: pipelines/constituencies.py
       hash: md5
-      md5: 684b53137542d4c8749b6167f2bd7ed0
-      size: 5610
+      md5: eef5376147ba0f1100eaf765c742c543
+      size: 5649
     outs:
-    - path: src/_data/drilldown.json
+    - path: src/constituency/_data/drilldown.json
       hash: md5
       md5: 2010202cbc662a564a2db92c8eebd519
       size: 265414

@@ -34,11 +34,11 @@ stages:
       - data/thumbnails.json:
           cache: false
   constituencies:
-    frozen: true
+    # frozen: true
     cmd: python pipelines/constituencies.py
     deps:
       - pipelines/constituencies.py
       - data/Demographic-data-for-new-parliamentary-constituencies-May-2024.xlsx
     outs: 
-      - src/_data/drilldown.json:
+      - src/constituency/_data/drilldown.json:
           cache: false
