@@ -23,4 +23,14 @@ stages:
     deps:
       - pipelines/results.py
       - data/candidates.csv
+  
+  thumbnails:
+    frozen: true
+    cmd: python pipelines/thumbnails.py
+    deps:
+      - pipelines/thumbnails.py
+      - data/candidates.csv
+    outs:
+      - data/thumbnails.json:
+          cache: false
     

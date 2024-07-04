@@ -8,6 +8,8 @@ petl = "*"
 dvc = "*"
 rapidfuzz = "*"
 tqdm = "*"
+requests = "*"
+pillow = "*"
 
 [dev-packages]
 
