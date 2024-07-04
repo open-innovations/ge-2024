@@ -1,33 +1,42 @@
 ---
 layout: base.vto
 ---
-<aside><p>We are testing this site in the run-up to the General Election. Please be aware that it contains test data!</p></aside>
+<aside class="warning padded"><p>We are testing this site in the run-up to the General Election. Please be aware that it contains test data!</p></aside>
 <header>
-  <a href="/" title="Site home">
-    <img src="/assets/images/oi-logo.svg" title="OI Logo"/>
-    <p>{{ metas.site }}</p>
-  </a>
+	<div class="b1-bg">
+		<div class="holder padded" style="text-align:center;">
+			<a href="/" class="logo" title="Site home">
+				<svg width="36" height="36" overflow="auto" viewbox="-32 -32 64 64" xmlns="http://www.w3.org/2000/svg"><mask id="oi-person"><path d="m-32-32h64v64h-12v-24a4 4 0 0 0 -4 -4h-8a4 4 0 0 0 -4 4v24h-36zm44 27m-8 0a8 8 0 1 0 16 0 8 8 0 1 0-16 0" fill="#fff"></path></mask><g id="oi-logo" fill="white"><circle r="32" mask="url(#oi-person)"></circle></g></svg>
+				<span class="title">{{ metas.site }}</span>
+			</a>
+		</div>
+		<div class="holder">
+			<nav>
+				<ul>
+				{{ for link of site.nav }}
+					<li class="{{
+					if (url.startsWith(link.url) && link.url != '/') || (url == link.url)
+					}}current{{ /if }}"><a href="{{ link.url }}">{{ link.title }}</a></li>
+				{{ /for }}
+				</ul>
+			</nav>
+		</div>
+	</div>
 </header>
-<nav>
-  <ul>
-  {{ for link of site.nav }}
-    <li class="{{
-        if (url.startsWith(link.url) && link.url != '/') || (url == link.url)
-    }}current{{ /if }}"><a href="{{ link.url }}">{{ link.title }}</a></li>
-  {{ /for }}
-  </ul>
-</nav>
-<main>
+
+<main class="b6-bg">
+	<div class="holder padded">
 {{ content }}
+	</div>
 </main>
-<footer>
-	<div>
+<footer class="b1-bg">
+	<div class="holder padded tallpadded">
 		<div>
 
 			<p>Thanks to our sponsors, <a href="https://open-innovations.org/services/sponsors/">they help fund us to deliver and collaborate</a>.</p>
 			<p class="address">
 				<a href="https://open-innovations.org/contact/">Contact us</a> | <a href="https://open-innovations.org/terms">Terms of use</a> | <a href="https://open-innovations.org/privacy">Privacy policy</a> | <a href="https://open-innovations.org/cookies">Cookie policy</a> (<a href="https://find-and-update.company-information.service.gov.uk/company/09417733">09417733</a>)
-				<br><span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://ge2024.hexmap.uk/">General Election Tracker</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://open-innovations.org/">Open Innovations</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/assets/images/cc.svg" inline alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/assets/images/by.svg" inline alt=""></a></span>
+				<br><span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://ge2024.hexmap.uk/">General Election Tracker</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://open-innovations.org/">Open Innovations</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;display:inline;" src="/assets/images/cc.svg" inline alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;display:inline;" src="/assets/images/by.svg" inline alt=""></a></span>
 			</p>
 		</div>
 		<div>

@@ -1,3 +1,4 @@
+/*
 @layer reset, defaults, layout, display;
 
 @import 'css/fonts/poppins.css';
@@ -6,3 +7,18 @@
 @import 'css/defaults.css' layer(defaults);
 @import 'css/layout.css' layer(layout);
 @import 'css/display.css' layer(display);
+*/
+
+@charset "utf-8";
+/* These are imported by the PostCSS processor. Source is in the `_includes/css` folder */
+@import 'css/reset.css';
+@import 'css/building-blocks/stack.css';
+@import 'css/fonts/poppins.css';
+
+/*
+  All the standard OI stuff is included here.
+  Could be modularised, given PostCSS could enable much smaller css packages to be created.
+*/
+@import 'css/oi.css';
+
+@import 'css/custom.css';
