@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001531",
   "pcon24nm": "Sunderland Central",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 72688,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-04T22:43:11.057Z",
   "votes": [
     {
       "person_id": "11589",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/11589.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116893",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116893/a533402f-2593-4896-b605-4870d958ec42.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "6271",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6271.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "73415",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73415/a3fc1b56-2b4f-40af-bdd8-e68149f12e1b.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "88950",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88950/186078ca-ca93-41ab-a743-db9eed16e43f.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     }
   ]
 }
