@@ -89,7 +89,7 @@ header nav ul {
 	display: flex;
 }
 header nav ul li { display: inline-block; }
-header nav ul > li > a { padding: 0.5em 1em; display: inline-block; width: 100%; color: inherit; }
+header nav ul > li > a { padding: 0.5rem 1rem; display: inline-block; width: 100%; color: inherit; }
 header nav ul > li > a:hover, header nav ul > li > a:focus { background: white; color: black; }
 
 .grid { display: grid; grid-template-columns: repeat(2,1fr); grid-gap: 1em; }

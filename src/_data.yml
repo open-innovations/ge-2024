@@ -9,7 +9,7 @@ site:
     - url: /constituency/
       title: List
     - url: /results/
-      title: Results
+      title: Grid
 
 metas:
   title: "=title"

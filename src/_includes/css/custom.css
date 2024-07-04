@@ -190,4 +190,5 @@ article.panel {
 
 @media only screen and (max-width: 700px) {
 	.grid-list { grid-template-columns: 100%; grid-gap: 0.25em; }
+	main { margin-block: 1rem; }
 }
