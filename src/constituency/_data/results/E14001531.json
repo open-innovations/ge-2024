@@ -1,11 +1,11 @@
 {
   "pcon24cd": "E14001531",
   "pcon24nm": "Sunderland Central",
-  "total_votes": 0,
-  "electorate": 72688,
+  "total_votes": 40056,
+  "electorate": 76145,
   "turnout_pct": 53,
-  "confirmed": false,
-  "last_updated": "2024-07-04T23:04:30.408Z",
+  "confirmed": true,
+  "last_updated": "2024-07-04T23:20:06.266Z",
   "votes": [
     {
       "person_id": "11589",
@@ -47,5 +47,7 @@
       "party_name": "Reform UK",
       "votes": 10779
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "00:03"
 }
