@@ -8,6 +8,9 @@ export default function* ({
   },
   notional: allNotional,
   results: allResults,
+  drilldown,
+  age,
+  housing_tenure,
 }: Lume.Data & { notional: Notional[]; results: Results }): Generator<
   ConstituencyPage | SocialImage
 > {
@@ -78,6 +81,10 @@ export default function* ({
       candidate: winner?.person_name || "",
       image: metas.image,
       provisional: winner && !results.confirmed || false,
+      results: null,
+      drilldown: null,
+      age: null,
+      housing_tenure: null,
     }
 
     // Return all the data
@@ -93,7 +100,10 @@ export default function* ({
       results,
       notional,
       winner,
-      date: results?.last_updated
+      date: results?.last_updated,
+      drilldown: drilldown[pcon24cd] || null,
+      age: age[pcon24cd] || null,
+      housing_tenure: housing_tenure[pcon24cd] || null,
     };
   }
 }

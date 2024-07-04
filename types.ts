@@ -55,6 +55,9 @@ export type ConstituencyPage = LumeCommon & {
   notional: Notional;
   winner: Vote & { majority?: number };
   date: DateTime;
+  drilldown: unknown;
+  age: unknown;
+  housing_tenure: unknown;
 };
 
 export type SocialImage = {
@@ -65,4 +68,8 @@ export type SocialImage = {
   previous_key: string;
   provisional: boolean;
   image: string;
+  results: null;
+  drilldown: null;
+  age: null;
+  housing_tenure: null;
 }

@@ -31,14 +31,14 @@ layout: titled.vto
 	{{ /if }}
 
 	<h2>Constituency Drill Down</h2>
-	{{ set dd_data = drilldown[pcon24cd]}}
-	{{ if dd_data }}
-		<p><strong>Population</strong>: {{ dd_data['Population'] |> JSON.stringify() }}</p>
-		<p><strong>Households</strong>: {{ dd_data['Households'] |> JSON.stringify() }}</p>
+	
+	{{ if drilldown }}
+		<p><strong>Population</strong>: {{ drilldown['Population'] |> JSON.stringify() }}</p>
+		<p><strong>Households</strong>: {{ drilldown['Households'] |> JSON.stringify() }}</p>
 
 		<h3>Housing tenure type for {{ pcon24nm }}</h3>
 		{{ comp.oi.chart.bar ({ config: {
-			data: `housing_tenure.${pcon24cd}`,
+			data: housing_tenure,
 			height: 200,
 			legend: { show: true },
 			category: "tenure_type",
@@ -69,7 +69,7 @@ layout: titled.vto
 
 		<h3>Age demographic for {{ pcon24nm }}</h3>
 		{{ comp.oi.chart.bar ({ config: {
-			data: `age.${pcon24cd}`,
+			data: age,
 			height: 200,
 			legend: { show: true },
 			category: "age_band",
