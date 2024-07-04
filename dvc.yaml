@@ -33,4 +33,9 @@ stages:
     outs:
       - data/thumbnails.json:
           cache: false
+  constituencies:
+    cmd: python pipelines/constituencies.py
+    deps:
+      - pipelines/constituencies.py
+      - data/Demographic-data-for-new-parliamentary-constituencies-May-2024.xlsx
     

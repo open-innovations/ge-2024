@@ -59,3 +59,14 @@ stages:
       hash: md5
       md5: 62bea10401017ebfc0afccd88e7ad819
       size: 8648538
+  constituencies:
+    cmd: python pipelines/constituencies.py
+    deps:
+    - path: data/Demographic-data-for-new-parliamentary-constituencies-May-2024.xlsx
+      hash: md5
+      md5: 7c6b7c911a27998bdf6c54606d76e970
+      size: 1140765
+    - path: pipelines/constituencies.py
+      hash: md5
+      md5: 1d94a46448cf26cee57603bb14c21bb3
+      size: 4508
