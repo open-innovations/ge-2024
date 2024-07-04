@@ -2,7 +2,7 @@
   "pcon24cd": "E14001209",
   "pcon24nm": "Ealing Southall",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 75085,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

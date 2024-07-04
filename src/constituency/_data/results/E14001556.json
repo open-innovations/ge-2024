@@ -2,7 +2,7 @@
   "pcon24cd": "E14001556",
   "pcon24nm": "Twickenham",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 75889,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

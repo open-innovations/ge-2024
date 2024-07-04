@@ -16,7 +16,7 @@ def create_results(constituency):
         'pcon24cd': constituency,
         'pcon24nm': constituency_lookup[constituency],
         'total_votes': None,
-        'electorate': None,
+        'electorate': electorate[constituency] if constituency in electorate else None,
         'turnout_pct': None,
         'confirmed': False,
         'declaration_date': None,
@@ -34,6 +34,8 @@ def create_results(constituency):
         try:
             with open(target_file) as json_file:
                 current_data = json.load(json_file)
+            if not current_data.electorate:
+                current_data.pop('electorate', None)
             data.update(current_data)
             results = results.leftjoin(
                 etl.fromdicts(
@@ -54,6 +56,8 @@ def create_results(constituency):
 def main():
     global candidates
     global constituency_lookup
+    global electorate
+    
     candidates = etl.fromcsv(
         INPUT_DIR / 'candidates.csv'
     ).cut(
@@ -70,6 +74,18 @@ def main():
         candidates,
         'pcon24cd', 'post_label'
     )
+    
+    electorate = etl.fromcsv(
+        "https://cdn.jsdelivr.net/gh/open-innovations/constituencies@main/src/_data/sources/society/2023-constituency-electorate.csv"
+    ).convert(
+        "Electorate", int
+    ).lookupone(
+        "PCON25CD", "Electorate"
+    )
+    
+    print('S14000084' in electorate)
+    
+    exit
 
     for constituency in tqdm(set(candidates.values('pcon24cd'))):
         create_results(constituency)

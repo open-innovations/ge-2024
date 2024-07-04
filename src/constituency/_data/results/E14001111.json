@@ -2,7 +2,7 @@
   "pcon24cd": "E14001111",
   "pcon24nm": "Bolton South and Walkden",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 75716,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

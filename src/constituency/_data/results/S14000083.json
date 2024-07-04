@@ -2,7 +2,7 @@
   "pcon24cd": "S14000083",
   "pcon24nm": "Falkirk",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 75067,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

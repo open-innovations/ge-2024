@@ -2,7 +2,7 @@
   "pcon24cd": "E14001439",
   "pcon24nm": "Reading West and Mid Berkshire",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 69999,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,

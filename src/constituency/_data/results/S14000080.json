@@ -2,7 +2,7 @@
   "pcon24cd": "S14000080",
   "pcon24nm": "Edinburgh South",
   "total_votes": null,
-  "electorate": null,
+  "electorate": 70980,
   "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
