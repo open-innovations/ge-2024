@@ -131,7 +131,7 @@ table.results tr:last-child td { padding-bottom: 0; }
 table.results td { text-align: left; line-height: 1.5em; padding-bottom: 0.25em; vertical-align: top; }
 table.results td:first-child { width: 3em; line-height: 0; padding-right: 0.25em; }
 table.results td:first-child a { display: inline-block; }
-table.results img { height: 3em; width: 3em; }
+table.results img { height: 3em; width: 3em; max-width: unset; }
 table.results .party-bar { display: inline-block; height: 3em; float: left; margin-right: 0.25em; min-width: 4px; transition: all 1s ease-in; }
 table.results .candidate, table.results strong { font-family: Poppins; }
 
