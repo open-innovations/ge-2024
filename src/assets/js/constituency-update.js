@@ -144,7 +144,7 @@ OI.ready(function(){
 				party = r.party_key;
 				c = parties[party].colour;
 				v = r.votes || 0;
-				if (total > 10) {
+				if (total > 0) {
 					pc = ''+(100 * v / total).toFixed(1) + "%";
 					w = (60 * v / total).toFixed(1);
 					v = v.toLocaleString() + " votes";
@@ -196,22 +196,22 @@ OI.ready(function(){
 
 			let dstr = "";
 			let date;
-			console.log(results);
-			if(results.declaration_time===null){
-				if(results.last_updated===null){
-					date = new Date();
-				}else{
-					date = new Date(results.last_updated);
-				}
-				dstr = "Updated: "+formatDateTime(date);
-			}else{
+
+			if(results.declaration_time){
+				if(!results.declaration_date) results.declaration_date = "2024-07-05";
 				date = new Date(results.declaration_date + "T" + results.declaration_time + "Z");
 				dstr = "Declared: "+formatDateTime(date);
 				// Cancel updating
 				clearInterval(interval);
 				msg.log("Updating is paused")
+			}else{
+				if(results.last_updated){
+					date = new Date(results.last_updated);
+				}else{
+					date = new Date();
+				}
+				dstr = "Updated: "+formatDateTime(date);
 			}
-			console.log(dstr)
 
 			document.getElementById('lastupdate').querySelector('span').innerHTML = dstr;
 
