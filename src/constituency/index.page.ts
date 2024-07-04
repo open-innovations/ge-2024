@@ -77,7 +77,7 @@ export default function* ({
       previous_key: notional.party_key,
       candidate: winner?.person_name || "",
       image: metas.image,
-      provisional: results.confirmed == false || true,
+      provisional: winner && !results.confirmed || false,
     }
 
     // Return all the data

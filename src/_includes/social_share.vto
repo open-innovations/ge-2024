@@ -1,11 +1,22 @@
 ---
 w: 1600
 h: 900
+l: 200
 flash:
   size: 200
   slope: 100
   gap: 20
 ---
+{{- set hd = headline.split(/\s+/).reduce((a, c) => {
+  let idx = a.length - 1;
+  if (a[idx].map(x => x.length).reduce((x, y) => x + y, 0) > 20) {
+    a.push([]);
+    idx += 1;
+  }
+  a[idx].push(c)
+  return a;
+}, [[]]).map(x => x.join(' '))
+-}}
 <svg viewBox="0 0 {{ w }} {{ h }}"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -16,21 +27,20 @@ flash:
   <path fill="{{ comp.colour({ colour: party_key }).hex }}" d="M 0 0 H {{ w - flash.size + flash.slope }} l -100 {{ h }} H 0 Z"/>
   <path fill="{{ comp.colour({ colour: previous_key }).hex }}" d="M {{ w }} {{ h }} h -{{ flash.size - flash.gap }} l 100 {{ -h }} H {{ w }} Z"/>
 
-  <g id="oi-logo" fill="{{ comp.colour({ colour: party_key }).contrast }}" transform="translate({{ w * 0.25 + 32 }}, {{ h * 0.2 }})">
+  <g id="oi-logo" fill="{{ comp.colour({ colour: party_key }).contrast }}" transform="translate({{ l + 32 }}, {{ h * 0.2 }})">
     <circle r="32" mask="url(#oi-person)"></circle>
-    <text font-size="40" x="50" y="25">General Election 2024</text>
+    <text font-size="{{ h * 0.07 }}" x="50" y="25">General Election 2024</text>
   </g>
 
-  <g transform="translate({{ w * 0.25 }}, {{ h * 0.35 }})" fill="{{ comp.colour({ colour: party_key }).contrast }}">
-  <text font-size="{{ h * 0.07 }}">{{ name }}</text>
-  <text font-size="{{ h * 0.07 }}" y="{{ h * 0.07 }}" font-weight="bold">{{ headline }}</text>
+  <g transform="translate({{ l }}, {{ h * 0.4 }})" fill="{{ comp.colour({ colour: party_key }).contrast }}">
+  <text font-size="{{ h * 0.07 }}"><![CDATA[{{ name }}]]></text>
+  <text font-size="{{ h * 0.1 }}" y="{{ h * 0.1 }}" font-weight="bold"><![CDATA[{{ hd[0] }}]]></text>
+  {{ if hd[1] }}<text font-size="{{ h * 0.1 }}" y="{{ h * 0.2 }}" font-weight="bold"><![CDATA[{{ hd[1] }}]]></text>{{ /if }}
   {{ if provisional -}}
-    <text font-size="{{ h * 0.05 }}" y="{{ h * 0.14 }}">Provisional result</text>
+    <text font-size="{{ h * 0.05 }}" y="{{ h * (0.18 + (hd.length - 1) * 0.1) }}">Provisional result</text>
   {{- /if }}
   
-  {{ if candidate }}<text font-size="{{ h * 0.05 }}" y="{{ h * 0.4 }}">{{ candidate }} elected</text>{{ /if }}
+  {{ if candidate }}<text font-size="{{ h * 0.05 }}" y="{{ h * 0.4 }}"><![CDATA[{{ candidate }} elected]]></text>{{ /if }}
   {{# <image width="40" height="40" xlink:href="{{ image }}"/> #}}
   </g>
-
-
 </svg>

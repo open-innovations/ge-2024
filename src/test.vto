@@ -1,0 +1,20 @@
+
+<div style="display: flex;flex-wrap: wrap;">
+<div>
+<img src="/assets/social/N05000001.svg" width=300 alt="">
+</div>
+<div>
+<img src="/assets/social/N05000002.svg" width=300 alt="">
+</div>
+<div>
+<img src="/assets/social/S14000074.svg" width=300 alt="">
+</div>
+
+{{ for page of search.pages("constituency", "title", 10) }}
+
+<div>
+<img src="/assets/social/{{ page.pcon24cd }}.svg" width=300 alt="">
+</div>
+
+{{ /for }}
+</div>
