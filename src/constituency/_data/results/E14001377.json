@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001377",
   "pcon24nm": "Newcastle upon Tyne Central and West",
-  "total_votes": 0,
-  "electorate": 76460,
+  "total_votes": 41355,
+  "electorate": 76822,
   "turnout_pct": 54,
-  "confirmed": false,
+  "confirmed": true,
   "declaration_date": "2024-07-05",
   "declaration_time": "00:41",
-  "last_updated": "2024-07-04T23:41:49.542Z",
+  "last_updated": "2024-07-04T23:52:54.598Z",
   "votes": [
     {
       "person_id": "110604",
