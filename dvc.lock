@@ -1,13 +1,61 @@
 schema: '2.0'
 stages:
-  constituencies:
-    cmd: python pipelines/constituencies.py
+  candidates:
+    cmd: python pipelines/candidates.py
     deps:
-    - path: data/Demographic-data-for-new-parliamentary-constituencies-May-2024.xlsx
+    - path: data/lookup_party.csv
       hash: md5
-      md5: 7c6b7c911a27998bdf6c54606d76e970
-      size: 1140765
-    - path: pipelines/constituencies.py
+      md5: 63bb7611490e1336f3c8d83db772e283
+      size: 235
+    - path: pipelines/candidates.py
       hash: md5
-      md5: 5ee55f98d01eb68be0dc396ea1a3a42d
-      size: 1752
+      md5: 04749eebd262b60496da245cd440671e
+      size: 2281
+    outs:
+    - path: data/candidates.csv
+      hash: md5
+      md5: 168da2b59f709908d2c2a077687aa76a
+      size: 1002930
+    - path: src/_data/party_summary.json
+      hash: md5
+      md5: fe5824fe9bd802e21227f90ff577176a
+      size: 960
+  notional:
+    cmd: python pipelines/notional.py
+    deps:
+    - path: pipelines/notional.py
+      hash: md5
+      md5: f69857443d6885127f2f52672ee8d060
+      size: 1026
+    outs:
+    - path: src/_data/notional.json
+      hash: md5
+      md5: 8388c6c52b949b4cae26fdd166e7d6b3
+      size: 97439
+  results:
+    cmd: python pipelines/results.py
+    deps:
+    - path: data/candidates.csv
+      hash: md5
+      md5: 168da2b59f709908d2c2a077687aa76a
+      size: 1002930
+    - path: pipelines/results.py
+      hash: md5
+      md5: 028049c52c91e9d3ea2d458aab68aa6d
+      size: 2408
+  thumbnails:
+    cmd: python pipelines/thumbnails.py
+    deps:
+    - path: data/candidates.csv
+      hash: md5
+      md5: 168da2b59f709908d2c2a077687aa76a
+      size: 1002930
+    - path: pipelines/thumbnails.py
+      hash: md5
+      md5: 9f0e6fa4ec0d8a6c13554539185eb39f
+      size: 1201
+    outs:
+    - path: data/thumbnails.json
+      hash: md5
+      md5: 62bea10401017ebfc0afccd88e7ad819
+      size: 8648538

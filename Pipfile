@@ -10,8 +10,6 @@ rapidfuzz = "*"
 tqdm = "*"
 requests = "*"
 pillow = "*"
-pandas = "*"
-openpyxl = "*"
 
 [dev-packages]
 
