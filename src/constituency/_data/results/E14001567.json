@@ -3,9 +3,9 @@
   "pcon24nm": "Washington and Gateshead South",
   "total_votes": 0,
   "electorate": 71775,
-  "turnout_pct": 0,
+  "turnout_pct": 52,
   "confirmed": false,
-  "last_updated": "2024-07-04T23:25:13.211Z",
+  "last_updated": "2024-07-04T23:26:45.802Z",
   "votes": [
     {
       "person_id": "11637",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/11637.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1687
     },
     {
       "person_id": "117161",
@@ -21,7 +21,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 627
     },
     {
       "person_id": "117162",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117162/4f24313d-fcb3-4704-8917-7c1e373fc1c7.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 4654
     },
     {
       "person_id": "3067",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3067/1c139fee-906a-4244-9026-7a09f75a785c.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 17682
     },
     {
       "person_id": "34185",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34185.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1602
     },
     {
       "person_id": "73418",
@@ -53,7 +53,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73418/73dcf22d-fbe1-459a-9344-d55ab66a0136.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 10769
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "00:26"
 }
