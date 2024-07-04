@@ -145,9 +145,13 @@ OI.ready(function(){
 				c = parties[party].colour;
 				v = r.votes || 0;
 				if (total > 0) {
-					pc = ''+(100 * v / total).toFixed(1) + "%";
+					if(total > 10){
+						pc = ''+(100 * v / total).toFixed(1) + "%";
+						v = v.toLocaleString() + " votes";
+					}else{
+						majority = "";
+					}
 					w = (60 * v / total).toFixed(1);
-					v = v.toLocaleString() + " votes";
 				} else {
 					pc = "";
 					w = "0";
