@@ -1,11 +1,11 @@
 {
   "pcon24cd": "E14001537",
   "pcon24nm": "Swindon South",
-  "total_votes": 0,
-  "electorate": 72468,
+  "total_votes": 44941,
+  "electorate": 72575,
   "turnout_pct": 62,
-  "confirmed": false,
-  "last_updated": "2024-07-04T23:16:29.376Z",
+  "confirmed": true,
+  "last_updated": "2024-07-04T23:24:30.893Z",
   "votes": [
     {
       "person_id": "117735",
