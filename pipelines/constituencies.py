@@ -84,6 +84,13 @@ def concatenate_nations_data(dataframes):
     assert type(dataframes) == list, 'Argument given is not a list. Frames must be in a list to concatenate'
     return pd.concat(dataframes)
 
+def my_func(data, dir, index_rename):
+    for index, row in data.iterrows():
+        transposed_row = row.to_frame()
+        transposed_row.index.rename(index_rename, inplace=True)
+        f_name = os.path.join(dir, f'{index}.csv')
+        transposed_row.to_csv(f_name)
+
 if __name__ == "__main__":
     
     england_wales_population = get_data('EW_data', 'Population', ['Topic', 'England & Wales value'])
@@ -94,12 +101,21 @@ if __name__ == "__main__":
     ew_age = get_data('EW_data', 'Age', ['Topic', 'England & Wales value'], value_type=float, pct=True)
     ni_age = get_data('NI_data', 'Age', ['Topic', 'Northern Ireland value'], value_type=float, pct=True)
     uk_age = concatenate_nations_data([ew_age, ni_age])
+    # age_copy = uk_age.copy()
+    # age_copy = age_copy.transpose()
+    # age_copy.index.rename('age_band', inplace=True)
+    # write_csv(uk_age, 'src/_data/age.csv')
+    my_func(uk_age, dir='src/_data/age/', index_rename='age_band')
     
 
     ew_housing_tenure = get_data('EW_data', 'Housing tenure', ['Topic', 'England & Wales value'], value_type=float, pct=True)
     ni_housing_tenure = get_data('NI_data', 'Housing tenure', ['Topic', 'Northern Ireland value'], value_type=float, pct=True)
     uk_housing_tenure = concatenate_nations_data([ew_housing_tenure, ni_housing_tenure])
-    
+    # housing_copy = uk_housing_tenure.copy()
+    # housing_copy = housing_copy.transpose()
+    # housing_copy.index.rename('tenure_type', inplace=True)
+    # write_csv(uk_housing_tenure, 'src/_data/housing_tenure.csv')
+    my_func(uk_housing_tenure, dir='src/_data/housing_tenure', index_rename='tenure_type')
 
     ew_households = get_data('EW_data', 'Households', ['Topic', 'England & Wales value'], value_type=int)
     ni_households = get_data('NI_data', 'Households', ['Topic', 'Northern Ireland value'], value_type=int)

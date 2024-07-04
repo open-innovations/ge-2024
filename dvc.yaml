@@ -34,6 +34,7 @@ stages:
       - data/thumbnails.json:
           cache: false
   constituencies:
+    frozen: true
     cmd: python pipelines/constituencies.py
     deps:
       - pipelines/constituencies.py
