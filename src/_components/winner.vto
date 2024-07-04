@@ -19,7 +19,11 @@
   <div class="about">
   {{- if title }}<strong class="title">{{ title }}</strong>: {{ /if -}}
     <span class="headline">
+	{{- if list }}
+      {{- winner?.party_key ? parties[winner?.party_key].pa : "" -}}
+	{{ else }}
       {{- winner?.party_key ? parties[winner?.party_key].name : "Awaiting results" -}}
+	{{ /if -}}
 	  {{- if winner }}
 		  {{ previous == winner?.party_key ? "HOLD": "GAIN" }}
 		  {{- if !results.confirmed }} / provisional{{ /if -}}
