@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001295",
   "pcon24nm": "Houghton and Sunderland South",
-  "total_votes": 0,
-  "electorate": 76883,
+  "total_votes": 40133,
+  "electorate": 78448,
   "turnout_pct": 51,
-  "confirmed": false,
+  "confirmed": true,
   "declaration_date": "2024-07-04",
   "declaration_time": "23:18",
-  "last_updated": "2024-07-04T22:19:02.950Z",
+  "last_updated": "2024-07-04T23:03:54.025Z",
   "votes": [
     {
       "person_id": "11618",
