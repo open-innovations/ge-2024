@@ -155,7 +155,7 @@ table.results {
 	width: 100%;
 	tr:last-child td { padding-bottom: 0; }
 	td { text-align: left; line-height: 1.5em; padding-bottom: 0.25em; }
-	td:first-child { width: 3em; line-height: 0; }
+	td:first-child { width: 3em; line-height: 0; padding-right: 0.25em; }
 	td:first-child a { display: inline-block; }
 	img { height: 3em; width: 3em; }
 	.party-bar { display: inline-block; height: 3em; float: left; margin-right: 0.25em; min-width: 4px; transition: all 1s ease-in; }
