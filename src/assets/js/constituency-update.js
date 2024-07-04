@@ -182,14 +182,14 @@ OI.ready(function(){
 
 			total = results.total_votes || 0;
 			mostvotes = 0;
-			if (total == 0) {
-				for (i = 0; i < results.votes.length; i++) {
-					if (typeof results.votes[i].votes === "number" && results.votes[i].votes > 0) {
+			for (i = 0; i < results.votes.length; i++) {
+				if (typeof results.votes[i].votes === "number" && results.votes[i].votes > 0) {
+					if(results.total_votes==0){
 						total += results.votes[i].votes;
-						if(results.votes[i].votes > mostvotes){
-							mostvotes = results.votes[i].votes;
-							winner = results.votes[i];
-						}
+					}
+					if(results.votes[i].votes > mostvotes){
+						mostvotes = results.votes[i].votes;
+						winner = results.votes[i];
 					}
 				}
 			}
@@ -231,7 +231,7 @@ OI.ready(function(){
 					msg.warning('No person with ID '+pid)
 				}
 			}
-
+console.log(winner,previous);
 			if(previous) c2 = { 'bg': parties[previous].colour };
 
 			c1.colour = OI.contrastColour(c1.bg);
