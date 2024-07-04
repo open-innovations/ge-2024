@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001295",
   "pcon24nm": "Houghton and Sunderland South",
-  "total_votes": null,
-  "electorate": 76883,
-  "turnout_pct": null,
+  "total_votes": 0,
+  "electorate": 0,
+  "turnout_pct": 0,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-03T22:16:08.154Z",
   "votes": [
     {
       "person_id": "11618",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11618/a5ae992b-346c-4d5a-9c67-8e838eff73a2.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "11628",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/11628.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "3733",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3733/ffe4e300-7a90-4052-aa81-ea1c9ca55e8d.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "75425",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75425/f977bdfb-0e73-42f1-bd9f-b1779897ff95.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "97574",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97574/a2c523de-970e-411a-8be4-f06655c3b26b.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     }
   ]
 }

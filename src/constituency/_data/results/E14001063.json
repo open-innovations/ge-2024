@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001063",
   "pcon24nm": "Aldershot",
-  "total_votes": null,
-  "electorate": 76765,
-  "turnout_pct": null,
+  "total_votes": 0,
+  "electorate": 0,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "11:45",
+  "last_updated": "2024-07-03T16:22:24.941Z",
   "votes": [
     {
       "person_id": "104012",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/104012/f1ea6e4c-020e-4e29-a10f-e94afc0509b9.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 6666
     },
     {
       "person_id": "104397",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/104397/bf66c829-f035-4735-99c7-5f261f195295.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 2222
     },
     {
       "person_id": "116264",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116264/0ceee8e5-3c72-4494-98b3-6a5fea416689.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1234
     },
     {
       "person_id": "36425",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116663/34e371eb-5bd3-4227-ac20-7f183e1574db.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1100
     },
     {
       "person_id": "47708",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/47708-771a6cf2-b363-4c52-b7c5-81dfb968d084.png",
       "party_key": "other",
       "party_name": "Hampshire Independents",
-      "votes": null
+      "votes": 400
     },
     {
       "person_id": "5645",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5645/10c143b6-45ca-4a02-b0dc-897dded18d02.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 4
     }
   ]
 }
