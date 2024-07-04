@@ -10,24 +10,13 @@ footer .holder > *:first-child { flex-grow: 1; flex-shrink: 1; }
 
 .oi-viz {
 	margin-top: 1em;
-	.tooltip .inner {
-		& a {
-			color: inherit;
-		}
-		& * {
-			margin: 0;
-			& + * {
-				margin-block-start: 1.25em;
-			}
-		}
-		& a {
-			color: inherit;
-		}
-		& .title { font-family: Poppins; font-size: 1.25rem; }
-	> a { display: block; }
-	}
-	.oi-legend-inner .oi-legend-item { border: 1px solid #eee; border-radius: 4px; margin-right: 0.25rem; margin-bottom: 0.25rem; }
 }
+.oi-viz .tooltip .inner {
+	& a { color: inherit; }
+	> a { display: block; }
+	& .title { font-family: Poppins; font-size: 1.25rem; }
+}
+.oi-viz .oi-legend-inner .oi-legend-item { border: 1px solid #eee; border-radius: 4px; margin-right: 0.25rem; margin-bottom: 0.25rem; }
 
 ul.list {
 	list-style: none;
