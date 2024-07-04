@@ -13,6 +13,7 @@
     }))
 }}
 
+{{ if series.length > 0 }}
 {{ comp.oi.chart.waffle({
   config: {
     data: [results],
@@ -22,3 +23,6 @@
 	  gravity: left
   }
 }) }}
+{{ else }}
+<p>No results available yet</p>
+{{ /if }}
