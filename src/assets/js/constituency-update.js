@@ -145,13 +145,14 @@ OI.ready(function(){
 				c = parties[party].colour;
 				v = r.votes || 0;
 				if (total > 0) {
+					w = (50 * v / total).toFixed(1);
 					if(total > 10){
 						pc = ''+(100 * v / total).toFixed(1) + "%";
 						v = v.toLocaleString() + " votes";
 					}else{
 						majority = "";
+						v = "";
 					}
-					w = (60 * v / total).toFixed(1);
 				} else {
 					pc = "";
 					w = "0";
@@ -190,13 +191,12 @@ OI.ready(function(){
 				if(!results.confirmed) headline += ' / provisional';
 			}
 
-			//bg = 'linear-gradient(110deg, '+c1.bg+' 0%, '+c1.bg+' calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), '+c2.bg+' calc(100% - 1.75em)), linear-gradient( 70deg, '+c1.bg+' 0%, '+c1.bg+' calc(100% - 2em), white calc(100% - 2em), white calc(100% - 1.75em), '+c2.bg+' calc(100% - 1.75em))';
 			bg = 'linear-gradient(100deg, '+c1.bg+' 0%, '+c1.bg+' 95%, white 95%, white 96%, '+c2.bg+' 96%)';
 			banner.el.style.backgroundImage = bg;
 			banner.el.style.color = c1.color;
 			banner.headline.innerHTML = headline;
 			banner.elected.innerHTML = (winner && winner.person_name ? 'Elected: <strong>'+winner.person_name+'</strong>' : '');
-			banner.majority.innerHTML = (majority ? 'Majority: <strong>'+majority+'</strong>' : '');
+			banner.majority.innerHTML = (majority && results.confirmed ? 'Majority: <strong>'+majority+'</strong>' : '');
 
 			let dstr = "";
 			let date;

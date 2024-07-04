@@ -4,7 +4,6 @@ export default function ({ results, parties, thumbnail }: Lume.Data) {
   const pts = Object.keys(parties);
   let html = '<table class="results"><tbody>';
   let r, i, key, party, c, src, total, pc, w, v;
-
   total = results.total_votes || 0;
   if (total == 0) {
     for (i = 0; i < results.votes.length; i++) {
@@ -29,9 +28,13 @@ export default function ({ results, parties, thumbnail }: Lume.Data) {
     c = parties[party].colour;
     v = r.votes || 0;
     if (total > 0) {
-      pc = (100 * v / total).toFixed(1) + "%";
-      w = (60 * v / total).toFixed(1);
-      v = v.toLocaleString() + " votes";
+	  w = (50 * v / total).toFixed(1);
+	  if(total > 10){
+		  pc = (100 * v / total).toFixed(1) + "%";
+		  v = v.toLocaleString() + " votes";
+	  }else{
+		  v = "";
+	  }
     } else {
       pc = "";
       w = "0";
@@ -54,7 +57,7 @@ export default function ({ results, parties, thumbnail }: Lume.Data) {
       c + ";color:" + Colour(c).contrast + ';"></span>';
     html += '<span class="party">' + (party != "other" ? parties[party].pa : r.party_name) +
       "</span>";
-	html += '<span class="percent">' + (results.confirmed && pc ? '<strong>'+pc+'</strong>' : '') + "</span>";
+	html += '<span class="percent">' + (pc ? ' / <strong>'+pc+'</strong>' : '') + "</span>";
     html += '<br /><span class="candidate">' + r.person_name + "</span>";
     html += "</td>";
     html += "</tr>";
