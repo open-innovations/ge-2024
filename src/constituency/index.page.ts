@@ -49,7 +49,7 @@ export default function* ({
     let description = `Awaiting result for ${pcon24nm}.`;
 
     const metas = {
-      image: `https://ge2024.hexmap.uk/assets/social/${ pcon24cd }.png`,
+      image: `https://ge2024.hexmap.uk/assets/social/${ pcon24cd }.svg`,
     };
     
     let headline = "Awaiting result";
