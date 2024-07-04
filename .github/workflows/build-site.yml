@@ -6,7 +6,7 @@ name: Build site
 'on':
   workflow_dispatch: {}
   schedule:
-    - cron: "*/5 * * * *"   # <=== Change this value
+    - cron: "2/5 * * * *"   # <=== Change this value
   push:
     branches: [ main ]
     paths:
