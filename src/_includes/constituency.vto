@@ -41,7 +41,6 @@ layout: titled.vto
 		<h3>Housing tenure type for {{ pcon24nm }}</h3>
 		{{ comp.oi.chart.bar ({ config: {
 			data: housing_tenure,
-			legend: { show: true },
 			category: "tenure_type",
       padding: { left: 100 },
 			axis: { 
@@ -73,7 +72,6 @@ layout: titled.vto
 		<h3>Age demographic for {{ pcon24nm }}</h3>
 		{{ comp.oi.chart.bar ({ config: {
 			data: age,
-			legend: { show: true },
 			category: "age_band",
       padding: { left: 100 },
 			axis: { 
