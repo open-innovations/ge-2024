@@ -95,19 +95,28 @@ OI.ready(function(){
 				return this;
 			}
 			let dat = {};
+			
+			for(let i in hexes){
+				hexes[i].result = false;
+			}
 			for(let i = 0; i < this.results.length; i++){
 				let pid = this.results[i].id||"";
 				let pty = this.results[i].p||"";
 				if(pid && pid in hexes){
 					let colour = (pty in parties ? parties[pty].colour : '#dfdfdf');
 					hexes[pid].path.setAttribute('fill',colour);
+					hexes[pid].result = true;
 					dat[pid] = hexes[pid].title + ' ('+parties[pty].pa+')';
 				}else{
 					console.warn('Bad constituency code '+this.results[i].id);
 				}
 				if(this.results[i].c) confirmed++;
 			}
-
+			for(let i in hexes){
+				if(!hexes[i].result){
+					hexes[i].path.setAttribute('fill','#dfdfdf');
+				}
+			}
 			// Build legend and replace the existing one
 			let items = buildLegend(this.results,"p","party_name",{ "speaker":"speaker" },parties);
 			let str = "";
