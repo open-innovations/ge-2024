@@ -36,12 +36,14 @@ layout: titled.vto
 		<p><strong>Population</strong>: {{ drilldown['Population'] |> JSON.stringify() }}</p>
 		<p><strong>Households</strong>: {{ drilldown['Households'] |> JSON.stringify() }}</p>
 
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));gap: 1rem;">
+    <div>
 		<h3>Housing tenure type for {{ pcon24nm }}</h3>
 		{{ comp.oi.chart.bar ({ config: {
 			data: housing_tenure,
-			height: 200,
 			legend: { show: true },
 			category: "tenure_type",
+      padding: { left: 100 },
 			axis: { 
 				x: { 
 					min: 0,
@@ -66,13 +68,14 @@ layout: titled.vto
 			}
 			})
 		}}
-
+    </div>
+    <div>
 		<h3>Age demographic for {{ pcon24nm }}</h3>
 		{{ comp.oi.chart.bar ({ config: {
 			data: age,
-			height: 200,
 			legend: { show: true },
 			category: "age_band",
+      padding: { left: 100 },
 			axis: { 
 				x: { 
 					min: 0,
@@ -97,6 +100,8 @@ layout: titled.vto
 			}
 			})
 		}}
+    </div>
+    </div>
 		
 	{{ else }}
 		<p>There is no data currently available for this constituency</p>
