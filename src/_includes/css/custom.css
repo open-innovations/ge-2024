@@ -132,7 +132,7 @@ h1, h2, h3 { margin-bottom: 0.5rem; }
 .winner {
 	display: flex;
 	padding: 1rem;
-	margin-bottom: 0.25rem;
+	margin-bottom: 0.5rem;
 	img { width: 80px; height: 80px; margin-right: 1rem; }
 }
 .winner .headline, .winner .title { font-size: 1.25em; font-weight: bold; }

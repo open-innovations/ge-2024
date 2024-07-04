@@ -243,7 +243,7 @@ OI.ready(function(){
 				if(!results.confirmed) headline += ' / provisional';
 			}
 
-			bg = 'linear-gradient(100deg, '+c1.bg+' 0%, '+c1.bg+' 95%, white 95%, white 96%, '+c2.bg+' 96%)';
+			bg = 'linear-gradient(100deg, '+c1.bg+' 0%, '+c1.bg+' 95%, white 95%, white calc(95% + 0.5rem), '+c2.bg+' calc(95% + 0.5rem))';
 			banner.el.style.backgroundImage = bg;
 			banner.el.style.color = c1.colour;
 			banner.headline.innerHTML = headline;
