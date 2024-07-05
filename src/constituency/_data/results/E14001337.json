@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001337",
   "pcon24nm": "Liverpool Garston",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70372,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T03:10:52.041Z",
   "votes": [
     {
       "person_id": "108631",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108631/91ecc21e-9aac-4342-9956-7d169e9163ae.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117204",
@@ -23,7 +21,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117205",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117205/adff6435-e26a-417c-8210-0f5621ef04a5.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "2234",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2234/d127f0e9-bfb6-48a2-912f-cec290f13660.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "35929",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35929.png",
       "party_key": "other",
       "party_name": "The Liberal Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4065",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4065-c4de3c58-d2f2-42fc-a9a2-ee53639b277b.png",
       "party_key": "other",
       "party_name": "Workers Revolutionary Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "49621",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49621/1363c85d-773c-4f87-be95-009363590a17.png",
       "party_key": "other",
       "party_name": "Liverpool Community Independents",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "75454",
@@ -71,7 +69,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "97531",
@@ -79,7 +77,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97531/2d899ce2-2622-45a2-bb00-59272b5c0d32.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
