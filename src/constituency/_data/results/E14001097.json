@@ -1,76 +1,76 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:52",
+  "electorate": 73483,
+  "last_updated": "2024-07-05T06:48:11.000Z",
   "pcon24cd": "E14001097",
   "pcon24nm": "Birmingham Northfield",
   "total_votes": 0,
-  "electorate": 73483,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:52",
-  "last_updated": "2024-07-05T03:52:48.492Z",
   "votes": [
     {
-      "person_id": "117563",
-      "person_name": "Dean Gwilliam",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117563",
+      "person_name": "Dean Gwilliam",
+      "votes": 163
     },
     {
-      "person_id": "117564",
-      "person_name": "Altaf Hussain",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117564/652647f9-43a4-48bb-9f35-311184c5bc6b.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117564",
+      "person_name": "Altaf Hussain",
+      "votes": 310
     },
     {
-      "person_id": "27350",
-      "person_name": "Stephen Peters",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116510/28a8f7fd-9fa4-4b90-a038-79d5e4252068.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "27350",
+      "person_name": "Stephen Peters",
+      "votes": 7895
     },
     {
-      "person_id": "3015",
-      "person_name": "Jerry Evans",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3015/2ea85f87-3938-4a07-91cd-c6105c92e624.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "3015",
+      "person_name": "Jerry Evans",
+      "votes": 1791
     },
     {
-      "person_id": "56886",
-      "person_name": "Laurence Turner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/56886/ab9a32b8-11c6-4c74-a649-2a9719bce096.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "56886",
+      "person_name": "Laurence Turner",
+      "votes": 14929
     },
     {
-      "person_id": "9",
-      "person_name": "Dick Rodgers",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/9_uIdlGRs.png",
       "party_key": "other",
       "party_name": "Common Good",
-      "votes": 0
+      "person_id": "9",
+      "person_name": "Dick Rodgers",
+      "votes": 215
     },
     {
-      "person_id": "9942",
-      "person_name": "Gary Sambrook",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/9942.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "9942",
+      "person_name": "Gary Sambrook",
+      "votes": 9540
     },
     {
-      "person_id": "9957",
-      "person_name": "Rob Grant",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/9957-3d904607-2f54-462d-81bb-192659c718b1.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "9957",
+      "person_name": "Rob Grant",
+      "votes": 2809
     }
   ]
 }

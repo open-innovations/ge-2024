@@ -1,85 +1,85 @@
 {
-  "pcon24cd": "E14001182",
-  "pcon24nm": "Coventry South",
-  "total_votes": 0,
-  "electorate": 70998,
-  "turnout_pct": 0,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "03:38",
-  "last_updated": "2024-07-05T02:38:41.482Z",
+  "electorate": 70998,
+  "last_updated": "2024-07-05T06:50:28.000Z",
+  "pcon24cd": "E14001182",
+  "pcon24nm": "Coventry South",
+  "total_votes": 0,
+  "turnout_pct": 0,
   "votes": [
     {
-      "person_id": "109370",
-      "person_name": "Alastair Mellon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109370/23d99c44-8cb3-477f-ba2b-ef221dbc278c.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "109370",
+      "person_name": "Alastair Mellon",
+      "votes": 334
     },
     {
-      "person_id": "116522",
-      "person_name": "Mohammed Ali Syed",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116522/c1a706c6-56c5-4da1-ab53-edc0828678c5.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "116522",
+      "person_name": "Mohammed Ali Syed",
+      "votes": 777
     },
     {
-      "person_id": "117610",
-      "person_name": "Joshua Dylan Morland",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117610/18d68218-401a-4a7e-8a06-2edab6960439.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117610",
+      "person_name": "Joshua Dylan Morland",
+      "votes": 231
     },
     {
-      "person_id": "117611",
-      "person_name": "Niko Omilana",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117611",
+      "person_name": "Niko Omilana",
+      "votes": 263
     },
     {
-      "person_id": "11853",
-      "person_name": "Anne Patterson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11853/222943af-ac77-4a98-8c4e-dabe8837f785.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "11853",
+      "person_name": "Anne Patterson",
+      "votes": 2363
     },
     {
-      "person_id": "40316",
-      "person_name": "Mattie Heaven",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/40316.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "40316",
+      "person_name": "Mattie Heaven",
+      "votes": 10160
     },
     {
-      "person_id": "40366",
-      "person_name": "Stephen Richmond",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/40366.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "40366",
+      "person_name": "Stephen Richmond",
+      "votes": 2531
     },
     {
-      "person_id": "70308",
-      "person_name": "Zarah Sultana",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/70308/36a16a79-31fb-4929-b5f0-390214235f64.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "70308",
+      "person_name": "Zarah Sultana",
+      "votes": 20361
     },
     {
-      "person_id": "96918",
-      "person_name": "Chris Baddon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117609/982f71ea-7231-46b5-b26e-f474ee8b9acc.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "96918",
+      "person_name": "Chris Baddon",
+      "votes": 5711
     }
   ]
 }

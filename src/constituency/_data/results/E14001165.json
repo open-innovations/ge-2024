@@ -1,68 +1,68 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:37",
+  "electorate": 70722,
+  "last_updated": "2024-07-05T06:49:58.000Z",
   "pcon24cd": "E14001165",
   "pcon24nm": "Chesterfield",
   "total_votes": 0,
-  "electorate": 70722,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:37:57.923Z",
   "votes": [
     {
-      "person_id": "113311",
-      "person_name": "Ben Flook",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113311/c2ccf262-0d2b-40cb-8508-426c52f6486c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "113311",
+      "person_name": "Ben Flook",
+      "votes": 8496
     },
     {
-      "person_id": "116898",
-      "person_name": "Dan Price",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116898/1748b30a-f180-465b-b569-e185df6713ea.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116898",
+      "person_name": "Dan Price",
+      "votes": 7897
     },
     {
-      "person_id": "117018",
-      "person_name": "Julie Lowe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117018/f602b4dc-56bc-4398-a079-385da84d9113.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "117018",
+      "person_name": "Julie Lowe",
+      "votes": 248
     },
     {
-      "person_id": "117676",
-      "person_name": "Kris Stone",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117676/1b31c054-d805-4323-9a2d-fe81e3309993.png",
       "party_key": "other",
       "party_name": "Chesterfield And North Derbyshire Independents (CANDI)",
-      "votes": 0
+      "person_id": "117676",
+      "person_name": "Kris Stone",
+      "votes": 363
     },
     {
-      "person_id": "18017",
-      "person_name": "Ian Barfield",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/18017-102a5b9e-64e0-4aaf-a24c-934e7ab78e4c.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "18017",
+      "person_name": "Ian Barfield",
+      "votes": 2553
     },
     {
-      "person_id": "34970",
-      "person_name": "David Wadsworth",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34970.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "34970",
+      "person_name": "David Wadsworth",
+      "votes": 2682
     },
     {
-      "person_id": "582",
-      "person_name": "Toby Perkins",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5534f926b247335574a42e40.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "582",
+      "person_name": "Toby Perkins",
+      "votes": 19316
     }
-  ],
-  "declaration_time": "04:37"
+  ]
 }

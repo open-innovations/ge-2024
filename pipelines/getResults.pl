@@ -74,7 +74,16 @@ my $lookup = {
 	'Cole Antony Caesar'=>'Cole Caesar',
 	'John Sydney Halsall'=>'John Halsall',
 	'George Mcmanus'=>'George McManus',
-	'Henry Whitlock Morris'=>'Henry Morris'
+	'Henry Whitlock Morris'=>'Henry Morris',
+	'Shazna Muzammil'=>'Shaz Muzammil',
+	'Alistair Carns'=>'Al Carns',
+	'Dave Radcliffe'=>'David Radcliffe',
+	'James Lionel Rust'=>'James Rust',
+	'Donald Mcintosh'=>'Donald McIntosh',
+	'Stephen Gribbon'=>'Steve Gribbon',
+	'Nick Goulding'=>'Nicholas Goulding',
+	'Jessica Brown-Fuller'=>'Jess Brown-Fuller',
+	'Rich McCarthy'=>'Richard McCarthy'
 };
 #getData("E14001263");
 #exit;
