@@ -2,11 +2,11 @@
   "pcon24cd": "E14001512",
   "pcon24nm": "St Neots and Mid Cambridgeshire",
   "total_votes": 0,
-  "electorate": 74699,
-  "turnout_pct": 0,
+  "electorate": 78115,
+  "turnout_pct": 68,
   "confirmed": false,
   "declaration_time": "03:28",
-  "last_updated": "2024-07-05T02:28:40.065Z",
+  "last_updated": "2024-07-05T04:45:06.194Z",
   "votes": [
     {
       "person_id": "116726",
@@ -14,7 +14,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116726/07eafcc2-f7b4-495f-8d6a-d75eb0d32ced.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2663
     },
     {
       "person_id": "116859",
@@ -22,7 +22,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116859/91ef2733-cbfb-4d17-aaa6-1e5ef106184c.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 5673
     },
     {
       "person_id": "117184",
@@ -30,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117184/d2d9e10a-4187-4fc7-8d7e-ea64386246f2.png",
       "party_key": "other",
       "party_name": "Party Of Women",
-      "votes": 0
+      "votes": 274
     },
     {
       "person_id": "36306",
@@ -38,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/36306/86afa85e-b221-4d7d-858a-958af038a418.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 6918
     },
     {
       "person_id": "37499",
@@ -46,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/37499/4f04974b-5104-462d-bdee-2a6532a1d893.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "votes": 19517
     },
     {
       "person_id": "71630",
@@ -54,7 +54,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71630/6cde99d9-60c4-428d-a3b1-95daab1aaa5e.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 14896
     },
     {
       "person_id": "77431",
@@ -62,7 +62,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116660/5d640508-0fc5-459d-9872-b097901b7de6.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 2941
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
