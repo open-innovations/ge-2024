@@ -1,13 +1,12 @@
 {
   "pcon24cd": "E14001108",
   "pcon24nm": "Bognor Regis and Littlehampton",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 76985,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_time": "04:56",
+  "last_updated": "2024-07-05T03:56:47.471Z",
   "votes": [
     {
       "person_id": "33261",
@@ -15,7 +14,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/33261/f2910256-a7dc-4741-a87d-f7ef7375be96.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "54627",
@@ -23,7 +22,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/54627/a0850f69-ca17-4d75-82c3-ab3b8ed03ee7.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "54706",
@@ -31,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/54706/0f474234-a698-4e9a-9cd2-bb89642ae21f.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "6686",
@@ -39,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116938/c284e222-6948-4105-acfe-9ddc6993e51c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "6829",
@@ -47,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6829-03177629-d60c-4f26-99db-f8658323e41e.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "83750",
@@ -55,7 +54,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83750/9b9ce574-ea8e-4b46-bf4d-e39917ba386a.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
