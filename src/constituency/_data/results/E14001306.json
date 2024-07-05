@@ -2,10 +2,10 @@
   "pcon24cd": "E14001306",
   "pcon24nm": "Islington South and Finsbury",
   "total_votes": 0,
-  "electorate": 75905,
-  "turnout_pct": 0,
+  "electorate": 74122,
+  "turnout_pct": 58,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:42:55.486Z",
+  "last_updated": "2024-07-05T01:56:14.240Z",
   "votes": [
     {
       "person_id": "116702",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116702/5831ad39-40f1-4d0c-9e77-ddb8e9a23793.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 7491
     },
     {
       "person_id": "117478",
@@ -21,7 +21,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Trade Unionist and Socialist Coalition",
-      "votes": 0
+      "votes": 215
     },
     {
       "person_id": "117479",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117479/e7fc5abb-219c-4fab-8465-e5ad099cf58e.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 569
     },
     {
       "person_id": "117480",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117480/6079adb7-af13-4273-b526-ea4fdec7c012.png",
       "party_key": "other",
       "party_name": "Party Of Women",
-      "votes": 0
+      "votes": 354
     },
     {
       "person_id": "2519",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2519/bb3c6938-c32f-4203-b7de-1979491cbc1c.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 22946
     },
     {
       "person_id": "4505",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8db2788906ef2517bd6d.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 4045
     },
     {
       "person_id": "47834",
@@ -61,7 +61,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": 162
     },
     {
       "person_id": "65698",
@@ -69,7 +69,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 3388
     },
     {
       "person_id": "94296",
@@ -77,7 +77,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94296/de7db9c5-d5df-419d-9bfb-75ca06deb847.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 3584
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
