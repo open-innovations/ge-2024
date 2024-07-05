@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001137",
   "pcon24nm": "Bromley and Biggin Hill",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70418,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T03:47:22.392Z",
   "votes": [
     {
       "person_id": "109131",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115986/975bb0b2-f479-4e42-8242-ed3997138a27.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117661",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117661/ccdbc7e4-6ef9-4b57-834e-71af1f3b30d6.png",
       "party_key": "other",
       "party_name": "Climate Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4204",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4204-3a274faa-dd32-4506-9c1e-480706b8459b.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "44583",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/44583/1bf38321-a29b-47b7-b546-a88788ac381e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "8019",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8019/427755d1-9bb8-4473-b3ea-9f9f02a85ffe.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "92195",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92195/54023737-8d7e-4eb1-bff7-7236b1a05fdb.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
