@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001492",
   "pcon24nm": "South Shields",
-  "total_votes": 0,
-  "electorate": 69725,
-  "turnout_pct": 53,
-  "confirmed": false,
+  "total_votes": 36912,
+  "electorate": 68366,
+  "turnout_pct": 54,
+  "confirmed": true,
   "declaration_date": "2024-07-05",
   "declaration_time": "01:24",
-  "last_updated": "2024-07-05T00:24:31.632Z",
+  "last_updated": "2024-07-05T00:33:02.488Z",
   "votes": [
     {
       "person_id": "117380",
