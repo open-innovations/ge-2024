@@ -20,6 +20,10 @@ metas:
 		{{ include './results/second_place.vto' }}
 	{{ /comp }}
 
+	{{ comp layout.panelSelector.panel { id: "majorityofvotes", title: "2024 majority of votes", classes: "panel" } }}
+		{{ include './results/majority_votes.vto' }}
+	{{ /comp }}
+
 	{{ comp layout.panelSelector.panel { id: "ge2019", title: "2019", classes: "panel" } }}
 		{{ include './results/2019.vto' }}
 	{{ /comp }}
