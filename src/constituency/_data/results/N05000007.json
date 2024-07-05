@@ -1,13 +1,11 @@
 {
   "pcon24cd": "N05000007",
   "pcon24nm": "Fermanagh and South Tyrone",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 74643,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T04:01:44.782Z",
   "votes": [
     {
       "person_id": "108685",
@@ -15,23 +13,23 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108685/0a650b22-c1d7-49c6-b774-e005c43907ca.png",
       "party_key": "other",
       "party_name": "Cross-Community Labour Alternative",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117810",
       "person_name": "Pat Cullen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117810/de292af4-09fa-44d1-90e2-548075387c12.png",
       "party_key": "sf",
-      "party_name": "Sinn F\u00e9in",
-      "votes": null
+      "party_name": "Sinn Féin",
+      "votes": 1
     },
     {
       "person_id": "117811",
       "person_name": "Carl Duffy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117811/6cad222f-c448-4798-899d-99a89d99d05f.png",
       "party_key": "other",
-      "party_name": "Aont\u00fa",
-      "votes": null
+      "party_name": "Aontú",
+      "votes": 0
     },
     {
       "person_id": "68921",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/68921/affa9286-5548-43c6-8538-68a5b9b10007.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "68973",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/68973/43b87a82-e5df-4bb0-9d67-981d2a8fea21.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95790",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95790/67040424-fe56-410e-b266-7b4aa5eccebd.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": null
+      "votes": 0
     }
   ]
 }
