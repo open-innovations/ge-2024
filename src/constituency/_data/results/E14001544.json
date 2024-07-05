@@ -3,9 +3,9 @@
   "pcon24nm": "Thirsk and Malton",
   "total_votes": 0,
   "electorate": 76623,
-  "turnout_pct": 0,
+  "turnout_pct": 63,
   "confirmed": false,
-  "last_updated": "2024-07-05T04:33:36.734Z",
+  "last_updated": "2024-07-05T04:37:04.050Z",
   "votes": [
     {
       "person_id": "116596",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116596/25971551-719c-4446-a1fe-7947e3dfa8d6.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 8963
     },
     {
       "person_id": "117462",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117462/a79fef0b-8d58-4cad-a8a1-3d5d90d402b0.png",
       "party_key": "other",
       "party_name": "Yorkshire Party",
-      "votes": 0
+      "votes": 931
     },
     {
       "person_id": "12398",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/12398/45e750b2-8e04-4c7e-9b0a-016258baf09e.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 11994
     },
     {
       "person_id": "25969",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/60885.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 5379
     },
     {
       "person_id": "4236",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4236.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "votes": 19544
     },
     {
       "person_id": "84041",
@@ -53,7 +53,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84041/d37ca81d-9937-4991-98c8-8730380496d2.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2986
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "05:29"
 }
