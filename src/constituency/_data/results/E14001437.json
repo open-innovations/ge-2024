@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001437",
   "pcon24nm": "Rayleigh and Wickford",
-  "total_votes": 0,
-  "electorate": 76422,
+  "total_votes": 48172,
+  "electorate": 76585,
   "turnout_pct": 63,
-  "confirmed": false,
+  "confirmed": true,
   "declaration_date": "2024-07-05",
   "declaration_time": "01:42",
-  "last_updated": "2024-07-05T00:43:01.098Z",
+  "last_updated": "2024-07-05T00:55:03.680Z",
   "votes": [
     {
       "person_id": "110181",
