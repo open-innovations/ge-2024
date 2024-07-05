@@ -5,7 +5,7 @@
   "electorate": 73306,
   "turnout_pct": 0,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:09:39.224Z",
+  "last_updated": "2024-07-05T02:09:40.178Z",
   "votes": [
     {
       "person_id": "110111",
@@ -47,5 +47,7 @@
       "party_name": "Liberal Democrats",
       "votes": 0
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "03:09"
 }
