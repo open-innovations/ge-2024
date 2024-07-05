@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001458",
   "pcon24nm": "Rutland and Stamford",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70864,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T04:27:36.838Z",
   "votes": [
     {
       "person_id": "101036",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101036/a0a2a58f-52b5-42e2-942a-f54e50a58a8b.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "115920",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115920/d83762ca-3f4c-4053-ad6e-080598a4b26c.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "34194",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34194/3c83776c-92cc-4fb2-aedb-cb1b96027370.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "40410",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116776/cea8f27a-0863-4d11-a478-9041fae0e1b5.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4770",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74316-e380c098-c6c2-4a40-a1fa-b56e65667cae.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "49025",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117059/222ad724-e7f8-4072-b2e7-a38b2d03c4ff.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": null
+      "votes": 0
     }
   ]
 }
