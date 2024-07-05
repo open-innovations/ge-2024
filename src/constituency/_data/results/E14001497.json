@@ -1,85 +1,85 @@
 {
-  "pcon24cd": "E14001497",
-  "pcon24nm": "South West Norfolk",
-  "total_votes": null,
-  "electorate": 72496,
-  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": null,
+  "electorate": 72496,
+  "last_updated": "2024-07-05T07:16:11.000Z",
+  "pcon24cd": "E14001497",
+  "pcon24nm": "South West Norfolk",
+  "total_votes": null,
+  "turnout_pct": null,
   "votes": [
     {
-      "person_id": "113660",
-      "person_name": "Toby McKenzie",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115964/fbc3decf-af9e-4978-b08d-b2c1620bb2cc.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "person_id": "113660",
+      "person_name": "Toby McKenzie",
+      "votes": 9958
     },
     {
-      "person_id": "113663",
-      "person_name": "James Bagge",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113663/f2efc49b-661f-45c3-aa5b-3423926d1352.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "person_id": "113663",
+      "person_name": "James Bagge",
+      "votes": 6282
     },
     {
-      "person_id": "188",
-      "person_name": "Liz Truss",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/188/6613307c-f209-4e0f-a770-e5ba601fce6a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "person_id": "188",
+      "person_name": "Liz Truss",
+      "votes": 11217
     },
     {
-      "person_id": "20757",
-      "person_name": "Terry Jermy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20757.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "person_id": "20757",
+      "person_name": "Terry Jermy",
+      "votes": 11847
     },
     {
-      "person_id": "33490",
-      "person_name": "Josie Ratcliffe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72035.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "person_id": "33490",
+      "person_name": "Josie Ratcliffe",
+      "votes": 2618
     },
     {
-      "person_id": "63688",
-      "person_name": "Pallavi Devulapalli",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/63688.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "person_id": "63688",
+      "person_name": "Pallavi Devulapalli",
+      "votes": 1838
     },
     {
-      "person_id": "72256",
-      "person_name": "Earl Elvis of East Anglia",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72256-0ef9cdcb-cc76-4d2b-83dc-0965a9f21e1e.png",
       "party_key": "other",
       "party_name": "The Official Monster Raving Loony Party",
-      "votes": null
+      "person_id": "72256",
+      "person_name": "Earl Elvis of East Anglia",
+      "votes": 338
     },
     {
-      "person_id": "74748",
-      "person_name": "Lorraine Douglas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74748/6fc0b4ae-c202-4ad9-93a3-93609c03baae.png",
       "party_key": "other",
       "party_name": "Communist Party of Britain",
-      "votes": null
+      "person_id": "74748",
+      "person_name": "Lorraine Douglas",
+      "votes": 77
     },
     {
-      "person_id": "96979",
-      "person_name": "Gary Conway",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96979/de53b894-00e1-4c8f-b5ff-bea8a3dbbd30.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": null
+      "person_id": "96979",
+      "person_name": "Gary Conway",
+      "votes": 160
     }
   ]
 }

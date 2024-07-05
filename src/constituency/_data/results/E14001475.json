@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 76758,
+  "last_updated": "2024-07-05T07:16:04.000Z",
   "pcon24cd": "E14001475",
   "pcon24nm": "Skipton and Ripon",
   "total_votes": 0,
-  "electorate": 76758,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:53:30.284Z",
   "votes": [
     {
-      "person_id": "108801",
-      "person_name": "Guy Phoenix",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108801/2f8b2a9c-5883-4632-bec8-7fc5c24d4816.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": 0
+      "person_id": "108801",
+      "person_name": "Guy Phoenix",
+      "votes": 158
     },
     {
-      "person_id": "116594",
-      "person_name": "Simon Garvey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116594/75e8fc93-5593-4f4b-b478-8802a63f1dac.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116594",
+      "person_name": "Simon Garvey",
+      "votes": 8516
     },
     {
-      "person_id": "16161",
-      "person_name": "Andrew Murday",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/16161.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "16161",
+      "person_name": "Andrew Murday",
+      "votes": 4194
     },
     {
-      "person_id": "2798",
-      "person_name": "Julian Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2798/3ccc1d89-dbf0-4625-9c0e-9a92b3de78e3.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "2798",
+      "person_name": "Julian Smith",
+      "votes": 18833
     },
     {
-      "person_id": "34668",
-      "person_name": "Andy Brown",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34668.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "34668",
+      "person_name": "Andy Brown",
+      "votes": 3446
     },
     {
-      "person_id": "5103",
-      "person_name": "Malcolm Birks",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5103/f2195539-a49a-4742-ac17-7da4b55606d5.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "5103",
+      "person_name": "Malcolm Birks",
+      "votes": 17183
     },
     {
-      "person_id": "71848",
-      "person_name": "Ryan Kett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71848/c78bb8b4-d3fb-478d-a7d4-682edf7615a4.png",
       "party_key": "other",
       "party_name": "Yorkshire Party",
-      "votes": 0
+      "person_id": "71848",
+      "person_name": "Ryan Kett",
+      "votes": 627
     },
     {
-      "person_id": "72741",
-      "person_name": "Keith Graham Tordoff",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72741-ce5bd6e0-8882-44e3-bbb6-3534dea58e71.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "72741",
+      "person_name": "Keith Graham Tordoff",
+      "votes": 493
     }
   ]
 }

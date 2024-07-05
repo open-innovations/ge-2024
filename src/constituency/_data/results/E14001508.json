@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 74585,
+  "last_updated": "2024-07-05T07:16:13.000Z",
   "pcon24cd": "E14001508",
   "pcon24nm": "St Austell and Newquay",
   "total_votes": 0,
-  "electorate": 74585,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:32:23.017Z",
   "votes": [
     {
-      "person_id": "115267",
-      "person_name": "Noah Law",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115267/29cdcd60-cf43-407a-b6be-13344562bcfb.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "115267",
+      "person_name": "Noah Law",
+      "votes": 15958
     },
     {
-      "person_id": "116441",
-      "person_name": "Stephen Beal",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116441/47f578f7-4cca-475c-b0f1-e641d24da300.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116441",
+      "person_name": "Stephen Beal",
+      "votes": 9212
     },
     {
-      "person_id": "32066",
-      "person_name": "Joanna Kenny",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/32066/9be087ff-af05-4998-a63f-236e44688aaa.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "32066",
+      "person_name": "Joanna Kenny",
+      "votes": 4805
     },
     {
-      "person_id": "4231",
-      "person_name": "Steve Double",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4231.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "4231",
+      "person_name": "Steve Double",
+      "votes": 13488
     },
     {
-      "person_id": "4804",
-      "person_name": "Amanda Pennington",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4804/0cc260e9-cf52-4f2d-9d7a-6effca8abf7c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "4804",
+      "person_name": "Amanda Pennington",
+      "votes": 2337
     },
     {
-      "person_id": "72463",
-      "person_name": "Jay Latham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72463/b5e4bb0c-12a8-4965-b49b-5fdb6863f08d.png",
       "party_key": "other",
       "party_name": "The Liberal Party",
-      "votes": 0
+      "person_id": "72463",
+      "person_name": "Jay Latham",
+      "votes": 490
     },
     {
-      "person_id": "83100",
-      "person_name": "Angie Rayner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83100/381477e5-5156-4b2a-b346-ae41234422b3.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "83100",
+      "person_name": "Angie Rayner",
+      "votes": 442
     }
   ]
 }

@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 71070,
+  "last_updated": "2024-07-05T07:16:10.000Z",
   "pcon24cd": "E14001494",
   "pcon24nm": "South Suffolk",
   "total_votes": 0,
-  "electorate": 71070,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:20:12.287Z",
   "votes": [
     {
-      "person_id": "113651",
-      "person_name": "Tom Bartleet",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113651/c7d9ca22-427f-4d61-bd0f-b2743a5ef1a2.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "113651",
+      "person_name": "Tom Bartleet",
+      "votes": 6424
     },
     {
-      "person_id": "1142",
-      "person_name": "Emma Bishton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1142/2360cf39-b9be-4194-958c-ecc327752477.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "1142",
+      "person_name": "Emma Bishton",
+      "votes": 13035
     },
     {
-      "person_id": "115962",
-      "person_name": "Bev England",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115962/3bdbb63e-6312-4125-a9b7-5b561a6b7372.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "115962",
+      "person_name": "Bev England",
+      "votes": 9252
     },
     {
-      "person_id": "4229",
-      "person_name": "James Cartlidge",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4229.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "4229",
+      "person_name": "James Cartlidge",
+      "votes": 16082
     },
     {
-      "person_id": "81793",
-      "person_name": "Jessie Kate Carter",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81793/9275f8ee-e5c2-437b-9632-216d5482f00a.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "81793",
+      "person_name": "Jessie Kate Carter",
+      "votes": 4008
     }
   ]
 }
