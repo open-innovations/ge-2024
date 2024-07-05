@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001411",
   "pcon24nm": "Nottingham North and Kimberley",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 74515,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T02:41:25.255Z",
   "votes": [
     {
       "person_id": "115918",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115918/33539b4c-d3d2-4a6b-88ab-3e1e9143832a.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117359",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117359/7936b81d-ffaa-4fc5-92ee-07c35b5f1767.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "34206",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34206/c97aad1c-0eb4-4f21-9b84-7085e1b7791a.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "73668",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/73668-147acb5a-1d2f-4842-a4a5-f619aa0fdba8.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "847",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/847.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     }
   ]
 }
