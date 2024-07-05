@@ -3,11 +3,11 @@
   "pcon24nm": "Torbay",
   "total_votes": 0,
   "electorate": 75742,
-  "turnout_pct": 0,
+  "turnout_pct": 61,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "02:59",
-  "last_updated": "2024-07-05T01:59:15.774Z",
+  "last_updated": "2024-07-05T02:07:00.363Z",
   "votes": [
     {
       "person_id": "106465",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106465/ca3ba2b0-4208-47e9-accd-6ee786a9264e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1420
     },
     {
       "person_id": "116456",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116456/3cd787b6-b0ea-44ef-8835-8918108b1f21.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 8660
     },
     {
       "person_id": "116717",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116717/66fcc703-7beb-47b6-a969-b29615991eca.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 3276
     },
     {
       "person_id": "2830",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2830.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 13588
     },
     {
       "person_id": "68629",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/68629/1ac1193f-37df-4931-a161-9caa62310b67.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "votes": 18937
     },
     {
       "person_id": "69043",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69043/73807f4b-4c9c-4167-9317-de4b8c75ac33.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 234
     }
   ]
 }
