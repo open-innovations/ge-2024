@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001269",
   "pcon24nm": "Harrogate and Knaresborough",
-  "total_votes": 0,
-  "electorate": 75800,
+  "total_votes": 52188,
+  "electorate": 77955,
   "turnout_pct": 67,
-  "confirmed": false,
+  "confirmed": true,
   "declaration_date": "2024-07-05",
   "declaration_time": "01:31",
-  "last_updated": "2024-07-05T00:31:46.793Z",
+  "last_updated": "2024-07-05T00:37:21.717Z",
   "votes": [
     {
       "person_id": "109247",
