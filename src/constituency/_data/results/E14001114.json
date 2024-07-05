@@ -1,68 +1,68 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:58",
+  "electorate": 75806,
+  "last_updated": "2024-07-05T06:40:52.000Z",
   "pcon24cd": "E14001114",
   "pcon24nm": "Boston and Skegness",
   "total_votes": 0,
-  "electorate": 75806,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:58",
-  "last_updated": "2024-07-05T02:58:05.191Z",
   "votes": [
     {
-      "person_id": "116788",
-      "person_name": "Alex Fawbert",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116788/bb0bc2de-8f1a-4692-b817-4dbc9d0571a9.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "116788",
+      "person_name": "Alex Fawbert",
+      "votes": 7629
     },
     {
-      "person_id": "24952",
-      "person_name": "Richard Gordon Lloyd",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/24952/28d26844-cbf4-4e63-b57c-33bb8a830fa9.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "24952",
+      "person_name": "Richard Gordon Lloyd",
+      "votes": 1375
     },
     {
-      "person_id": "34770",
-      "person_name": "Mike Gilbert",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34770/5aa5ba66-2960-4dea-afb6-fd48ecc96980.png",
       "party_key": "other",
       "party_name": "Blue Revolution",
-      "votes": 0
+      "person_id": "34770",
+      "person_name": "Mike Gilbert",
+      "votes": 397
     },
     {
-      "person_id": "5455",
-      "person_name": "Matt Warman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5455.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "5455",
+      "person_name": "Matt Warman",
+      "votes": 13510
     },
     {
-      "person_id": "57824",
-      "person_name": "Chris Moore",
       "image": "/assets/images/missing.svg",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "57824",
+      "person_name": "Chris Moore",
+      "votes": 1506
     },
     {
-      "person_id": "70546",
-      "person_name": "Richard Tice",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70546.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 1
+      "person_id": "70546",
+      "person_name": "Richard Tice",
+      "votes": 15520
     },
     {
-      "person_id": "96160",
-      "person_name": "David Dickason",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96160/d0c66b14-306d-4a6d-98ef-ec3afb4e4b4e.png",
       "party_key": "other",
       "party_name": "English Democrats",
-      "votes": 0
+      "person_id": "96160",
+      "person_name": "David Dickason",
+      "votes": 518
     }
   ]
 }

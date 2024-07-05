@@ -1,91 +1,91 @@
 {
+  "confirmed": false,
+  "electorate": 72150,
+  "last_updated": "2024-07-05T06:41:16.000Z",
   "pcon24cd": "E14001118",
   "pcon24nm": "Bradford East",
   "total_votes": 0,
-  "electorate": 72150,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:19:52.488Z",
   "votes": [
     {
-      "person_id": "102265",
-      "person_name": "Aubrey Holt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102265/863a20af-6261-4553-ab56-113be2df1ff5.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "102265",
+      "person_name": "Aubrey Holt",
+      "votes": 3450
     },
     {
-      "person_id": "107212",
-      "person_name": "Richard David Riley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/107212/c87285e7-1dbd-450f-b680-66d2fa1a53f6.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "107212",
+      "person_name": "Richard David Riley",
+      "votes": 65
     },
     {
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent",
       "person_id": "117416",
       "person_name": "Mohammed Sayfur Rahman",
+      "votes": 817
+    },
+    {
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
-    },
-    {
       "person_id": "117418",
       "person_name": "Amer Rehman",
-      "image": "/assets/images/missing.svg",
-      "party_key": "other",
-      "party_name": "Independent",
-      "votes": 0
+      "votes": 683
     },
     {
-      "person_id": "13570",
-      "person_name": "Talat Sajawal",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/13570/dff1680c-2ee2-43da-8405-2ff6c06c7e5d.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "13570",
+      "person_name": "Talat Sajawal",
+      "votes": 7909
     },
     {
-      "person_id": "41975",
-      "person_name": "Robert Michael St John O'Carroll",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/41975.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "41975",
+      "person_name": "Robert Michael St John O'Carroll",
+      "votes": 1910
     },
     {
-      "person_id": "4825",
-      "person_name": "Imran Hussain",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55180179249b917507bee542.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "4825",
+      "person_name": "Imran Hussain",
+      "votes": 14098
     },
     {
-      "person_id": "5112",
-      "person_name": "Celia Hickson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5112/2764138f-4e00-4e27-bf66-c00552946aa2.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "5112",
+      "person_name": "Celia Hickson",
+      "votes": 2571
     },
     {
-      "person_id": "82408",
-      "person_name": "Jacob Pereira Anstey",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "82408",
+      "person_name": "Jacob Pereira Anstey",
+      "votes": 4952
     },
     {
-      "person_id": "8353",
-      "person_name": "Lara Joy Barras",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/8353.png",
       "party_key": "other",
       "party_name": "Yorkshire Party",
-      "votes": 0
+      "person_id": "8353",
+      "person_name": "Lara Joy Barras",
+      "votes": 761
     }
   ]
 }

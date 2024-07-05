@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 74750,
+  "last_updated": "2024-07-05T06:39:24.000Z",
   "pcon24cd": "E14001243",
   "pcon24nm": "Gainsborough",
   "total_votes": 0,
-  "electorate": 74750,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:30:28.890Z",
   "votes": [
     {
-      "person_id": "3556",
-      "person_name": "Sir Edward Leigh",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3556.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "3556",
+      "person_name": "Sir Edward Leigh",
+      "votes": 16636
     },
     {
-      "person_id": "6821",
-      "person_name": "Lesley Rollings",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55489e69f1cad250106f2e5f.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "6821",
+      "person_name": "Lesley Rollings",
+      "votes": 5001
     },
     {
-      "person_id": "76994",
-      "person_name": "Tim Bray Mellors",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "76994",
+      "person_name": "Tim Bray Mellors",
+      "votes": 196
     },
     {
-      "person_id": "84140",
-      "person_name": "Jess McGuire",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84140-76388939-c06a-4b95-ae9e-f730a96e9edd.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "84140",
+      "person_name": "Jess McGuire",
+      "votes": 13104
     },
     {
-      "person_id": "902",
-      "person_name": "Pat O'Connor",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/902/593e2835-7c8e-4d93-b7e4-5abc9f0f213e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "902",
+      "person_name": "Pat O'Connor",
+      "votes": 9916
     },
     {
-      "person_id": "96805",
-      "person_name": "Vanessa Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96805/cc2d5659-5855-47ac-ab4f-bd5fee1b3e8c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "96805",
+      "person_name": "Vanessa Smith",
+      "votes": 1832
     }
   ]
 }

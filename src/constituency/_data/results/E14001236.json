@@ -1,93 +1,93 @@
 {
-  "pcon24cd": "E14001236",
-  "pcon24nm": "Feltham and Heston",
-  "total_votes": 0,
-  "electorate": 75226,
-  "turnout_pct": 0,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "03:33",
-  "last_updated": "2024-07-05T02:33:17.428Z",
+  "electorate": 75226,
+  "last_updated": "2024-07-05T06:38:38.000Z",
+  "pcon24cd": "E14001236",
+  "pcon24nm": "Feltham and Heston",
+  "total_votes": 0,
+  "turnout_pct": 0,
   "votes": [
     {
-      "person_id": "113824",
-      "person_name": "Dhruv Sengupta",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113824/02c1b8d9-adb6-41b5-a30f-4732b04295d4.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "113824",
+      "person_name": "Dhruv Sengupta",
+      "votes": 1821
     },
     {
-      "person_id": "116016",
-      "person_name": "Prabhdeep Singh",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116016/c600486f-e830-4a77-b384-919fbf951a6d.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116016",
+      "person_name": "Prabhdeep Singh",
+      "votes": 5130
     },
     {
-      "person_id": "116953",
-      "person_name": "Abdul Majid Tramboo",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116953/37672dd7-a997-4ee8-8777-9ea0cfbd73e7.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "116953",
+      "person_name": "Abdul Majid Tramboo",
+      "votes": 1658
     },
     {
+      "image": "/assets/images/missing.svg",
+      "party_key": "other",
+      "party_name": "Independent",
       "person_id": "117665",
       "person_name": "Ian Christopher Brown",
+      "votes": 454
+    },
+    {
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
-    },
-    {
       "person_id": "117666",
       "person_name": "Aysha Siddika Choudhury",
-      "image": "/assets/images/missing.svg",
-      "party_key": "other",
-      "party_name": "Independent",
-      "votes": 0
+      "votes": 373
     },
     {
-      "person_id": "47249",
-      "person_name": "Amrit Mann",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/47249/6e63f3e4-8f05-4405-9f5c-c75f60ec8ee5.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "47249",
+      "person_name": "Amrit Mann",
+      "votes": 2201
     },
     {
-      "person_id": "4892",
-      "person_name": "Seema Malhotra",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4892/78540346-fb57-4a14-9468-fc085a41cb4f.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "person_id": "4892",
+      "person_name": "Seema Malhotra",
+      "votes": 16139
     },
     {
-      "person_id": "84727",
-      "person_name": "Katharine Kandelaki",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84727/ba039f26-c5d2-4627-aac3-243051ddfe96.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "84727",
+      "person_name": "Katharine Kandelaki",
+      "votes": 2543
     },
     {
-      "person_id": "88373",
-      "person_name": "Damian Read",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88373/a6cb6ed9-01ba-4a8b-aa23-60da80307ebd.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "88373",
+      "person_name": "Damian Read",
+      "votes": 373
     },
     {
-      "person_id": "93218",
-      "person_name": "Reva Anil Gudi",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93218/39d62656-8ec8-41f2-85b0-54fd43198947.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "93218",
+      "person_name": "Reva Anil Gudi",
+      "votes": 8195
     }
   ]
 }

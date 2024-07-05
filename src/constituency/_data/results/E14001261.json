@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 69907,
+  "last_updated": "2024-07-05T06:40:52.000Z",
   "pcon24cd": "E14001261",
   "pcon24nm": "Halesowen",
   "total_votes": 0,
-  "electorate": 69907,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:04:38.665Z",
   "votes": [
     {
-      "person_id": "115544",
-      "person_name": "Alex Ballinger",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115544/4a54a3b2-11ae-40f3-8181-95bcee87204a.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "115544",
+      "person_name": "Alex Ballinger",
+      "votes": 15023
     },
     {
-      "person_id": "39179",
-      "person_name": "Ryan Ashley Priest",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/39179.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "39179",
+      "person_name": "Ryan Ashley Priest",
+      "votes": 2261
     },
     {
-      "person_id": "4011",
-      "person_name": "Jonathan Oakton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4011/a09ea833-44c2-4c9f-ba25-a13532c58a1b.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "4011",
+      "person_name": "Jonathan Oakton",
+      "votes": 8484
     },
     {
-      "person_id": "5714",
-      "person_name": "Emma Bullard",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5714.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "5714",
+      "person_name": "Emma Bullard",
+      "votes": 2151
     },
     {
-      "person_id": "729",
-      "person_name": "James Morris",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551b3b3413eb34c82843cb62.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "729",
+      "person_name": "James Morris",
+      "votes": 10659
     }
   ]
 }
