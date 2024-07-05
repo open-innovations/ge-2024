@@ -2,10 +2,10 @@
   "pcon24cd": "S14000096",
   "pcon24nm": "Lothian East",
   "total_votes": 0,
-  "electorate": 71287,
-  "turnout_pct": 0,
+  "electorate": 75456,
+  "turnout_pct": 64,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:13:41.933Z",
+  "last_updated": "2024-07-05T03:20:00.642Z",
   "votes": [
     {
       "person_id": "116249",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116249/0e89ed9d-b9cd-4361-a71e-4666e6f76373.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 3039
     },
     {
       "person_id": "116881",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116881/0074f65d-2b83-4155-a328-2e3d6c057f69.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 2649
     },
     {
       "person_id": "1814",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1814/ed864e73-a3cc-418b-9547-e2197a2a92e0.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "votes": 23555
     },
     {
       "person_id": "19827",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19827/50fa9612-79ec-4e65-ac17-7fcad6b58ea0.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 5535
     },
     {
       "person_id": "838",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553be5f1ec0766d3759c0468.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": 0
+      "votes": 557
     },
     {
       "person_id": "84818",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84818/0d0f9d32-6660-4b68-bf1f-f6edc0d063cd.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "votes": 10290
     },
     {
       "person_id": "84830",
@@ -61,7 +61,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84830/105ea30e-072d-4ed2-9cf4-17eb934c3878.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "votes": 2477
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
