@@ -1,11 +1,11 @@
 {
   "pcon24cd": "E14001434",
   "pcon24nm": "Putney",
-  "total_votes": 0,
+  "total_votes": 42737,
   "electorate": 73041,
-  "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T01:28:55.267Z",
+  "turnout_pct": 59,
+  "confirmed": true,
+  "last_updated": "2024-07-05T01:31:20.867Z",
   "votes": [
     {
       "person_id": "116056",
