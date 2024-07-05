@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001391",
   "pcon24nm": "North East Derbyshire",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 72344,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T03:48:22.025Z",
   "votes": [
     {
       "person_id": "109282",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109282/5b1dc0be-4472-40a8-9d89-94e7e7500310.png",
       "party_key": "other",
       "party_name": "Freedom Alliance",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "2207",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2207/5b8d2455-961f-4954-953e-a8143ad73648.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "30833",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/30833/0ee89515-3945-4ab1-aaa9-c0a5c9780fe2.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "65433",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/81920-092cf9dc-95de-4c85-9a3e-e33fb967b6f9.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "99321",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99321/ed44f28c-eb37-427c-93ad-97a1493f2ee3.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "99716",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99716/00ddf57e-b591-4dd8-9915-d5d67372209f.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     }
   ]
 }
