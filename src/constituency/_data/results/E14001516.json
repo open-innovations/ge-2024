@@ -3,9 +3,9 @@
   "pcon24nm": "Stevenage",
   "total_votes": 0,
   "electorate": 70370,
-  "turnout_pct": 0,
+  "turnout_pct": 61,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:47:36.786Z",
+  "last_updated": "2024-07-05T02:05:22.902Z",
   "votes": [
     {
       "person_id": "103034",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/103034/aa9f086d-6179-46a6-b5cc-43c77921d642.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 11080
     },
     {
       "person_id": "105736",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105736/dbf87e9f-0802-479c-ad8e-61c902468e0d.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2655
     },
     {
       "person_id": "113679",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113679/ffd2a522-37c8-4601-b75e-7ef040f1f2c5.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 7667
     },
     {
       "person_id": "117052",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117052/2ab234fd-69b2-482f-a250-3ae19146c902.png",
       "party_key": "other",
       "party_name": "Christian Peoples Alliance",
-      "votes": 0
+      "votes": 148
     },
     {
       "person_id": "36171",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/36171-7cd0f303-968c-413a-b931-1e7d30cc50b4.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 3467
     },
     {
       "person_id": "788",
@@ -53,7 +53,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/788.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 17698
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "03:03"
 }
