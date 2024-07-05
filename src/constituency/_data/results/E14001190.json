@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001190",
   "pcon24nm": "Darlington",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70446,
-  "turnout_pct": null,
+  "turnout_pct": 60,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "01:51",
+  "last_updated": "2024-07-05T00:51:48.336Z",
   "votes": [
     {
       "person_id": "102296",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116828/6496c16c-805c-4280-843c-158be543a6f6.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 6852
     },
     {
       "person_id": "34359",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34359/007e16c1-5db5-4392-a6d0-eb38b73f138b.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 16621
     },
     {
       "person_id": "34517",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34517.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 14323
     },
     {
       "person_id": "34986",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34986/ce98efa2-15a9-48ce-90a7-9b044a2ba43e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 2847
     },
     {
       "person_id": "46334",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106327/01f78a6f-6b43-4511-b15e-fc26c2847e1a.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1735
     }
   ]
 }
