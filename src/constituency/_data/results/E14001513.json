@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001513",
   "pcon24nm": "Stafford",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70537,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T02:47:20.241Z",
   "votes": [
     {
       "person_id": "102766",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102766/2c0f2258-aa3a-4011-98c4-27609bc0b63a.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "103581",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/103581/8aff0e38-a4a9-4a20-9a06-b149939dd4ad.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "117572",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117572/ba4ba3be-e507-4907-9a00-26451495ee77.png",
       "party_key": "other",
       "party_name": "The Official Monster Raving Loony Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "3488",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/76128-6a07a5d6-bd2e-40a4-8f73-aa725ae23b43.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4168",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4168.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "74209",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102749/c5146b9e-e42f-4956-868f-e3bf8e853ea2.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "75766",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75766/ec539685-9143-4e00-9751-e1f511df7490.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
