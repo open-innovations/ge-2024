@@ -1,11 +1,11 @@
 {
-  "confirmed": false,
-  "electorate": 0,
-  "last_updated": "2024-07-05T07:05:30.000Z",
+  "confirmed": true,
+  "electorate": 68988,
+  "last_updated": "2024-07-05T14:29:09.658Z",
   "pcon24cd": "S14000084",
   "pcon24nm": "Glasgow East",
   "total_votes": 0,
-  "turnout_pct": 0,
+  "turnout_pct": 51,
   "votes": [
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114572/38c4adbb-3b14-465b-ba11-4cd441444e39.png",
