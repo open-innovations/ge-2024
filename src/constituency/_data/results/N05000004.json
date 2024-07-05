@@ -1,13 +1,11 @@
 {
   "pcon24cd": "N05000004",
   "pcon24nm": "Belfast West",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 71921,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T04:36:27.008Z",
   "votes": [
     {
       "person_id": "117109",
@@ -15,15 +13,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117109/e5df347d-055e-4818-ac48-c67928340b24.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4603",
       "person_name": "Paul Maskey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4603.png",
       "party_key": "sf",
-      "party_name": "Sinn F\u00e9in",
-      "votes": null
+      "party_name": "Sinn Féin",
+      "votes": 1
     },
     {
       "person_id": "69199",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69199-53ffdae0-a98e-4d24-8bfc-f55147d2c5a9.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7174",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7174.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7199",
@@ -47,15 +45,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7199-afa884d7-9a95-4256-a4de-19502dc129eb.png",
       "party_key": "other",
       "party_name": "People Before Profit",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "84445",
       "person_name": "Gerard Herdman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84445-55a58191-56cd-45ea-ad32-bb6712b06da4.png",
       "party_key": "other",
-      "party_name": "Aont\u00fa",
-      "votes": null
+      "party_name": "Aontú",
+      "votes": 0
     },
     {
       "person_id": "84451",
@@ -63,15 +61,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117733/52c78f33-169b-40ed-a9d8-a44e5c576d42.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95765",
-      "person_name": "E\u00f3in Millar",
+      "person_name": "Eóin Millar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95765/cf029c62-313d-4b7e-b7e2-860adddf702f.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95766",
@@ -79,7 +77,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95766/f94d5597-e145-42e1-80e5-eb4c7e2a4e55.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95951",
@@ -87,7 +85,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95951/7684afbf-d442-4b9b-a7c8-0af622495719.png",
       "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
-      "votes": null
+      "votes": 0
     }
   ]
 }
