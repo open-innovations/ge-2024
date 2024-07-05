@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001190",
   "pcon24nm": "Darlington",
-  "total_votes": 0,
-  "electorate": 70446,
+  "total_votes": 42499,
+  "electorate": 70672,
   "turnout_pct": 60,
-  "confirmed": false,
+  "confirmed": true,
   "declaration_date": "2024-07-05",
   "declaration_time": "01:51",
-  "last_updated": "2024-07-05T00:51:48.336Z",
+  "last_updated": "2024-07-05T01:02:18.453Z",
   "votes": [
     {
       "person_id": "102296",
