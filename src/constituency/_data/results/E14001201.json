@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001201",
   "pcon24nm": "Dorking and Horley",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70317,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T03:22:56.722Z",
   "votes": [
     {
       "person_id": "114776",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116296/356fe80c-e885-4482-b77e-fca3ed922182.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116297",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116297/50bfd931-6472-4d66-a978-7662450630a1.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "11731",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/11731-f4bd34ff-0fb2-440b-b842-9c37751b7cc3.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "34811",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34811-cc1542ae-b4e0-4f16-9b31-178ae79bf1fa.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "55839",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/55839/1a05e20c-684c-40be-8fd8-2e9d3b2a0df9.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
