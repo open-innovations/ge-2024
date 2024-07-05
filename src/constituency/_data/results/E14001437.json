@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001437",
   "pcon24nm": "Rayleigh and Wickford",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 76422,
-  "turnout_pct": null,
+  "turnout_pct": 63,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "01:42",
+  "last_updated": "2024-07-05T00:43:01.098Z",
   "votes": [
     {
       "person_id": "110181",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110181/9eab7113-eee8-4e65-8e6f-a14e6fcf07d3.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 2196
     },
     {
       "person_id": "42933",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/42933/1212fbb8-af6f-4164-9c66-bcc434fa96da.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 4068
     },
     {
       "person_id": "449",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/449/92142d4d-57d8-40cc-936e-a9fff4e6e4f6.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 17756
     },
     {
       "person_id": "77257",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77257/251c4a74-f732-49f8-88bb-d0b6baede5a9.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 11823
     },
     {
       "person_id": "99153",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99153/3c6ba95e-796d-4e24-aba1-e18282840cc5.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 12135
     }
   ]
 }
