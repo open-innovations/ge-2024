@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 71595,
+  "last_updated": "2024-07-05T06:54:27.000Z",
   "pcon24cd": "E14001418",
   "pcon24nm": "Ossett and Denby Dale",
   "total_votes": 0,
-  "electorate": 71595,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:46:02.800Z",
   "votes": [
     {
-      "person_id": "109922",
-      "person_name": "Sandra Senior",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116601/936e1b20-2a59-4edc-a1c0-5894ff27ff5f.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "109922",
+      "person_name": "Sandra Senior",
+      "votes": 9224
     },
     {
-      "person_id": "115841",
-      "person_name": "Jade Botterill",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115841/7506ea02-2e2d-49e3-a8c9-f795efebd556.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "115841",
+      "person_name": "Jade Botterill",
+      "votes": 17232
     },
     {
-      "person_id": "116602",
-      "person_name": "Neil Doig",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116602/4c5b7ada-222b-44b6-9244-15b5362c4e82.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "116602",
+      "person_name": "Neil Doig",
+      "votes": 2132
     },
     {
-      "person_id": "44841",
-      "person_name": "David John Rowntree Herdson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/44841/fe7e4db7-7c39-4954-acb1-f8a62c3fbb43.png",
       "party_key": "other",
       "party_name": "Yorkshire Party",
-      "votes": 0
+      "person_id": "44841",
+      "person_name": "David John Rowntree Herdson",
+      "votes": 810
     },
     {
-      "person_id": "8639",
-      "person_name": "James Wilkinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71489-0dec0b1a-bac3-459f-a752-ccdbab89554c.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "8639",
+      "person_name": "James Wilkinson",
+      "votes": 1785
     },
     {
-      "person_id": "8640",
-      "person_name": "Mark Eastwood",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/8640.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "8640",
+      "person_name": "Mark Eastwood",
+      "votes": 12690
     }
   ]
 }

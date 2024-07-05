@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 74345,
+  "last_updated": "2024-07-05T06:53:35.000Z",
   "pcon24cd": "E14001203",
   "pcon24nm": "Droitwich and Evesham",
   "total_votes": 0,
-  "electorate": 74345,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:01:40.020Z",
   "votes": [
     {
-      "person_id": "104423",
-      "person_name": "Sam Bastow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/104423/b698e3b5-5d83-42e7-8576-cceab61409c9.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "104423",
+      "person_name": "Sam Bastow",
+      "votes": 9456
     },
     {
-      "person_id": "116523",
-      "person_name": "Andrew Flaxman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116523/29e8d294-52b0-4a94-bf5f-a173dee31138.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116523",
+      "person_name": "Andrew Flaxman",
+      "votes": 239
     },
     {
-      "person_id": "2493",
-      "person_name": "Nigel Huddleston",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5506ff245399523471f7e1a7.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "2493",
+      "person_name": "Nigel Huddleston",
+      "votes": 19975
     },
     {
-      "person_id": "62836",
-      "person_name": "Oliver Walker",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/62836/9e0b13fd-6e89-4b78-aaa9-a5edf111e23e.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "62836",
+      "person_name": "Oliver Walker",
+      "votes": 5131
     },
     {
-      "person_id": "6445",
-      "person_name": "Neil Franks",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6445/5ce72b13-2189-46ef-960a-90dc981be6b1.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "6445",
+      "person_name": "Neil Franks",
+      "votes": 3828
     },
     {
-      "person_id": "96726",
-      "person_name": "Chipiliro Kalebe-Nyamongo",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96726/dfcb60a3-e647-4b70-8f1c-e541aa4c3419.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "96726",
+      "person_name": "Chipiliro Kalebe-Nyamongo",
+      "votes": 10980
     }
   ]
 }

@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 75814,
+  "last_updated": "2024-07-05T06:54:27.000Z",
   "pcon24cd": "E14001430",
   "pcon24nm": "Poplar and Limehouse",
   "total_votes": 0,
-  "electorate": 75814,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:28:14.644Z",
   "votes": [
     {
-      "person_id": "109133",
-      "person_name": "Tony Glover",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116054/b637d334-06af-499d-8ebd-10f23a3967fc.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "109133",
+      "person_name": "Tony Glover",
+      "votes": 3403
     },
     {
-      "person_id": "109368",
-      "person_name": "Manny Lawal",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109368/a4d921b5-8797-41b5-a878-df0631e078b6.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "109368",
+      "person_name": "Manny Lawal",
+      "votes": 194
     },
     {
-      "person_id": "116055",
-      "person_name": "Kamran Khan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116055/64f1752b-b330-4054-8d1d-d0332159982b.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "116055",
+      "person_name": "Kamran Khan",
+      "votes": 1463
     },
     {
-      "person_id": "34484",
-      "person_name": "Richard Flowers",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34484.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "34484",
+      "person_name": "Richard Flowers",
+      "votes": 4189
     },
     {
-      "person_id": "40023",
-      "person_name": "Ehtashamul Haque",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40023/2e1e9479-312c-40c3-889e-2e9daa5fb1b1.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "40023",
+      "person_name": "Ehtashamul Haque",
+      "votes": 4554
     },
     {
-      "person_id": "71587",
-      "person_name": "Apsana Begum",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71587.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "71587",
+      "person_name": "Apsana Begum",
+      "votes": 18535
     },
     {
-      "person_id": "83852",
-      "person_name": "Nathalie Bienfait",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83852/c70bbf7f-0943-4011-9e5e-92e4932264b0.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "83852",
+      "person_name": "Nathalie Bienfait",
+      "votes": 5975
     },
     {
-      "person_id": "93629",
-      "person_name": "Freddie Downing",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93629/59703e1d-2139-4ab4-895e-031f1536dd28.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "93629",
+      "person_name": "Freddie Downing",
+      "votes": 4738
     }
   ]
 }

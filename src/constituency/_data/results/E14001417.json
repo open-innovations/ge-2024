@@ -1,60 +1,60 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:34",
+  "electorate": 71571,
+  "last_updated": "2024-07-05T06:54:10.000Z",
   "pcon24cd": "E14001417",
   "pcon24nm": "Orpington",
   "total_votes": 0,
-  "electorate": 71571,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:34",
-  "last_updated": "2024-07-05T02:34:57.410Z",
   "votes": [
     {
-      "person_id": "116052",
-      "person_name": "Mark Bradley James",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116052/b8bf2186-d1e3-4361-83e8-f201dbd817f1.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116052",
+      "person_name": "Mark Bradley James",
+      "votes": 8896
     },
     {
-      "person_id": "116868",
-      "person_name": "John Hunter Bright",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116868/14266000-8724-43e1-8e48-ba4b8e7ad9a9.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116868",
+      "person_name": "John Hunter Bright",
+      "votes": 240
     },
     {
-      "person_id": "36730",
-      "person_name": "Graeme Casey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/36730/1ca1ae3a-af34-4124-b53a-ab6b9ba252cb.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "36730",
+      "person_name": "Graeme Casey",
+      "votes": 4728
     },
     {
-      "person_id": "72383",
-      "person_name": "Seamus McCauley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72383/9dfbbaa2-1f90-436a-b364-c467930ba1f6.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "72383",
+      "person_name": "Seamus McCauley",
+      "votes": 2319
     },
     {
-      "person_id": "7822",
-      "person_name": "Gareth Bacon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7822.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "7822",
+      "person_name": "Gareth Bacon",
+      "votes": 17504
     },
     {
-      "person_id": "93567",
-      "person_name": "Ju Owens",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93567/e4440c08-4740-4519-bf2f-e561c798d9fb.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "93567",
+      "person_name": "Ju Owens",
+      "votes": 12386
     }
   ]
 }

@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 70083,
+  "last_updated": "2024-07-05T06:53:35.000Z",
   "pcon24cd": "E14001210",
   "pcon24nm": "Earley and Woodley",
   "total_votes": 0,
-  "electorate": 70083,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:53:30.442Z",
   "votes": [
     {
-      "person_id": "112118",
-      "person_name": "Gary Shacklady",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/112118/6a54ad97-402f-4b69-87d9-0228c0e11b98.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "112118",
+      "person_name": "Gary Shacklady",
+      "votes": 3418
     },
     {
-      "person_id": "114785",
-      "person_name": "Yuan Yang",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114785/cb8a9445-c510-4646-962c-28d1816c4df1.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "114785",
+      "person_name": "Yuan Yang",
+      "votes": 18209
     },
     {
-      "person_id": "116298",
-      "person_name": "Alastair Hunter",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116298",
+      "person_name": "Alastair Hunter",
+      "votes": 784
     },
     {
-      "person_id": "18303",
-      "person_name": "Pauline Alison Jorgensen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/18303/823863d1-e073-4786-9c85-6cc67db90759.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "18303",
+      "person_name": "Pauline Alison Jorgensen",
+      "votes": 17361
     },
     {
-      "person_id": "19398",
-      "person_name": "Tahir Maher",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19398/aa15d2df-ed7a-4f50-a756-22a77245ff86.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "19398",
+      "person_name": "Tahir Maher",
+      "votes": 6142
     }
   ]
 }

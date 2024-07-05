@@ -1,60 +1,60 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:33",
+  "electorate": 69921,
+  "last_updated": "2024-07-05T06:55:48.000Z",
   "pcon24cd": "E14001441",
   "pcon24nm": "Redditch",
   "total_votes": 0,
-  "electorate": 69921,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:33",
-  "last_updated": "2024-07-05T02:33:03.649Z",
   "votes": [
     {
-      "person_id": "116534",
-      "person_name": "Julie Allison",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116534/73f6c409-034c-4f88-b7bc-6c6c1b97a037.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116534",
+      "person_name": "Julie Allison",
+      "votes": 8516
     },
     {
-      "person_id": "25161",
-      "person_name": "Christopher James Bloore",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/25161/0a36bc00-76d6-4bb9-ad8b-4a210783e9b0.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "25161",
+      "person_name": "Christopher James Bloore",
+      "votes": 14810
     },
     {
-      "person_id": "27690",
-      "person_name": "David Frank Oliver Thain",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/27690/1e79d1e4-ccbf-4581-abed-71ea19593a74.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "27690",
+      "person_name": "David Frank Oliver Thain",
+      "votes": 2098
     },
     {
-      "person_id": "4161",
-      "person_name": "Rachel Maclean",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4161/fda8fd12-43e2-4efc-9809-068ca9b90ada.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "4161",
+      "person_name": "Rachel Maclean",
+      "votes": 14021
     },
     {
-      "person_id": "90492",
-      "person_name": "Andrew Paul Fieldsend-Roxborough",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90492/589a0e18-8cf4-4e7d-93c0-6f9884367571.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "90492",
+      "person_name": "Andrew Paul Fieldsend-Roxborough",
+      "votes": 2165
     },
     {
-      "person_id": "98925",
-      "person_name": "Amin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116535/1842e60e-a453-4bbb-ae78-e95a61aa9297.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "98925",
+      "person_name": "Amin",
+      "votes": 765
     }
   ]
 }

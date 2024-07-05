@@ -1,76 +1,76 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:29",
+  "electorate": 76720,
+  "last_updated": "2024-07-05T06:54:27.000Z",
   "pcon24cd": "E14001424",
   "pcon24nm": "Penrith and Solway",
   "total_votes": 0,
-  "electorate": 76720,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:29",
-  "last_updated": "2024-07-05T02:29:03.076Z",
   "votes": [
     {
-      "person_id": "116167",
-      "person_name": "Shaun Long",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116167/5070ccba-26ca-4872-89d0-ed66dc8699e4.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116167",
+      "person_name": "Shaun Long",
+      "votes": 156
     },
     {
-      "person_id": "116168",
-      "person_name": "Matthew Moody",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116168/5c0385e3-61d5-4339-8660-ea4a968d1e70.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116168",
+      "person_name": "Matthew Moody",
+      "votes": 7624
     },
     {
-      "person_id": "116169",
-      "person_name": "Susan Denham-Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116169/cf698364-b961-4029-947a-8f034354afc7.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "116169",
+      "person_name": "Susan Denham-Smith",
+      "votes": 1730
     },
     {
-      "person_id": "117312",
-      "person_name": "Chris Johnston",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117312/c7b7e010-a19b-4138-a399-9f529533d462.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117312",
+      "person_name": "Chris Johnston",
+      "votes": 195
     },
     {
-      "person_id": "4926",
-      "person_name": "Mark Jenkinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4926/4f44cb9e-001e-4aa0-8b35-2d98e9986ddc.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "4926",
+      "person_name": "Mark Jenkinson",
+      "votes": 14729
     },
     {
-      "person_id": "54576",
-      "person_name": "Markus Campbell-Savours",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/54576/f74b31f7-518a-4fba-8c1e-0329e1469103.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "54576",
+      "person_name": "Markus Campbell-Savours",
+      "votes": 19986
     },
     {
-      "person_id": "71351",
-      "person_name": "Julia Aglionby",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71351/dd1f02c8-1bd7-48b6-87a0-d92c2666556c.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "71351",
+      "person_name": "Julia Aglionby",
+      "votes": 4742
     },
     {
-      "person_id": "7416",
-      "person_name": "Roy Ivinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7416.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "7416",
+      "person_name": "Roy Ivinson",
+      "votes": 119
     }
   ]
 }

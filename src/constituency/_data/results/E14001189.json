@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 73627,
+  "last_updated": "2024-07-05T06:51:29.000Z",
   "pcon24cd": "E14001189",
   "pcon24nm": "Dagenham and Rainham",
   "total_votes": 0,
-  "electorate": 73627,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:14:34.504Z",
   "votes": [
     {
-      "person_id": "116001",
-      "person_name": "Kevin Godfrey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116001/91431ffb-6720-4377-b822-0668d1b6b1df.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116001",
+      "person_name": "Kevin Godfrey",
+      "votes": 9398
     },
     {
-      "person_id": "117736",
-      "person_name": "Francesca Rose Flack",
       "image": "/assets/images/missing.svg",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "117736",
+      "person_name": "Francesca Rose Flack",
+      "votes": 1033
     },
     {
-      "person_id": "38841",
-      "person_name": "Margaret Mullane",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/38841/33f5237f-27d1-4bef-ac36-709185e099a9.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "38841",
+      "person_name": "Margaret Mullane",
+      "votes": 16571
     },
     {
-      "person_id": "41711",
-      "person_name": "Kim Arrowsmith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/41711/4bc4d802-7224-4598-a585-19656bc664a7.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "41711",
+      "person_name": "Kim Arrowsmith",
+      "votes": 4184
     },
     {
-      "person_id": "7364",
-      "person_name": "Terence London",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7364.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "7364",
+      "person_name": "Terence London",
+      "votes": 755
     },
     {
-      "person_id": "92424",
-      "person_name": "Sam Holland",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95540/45d518da-3caf-4276-9804-ae995dc01c10.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "92424",
+      "person_name": "Sam Holland",
+      "votes": 6926
     }
   ]
 }

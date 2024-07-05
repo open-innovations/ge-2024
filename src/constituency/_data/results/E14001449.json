@@ -1,60 +1,60 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:35",
+  "electorate": 73831,
+  "last_updated": "2024-07-05T06:56:04.000Z",
   "pcon24cd": "E14001449",
   "pcon24nm": "Romsey and Southampton North",
   "total_votes": 0,
-  "electorate": 73831,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:35",
-  "last_updated": "2024-07-05T02:36:02.087Z",
   "votes": [
     {
-      "person_id": "102371",
-      "person_name": "Christie Lambert",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102371/fd2e35f7-5bf5-46b7-bc0f-c0ecf96063a9.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "102371",
+      "person_name": "Christie Lambert",
+      "votes": 4640
     },
     {
-      "person_id": "1123",
-      "person_name": "Caroline Nokes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5534f024b247335574a42e17.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "1123",
+      "person_name": "Caroline Nokes",
+      "votes": 19893
     },
     {
-      "person_id": "117765",
-      "person_name": "Paul Barrett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117765/a64c24ab-f792-489a-9252-00dfb478a2ff.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117765",
+      "person_name": "Paul Barrett",
+      "votes": 5716
     },
     {
-      "person_id": "117766",
-      "person_name": "Fennie Yap",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117766/cec99be8-34ed-4fd4-b909-b30613874d4f.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117766",
+      "person_name": "Fennie Yap",
+      "votes": 183
     },
     {
-      "person_id": "47295",
-      "person_name": "Geoff Cooper",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/47295/c3404db2-3421-4806-8c11-a825a4673a36.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "47295",
+      "person_name": "Geoff Cooper",
+      "votes": 17702
     },
     {
-      "person_id": "77806",
-      "person_name": "Connor Edward Shaw",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77806/42298f63-c104-41ce-9c87-9dfc5c74b7aa.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "77806",
+      "person_name": "Connor Edward Shaw",
+      "votes": 1893
     }
   ]
 }

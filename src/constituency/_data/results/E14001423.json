@@ -1,52 +1,52 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:50",
+  "electorate": 71377,
+  "last_updated": "2024-07-05T06:54:27.000Z",
   "pcon24cd": "E14001423",
   "pcon24nm": "Penistone and Stocksbridge",
   "total_votes": 0,
-  "electorate": 71377,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:50",
-  "last_updated": "2024-07-05T02:50:52.302Z",
   "votes": [
     {
-      "person_id": "116712",
-      "person_name": "Andy Davies",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116712/bac5d8d0-749d-4b0b-99c3-45d304aacdfc.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "116712",
+      "person_name": "Andy Davies",
+      "votes": 2044
     },
     {
-      "person_id": "39427",
-      "person_name": "Miriam Cates",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/39427/7e01805e-f6f5-4123-9ec2-3c5608cf544a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "39427",
+      "person_name": "Miriam Cates",
+      "votes": 10430
     },
     {
-      "person_id": "76261",
-      "person_name": "Edward Dillingham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76261/0c62df1f-39c2-4ca3-9084-62983c24590a.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "76261",
+      "person_name": "Edward Dillingham",
+      "votes": 9456
     },
     {
-      "person_id": "82048",
-      "person_name": "Rob Reiss",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/82048/32607c3b-4885-4777-a9ff-770982013836.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "82048",
+      "person_name": "Rob Reiss",
+      "votes": 2866
     },
     {
-      "person_id": "8802",
-      "person_name": "Marie Tidball",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/8802.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "8802",
+      "person_name": "Marie Tidball",
+      "votes": 19169
     }
   ]
 }

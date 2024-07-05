@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 70226,
+  "last_updated": "2024-07-05T06:51:59.000Z",
   "pcon24cd": "E14001196",
   "pcon24nm": "Dewsbury and Batley",
   "total_votes": 0,
-  "electorate": 70226,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:50:29.056Z",
   "votes": [
     {
-      "person_id": "107295",
-      "person_name": "Johnathan Robert Thackray",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116569/255e6ce3-b88a-4c56-8aa5-e8bd8e5a7b7c.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "107295",
+      "person_name": "Johnathan Robert Thackray",
+      "votes": 6152
     },
     {
-      "person_id": "116853",
-      "person_name": "Heather Iqbal",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116853/6ed65013-23b3-4ff9-a47a-9b0d09427e44.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "116853",
+      "person_name": "Heather Iqbal",
+      "votes": 8707
     },
     {
-      "person_id": "117203",
-      "person_name": "Iqbal Hussain Mohamed",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117203/8cda5dc6-6e14-4676-bbc8-d32327478d29.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 1
+      "person_id": "117203",
+      "person_name": "Iqbal Hussain Mohamed",
+      "votes": 15641
     },
     {
-      "person_id": "53769",
-      "person_name": "John Edward Rossington",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71793-412e5bbf-2185-4ec5-a8dc-f687c82f13b3.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "53769",
+      "person_name": "John Edward Rossington",
+      "votes": 1340
     },
     {
-      "person_id": "8644",
-      "person_name": "Simon Cope",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116862/7385910d-b5cd-480d-9419-5c44d85c090b.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "8644",
+      "person_name": "Simon Cope",
+      "votes": 2048
     },
     {
-      "person_id": "87559",
-      "person_name": "Lalit Suryawanshi",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116852/c5cdc0d9-d3be-4550-9b2b-5d3005dfbd53.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "87559",
+      "person_name": "Lalit Suryawanshi",
+      "votes": 4182
     }
   ]
 }

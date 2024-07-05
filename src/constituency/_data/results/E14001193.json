@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 71876,
+  "last_updated": "2024-07-05T06:51:59.000Z",
   "pcon24cd": "E14001193",
   "pcon24nm": "Derby North",
   "total_votes": 0,
-  "electorate": 71876,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T02:57:56.973Z",
   "votes": [
     {
-      "person_id": "35499",
-      "person_name": "John Nicholas Sweeney",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35499/dcd38a1f-ed17-42ab-a8be-b104e61be5b1.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "35499",
+      "person_name": "John Nicholas Sweeney",
+      "votes": 1822
     },
     {
-      "person_id": "4183",
-      "person_name": "Amanda Solloway",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e721b150e238702c04eb.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "4183",
+      "person_name": "Amanda Solloway",
+      "votes": 9704
     },
     {
-      "person_id": "4333",
-      "person_name": "Catherine Atkinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4333/0c9df53f-4790-4b15-9fd1-e463e907d384.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "4333",
+      "person_name": "Catherine Atkinson",
+      "votes": 18619
     },
     {
-      "person_id": "71878",
-      "person_name": "Helen Hitchcock",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71878.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "71878",
+      "person_name": "Helen Hitchcock",
+      "votes": 3286
     },
     {
-      "person_id": "72513",
-      "person_name": "Timothy Prosser",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74208-d1a2bed4-5beb-4f52-b1d7-afc39b1e73e1.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "72513",
+      "person_name": "Timothy Prosser",
+      "votes": 7488
     }
   ]
 }
