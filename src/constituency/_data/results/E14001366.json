@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001366",
   "pcon24nm": "Mid Sussex",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 72255,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T04:14:07.379Z",
   "votes": [
     {
       "person_id": "32071",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/32071/0ca2de34-db50-4815-be72-3ba1d87578b1.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "34677",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34677.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "59103",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116340/a5c8f9bc-01a8-4064-9958-5c6b544d4b6e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "71887",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71887.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7420",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7420.png",
       "party_key": "other",
       "party_name": "The Official Monster Raving Loony Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "965",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/965/57ce4da8-9d26-4e3a-a521-dba47252d39c.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
