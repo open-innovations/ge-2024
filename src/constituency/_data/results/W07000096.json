@@ -5,7 +5,7 @@
   "electorate": 72533,
   "turnout_pct": 0,
   "confirmed": false,
-  "last_updated": "2024-07-05T03:36:42.697Z",
+  "last_updated": "2024-07-05T03:36:43.582Z",
   "votes": [
     {
       "person_id": "115403",
@@ -63,5 +63,6 @@
       "party_name": "Reform UK",
       "votes": 0
     }
-  ]
+  ],
+  "declaration_time": "04:36"
 }
