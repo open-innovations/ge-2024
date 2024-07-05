@@ -6,7 +6,7 @@
   "turnout_pct": 0,
   "confirmed": false,
   "declaration_time": "04:07",
-  "last_updated": "2024-07-05T03:07:21.066Z",
+  "last_updated": "2024-07-05T03:10:00.688Z",
   "votes": [
     {
       "person_id": "113685",
@@ -14,7 +14,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115971/5d60fee3-dd9d-4fd1-8a6e-fcf7013167ea.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 1
     },
     {
       "person_id": "117289",
@@ -38,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/58120/d12ecc59-6315-4fcd-9119-1c837dd38fef.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 1
+      "votes": 0
     },
     {
       "person_id": "84",
