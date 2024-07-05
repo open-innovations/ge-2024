@@ -3,11 +3,11 @@
   "pcon24nm": "Easington",
   "total_votes": 0,
   "electorate": 70043,
-  "turnout_pct": 0,
+  "turnout_pct": 50,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "02:47",
-  "last_updated": "2024-07-05T01:47:58.021Z",
+  "last_updated": "2024-07-05T01:56:12.002Z",
   "votes": [
     {
       "person_id": "116101",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116101/5c78fa67-25e5-452c-becc-fa151ae75acc.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 10232
     },
     {
       "person_id": "116846",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116846/ff220c36-eaa4-4436-b0e6-9aedeb3db12e.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 811
     },
     {
       "person_id": "1365",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1365.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 16774
     },
     {
       "person_id": "24148",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77839/87e137be-b259-4d56-aa32-25fc204f40ab.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1173
     },
     {
       "person_id": "30943",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/30943/ab785e83-75bf-4211-9336-6ffdf06b2e0a.png",
       "party_key": "other",
       "party_name": "The North East Party",
-      "votes": 0
+      "votes": 1581
     },
     {
       "person_id": "79308",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79308/57fcc822-5131-4a84-bd56-a4083c326236.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 3753
     }
   ]
 }
