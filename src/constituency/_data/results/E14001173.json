@@ -2,11 +2,11 @@
   "pcon24cd": "E14001173",
   "pcon24nm": "City of Durham",
   "total_votes": 0,
-  "electorate": 72878,
-  "turnout_pct": 0,
+  "electorate": 70582,
+  "turnout_pct": 58,
   "confirmed": false,
   "declaration_time": "03:25",
-  "last_updated": "2024-07-05T02:25:26.333Z",
+  "last_updated": "2024-07-05T04:24:23.529Z",
   "votes": [
     {
       "person_id": "107109",
@@ -14,7 +14,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": 178
     },
     {
       "person_id": "116097",
@@ -22,7 +22,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116097/e6dc1b17-895c-4052-a4a1-73df32938d84.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 7374
     },
     {
       "person_id": "22817",
@@ -30,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22817-fc77ab04-2391-4f5f-a8ce-f3e738c6b4cd.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2803
     },
     {
       "person_id": "45398",
@@ -38,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/45398/6fa243c5-3e8d-46b3-a9a0-8254a7635a52.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 19131
     },
     {
       "person_id": "749",
@@ -46,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/749/d883fc3b-9ba0-4bad-bd55-39b177c6ba93.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 5920
     },
     {
       "person_id": "80205",
@@ -54,7 +54,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/80205/de2ff105-d1f1-41ae-ad61-78702eac92de.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 5221
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
