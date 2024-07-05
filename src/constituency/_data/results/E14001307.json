@@ -4,8 +4,8 @@
   "total_votes": 36813,
   "electorate": 70272,
   "turnout_pct": 52,
-  "confirmed": false,
-  "last_updated": "2024-07-05T00:41:16.554Z",
+  "confirmed": true,
+  "last_updated": "2024-07-05T00:48:20.426Z",
   "votes": [
     {
       "person_id": "20004",
