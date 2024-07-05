@@ -2,10 +2,10 @@
   "pcon24cd": "E14001170",
   "pcon24nm": "Chorley",
   "total_votes": 0,
-  "electorate": 74568,
+  "electorate": 74800,
   "turnout_pct": 45,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:46:42.799Z",
+  "last_updated": "2024-07-05T01:48:20.905Z",
   "votes": [
     {
       "person_id": "595",
