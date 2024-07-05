@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001325",
   "pcon24nm": "Leeds West and Pudsey",
-  "total_votes": 0,
-  "electorate": 70270,
+  "total_votes": 38615,
+  "electorate": 70069,
   "turnout_pct": 55,
-  "confirmed": false,
+  "confirmed": true,
   "declaration_date": "2024-07-05",
   "declaration_time": "02:00",
-  "last_updated": "2024-07-05T01:00:57.702Z",
+  "last_updated": "2024-07-05T01:22:31.223Z",
   "votes": [
     {
       "person_id": "107214",
