@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001105",
   "pcon24nm": "Blackpool South",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 76071,
-  "turnout_pct": null,
+  "turnout_pct": 45,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:07",
+  "last_updated": "2024-07-05T01:07:38.006Z",
   "votes": [
     {
       "person_id": "101069",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101069/f273fbf7-a03d-4486-bb26-6998d47c98db.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 10068
     },
     {
       "person_id": "101130",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109452/ef50662a-63a4-471d-b1d0-a9e255db636e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 1207
     },
     {
       "person_id": "113193",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113193/ab0c2498-8362-442a-b45b-0ebb6edd8f27.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 261
     },
     {
       "person_id": "117242",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117242/16d8f4e0-523e-405f-854e-6b6735cbc59f.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 5504
     },
     {
       "person_id": "34332",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109448/5b2698ac-81f1-4717-b881-d9d8a11dbeae.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 16916
     },
     {
       "person_id": "71586",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71586.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1041
     },
     {
       "person_id": "72249",
@@ -63,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72249/2afa5d1d-c4a6-471b-a0ef-510fc16ed859.png",
       "party_key": "other",
       "party_name": "Alliance for Democracy and Freedom",
-      "votes": null
+      "votes": 183
     }
   ]
 }
