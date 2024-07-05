@@ -2,10 +2,10 @@
   "pcon24cd": "E14001534",
   "pcon24nm": "Sutton and Cheam",
   "total_votes": 0,
-  "electorate": 71284,
-  "turnout_pct": 0,
+  "electorate": 72302,
+  "turnout_pct": 66,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:12:49.575Z",
+  "last_updated": "2024-07-05T03:15:20.976Z",
   "votes": [
     {
       "person_id": "116069",
@@ -13,7 +13,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 5787
     },
     {
       "person_id": "116728",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116728/ed18b5f8-8edc-44ef-86da-35f4c112edfb.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1721
     },
     {
       "person_id": "48726",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48726/73dd2039-0550-46bb-99d8-6ebf34b0f4fa.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 317
     },
     {
       "person_id": "48743",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/48743-57d2e669-0c5e-42ad-b8d4-a5794f765f45.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 13775
     },
     {
       "person_id": "6297",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116865/a40d272c-b62b-45b9-a752-87ced3f8db82.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "votes": 17576
     },
     {
       "person_id": "77222",
@@ -53,7 +53,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77222/05017ae2-13d7-46b5-97e1-aa63f70b46c3.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 8430
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
