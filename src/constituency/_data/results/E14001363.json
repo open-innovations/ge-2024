@@ -1,53 +1,53 @@
 {
-  "pcon24cd": "E14001363",
-  "pcon24nm": "Mid Dorset and North Poole",
-  "total_votes": null,
-  "electorate": 74305,
-  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": null,
+  "electorate": 74305,
+  "last_updated": "2024-07-05T07:14:29.000Z",
+  "pcon24cd": "E14001363",
+  "pcon24nm": "Mid Dorset and North Poole",
+  "total_votes": null,
+  "turnout_pct": null,
   "votes": [
     {
-      "person_id": "116412",
-      "person_name": "John Dowling",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116412/eb53a610-d2b9-4016-bffb-f9f928f5fce7.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": null
+      "person_id": "116412",
+      "person_name": "John Dowling",
+      "votes": 1061
     },
     {
-      "person_id": "116414",
-      "person_name": "Candice Johnson-Cole",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116414/25d0ca6e-e379-4627-b1d6-1acdf76fe5bf.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "person_id": "116414",
+      "person_name": "Candice Johnson-Cole",
+      "votes": 4566
     },
     {
-      "person_id": "4207",
-      "person_name": "Michael Tomlinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4207/f9cd811f-b5e6-4c21-b522-804af8bdee5b.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "person_id": "4207",
+      "person_name": "Michael Tomlinson",
+      "votes": 20090
     },
     {
-      "person_id": "4514",
-      "person_name": "Vikki Slade",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4514-94463813-f643-42ba-8bc9-41869111e625.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "person_id": "4514",
+      "person_name": "Vikki Slade",
+      "votes": 21442
     },
     {
-      "person_id": "60227",
-      "person_name": "Ben Pantling",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/60227/2ffd72d7-8e79-40a0-b4af-a55aace37582.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "person_id": "60227",
+      "person_name": "Ben Pantling",
+      "votes": 2355
     }
   ]
 }

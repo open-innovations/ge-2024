@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 76319,
+  "last_updated": "2024-07-05T07:14:33.000Z",
   "pcon24cd": "E14001384",
   "pcon24nm": "North Bedfordshire",
   "total_votes": 0,
-  "electorate": 76319,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:33:48.985Z",
   "votes": [
     {
-      "person_id": "104645",
-      "person_name": "Joanna Szaub-Newton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/104645/4c2817ec-5233-4a60-b230-c335d57f45e6.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "104645",
+      "person_name": "Joanna Szaub-Newton",
+      "votes": 5553
     },
     {
-      "person_id": "111100",
-      "person_name": "Pippa Clayton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/111100/19db4bd3-dde6-4463-ac57-09bb2d37bbf0.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "111100",
+      "person_name": "Pippa Clayton",
+      "votes": 8433
     },
     {
-      "person_id": "2925",
-      "person_name": "Richard Fuller",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72015.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "2925",
+      "person_name": "Richard Fuller",
+      "votes": 19981
     },
     {
-      "person_id": "34896",
-      "person_name": "Philippa Fleming",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34896.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "34896",
+      "person_name": "Philippa Fleming",
+      "votes": 3027
     },
     {
-      "person_id": "89094",
-      "person_name": "Uday Nagaraju",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89094/65b8d785-8d43-487f-85f2-dc28cc2532d1.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "89094",
+      "person_name": "Uday Nagaraju",
+      "votes": 14567
     }
   ]
 }

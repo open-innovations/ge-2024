@@ -1,69 +1,69 @@
 {
-  "pcon24cd": "E14001376",
-  "pcon24nm": "Newbury",
-  "total_votes": null,
-  "electorate": 71631,
-  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": null,
+  "electorate": 71631,
+  "last_updated": "2024-07-05T07:14:32.000Z",
+  "pcon24cd": "E14001376",
+  "pcon24nm": "Newbury",
+  "total_votes": null,
+  "turnout_pct": null,
   "votes": [
     {
-      "person_id": "116346",
-      "person_name": "Doug Terry",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116346/f697484b-c1b4-4ae3-8b19-8ca2c96445a2.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "person_id": "116346",
+      "person_name": "Doug Terry",
+      "votes": 5357
     },
     {
-      "person_id": "34522",
-      "person_name": "Laura Farris",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34522/1f861a7c-c161-471c-a432-c96b7efdfa0d.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "person_id": "34522",
+      "person_name": "Laura Farris",
+      "votes": 17268
     },
     {
-      "person_id": "35189",
-      "person_name": "Steve Masters",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/68141.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "person_id": "35189",
+      "person_name": "Steve Masters",
+      "votes": 2714
     },
     {
-      "person_id": "35877",
-      "person_name": "Gary Edward Johnson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35877.png",
       "party_key": "other",
       "party_name": "UK Independence Party (UKIP)",
-      "votes": null
+      "person_id": "35877",
+      "person_name": "Gary Edward Johnson",
+      "votes": 131
     },
     {
-      "person_id": "50860",
-      "person_name": "Liz Bell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72027.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "person_id": "50860",
+      "person_name": "Liz Bell",
+      "votes": 3662
     },
     {
-      "person_id": "68032",
-      "person_name": "Lee Raymond James Dillon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/68032-371e9aa4-2549-437e-b4eb-5ac50834d367.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "person_id": "68032",
+      "person_name": "Lee Raymond James Dillon",
+      "votes": 19645
     },
     {
-      "person_id": "84143",
-      "person_name": "Earl Jesse",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84143/f7a4a145-0b49-4cd9-9485-6999d91e991a.png",
       "party_key": "other",
       "party_name": "Freedom Alliance",
-      "votes": null
+      "person_id": "84143",
+      "person_name": "Earl Jesse",
+      "votes": 153
     }
   ]
 }

@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 69959,
+  "last_updated": "2024-07-05T07:14:45.000Z",
   "pcon24cd": "E14001214",
   "pcon24nm": "East Hampshire",
   "total_votes": 0,
-  "electorate": 69959,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:17:59.645Z",
   "votes": [
     {
-      "person_id": "108450",
-      "person_name": "Matthew Kellermann",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117133/f13be1fe-f3fc-4fee-b4da-aca73e499f34.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "108450",
+      "person_name": "Matthew Kellermann",
+      "votes": 6476
     },
     {
-      "person_id": "114794",
-      "person_name": "Dominic Martin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114794/683db22f-e9fd-4f65-99f0-90bfe9dd2a19.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "114794",
+      "person_name": "Dominic Martin",
+      "votes": 17234
     },
     {
-      "person_id": "116302",
-      "person_name": "Sara Smith",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116302",
+      "person_name": "Sara Smith",
+      "votes": 152
     },
     {
-      "person_id": "29988",
-      "person_name": "Jim Makin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/50739.png",
       "party_key": "other",
       "party_name": "Hampshire Independents",
-      "votes": 0
+      "person_id": "29988",
+      "person_name": "Jim Makin",
+      "votes": 364
     },
     {
-      "person_id": "3449",
-      "person_name": "Damian Hinds",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3449/661184d2-ae7b-4a5c-a171-87afa21b87d2.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "3449",
+      "person_name": "Damian Hinds",
+      "votes": 18509
     },
     {
-      "person_id": "34992",
-      "person_name": "Richard Knight",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34992/5a59d690-e389-4775-8962-c6c2f9ffbc40.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "34992",
+      "person_name": "Richard Knight",
+      "votes": 2404
     },
     {
-      "person_id": "94904",
-      "person_name": "Lucy Emma Sims",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94904/3407f91f-17da-4538-bc8f-c7b4bffb2f63.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "94904",
+      "person_name": "Lucy Emma Sims",
+      "votes": 4967
     }
   ]
 }

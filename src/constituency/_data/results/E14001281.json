@@ -1,7 +1,7 @@
 {
   "confirmed": false,
   "electorate": 71125,
-  "last_updated": "2024-07-05T06:26:58.000Z",
+  "last_updated": "2024-07-05T07:14:23.000Z",
   "pcon24cd": "E14001281",
   "pcon24nm": "Hereford and South Herefordshire",
   "total_votes": 0,
@@ -13,7 +13,7 @@
       "party_name": "Labour Party",
       "person_id": "102684",
       "person_name": "Joe Emmett",
-      "votes": 0
+      "votes": 13592
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102754/ce1d6d18-3831-411d-8a5e-ed05b10d73ca.png",
@@ -21,7 +21,7 @@
       "party_name": "Independent",
       "person_id": "102754",
       "person_name": "Mark Weaden",
-      "votes": 0
+      "votes": 214
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55321be329c5d53959d9e43f.png",
@@ -29,7 +29,7 @@
       "party_name": "Conservative and Unionist Party",
       "person_id": "3417",
       "person_name": "Jesse Norman",
-      "votes": 0
+      "votes": 14871
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5716.png",
@@ -37,7 +37,7 @@
       "party_name": "Green Party",
       "person_id": "5716",
       "person_name": "Diana Toynbee",
-      "votes": 0
+      "votes": 3175
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5526923a59bbc5c063445bbc.png",
@@ -45,7 +45,7 @@
       "party_name": "Reform UK",
       "person_id": "5813",
       "person_name": "Nigel Ely",
-      "votes": 0
+      "votes": 8395
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/66485/8c84090f-011f-4606-96bb-006020909273.png",
@@ -53,7 +53,7 @@
       "party_name": "Liberal Democrats",
       "person_id": "66485",
       "person_name": "Dan Powell",
-      "votes": 0
+      "votes": 5325
     }
   ]
 }

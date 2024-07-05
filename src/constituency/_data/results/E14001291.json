@@ -1,7 +1,7 @@
 {
   "confirmed": false,
   "electorate": 74365,
-  "last_updated": "2024-07-05T06:26:58.000Z",
+  "last_updated": "2024-07-05T07:14:25.000Z",
   "pcon24cd": "E14001291",
   "pcon24nm": "Honiton and Sidmouth",
   "total_votes": 0,
@@ -13,7 +13,7 @@
       "party_name": "Reform UK",
       "person_id": "116409",
       "person_name": "Paul Quickenden",
-      "votes": 0
+      "votes": 6289
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116959/b6415814-3fa6-4326-891d-029295884291.png",
@@ -21,7 +21,7 @@
       "party_name": "Independent",
       "person_id": "116959",
       "person_name": "Vanessa Coxon",
-      "votes": 0
+      "votes": 467
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117463/42537a32-539b-4174-b3bd-bf1a93e66228.png",
@@ -29,7 +29,7 @@
       "party_name": "Party Of Women",
       "person_id": "117463",
       "person_name": "Hazel Exon",
-      "votes": 0
+      "votes": 244
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26484-ad252bfd-2a7a-4ae5-a7b9-e8739c800a5a.png",
@@ -37,7 +37,7 @@
       "party_name": "Green Party",
       "person_id": "26484",
       "person_name": "Henry Gent",
-      "votes": 0
+      "votes": 1394
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35051/d9eeb4ba-6e31-4aec-86c0-ad741f80d9a5.png",
@@ -45,7 +45,7 @@
       "party_name": "Liberal Democrats",
       "person_id": "35051",
       "person_name": "Richard Foord",
-      "votes": 0
+      "votes": 23007
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72028.png",
@@ -53,7 +53,7 @@
       "party_name": "Conservative and Unionist Party",
       "person_id": "72028",
       "person_name": "Simon Jupp",
-      "votes": 0
+      "votes": 16307
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73109/abb8015f-2c68-408b-951c-54eb46fe8250.png",
@@ -61,7 +61,7 @@
       "party_name": "Labour Party",
       "person_id": "73109",
       "person_name": "Jake Bonetta",
-      "votes": 0
+      "votes": 2947
     }
   ]
 }

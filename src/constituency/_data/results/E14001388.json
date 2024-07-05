@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 72109,
+  "last_updated": "2024-07-05T07:14:36.000Z",
   "pcon24cd": "E14001388",
   "pcon24nm": "North Dorset",
   "total_votes": 0,
-  "electorate": 72109,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:05:56.121Z",
   "votes": [
     {
-      "person_id": "109372",
-      "person_name": "Daniel Woodruffe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109372/c43af878-49b3-4194-ab88-fecef58036d3.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "109372",
+      "person_name": "Daniel Woodruffe",
+      "votes": 74
     },
     {
-      "person_id": "115206",
-      "person_name": "Gary Jackson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115206/65e605aa-3397-499e-aad8-f86d2a1a74a8.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "115206",
+      "person_name": "Gary Jackson",
+      "votes": 16619
     },
     {
-      "person_id": "116421",
-      "person_name": "Ash Leaning",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116421/2a465166-ad8c-4f0a-8488-523c94571ddd.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116421",
+      "person_name": "Ash Leaning",
+      "votes": 7894
     },
     {
-      "person_id": "117259",
-      "person_name": "Simon Adams",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117259/7c20c1f7-9e20-4159-89d0-2d5aad325b84.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117259",
+      "person_name": "Simon Adams",
+      "votes": 317
     },
     {
-      "person_id": "19614",
-      "person_name": "James Coldwell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19614/aaccb57e-a9db-49c6-b032-2996b0e72226.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "19614",
+      "person_name": "James Coldwell",
+      "votes": 4370
     },
     {
-      "person_id": "25426",
-      "person_name": "Jeff Taylor",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/25426.png",
       "party_key": "other",
       "party_name": "UK Independence Party (UKIP)",
-      "votes": 0
+      "person_id": "25426",
+      "person_name": "Jeff Taylor",
+      "votes": 119
     },
     {
-      "person_id": "30330",
-      "person_name": "Ken Huggins",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/30330.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "30330",
+      "person_name": "Ken Huggins",
+      "votes": 2082
     },
     {
-      "person_id": "5986",
-      "person_name": "Simon Hoare",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5517cce3249b917507bee4e5.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "5986",
+      "person_name": "Simon Hoare",
+      "votes": 18208
     }
   ]
 }

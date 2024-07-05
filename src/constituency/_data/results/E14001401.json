@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 73556,
+  "last_updated": "2024-07-05T07:14:39.000Z",
   "pcon24cd": "E14001401",
   "pcon24nm": "North West Cambridgeshire",
   "total_votes": 0,
-  "electorate": 73556,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:00:12.348Z",
   "votes": [
     {
-      "person_id": "113675",
-      "person_name": "James Sidlow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113675/9297160e-d6d3-47f7-bee7-646331c8b489.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "113675",
+      "person_name": "James Sidlow",
+      "votes": 8741
     },
     {
-      "person_id": "34361",
-      "person_name": "Bridget Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34361.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "34361",
+      "person_name": "Bridget Smith",
+      "votes": 3192
     },
     {
-      "person_id": "489",
-      "person_name": "Shailesh Vara",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553575a1367dc5383f552ce3.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "489",
+      "person_name": "Shailesh Vara",
+      "votes": 14746
     },
     {
-      "person_id": "86404",
-      "person_name": "Sam Carling",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86404/ed841457-cc59-4f49-a232-a9c64da072ec.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "86404",
+      "person_name": "Sam Carling",
+      "votes": 14785
     },
     {
-      "person_id": "96722",
-      "person_name": "Elliot Alister Tong",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96722/ba252892-7924-47fe-9f34-0bf0896af320.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "96722",
+      "person_name": "Elliot Alister Tong",
+      "votes": 2960
     }
   ]
 }
