@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001264",
   "pcon24nm": "Hammersmith and Chiswick",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 74746,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T04:08:33.433Z",
   "votes": [
     {
       "person_id": "113847",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113847/130d6f05-e74c-406d-a9f5-9dd6be1d7468.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116960",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116960/681ca085-5862-4559-a2a5-2288e6432594.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117593",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117593/3c05940a-46f5-4ae4-b431-2f01087dc161.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "234",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/234/251db309-c471-4d47-a291-6cff3dfea552.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "58089",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117594/5718512d-1b7d-4d0c-93d4-f889f1670a08.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7195",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7195/a608fd3d-841e-48f7-aa73-3e62d4b282fe.png",
       "party_key": "other",
       "party_name": "Workers Revolutionary Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "83921",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83921/0449e16a-9ea9-49d2-a4d1-0342b31d7d25.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "88610",
@@ -71,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88610/b910220f-5c41-413e-b812-34913ecccd47.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
