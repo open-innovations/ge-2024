@@ -3,9 +3,9 @@
   "pcon24nm": "Airdrie and Shotts",
   "total_votes": 0,
   "electorate": 70420,
-  "turnout_pct": 0,
+  "turnout_pct": 52,
   "confirmed": false,
-  "last_updated": "2024-07-05T03:39:38.902Z",
+  "last_updated": "2024-07-05T03:48:55.246Z",
   "votes": [
     {
       "person_id": "117268",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117268/86798914-b1ba-434e-8320-cc1ef633f45e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 2971
     },
     {
       "person_id": "19890",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19890/71c2fa79-e552-48d4-965e-b3fa8c820dd6.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 18871
     },
     {
       "person_id": "22728",
@@ -29,7 +29,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 1696
     },
     {
       "person_id": "35249",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35249/83d56063-a6cd-4c24-920f-21f8fbcc4c74.png",
       "party_key": "other",
       "party_name": "British Unionist Party - B.U.P.",
-      "votes": 0
+      "votes": 456
     },
     {
       "person_id": "74466",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116204/6a7a9d2f-244c-4e3f-82ca-ca236191ed1e.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": 0
+      "votes": 623
     },
     {
       "person_id": "8299",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8299/e0347c72-a5cb-42e5-8c85-41bd97d14695.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "votes": 11324
     },
     {
       "person_id": "86069",
@@ -61,7 +61,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86069/1aff6408-670c-482d-ba28-d1b74c8e9761.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 725
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
