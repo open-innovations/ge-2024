@@ -5,7 +5,7 @@
   "electorate": 70722,
   "turnout_pct": 0,
   "confirmed": false,
-  "last_updated": "2024-07-05T03:37:53.072Z",
+  "last_updated": "2024-07-05T03:37:57.923Z",
   "votes": [
     {
       "person_id": "113311",
@@ -63,5 +63,6 @@
       "party_name": "Labour Party",
       "votes": 1
     }
-  ]
+  ],
+  "declaration_time": "04:37"
 }
