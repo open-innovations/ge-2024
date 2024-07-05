@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001451",
   "pcon24nm": "Rother Valley",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70184,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "03:29",
+  "last_updated": "2024-07-05T02:29:11.772Z",
   "votes": [
     {
       "person_id": "108798",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108798/8f469e2b-b95e-4169-920e-4b023f5f2f7c.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116586",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116586/bc954f55-a450-4699-86c1-fafb2032f47f.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "18598",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/18598.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "38465",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72159-ddd45eae-1d39-4bc2-a244-e465b1fccd72.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "71603",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71603.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     }
   ]
 }
