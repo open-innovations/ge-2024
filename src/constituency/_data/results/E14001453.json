@@ -6,7 +6,7 @@
   "turnout_pct": 0,
   "confirmed": false,
   "declaration_time": "03:22",
-  "last_updated": "2024-07-05T02:22:20.576Z",
+  "last_updated": "2024-07-05T02:22:45.969Z",
   "votes": [
     {
       "person_id": "109634",
@@ -64,5 +64,6 @@
       "party_name": "Labour Party",
       "votes": 1
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
