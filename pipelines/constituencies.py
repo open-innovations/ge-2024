@@ -135,7 +135,6 @@ if __name__ == "__main__":
 
     
     constituency_drilldown = uk_population.join(uk_households)
-    constituency_drilldown.to_csv('file.csv')
     constituency_drilldown = constituency_drilldown.merge(geo_codes, on='PCON24CD')
     constituency_drilldown.set_index('PCON24CD', inplace=True)
     constituency_drilldown = constituency_drilldown[['Population', 'Households']]
