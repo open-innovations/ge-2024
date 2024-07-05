@@ -5,7 +5,7 @@
   "electorate": 73380,
   "turnout_pct": 0,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:17:30.783Z",
+  "last_updated": "2024-07-05T03:47:28.223Z",
   "votes": [
     {
       "person_id": "184",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34348.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "votes": 17348
     },
     {
       "person_id": "24075",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/24075-920d253f-d286-44c4-9aa4-892b47f1bcf9.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2435
     },
     {
       "person_id": "47516",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/47516/82614424-e0f8-4308-8489-d505dac0d776.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 13002
     },
     {
       "person_id": "6440",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553be4f7a51642637514d64c.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 2264
     },
     {
       "person_id": "66303",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/66303/c5dd4703-e245-4884-aa7b-42d5f7154055.png",
       "party_key": "other",
       "party_name": "Lincolnshire Independents Lincolnshire First",
-      "votes": 0
+      "votes": 3032
     },
     {
       "person_id": "81734",
@@ -53,7 +53,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81734/380b3d30-2c86-4d85-be8f-c6b3359dc6e7.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 10484
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
