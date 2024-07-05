@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 70389,
+  "last_updated": "2024-07-05T07:15:03.000Z",
   "pcon24cd": "E14001090",
   "pcon24nm": "Bicester and Woodstock",
   "total_votes": 0,
-  "electorate": 70389,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:48:38.571Z",
   "votes": [
     {
-      "person_id": "116275",
-      "person_name": "Rupert Harrison",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116275/ad010109-8448-4862-a0c1-bb1972310c2f.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "116275",
+      "person_name": "Rupert Harrison",
+      "votes": 14461
     },
     {
-      "person_id": "116276",
-      "person_name": "Augustine Obodo",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116276/1624bfc0-34a1-40b8-afd2-e1368cb05336.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116276",
+      "person_name": "Augustine Obodo",
+      "votes": 5408
     },
     {
-      "person_id": "116277",
-      "person_name": "Tim Funnell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116277/13d792f7-9063-4b4e-8a26-d5fc58862278.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116277",
+      "person_name": "Tim Funnell",
+      "votes": 291
     },
     {
-      "person_id": "44681",
-      "person_name": "Veronica Oakeshott",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/44681/e78082f7-ad48-482e-9264-c4512c1ae44e.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "44681",
+      "person_name": "Veronica Oakeshott",
+      "votes": 8236
     },
     {
-      "person_id": "5126",
-      "person_name": "Ian Middleton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5126/54d2eb8f-acca-4d19-9220-f4c1aaac977c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "5126",
+      "person_name": "Ian Middleton",
+      "votes": 2404
     },
     {
-      "person_id": "76784",
-      "person_name": "Calum Miller",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/76784-cdcc3290-d583-44fa-8c46-8b9565635801.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "76784",
+      "person_name": "Calum Miller",
+      "votes": 19419
     }
   ]
 }

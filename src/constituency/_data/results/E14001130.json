@@ -1,77 +1,77 @@
 {
-  "pcon24cd": "E14001130",
-  "pcon24nm": "Brighton Pavilion",
-  "total_votes": null,
-  "electorate": 75722,
-  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": null,
+  "electorate": 75722,
+  "last_updated": "2024-07-05T07:14:54.000Z",
+  "pcon24cd": "E14001130",
+  "pcon24nm": "Brighton Pavilion",
+  "total_votes": null,
+  "turnout_pct": null,
   "votes": [
     {
-      "person_id": "106047",
-      "person_name": "Sarah Victoria Webster",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106047/22ccd9a5-e219-4c5c-bb38-1e9684fe334e.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "person_id": "106047",
+      "person_name": "Sarah Victoria Webster",
+      "votes": 3975
     },
     {
-      "person_id": "114740",
-      "person_name": "Tom Gray",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114740/5a8318f4-25b7-446d-9f2b-b39de79b3ad5.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "person_id": "114740",
+      "person_name": "Tom Gray",
+      "votes": 14519
     },
     {
-      "person_id": "116283",
-      "person_name": "Carl Buckfield",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116283/bef9767e-b04d-40f2-8002-42800939a00d.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": null
+      "person_id": "116283",
+      "person_name": "Carl Buckfield",
+      "votes": 184
     },
     {
-      "person_id": "34835",
-      "person_name": "Si\u00e2n Berry",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34835/cb4c29ca-74fb-444d-91f9-642bdbf9fd60.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "person_id": "34835",
+      "person_name": "Siân Berry",
+      "votes": 28809
     },
     {
-      "person_id": "65289",
-      "person_name": "Mark Francis Mulvihill",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117306/d6daa2a0-fa39-4dac-8edf-0258a2d46cab.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "person_id": "65289",
+      "person_name": "Mark Francis Mulvihill",
+      "votes": 2836
     },
     {
-      "person_id": "65455",
-      "person_name": "Ashley Ridley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/65455.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "person_id": "65455",
+      "person_name": "Ashley Ridley",
+      "votes": 1604
     },
     {
-      "person_id": "72123",
-      "person_name": "Citizen Skwith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117302/a25db144-c559-4005-9dc4-675f0f2bf108.png",
       "party_key": "other",
       "party_name": "The Official Monster Raving Loony Party",
-      "votes": null
+      "person_id": "72123",
+      "person_name": "Citizen Skwith",
+      "votes": 257
     },
     {
-      "person_id": "90739",
-      "person_name": "AI Steve",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90739/e219eb70-df7a-436e-8fed-276ae18b1256.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "person_id": "90739",
+      "person_name": "AI Steve",
+      "votes": 179
     }
   ]
 }

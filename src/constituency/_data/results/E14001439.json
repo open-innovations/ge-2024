@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 69999,
+  "last_updated": "2024-07-05T07:15:18.000Z",
   "pcon24cd": "E14001439",
   "pcon24nm": "Reading West and Mid Berkshire",
   "total_votes": 0,
-  "electorate": 69999,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:56:01.837Z",
   "votes": [
     {
-      "person_id": "116338",
-      "person_name": "Kate Bosley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116338/81ee570c-a892-4f8f-92fa-f49795259982.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116338",
+      "person_name": "Kate Bosley",
+      "votes": 6260
     },
     {
-      "person_id": "117707",
-      "person_name": "Adie Peppiatt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117707/cc6e0b19-abf9-4ef7-8ef8-7100c8c805dd.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117707",
+      "person_name": "Adie Peppiatt",
+      "votes": 272
     },
     {
-      "person_id": "34396",
-      "person_name": "Olivia Bailey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34396.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "34396",
+      "person_name": "Olivia Bailey",
+      "votes": 16273
     },
     {
-      "person_id": "67969",
-      "person_name": "Carolyne Culver",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/67969.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "67969",
+      "person_name": "Carolyne Culver",
+      "votes": 3169
     },
     {
-      "person_id": "67975",
-      "person_name": "Adrian Neil Abbs",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/67975/099337b4-0b15-4d6c-bd18-569f198aa565.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "67975",
+      "person_name": "Adrian Neil Abbs",
+      "votes": 562
     },
     {
-      "person_id": "68128",
-      "person_name": "Ross Mackinnon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/68128.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "68128",
+      "person_name": "Ross Mackinnon",
+      "votes": 14912
     },
     {
-      "person_id": "9388",
-      "person_name": "Helen Belcher",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9388/0ce8f19f-afd9-4675-ae68-2c5c929c5a85.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "9388",
+      "person_name": "Helen Belcher",
+      "votes": 5103
     }
   ]
 }

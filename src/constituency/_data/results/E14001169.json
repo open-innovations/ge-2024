@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 76187,
+  "last_updated": "2024-07-05T07:15:05.000Z",
   "pcon24cd": "E14001169",
   "pcon24nm": "Chipping Barnet",
   "total_votes": 0,
-  "electorate": 76187,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:27:58.313Z",
   "votes": [
     {
-      "person_id": "3369",
-      "person_name": "Theresa Villiers",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55249f6ef0e9e2c82406eba6.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "3369",
+      "person_name": "Theresa Villiers",
+      "votes": 18671
     },
     {
-      "person_id": "38914",
-      "person_name": "David Farbey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/38914/157533e2-fbf3-4181-bcd3-36d89e6cf5c5.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "38914",
+      "person_name": "David Farbey",
+      "votes": 3442
     },
     {
-      "person_id": "40244",
-      "person_name": "Dan Tomlinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40244/98b0ed4c-64c2-4a9e-a453-5bb2fea81b6a.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "40244",
+      "person_name": "Dan Tomlinson",
+      "votes": 21585
     },
     {
-      "person_id": "44235",
-      "person_name": "Mark Durrant",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116827/11c64fd8-b7f6-4e04-813a-f844dbf81431.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "44235",
+      "person_name": "Mark Durrant",
+      "votes": 2614
     },
     {
-      "person_id": "74096",
-      "person_name": "Richard Hewison",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74096-61040cff-53a5-4493-9de8-6adfa419f2cb.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": 0
+      "person_id": "74096",
+      "person_name": "Richard Hewison",
+      "votes": 379
     },
     {
-      "person_id": "82852",
-      "person_name": "Hamish Haddow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115996/19fe155b-ec11-4e0d-8d84-1d3ff81aee97.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "82852",
+      "person_name": "Hamish Haddow",
+      "votes": 3986
     },
     {
-      "person_id": "88973",
-      "person_name": "Kay Lauer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88973/a857c85a-4b63-4e2f-bb35-cef66601c770.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "88973",
+      "person_name": "Kay Lauer",
+      "votes": 182
     }
   ]
 }

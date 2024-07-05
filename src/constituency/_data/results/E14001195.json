@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 71435,
+  "last_updated": "2024-07-05T07:15:12.000Z",
   "pcon24cd": "E14001195",
   "pcon24nm": "Derbyshire Dales",
   "total_votes": 0,
-  "electorate": 71435,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:47:50.716Z",
   "votes": [
     {
-      "person_id": "105335",
-      "person_name": "Rachel Elnaugh-Love",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105335/002ef7f1-f537-4d7f-9e74-8103aad5bba8.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "105335",
+      "person_name": "Rachel Elnaugh-Love",
+      "votes": 369
     },
     {
-      "person_id": "43850",
-      "person_name": "John Whitby",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43850/daa2b820-daeb-411a-b83f-8c78c5452636.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "43850",
+      "person_name": "John Whitby",
+      "votes": 17759
     },
     {
-      "person_id": "71396",
-      "person_name": "Robert Court",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71396.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "71396",
+      "person_name": "Robert Court",
+      "votes": 4860
     },
     {
-      "person_id": "72440",
-      "person_name": "Sarah Dines",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72440-a50d3315-a7b8-49e8-a327-15e9faa16e69.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "72440",
+      "person_name": "Sarah Dines",
+      "votes": 17409
     },
     {
-      "person_id": "77522",
-      "person_name": "Kelda Boothroyd",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77522/c34416b1-afe9-4959-9005-278599383dca.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "77522",
+      "person_name": "Kelda Boothroyd",
+      "votes": 2830
     },
     {
-      "person_id": "98709",
-      "person_name": "Helen Wetherall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98709/ef84139a-7ca3-4da7-a232-83602a8071f0.png",
       "party_key": "other",
       "party_name": "True & Fair Party",
-      "votes": 0
+      "person_id": "98709",
+      "person_name": "Helen Wetherall",
+      "votes": 317
     },
     {
-      "person_id": "99986",
-      "person_name": "Edward Hudson Oakenfull",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99986/0652653d-bd7d-44c5-9dfa-b08bc6af084e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "99986",
+      "person_name": "Edward Hudson Oakenfull",
+      "votes": 7728
     }
   ]
 }

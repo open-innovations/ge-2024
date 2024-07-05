@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 71798,
+  "last_updated": "2024-07-05T07:14:49.000Z",
   "pcon24cd": "E14001235",
   "pcon24nm": "Faversham and Mid Kent",
   "total_votes": 0,
-  "electorate": 71798,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T06:01:40.154Z",
   "votes": [
     {
-      "person_id": "111205",
-      "person_name": "Maxwell Harrison",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116313/cd03f665-3fd9-456d-9642-ab9d275852af.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "111205",
+      "person_name": "Maxwell Harrison",
+      "votes": 9884
     },
     {
-      "person_id": "2074",
-      "person_name": "Lawrence Rustem",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2074/1caf7102-b1f0-4738-bdd6-a320b8ce20a1.png",
       "party_key": "other",
       "party_name": "British Democratic Party",
-      "votes": 0
+      "person_id": "2074",
+      "person_name": "Lawrence Rustem",
+      "votes": 171
     },
     {
-      "person_id": "4119",
-      "person_name": "Helen Whately",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5525fb6d413cb4432adffa87.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "4119",
+      "person_name": "Helen Whately",
+      "votes": 14816
     },
     {
-      "person_id": "49409",
-      "person_name": "Hannah Perkin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49409/9d5d6ba9-8f86-4c7b-963f-21bac9e92104.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "49409",
+      "person_name": "Hannah Perkin",
+      "votes": 4158
     },
     {
-      "person_id": "53762",
-      "person_name": "Mel Dawkins",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/53762.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "53762",
+      "person_name": "Mel Dawkins",
+      "votes": 13347
     },
     {
-      "person_id": "71442",
-      "person_name": "Hannah Temple",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71442/cb35d8cb-92ef-49e2-80e6-b12ed620aec2.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "71442",
+      "person_name": "Hannah Temple",
+      "votes": 4218
     }
   ]
 }

@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 76818,
+  "last_updated": "2024-07-05T07:15:33.000Z",
   "pcon24cd": "E14001474",
   "pcon24nm": "Sittingbourne and Sheppey",
   "total_votes": 0,
-  "electorate": 76818,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:12:51.161Z",
   "votes": [
     {
-      "person_id": "105396",
-      "person_name": "William Fotheringham-Bray",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105396/aad91f4a-0e95-4092-bbb3-c41110ceff1f.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "105396",
+      "person_name": "William Fotheringham-Bray",
+      "votes": 10512
     },
     {
-      "person_id": "1444",
-      "person_name": "Mad Mike Young",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116902/999925a8-237f-44c6-8e50-b30cd3705fc9.png",
       "party_key": "other",
       "party_name": "The Official Monster Raving Loony Party",
-      "votes": 0
+      "person_id": "1444",
+      "person_name": "Mad Mike Young",
+      "votes": 223
     },
     {
-      "person_id": "20349",
-      "person_name": "Frances Kneller",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20349-a972bb5a-b63a-4192-9f7b-5972fcdf09ec.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "20349",
+      "person_name": "Frances Kneller",
+      "votes": 1321
     },
     {
-      "person_id": "28519",
-      "person_name": "Mike Baldock",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/28519.png",
       "party_key": "other",
       "party_name": "Swale Independents",
-      "votes": 0
+      "person_id": "28519",
+      "person_name": "Mike Baldock",
+      "votes": 3238
     },
     {
-      "person_id": "43681",
-      "person_name": "Aisha Cuthbert",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/43681.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "43681",
+      "person_name": "Aisha Cuthbert",
+      "votes": 11564
     },
     {
-      "person_id": "50119",
-      "person_name": "Matt Brown",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117598/686cad72-c6bd-40f2-a0bf-02b522928dce.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "50119",
+      "person_name": "Matt Brown",
+      "votes": 529
     },
     {
-      "person_id": "50578",
-      "person_name": "Sam Banks",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/50578/45ce83c7-50f5-48a4-9df0-2bda83ebfb52.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "50578",
+      "person_name": "Sam Banks",
+      "votes": 1692
     },
     {
-      "person_id": "91833",
-      "person_name": "Kevin McKenna",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91833/661647bf-4e7a-4639-b989-0d1d648e81cb.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "91833",
+      "person_name": "Kevin McKenna",
+      "votes": 11919
     }
   ]
 }

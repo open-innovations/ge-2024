@@ -1,83 +1,83 @@
 {
+  "confirmed": false,
+  "electorate": 76941,
+  "last_updated": "2024-07-05T07:15:16.000Z",
   "pcon24cd": "E14001422",
   "pcon24nm": "Pendle and Clitheroe",
   "total_votes": 0,
-  "electorate": 76941,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:16:13.712Z",
   "votes": [
     {
-      "person_id": "107150",
-      "person_name": "Jonathan James Hinder",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/107150/e4a7d6fb-822d-4269-ad53-f2056cdd32ee.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "107150",
+      "person_name": "Jonathan James Hinder",
+      "votes": 16129
     },
     {
-      "person_id": "113164",
-      "person_name": "Syed Muarif Hashmi",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113164/1b83d045-b7df-4054-805e-2a0d3a9e32f9.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "113164",
+      "person_name": "Syed Muarif Hashmi",
+      "votes": 336
     },
     {
-      "person_id": "117041",
-      "person_name": "Christopher Thompson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117041/d2d187a7-1090-43c4-8e0b-c6a49f0ac896.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": 0
+      "person_id": "117041",
+      "person_name": "Christopher Thompson",
+      "votes": 190
     },
     {
-      "person_id": "117294",
-      "person_name": "Zulfikar Khan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117294/b1444350-8209-447c-a2a0-884d2dc56310.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117294",
+      "person_name": "Zulfikar Khan",
+      "votes": 3108
     },
     {
-      "person_id": "2871",
-      "person_name": "Andrew Stephenson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ba882b9c95afe74c5d32f.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "2871",
+      "person_name": "Andrew Stephenson",
+      "votes": 15227
     },
     {
-      "person_id": "34656",
-      "person_name": "Anna Corrina Fryer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71872.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "34656",
+      "person_name": "Anna Corrina Fryer",
+      "votes": 2039
     },
     {
-      "person_id": "37802",
-      "person_name": "Victoria Anne Fletcher",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/37802/77c687fe-f5f5-40c3-8045-03dfe72e1a0b.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "37802",
+      "person_name": "Victoria Anne Fletcher",
+      "votes": 8171
     },
     {
-      "person_id": "7431",
-      "person_name": "Tony Johnson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7431/3355c9f4-4e77-47a9-af38-806596e0b57f.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "7431",
+      "person_name": "Tony Johnson",
+      "votes": 133
     },
     {
-      "person_id": "99472",
-      "person_name": "Lex Kristan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99472/924aee9e-fcc1-4e6f-8074-30f69ce70a67.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "99472",
+      "person_name": "Lex Kristan",
+      "votes": 1421
     }
   ]
 }

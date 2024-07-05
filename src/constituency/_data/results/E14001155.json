@@ -1,61 +1,61 @@
 {
-  "pcon24cd": "E14001155",
-  "pcon24nm": "Central Devon",
-  "total_votes": null,
-  "electorate": 73491,
-  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": null,
+  "electorate": 73491,
+  "last_updated": "2024-07-05T07:14:55.000Z",
+  "pcon24cd": "E14001155",
+  "pcon24nm": "Central Devon",
+  "total_votes": null,
+  "turnout_pct": null,
   "votes": [
     {
-      "person_id": "116389",
-      "person_name": "Jeffrey Leeks",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116389/2e020faf-1639-4c09-b398-ca3fd805575f.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "person_id": "116389",
+      "person_name": "Jeffrey Leeks",
+      "votes": 7784
     },
     {
-      "person_id": "197",
-      "person_name": "Mel Stride",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/197/80e4e8ae-a8a2-41c3-b243-56a76b46c74a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "person_id": "197",
+      "person_name": "Mel Stride",
+      "votes": 16831
     },
     {
-      "person_id": "27195",
-      "person_name": "Gill Westcott",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35116.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "person_id": "27195",
+      "person_name": "Gill Westcott",
+      "votes": 3338
     },
     {
-      "person_id": "3712",
-      "person_name": "Arthur Price",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3712/1ad2664b-4372-4744-bc5f-35497944dd72.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "person_id": "3712",
+      "person_name": "Arthur Price",
+      "votes": 477
     },
     {
-      "person_id": "81489",
-      "person_name": "Mark Wooding",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81489/27c94107-fe6d-4586-ac9e-569f0c1910c8.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "person_id": "81489",
+      "person_name": "Mark Wooding",
+      "votes": 8232
     },
     {
-      "person_id": "9590",
-      "person_name": "Ollie Pearson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/9590-1cea5cc8-7b69-4575-86df-949aea5d3e2c.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "person_id": "9590",
+      "person_name": "Ollie Pearson",
+      "votes": 16770
     }
   ]
 }
