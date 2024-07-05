@@ -33,7 +33,7 @@ site.data("cms", "https://cms.ge-2024.open-innovations.org/");
 // Set up plugins
 site.use(date({
   formats: {
-    FRIENDLY: "h:mmaaa 'on' d MMMM",
+    FRIENDLY: "h:mmaaa 'on' do MMMM",
   },
 }));
 site.use(esbuild({
