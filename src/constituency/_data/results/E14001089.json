@@ -1,52 +1,52 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:22",
+  "electorate": 69948,
+  "last_updated": "2024-07-05T06:47:18.000Z",
   "pcon24cd": "E14001089",
   "pcon24nm": "Bexleyheath and Crayford",
   "total_votes": 0,
-  "electorate": 69948,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:22",
-  "last_updated": "2024-07-05T03:22:15.738Z",
   "votes": [
     {
-      "person_id": "2205",
-      "person_name": "David McBride",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2205/ab3247c9-6a7f-44a6-b5e2-8c271df6c578.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "2205",
+      "person_name": "David McBride",
+      "votes": 2204
     },
     {
-      "person_id": "44473",
-      "person_name": "Daniel Francis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/44473/be3862c8-2e52-49a3-84aa-93f1f3d7e6af.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "44473",
+      "person_name": "Daniel Francis",
+      "votes": 15717
     },
     {
-      "person_id": "45003",
-      "person_name": "Mark Brooks",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116999/49ab5cfd-9253-4910-b7e2-a4f911981043.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "45003",
+      "person_name": "Mark Brooks",
+      "votes": 13603
     },
     {
-      "person_id": "71437",
-      "person_name": "Tom Bright",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71437.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "71437",
+      "person_name": "Tom Bright",
+      "votes": 9861
     },
     {
-      "person_id": "89689",
-      "person_name": "George Edgar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89689/967a02e3-9cca-4cba-bb43-25ea52c30239.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "89689",
+      "person_name": "George Edgar",
+      "votes": 2076
     }
   ]
 }

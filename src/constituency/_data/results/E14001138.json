@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 75305,
+  "last_updated": "2024-07-05T06:43:39.000Z",
   "pcon24cd": "E14001138",
   "pcon24nm": "Bromsgrove",
   "total_votes": 0,
-  "electorate": 75305,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:21:38.522Z",
   "votes": [
     {
-      "person_id": "115519",
-      "person_name": "Aheesha Zahir",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115519/2b08021e-f86d-451a-911b-70403ce6d02d.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "115519",
+      "person_name": "Aheesha Zahir",
+      "votes": 144
     },
     {
-      "person_id": "117664",
-      "person_name": "Glen Brampton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117664/e3d3d9f0-5216-40fb-a5b7-fbd2f4cddcd6.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117664",
+      "person_name": "Glen Brampton",
+      "votes": 9584
     },
     {
-      "person_id": "62237",
-      "person_name": "Bradley Anthony Thomas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/62237/c20888f6-5a6f-4433-8b40-62a59d020668.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "62237",
+      "person_name": "Bradley Anthony Thomas",
+      "votes": 16533
     },
     {
-      "person_id": "69999",
-      "person_name": "Neena Gill",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69999/99d89cc5-94db-419b-97d2-6fef6f161f90.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "69999",
+      "person_name": "Neena Gill",
+      "votes": 13517
     },
     {
-      "person_id": "71334",
-      "person_name": "David Nicholl",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71334-d4df1404-829c-4061-b06c-918713ce5814.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "71334",
+      "person_name": "David Nicholl",
+      "votes": 7391
     },
     {
-      "person_id": "87548",
-      "person_name": "Talia Ellis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87548/c45fd00e-9d68-4aed-a25a-3f98ea17085a.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "87548",
+      "person_name": "Talia Ellis",
+      "votes": 1675
     },
     {
-      "person_id": "98929",
-      "person_name": "Sam Ammar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98929/ebd21715-8021-4f39-b751-f426a70d770a.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "98929",
+      "person_name": "Sam Ammar",
+      "votes": 1561
     }
   ]
 }

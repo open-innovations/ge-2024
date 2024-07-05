@@ -1,52 +1,52 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:41",
+  "electorate": 71628,
+  "last_updated": "2024-07-05T06:42:47.000Z",
   "pcon24cd": "E14001128",
   "pcon24nm": "Brigg and Immingham",
   "total_votes": 0,
-  "electorate": 71628,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:41",
-  "last_updated": "2024-07-05T03:41:49.995Z",
   "votes": [
     {
-      "person_id": "116564",
-      "person_name": "Najmul Hussain",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116564/a7a9b2dd-6798-45f4-b25d-1eeca5bea7f0.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "116564",
+      "person_name": "Najmul Hussain",
+      "votes": 12662
     },
     {
-      "person_id": "116565",
-      "person_name": "Paul Ladlow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116565/09b62b45-a2f9-4f76-9177-c79cd3fe77f3.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116565",
+      "person_name": "Paul Ladlow",
+      "votes": 10594
     },
     {
-      "person_id": "26490",
-      "person_name": "Eleanor Rylance",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26490.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "26490",
+      "person_name": "Eleanor Rylance",
+      "votes": 1442
     },
     {
-      "person_id": "495",
-      "person_name": "Martin Vickers",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55238c93944e4aac612ace68.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "495",
+      "person_name": "Martin Vickers",
+      "votes": 15905
     },
     {
-      "person_id": "82049",
-      "person_name": "Amie Alissa Watson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/82049/8fd7d7e2-a2b5-4698-bd24-e455e4bada82.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "82049",
+      "person_name": "Amie Alissa Watson",
+      "votes": 1905
     }
   ]
 }

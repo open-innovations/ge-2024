@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 69865,
+  "last_updated": "2024-07-05T06:42:47.000Z",
   "pcon24cd": "E14001129",
   "pcon24nm": "Brighton Kemptown and Peacehaven",
   "total_votes": 0,
-  "electorate": 69865,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:09:49.183Z",
   "votes": [
     {
-      "person_id": "104138",
-      "person_name": "Khobi Anne Vallis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/104138/921adbc7-0475-4ecc-a98a-576ee1f9ef8c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "104138",
+      "person_name": "Khobi Anne Vallis",
+      "votes": 8230
     },
     {
-      "person_id": "116281",
-      "person_name": "Valerie Gray",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116281/3dd20f01-e8cf-48e6-99d3-1ca698efe0a2.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116281",
+      "person_name": "Valerie Gray",
+      "votes": 784
     },
     {
-      "person_id": "116892",
-      "person_name": "Chris Ward",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116892/8c4da749-ab04-45ea-be78-91490fbc0a51.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "116892",
+      "person_name": "Chris Ward",
+      "votes": 17893
     },
     {
-      "person_id": "117299",
-      "person_name": "Emma Lucy Wall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117299/191c4475-1f7c-4c2d-abc3-82b84a317417.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117299",
+      "person_name": "Emma Lucy Wall",
+      "votes": 1833
     },
     {
-      "person_id": "67699",
-      "person_name": "Elaine Hills",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/67699/b3c8d04e-74ef-4423-a25b-fb225d6321ff.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "67699",
+      "person_name": "Elaine Hills",
+      "votes": 7997
     },
     {
-      "person_id": "72421",
-      "person_name": "Stewart Stone",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87227/3b57d4f7-12cd-4c85-ba74-620143a3b717.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "72421",
+      "person_name": "Stewart Stone",
+      "votes": 3949
     }
   ]
 }

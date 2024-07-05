@@ -1,52 +1,52 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:04",
+  "electorate": 76625,
+  "last_updated": "2024-07-05T06:47:01.000Z",
   "pcon24cd": "E14001083",
   "pcon24nm": "Beckenham and Penge",
   "total_votes": 0,
-  "electorate": 76625,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:04",
-  "last_updated": "2024-07-05T03:04:40.281Z",
   "votes": [
     {
-      "person_id": "115980",
-      "person_name": "Liam Conlon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115980/5904e3b0-7b8a-48c2-872d-fc457ebd6c90.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "115980",
+      "person_name": "Liam Conlon",
+      "votes": 25753
     },
     {
-      "person_id": "47808",
-      "person_name": "Chloe-Jane Ross",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/47808-0c5f4348-cc63-458b-8f2b-e4583af133d4.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "47808",
+      "person_name": "Chloe-Jane Ross",
+      "votes": 4436
     },
     {
-      "person_id": "48133",
-      "person_name": "Hannah Gray",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48133/bd8a0419-1c46-41b4-8b1e-b05a2505d5a2.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "48133",
+      "person_name": "Hannah Gray",
+      "votes": 12848
     },
     {
-      "person_id": "5234",
-      "person_name": "Ruth Fabricant",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5234.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "5234",
+      "person_name": "Ruth Fabricant",
+      "votes": 3830
     },
     {
-      "person_id": "74732",
-      "person_name": "Edward Apostolides",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74732-a96f0d65-4c6f-489e-a6cc-8a4343911aa7.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "74732",
+      "person_name": "Edward Apostolides",
+      "votes": 5355
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:52",
+  "electorate": 70227,
+  "last_updated": "2024-07-05T06:43:09.000Z",
   "pcon24cd": "E14001131",
   "pcon24nm": "Bristol Central",
   "total_votes": 0,
-  "electorate": 70227,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:52",
-  "last_updated": "2024-07-05T02:52:32.485Z",
   "votes": [
     {
-      "person_id": "10569",
-      "person_name": "Nicholas Coombes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/10569/d6cede45-0c08-499b-94bc-909b31402cea.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "10569",
+      "person_name": "Nicholas Coombes",
+      "votes": 1162
     },
     {
-      "person_id": "116681",
-      "person_name": "Kellie-Jay Keen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116681/7b19702b-2ab0-4557-8d51-0db1fb55b6db.png",
       "party_key": "other",
       "party_name": "Party Of Women",
-      "votes": 0
+      "person_id": "116681",
+      "person_name": "Kellie-Jay Keen",
+      "votes": 196
     },
     {
-      "person_id": "4281",
-      "person_name": "Thangam Debbonaire",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4281/26edb8aa-f250-4668-9c1c-981905ffe52d.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "4281",
+      "person_name": "Thangam Debbonaire",
+      "votes": 14132
     },
     {
-      "person_id": "72699",
-      "person_name": "Samuel Williams",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72699-71fcd432-eb13-47ee-b698-a6dce03fec34.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "72699",
+      "person_name": "Samuel Williams",
+      "votes": 1998
     },
     {
-      "person_id": "76688",
-      "person_name": "Robert Clarke",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76688/8c7ee1d1-5126-4c2d-8d9e-f48cdf467b6f.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "76688",
+      "person_name": "Robert Clarke",
+      "votes": 1338
     },
     {
-      "person_id": "9774",
-      "person_name": "Carla Denyer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9774/42b0178c-af7c-4b70-b781-ce159b032346.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 1
+      "person_id": "9774",
+      "person_name": "Carla Denyer",
+      "votes": 24539
     }
   ]
 }

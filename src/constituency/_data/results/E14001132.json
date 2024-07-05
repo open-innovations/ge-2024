@@ -1,68 +1,68 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:09",
+  "electorate": 75936,
+  "last_updated": "2024-07-05T06:43:24.000Z",
   "pcon24cd": "E14001132",
   "pcon24nm": "Bristol East",
   "total_votes": 0,
-  "electorate": 75936,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:09",
-  "last_updated": "2024-07-05T03:09:13.930Z",
   "votes": [
     {
-      "person_id": "115096",
-      "person_name": "Dan Conaghan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115096/cce40f35-61f4-4672-b556-fad690ca9acc.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "115096",
+      "person_name": "Dan Conaghan",
+      "votes": 6435
     },
     {
-      "person_id": "116798",
-      "person_name": "Claire Dunnage",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116798",
+      "person_name": "Claire Dunnage",
+      "votes": 555
     },
     {
-      "person_id": "117685",
-      "person_name": "Wael Mustapha Arafat",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117685/1adc6372-b819-447a-8eae-dc9bc2d83adc.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117685",
+      "person_name": "Wael Mustapha Arafat",
+      "votes": 257
     },
     {
-      "person_id": "117686",
-      "person_name": "Farooq Ahmed Siddique",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117686/56e5b2ff-3745-42b5-b963-5fca04ed2a5d.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117686",
+      "person_name": "Farooq Ahmed Siddique",
+      "votes": 1259
     },
     {
-      "person_id": "57517",
-      "person_name": "Tony Sutcliffe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/57517/5fbe50b3-689c-414c-b6de-8efecdadd077.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "57517",
+      "person_name": "Tony Sutcliffe",
+      "votes": 2713
     },
     {
-      "person_id": "893",
-      "person_name": "Kerry McCarthy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/893/2170997b-0068-4563-a223-1d37a2ea7adc.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "893",
+      "person_name": "Kerry McCarthy",
+      "votes": 20748
     },
     {
-      "person_id": "9771",
-      "person_name": "Ani Stafford-Townsend",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9771/e453b4b2-1b4d-4756-b555-ce85ac036784.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "9771",
+      "person_name": "Ani Stafford-Townsend",
+      "votes": 14142
     }
   ]
 }

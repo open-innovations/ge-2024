@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 73934,
+  "last_updated": "2024-07-05T06:44:43.000Z",
   "pcon24cd": "E14001065",
   "pcon24nm": "Altrincham and Sale West",
   "total_votes": 0,
-  "electorate": 73934,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:21:46.939Z",
   "votes": [
     {
-      "person_id": "116122",
-      "person_name": "Oliver Carroll",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116122/8f7b8b37-8ccd-42cf-b94b-e0e64884d0f9.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "116122",
+      "person_name": "Oliver Carroll",
+      "votes": 16624
     },
     {
-      "person_id": "116848",
-      "person_name": "Connor Rand",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116848/68c1942c-69f2-40dc-a565-1b3da68a064b.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "116848",
+      "person_name": "Connor Rand",
+      "votes": 20798
     },
     {
-      "person_id": "116931",
-      "person_name": "Faisal Kabir",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116931/5b2e8518-71da-4d01-85fc-c928eaf1f1eb.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "116931",
+      "person_name": "Faisal Kabir",
+      "votes": 643
     },
     {
-      "person_id": "1432",
-      "person_name": "Jane Brophy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1432.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "1432",
+      "person_name": "Jane Brophy",
+      "votes": 4727
     },
     {
-      "person_id": "4058",
-      "person_name": "Paul James Swansborough",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4058/0b595e57-da71-4541-8557-22bca8c2f2d4.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "4058",
+      "person_name": "Paul James Swansborough",
+      "votes": 4961
     },
     {
-      "person_id": "4639",
-      "person_name": "Geraldine Coggins",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4639/92542c20-58f0-480e-b269-d363f99168cd.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "4639",
+      "person_name": "Geraldine Coggins",
+      "votes": 3699
     }
   ]
 }

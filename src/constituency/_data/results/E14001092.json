@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 71354,
+  "last_updated": "2024-07-05T06:47:18.000Z",
   "pcon24cd": "E14001092",
   "pcon24nm": "Birmingham Edgbaston",
   "total_votes": 0,
-  "electorate": 71354,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:10:10.041Z",
   "votes": [
     {
-      "person_id": "116912",
-      "person_name": "Ammar Waraich",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116912/87473319-8a1d-43ce-81e2-f1b032c14265.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "116912",
+      "person_name": "Ammar Waraich",
+      "votes": 3336
     },
     {
-      "person_id": "117401",
-      "person_name": "Joshua Matthews",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117401/c98090fd-5c77-4e28-9644-fc6542345396.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117401",
+      "person_name": "Joshua Matthews",
+      "votes": 4363
     },
     {
-      "person_id": "19009",
-      "person_name": "Preet Kaur Gill",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19009/fcb51506-491f-41b8-bcc3-8b42ab36aeef.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "person_id": "19009",
+      "person_name": "Preet Kaur Gill",
+      "votes": 16599
     },
     {
-      "person_id": "4481",
-      "person_name": "Colin Green",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e8cfb150e238702c0601.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "4481",
+      "person_name": "Colin Green",
+      "votes": 2102
     },
     {
-      "person_id": "72853",
-      "person_name": "Ashvir Sangha",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72853-92b5bea3-f67d-4f59-ba13-975aabe0a65f.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "72853",
+      "person_name": "Ashvir Sangha",
+      "votes": 8231
     },
     {
-      "person_id": "83384",
-      "person_name": "Nicola Catherine Payne",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83384/6387cdc9-9482-4262-8084-4d97d754b675.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "83384",
+      "person_name": "Nicola Catherine Payne",
+      "votes": 2797
     }
   ]
 }

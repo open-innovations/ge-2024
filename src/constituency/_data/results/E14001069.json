@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 73546,
+  "last_updated": "2024-07-05T06:44:43.000Z",
   "pcon24cd": "E14001069",
   "pcon24nm": "Ashford",
   "total_votes": 0,
-  "electorate": 73546,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:53:39.906Z",
   "votes": [
     {
-      "person_id": "104578",
-      "person_name": "Adam James Rowledge",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/104578/49ad8816-51eb-4ea1-98a4-be5338278bfe.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "104578",
+      "person_name": "Adam James Rowledge",
+      "votes": 2445
     },
     {
-      "person_id": "3486",
-      "person_name": "Damian Green",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3486/01dfe6ed-d883-4a7a-897a-d6b52fe8d6cf.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "3486",
+      "person_name": "Damian Green",
+      "votes": 13483
     },
     {
-      "person_id": "40163",
-      "person_name": "Tristram John Kennedy Harper",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/40163/d94b077b-4450-448e-8b38-1224ae7d3156.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "40163",
+      "person_name": "Tristram John Kennedy Harper",
+      "votes": 10141
     },
     {
-      "person_id": "5151",
-      "person_name": "Mandy Rossi",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5151/991f2014-a351-4d83-9f7f-a38adb8fe5d8.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "5151",
+      "person_name": "Mandy Rossi",
+      "votes": 4355
     },
     {
-      "person_id": "62398",
-      "person_name": "James Gordon Ransley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/62398/16de25cf-d422-4f08-8d84-8c30f6ba5e6b.png",
       "party_key": "other",
       "party_name": "Consensus",
-      "votes": 0
+      "person_id": "62398",
+      "person_name": "James Gordon Ransley",
+      "votes": 1289
     },
     {
-      "person_id": "78971",
-      "person_name": "Sojan Joseph",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78971/e6d13d37-aa2e-4a93-ae30-924be45925ac.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "78971",
+      "person_name": "Sojan Joseph",
+      "votes": 15262
     }
   ]
 }

@@ -1,91 +1,91 @@
 {
+  "confirmed": false,
+  "electorate": 70869,
+  "last_updated": "2024-07-05T06:47:18.000Z",
   "pcon24cd": "E14001088",
   "pcon24nm": "Bexhill and Battle",
   "total_votes": 0,
-  "electorate": 70869,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:28:26.343Z",
   "votes": [
     {
-      "person_id": "108291",
-      "person_name": "Colin Martin Sullivan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108291/3ff17c62-4e71-4f55-9ab3-c97038ecf222.png",
       "party_key": "other",
       "party_name": "UK Independence Party (UKIP)",
-      "votes": 0
+      "person_id": "108291",
+      "person_name": "Colin Martin Sullivan",
+      "votes": 144
     },
     {
-      "person_id": "116274",
-      "person_name": "Becky Jones",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116274/4ac08759-ccf0-4855-bb7c-3e842447507e.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "116274",
+      "person_name": "Becky Jones",
+      "votes": 3473
     },
     {
-      "person_id": "116871",
-      "person_name": "Ian Gribbin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116871/c3bca005-05e1-4884-a97c-1deeb0e13c38.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116871",
+      "person_name": "Ian Gribbin",
+      "votes": 7929
     },
     {
-      "person_id": "116940",
-      "person_name": "Jeff Newnham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116940/4fae6710-1e05-4edf-b50b-95e02628d8f8.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "116940",
+      "person_name": "Jeff Newnham",
+      "votes": 769
     },
     {
-      "person_id": "117499",
-      "person_name": "Julia Long",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117499/e6ea89bd-780f-45a0-91ec-b709d5e6ad07.png",
       "party_key": "other",
       "party_name": "Party Of Women",
-      "votes": 0
+      "person_id": "117499",
+      "person_name": "Julia Long",
+      "votes": 332
     },
     {
-      "person_id": "34372",
-      "person_name": "Christine Bayliss",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34372/8add1d34-b0d6-4b6e-a7a1-2317c1feb0c1.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "34372",
+      "person_name": "Christine Bayliss",
+      "votes": 13529
     },
     {
-      "person_id": "4159",
-      "person_name": "Kieran Mullan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4159.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "4159",
+      "person_name": "Kieran Mullan",
+      "votes": 16186
     },
     {
-      "person_id": "5767",
-      "person_name": "Jonathan Christopher Kent",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5767/f4d1d8fc-6d29-4188-933c-26bc11ffd773.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "5767",
+      "person_name": "Jonathan Christopher Kent",
+      "votes": 2972
     },
     {
-      "person_id": "60217",
-      "person_name": "Abul Azad",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117498/3637793c-a4af-455f-ae6f-1964cc709d9e.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "60217",
+      "person_name": "Abul Azad",
+      "votes": 2206
     },
     {
-      "person_id": "80776",
-      "person_name": "Nigel Adam Jacklin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/80776/079a0cf9-5624-4576-b284-7cf70b4a6504.png",
       "party_key": "other",
       "party_name": "Independent Network",
-      "votes": 0
+      "person_id": "80776",
+      "person_name": "Nigel Adam Jacklin",
+      "votes": 210
     }
   ]
 }
