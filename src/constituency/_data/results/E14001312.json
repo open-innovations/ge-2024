@@ -2,10 +2,10 @@
   "pcon24cd": "E14001312",
   "pcon24nm": "Kingston and Surbiton",
   "total_votes": 0,
-  "electorate": 75410,
-  "turnout_pct": 0,
+  "electorate": 77340,
+  "turnout_pct": 66,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:41:51.642Z",
+  "last_updated": "2024-07-05T01:54:19.726Z",
   "votes": [
     {
       "person_id": "116067",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116067/09b6a6e0-bc4c-42af-b0e3-f1d3078abffd.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 395
     },
     {
       "person_id": "116068",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116068/96900b20-fe28-48da-9647-0cd794012a19.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 3009
     },
     {
       "person_id": "116645",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116645/8ce4943c-4c9f-4fc2-aae5-4d433c63adf7.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 4787
     },
     {
       "person_id": "3454",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3454.png",
       "party_key": "other",
       "party_name": "The Official Monster Raving Loony Party",
-      "votes": 0
+      "votes": 230
     },
     {
       "person_id": "35980",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35980/f2e572d6-1056-493e-96b4-28d07219689a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 8635
     },
     {
       "person_id": "43048",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43048/c40a3843-7a58-498f-8332-eb4a01505d53.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 6561
     },
     {
       "person_id": "44166",
@@ -61,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/44166/520d43d9-a299-4e71-a2da-3c3857a43a54.png",
       "party_key": "other",
       "party_name": "Kingston Independent Residents Group",
-      "votes": 0
+      "votes": 1177
     },
     {
       "person_id": "4507",
@@ -69,7 +69,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4507/145b8b7f-d1b9-4a1d-8f79-37473146878a.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "votes": 25870
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
