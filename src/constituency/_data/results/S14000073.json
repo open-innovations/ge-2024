@@ -1,11 +1,11 @@
 {
   "pcon24cd": "S14000073",
   "pcon24nm": "Dumfries and Galloway",
-  "total_votes": 0,
+  "total_votes": 45937,
   "electorate": 78541,
   "turnout_pct": 58,
   "confirmed": false,
-  "last_updated": "2024-07-05T09:40:07.674Z",
+  "last_updated": "2024-07-05T09:45:01.288Z",
   "votes": [
     {
       "person_id": "10954",
