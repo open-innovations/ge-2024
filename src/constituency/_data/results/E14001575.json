@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 75390,
+  "last_updated": "2024-07-05T07:28:19.000Z",
   "pcon24cd": "E14001575",
   "pcon24nm": "West Dorset",
   "total_votes": 0,
-  "electorate": 75390,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:53:59.574Z",
   "votes": [
     {
-      "person_id": "117579",
-      "person_name": "Marcus Daniel Terence White",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117579/8cd2dce5-9068-44e8-a04a-044a292bcb90.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117579",
+      "person_name": "Marcus Daniel Terence White",
+      "votes": 289
     },
     {
-      "person_id": "2255",
-      "person_name": "Oliver Marshall Amede Chisholm",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2255/5f6dea65-3ed4-42bb-ba62-f56b62588b7b.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "2255",
+      "person_name": "Oliver Marshall Amede Chisholm",
+      "votes": 733
     },
     {
-      "person_id": "23741",
-      "person_name": "Kelvin Clayton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/23741/260297d2-86a4-4e2c-964c-a0714c96239d.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "23741",
+      "person_name": "Kelvin Clayton",
+      "votes": 2288
     },
     {
-      "person_id": "38097",
-      "person_name": "Donna Lumsden",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/38097/bf953e67-93c1-475b-bde9-39895b3a5363.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "38097",
+      "person_name": "Donna Lumsden",
+      "votes": 3086
     },
     {
-      "person_id": "42151",
-      "person_name": "Edward Morello",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/42151.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "42151",
+      "person_name": "Edward Morello",
+      "votes": 26999
     },
     {
-      "person_id": "71727",
-      "person_name": "Chris Loder",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71727.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "71727",
+      "person_name": "Chris Loder",
+      "votes": 19210
     }
   ]
 }

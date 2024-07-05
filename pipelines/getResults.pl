@@ -155,7 +155,19 @@ my $lookup = {
 	'Ammi Kaur-Dhaliwal'=>'Amerjit Kaur-Dhaliwal',
 	'Nicholas Beckett'=>'Nick Beckett',
 	'Bill Powell'=>'William Powell',
-	'Edward Willett'=>'Peter Willett'
+	'Edward Willett'=>'Peter Willett',
+	'Louis McMaster Adam'=>'Louis Adam',
+	'Arran Grange'=>'Arran Bowen-La Grange',
+	'Ian Eric Stotesbury'=>'Ian Stotesbury',
+	'Katie Lotte Lam'=>'Katie Lam',
+	'Marcus Terence White'=>'Marcus White',
+	'Oliver Amede Chisholm'=>'Oliver Chisholm',
+	'Kashif Haroon'=>'Kash Haroon',
+	'Thomas Harrison Daw'=>'Thomas Daw',
+	'Peter Clifford Reisdorf'=>'Peter Reisdorf',
+	'Tim Blaxill'=>'Timothy Blaxill',
+	'Donald Brookes'=>'Don Brookes',
+	'Nasri Barghouti'=>'Nas Barghouti'
 };
 #getData("E14001179");
 #exit;

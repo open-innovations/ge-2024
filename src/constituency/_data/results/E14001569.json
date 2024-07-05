@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 70540,
+  "last_updated": "2024-07-05T07:27:25.000Z",
   "pcon24cd": "E14001569",
   "pcon24nm": "Waveney Valley",
   "total_votes": 0,
-  "electorate": 70540,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:30:50.318Z",
   "votes": [
     {
-      "person_id": "113693",
-      "person_name": "Scott Huggins",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113693/cb9e0b54-bc00-4157-bec9-2a0700afbf8a.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "113693",
+      "person_name": "Scott Huggins",
+      "votes": 7779
     },
     {
-      "person_id": "113695",
-      "person_name": "Maya Severyn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113695/46a4f907-1f20-4065-b11a-1a5944600541.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "113695",
+      "person_name": "Maya Severyn",
+      "votes": 118
     },
     {
-      "person_id": "1945",
-      "person_name": "Adrian Ramsay",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1945/e84dc3a7-06dd-435c-9d10-e964652e3414.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 1
+      "person_id": "1945",
+      "person_name": "Adrian Ramsay",
+      "votes": 20467
     },
     {
-      "person_id": "30964",
-      "person_name": "Richard Rout",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/30964-23262715-70ab-42ae-9bd5-49c6c4d77fcc.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "30964",
+      "person_name": "Richard Rout",
+      "votes": 14873
     },
     {
-      "person_id": "81486",
-      "person_name": "Gurpreet Padda",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81486/525cb6b6-e1bd-4454-9eec-d3c98cef30cf.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "81486",
+      "person_name": "Gurpreet Padda",
+      "votes": 4621
     },
     {
-      "person_id": "83055",
-      "person_name": "John Richard Shreeve",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83055/da3291d4-7155-41a9-96c2-50d904076714.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "83055",
+      "person_name": "John Richard Shreeve",
+      "votes": 1214
     }
   ]
 }

@@ -1,60 +1,60 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:20",
+  "electorate": 76056,
+  "last_updated": "2024-07-05T07:30:22.000Z",
   "pcon24cd": "E14001603",
   "pcon24nm": "Yeovil",
   "total_votes": 0,
-  "electorate": 76056,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:20",
-  "last_updated": "2024-07-05T03:20:59.362Z",
   "votes": [
     {
-      "person_id": "116747",
-      "person_name": "Rebecca Montacute",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116747/e121b95e-07fe-45f7-80cd-66ef756bbc30.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "116747",
+      "person_name": "Rebecca Montacute",
+      "votes": 3002
     },
     {
-      "person_id": "20339",
-      "person_name": "Adam Dance",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/20339/d83cbb70-f2b8-4f00-83de-f4d00d2064e4.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "20339",
+      "person_name": "Adam Dance",
+      "votes": 23765
     },
     {
-      "person_id": "4251",
-      "person_name": "Marcus Fysh",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4251/379016ed-4f04-49d2-8a0b-b0aae5a11905.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "4251",
+      "person_name": "Marcus Fysh",
+      "votes": 11497
     },
     {
-      "person_id": "52294",
-      "person_name": "Steve Ashton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/52294/ceb197f0-1a0b-4f01-a111-60c13ada6093.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "52294",
+      "person_name": "Steve Ashton",
+      "votes": 608
     },
     {
-      "person_id": "5862",
-      "person_name": "Laura Bailhache",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5537b68a81ef08cf0d35282b.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "5862",
+      "person_name": "Laura Bailhache",
+      "votes": 7677
     },
     {
-      "person_id": "92410",
-      "person_name": "Serena Angela Wootton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92410/d54783a0-3619-44e0-b370-f86f8df10edc.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "92410",
+      "person_name": "Serena Angela Wootton",
+      "votes": 2403
     }
   ]
 }

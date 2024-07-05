@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 71455,
+  "last_updated": "2024-07-05T07:28:58.000Z",
   "pcon24cd": "E14001582",
   "pcon24nm": "Wetherby and Easingwold",
   "total_votes": 0,
-  "electorate": 71455,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:49:23.300Z",
   "votes": [
     {
-      "person_id": "13630",
-      "person_name": "Ben Pickles",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/13630/8a697208-44f7-4289-8018-93ffe22f1361.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "13630",
+      "person_name": "Ben Pickles",
+      "votes": 15751
     },
     {
-      "person_id": "2428",
-      "person_name": "James Monaghan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2428/4409fb00-d697-4bf0-99a0-c11fe74f11a1.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "2428",
+      "person_name": "James Monaghan",
+      "votes": 3351
     },
     {
-      "person_id": "30581",
-      "person_name": "Mike Jordan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116604/7fb27068-1cf3-4014-b4f2-c0ef1828ecb3.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "30581",
+      "person_name": "Mike Jordan",
+      "votes": 7288
     },
     {
-      "person_id": "36617",
-      "person_name": "John Philip Hall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/36617-4ad36f65-9ef6-4a51-8c33-44a31f72c700.png",
       "party_key": "other",
       "party_name": "Yorkshire Party",
-      "votes": 0
+      "person_id": "36617",
+      "person_name": "John Philip Hall",
+      "votes": 743
     },
     {
-      "person_id": "4036",
-      "person_name": "Alec Shelbrooke",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4036/49fd1727-7a2d-49d3-bf31-8908a8a85bca.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "4036",
+      "person_name": "Alec Shelbrooke",
+      "votes": 20597
     },
     {
-      "person_id": "45198",
-      "person_name": "Arnold Warneken",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/45198.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "45198",
+      "person_name": "Arnold Warneken",
+      "votes": 4529
     }
   ]
 }

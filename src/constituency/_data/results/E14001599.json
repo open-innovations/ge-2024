@@ -1,60 +1,60 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:47",
+  "electorate": 76293,
+  "last_updated": "2024-07-05T07:30:19.000Z",
   "pcon24cd": "E14001599",
   "pcon24nm": "Worthing West",
   "total_votes": 0,
-  "electorate": 76293,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:47",
-  "last_updated": "2024-07-05T03:47:07.466Z",
   "votes": [
     {
-      "person_id": "101894",
-      "person_name": "Edmund John Rooke",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101894/494a4e89-8448-438e-83dd-f0ae979728f6.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "101894",
+      "person_name": "Edmund John Rooke",
+      "votes": 7562
     },
     {
-      "person_id": "116371",
-      "person_name": "Morag Chugg",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116371/f0f1df3f-9e14-49b8-91e0-213ebc238957.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "116371",
+      "person_name": "Morag Chugg",
+      "votes": 2708
     },
     {
-      "person_id": "117575",
-      "person_name": "Kathryn Alexandra Attwood",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117575/b8d4d634-cca0-4fc3-a57d-ca7498720d6e.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117575",
+      "person_name": "Kathryn Alexandra Attwood",
+      "votes": 364
     },
     {
-      "person_id": "1642",
-      "person_name": "Peter Bottomley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1642/720d124c-a08d-425a-9871-71c8f84be1f0.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "1642",
+      "person_name": "Peter Bottomley",
+      "votes": 16570
     },
     {
-      "person_id": "31906",
-      "person_name": "Beccy Cooper",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31906.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "31906",
+      "person_name": "Beccy Cooper",
+      "votes": 20519
     },
     {
-      "person_id": "78620",
-      "person_name": "Sonya Lynne Mallin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78620/e10589b9-2656-4ff1-9c2d-3070a0d98e96.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "78620",
+      "person_name": "Sonya Lynne Mallin",
+      "votes": 3274
     }
   ]
 }

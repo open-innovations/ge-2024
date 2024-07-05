@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 76971,
+  "last_updated": "2024-07-05T07:30:21.000Z",
   "pcon24cd": "E14001602",
   "pcon24nm": "Wythenshawe and Sale East",
   "total_votes": 0,
-  "electorate": 76971,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:32:02.460Z",
   "votes": [
     {
-      "person_id": "116199",
-      "person_name": "John Barstow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116199/8703abff-f288-448f-81d3-23f48157a96a.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "116199",
+      "person_name": "John Barstow",
+      "votes": 714
     },
     {
-      "person_id": "116200",
-      "person_name": "Hilary Salt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116200/1af472ba-ba2b-4f65-98e3-e85ac81d0a15.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116200",
+      "person_name": "Hilary Salt",
+      "votes": 326
     },
     {
-      "person_id": "117064",
-      "person_name": "Sarah Beament",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117064/a50f357e-97bf-4e0e-861b-66276b19f62e.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "117064",
+      "person_name": "Sarah Beament",
+      "votes": 5392
     },
     {
-      "person_id": "13723",
-      "person_name": "Simon Edward Lepori",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/13723-f8d9a493-e55c-4a2c-ac9a-24bf90f5231a.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "13723",
+      "person_name": "Simon Edward Lepori",
+      "votes": 1985
     },
     {
-      "person_id": "43728",
-      "person_name": "Melanie Earp",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/43728-471c2936-51ab-4429-af0d-a6568372d7ab.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "43728",
+      "person_name": "Melanie Earp",
+      "votes": 4133
     },
     {
-      "person_id": "5544",
-      "person_name": "Mike Kane",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5544/5b88aaa3-ad3b-4570-baf3-429cbf9ca8df.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "5544",
+      "person_name": "Mike Kane",
+      "votes": 20596
     },
     {
-      "person_id": "72091",
-      "person_name": "Julie Fousert",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72091-b9c357c7-be95-4069-8eeb-4c902406479a.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "72091",
+      "person_name": "Julie Fousert",
+      "votes": 5986
     }
   ]
 }
