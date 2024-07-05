@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 76902,
+  "last_updated": "2024-07-05T06:18:15.000Z",
   "pcon24cd": "E14001263",
   "pcon24nm": "Hamble Valley",
   "total_votes": 0,
-  "electorate": 76902,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:43:09.805Z",
   "votes": [
     {
-      "person_id": "116321",
-      "person_name": "Caroline Gladwin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116321/39a0a31d-9889-428f-9882-d0720507653f.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116321",
+      "person_name": "Caroline Gladwin",
+      "votes": 8216
     },
     {
-      "person_id": "117476",
-      "person_name": "Binka Griffin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117476/d0c70d3a-f944-460c-9c1d-bd0c78b8d286.png",
       "party_key": "other",
       "party_name": "Hampshire Independents",
-      "votes": 0
+      "person_id": "117476",
+      "person_name": "Binka Griffin",
+      "votes": 185
     },
     {
-      "person_id": "4209",
-      "person_name": "Paul Holmes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4209/bb7a1052-658e-48d9-8841-c0ab6c47804a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "4209",
+      "person_name": "Paul Holmes",
+      "votes": 19671
     },
     {
-      "person_id": "42733",
-      "person_name": "Prad Bains",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/42733/23748225-44ea-4f08-b50b-eb842897d988.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "42733",
+      "person_name": "Prad Bains",
+      "votes": 14869
     },
     {
-      "person_id": "72503",
-      "person_name": "Kate Needham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94752/ab283e9a-ff7d-4695-a4d4-4a966d2f3533.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "72503",
+      "person_name": "Kate Needham",
+      "votes": 2310
     },
     {
-      "person_id": "94259",
-      "person_name": "Devina Marylyn Paul",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94259/372439bb-03c0-4d8b-9bd3-cb6795d171af.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "94259",
+      "person_name": "Devina Marylyn Paul",
+      "votes": 8753
     }
   ]
 }

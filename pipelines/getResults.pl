@@ -1,0 +1,246 @@
+#!/usr/bin/perl
+
+use utf8;
+use warnings;
+use strict;
+use JSON::XS;
+use Data::Dumper;
+use Cwd qw(abs_path);
+use POSIX qw(strftime);
+use MIME::Base64 qw(encode_base64);
+binmode STDOUT, 'utf8';
+binmode STDERR, 'utf8';
+
+# Get the real base directory for this script
+my ($basedir, $path);
+BEGIN { ($basedir, $path) = abs_path($0) =~ m{(.*/)?([^/]+)$}; push @INC, $basedir; }
+
+
+my $lookup = {
+	'Louise Heathcote'=>'Louise Petano-Heathcote',
+	'Paul De Hoest'=>'Paul de Hoest',
+	'Sebastian Newsam'=>'Seb Newsam',
+	'Reetendra Banerji'=>'Reeten Banerji',
+	'Freddie Mierlo'=>'Freddie van Mierlo',
+	'Jonathan Pearce'=>'Jon Pearce',
+	'William Lavin'=>'Will Lavin'
+};
+#getData("E14001263");
+#exit;
+
+my @arr = LoadCSV($basedir."../data/Westminster_Parliamentary_Constituencies_(Future)_Names_and_Codes_in_the_United_Kingdom_v2.csv");
+for(my $a = 0; $a < @arr; $a++){
+	getData($arr[$a]->{'PCON24CD'});
+}
+
+exit;
+;
+
+
+
+
+###########################
+
+sub getData {
+	my $id = shift;
+	my $url = "https://www.bbc.co.uk/news/election/2024/uk/constituencies/".$id;
+	my $savefile = $basedir."../data/bbc/$id.html";
+	my $file = $basedir."../src/constituency/_data/results/$id.json";
+
+	msg("Processing $id\n");
+	my (@lines,$html,$group,$i,@scorecard,$scores,$json,$name,$found,$total,$txt);
+	$json = LoadJSON($file);
+
+	# Check if we need to download
+	$total = 0;
+	for($i = 0; $i < @{$json->{'votes'}}; $i++){
+		if(!defined($json->{'votes'}[$i]{'votes'})){ $json->{'votes'}[$i]{'votes'} = 0; }
+		$total += $json->{'votes'}[$i]{'votes'};
+	}
+	if($total <= 1){
+		
+		if(!-e $savefile){
+			msg("\tDownloading <cyan>$url<none>\n");
+			`curl '$url' -s -o $savefile`;
+		}
+		open(my $fh,"<:utf8",$savefile);
+		@lines = <$fh>;
+		close($fh);
+		$html = join("",@lines);
+		if($html =~ /window.__INITIAL_DATA__=\"(.*?)\";<\/script>/){
+			$html = $1;
+			$html =~ s/\\\"/\"/g;
+			$html =~ s/.*"groups":(\[\{"scorecards":\[\{(.*?)\])\},"importance":"PRIMARY".*/$1/;
+			$group = ParseJSON($html);
+			@scorecard = @{$group->[0]{'scorecards'}};
+			$scores = {};
+			for($i = 0; $i < @scorecard; $i++){
+				$scores->{$scorecard[$i]{'title'}} = {'party'=>$scorecard[$i]{'supertitle'},'votes'=>$scorecard[$i]{'score'}{'dataColumns'}[0][0]};
+			}
+		}
+		$found = 0;
+		for($i = 0; $i < @{$json->{'votes'}}; $i++){
+			$name = $json->{'votes'}[$i]{'person_name'};
+			msg("\tPerson <yellow>$name<none>\n");
+			if(!$scores->{$name}){
+				$name =~ s/ ([^\s]+) / /g;
+				if(!$scores->{$name} && $lookup->{$name}){
+					$name = $lookup->{$name};
+				}
+			}
+			if($scores->{$name}){
+				if($json->{'votes'}[$i]{'votes'}<=1){
+					$json->{'votes'}[$i]{'votes'} = $scores->{$name}{'votes'};
+					$found++;
+					msg("\t\tUpdating vote count\n");
+				}else{
+					if($json->{'votes'}[$i]{'votes'}!=$scores->{$name}{'votes'}){
+						warning("\t\tVotes don't match: $json->{'votes'}[$i]{'votes'} != $scores->{$name}{'votes'}\n");
+					}
+				}
+			}else{
+				error("\t\tCan't find $name\n");
+				print Dumper $scores;
+				exit();
+			}
+		}
+
+		if($found > 0){
+			$json->{'last_updated'} = strftime "%FT%R:%S.000Z", gmtime;
+			$txt = JSON::XS->new->canonical(1)->pretty->space_before(0)->encode($json);
+			$txt =~ s/   /  /g;
+			msg("\tUpdating <cyan>$file<none>\n");
+			open($fh,">:utf8",$file);		
+			print $fh $txt;
+			close($fh);
+		}
+	}
+	
+}
+
+
+sub msg {
+	my $str = $_[0];
+	my $dest = $_[1]||"STDOUT";
+	
+	my %colours = (
+		'black'=>"\033[0;30m",
+		'red'=>"\033[0;31m",
+		'green'=>"\033[0;32m",
+		'yellow'=>"\033[0;33m",
+		'blue'=>"\033[0;34m",
+		'magenta'=>"\033[0;35m",
+		'cyan'=>"\033[0;36m",
+		'white'=>"\033[0;37m",
+		'none'=>"\033[0m"
+	);
+	foreach my $c (keys(%colours)){ $str =~ s/\< ?$c ?\>/$colours{$c}/g; }
+	if($dest eq "STDERR"){
+		print STDERR $str;
+	}else{
+		print STDOUT $str;
+	}
+}
+
+sub error {
+	my $str = $_[0];
+	$str =~ s/(^[\t\s]*)/$1<red>ERROR:<none> /;
+	msg($str,"STDERR");
+}
+
+sub warning {
+	my $str = $_[0];
+	$str =~ s/(^[\t\s]*)/$1<yellow>WARNING:<none> /;
+	msg($str,"STDERR");
+}
+
+sub ParseJSON {
+	my $str = shift;
+	my ($json);
+	eval {
+		$json = JSON::XS->new->decode($str);
+	};
+	if($@){ error("\tInvalid output in input: \"".substr($str,0,100)."...\".\n"); $json = {}; }
+	return $json;
+}
+
+sub LoadJSON {
+	my (@files,$str,@lines,$json);
+	my $file = $_[0];
+	open(FILE,"<:utf8",$file) || error("Unable to load <cyan>$file<none>.");
+	@lines = <FILE>;
+	close(FILE);
+	$str = (join("",@lines));
+	return ParseJSON($str);
+}
+
+
+# Version 1.3
+sub ParseCSV {
+	my $str = shift;
+	my $config = shift;
+	my (@rows,@cols,@header,$r,$c,@features,$data,$key,$k,$f,$n,$n2,$compact,$sline,$col);
+
+	$compact = $config->{'compact'};
+	$sline = $config->{'startrow'}||0;
+	$col = $config->{'key'};
+
+	$n = () = $str =~ /\r\n/g;
+	$n2 = () = $str =~ /\n/g;
+	if($n < $n2 * 0.25){ 
+		# Replace CR LF with escaped newline
+		$str =~ s/\r\n/\\n/g;
+	}
+	@rows = split(/[\n]/,$str);
+
+	$n = @rows;
+	
+	for($r = $sline; $r < @rows; $r++){
+		$rows[$r] =~ s/[\n\r]//g;
+		@cols = split(/,(?=(?:[^\"]*\"[^\"]*\")*(?![^\"]*\"))/,$rows[$r]);
+
+		if($r < $sline+1){
+			# Header
+			if(!@header){
+				for($c = 0; $c < @cols; $c++){
+					$cols[$c] =~ s/(^\"|\"$)//g;
+				}
+				@header = @cols;
+			}else{
+				for($c = 0; $c < @cols; $c++){
+					$header[$c] .= "\n".$cols[$c];
+				}
+			}
+		}else{
+			$data = {};
+			for($c = 0; $c < @cols; $c++){
+				$cols[$c] =~ s/(^\"|\"$)//g;
+				$data->{$header[$c]} = $cols[$c];
+			}
+			push(@features,$data);
+		}
+	}
+	if($col){
+		$data = {};
+		for($r = 0; $r < @features; $r++){
+			$f = $features[$r]->{$col};
+			if($compact){ $f =~ s/ //g; }
+			$data->{$f} = $features[$r];
+		}
+		return $data;
+	}else{
+		return @features;
+	}
+}
+
+sub LoadCSV {
+	# version 1.3
+	my $file = shift;
+	my $config = shift;
+	
+	msg("Processing CSV from <cyan>$file<none>\n");
+	open(FILE,"<:utf8",$file);
+	my @lines = <FILE>;
+	close(FILE);
+	return ParseCSV(join("",@lines),$config);
+}

@@ -6,3 +6,5 @@ _cache
 errors.log
 
 src/assets/img/thumbnails/
+
+data/bbc/

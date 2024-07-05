@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 72766,
+  "last_updated": "2024-07-05T06:25:54.000Z",
   "pcon24cd": "E14001275",
   "pcon24nm": "Havant",
   "total_votes": 0,
-  "electorate": 72766,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T02:46:35.254Z",
   "votes": [
     {
-      "person_id": "110830",
-      "person_name": "Gayathri Sathyanath",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110830/f7b50082-9184-4910-b200-400a82162713.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "110830",
+      "person_name": "Gayathri Sathyanath",
+      "votes": 3275
     },
     {
-      "person_id": "112067",
-      "person_name": "Netty Shepherd",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116699/ae6a9153-cfeb-40c3-a381-4ab5cca82194.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "112067",
+      "person_name": "Netty Shepherd",
+      "votes": 2861
     },
     {
-      "person_id": "116322",
-      "person_name": "Jennifer Nadia Alemanno",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116322/0f8ce24e-7938-4e09-b30d-15929c888d0b.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "116322",
+      "person_name": "Jennifer Nadia Alemanno",
+      "votes": 211
     },
     {
-      "person_id": "5017",
-      "person_name": "Alan Mak",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5017/26876e8a-ae1c-4bc4-bdd3-a1aa39bf92a3.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "5017",
+      "person_name": "Alan Mak",
+      "votes": 12986
     },
     {
-      "person_id": "5136",
-      "person_name": "John Perry",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5136/3734450d-6a8c-4549-95a8-d761a0b99b27.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "5136",
+      "person_name": "John Perry",
+      "votes": 9959
     },
     {
-      "person_id": "95024",
-      "person_name": "Stefanie Harvey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95024/7e3c4b5a-9d59-44c9-a0b1-824fb552d350.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "95024",
+      "person_name": "Stefanie Harvey",
+      "votes": 12894
     }
   ]
 }

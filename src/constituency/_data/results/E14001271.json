@@ -1,68 +1,68 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:19",
+  "electorate": 74060,
+  "last_updated": "2024-07-05T06:25:54.000Z",
   "pcon24cd": "E14001271",
   "pcon24nm": "Harrow West",
   "total_votes": 0,
-  "electorate": 74060,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:19",
-  "last_updated": "2024-07-05T03:19:30.978Z",
   "votes": [
     {
-      "person_id": "1126",
-      "person_name": "Gareth Thomas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1126/3bf48b5d-e7c2-4653-a93f-01427212f665.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "person_id": "1126",
+      "person_name": "Gareth Thomas",
+      "votes": 19833
     },
     {
-      "person_id": "116027",
-      "person_name": "Michael Beavis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116027/8716e28f-d643-4000-8f0d-5835f8aae8ca.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116027",
+      "person_name": "Michael Beavis",
+      "votes": 2639
     },
     {
-      "person_id": "117701",
-      "person_name": "Bharatkumar Ishverbhai Patel",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117701",
+      "person_name": "Bharatkumar Ishverbhai Patel",
+      "votes": 616
     },
     {
-      "person_id": "3865",
-      "person_name": "Chris Noyce",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3865/e69223ef-37b2-48c4-95e4-8b36af342595.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "3865",
+      "person_name": "Chris Noyce",
+      "votes": 2404
     },
     {
-      "person_id": "48028",
-      "person_name": "Pamela Fitzpatrick",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/48028/146353a9-dd5e-48c3-9872-fe47d7afa9c7.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "48028",
+      "person_name": "Pamela Fitzpatrick",
+      "votes": 4120
     },
     {
-      "person_id": "78480",
-      "person_name": "Abbas Merali",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78480/e863236e-1b97-4bf3-8251-fc20f758b29f.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "78480",
+      "person_name": "Abbas Merali",
+      "votes": 13191
     },
     {
-      "person_id": "95188",
-      "person_name": "Rupert Nepal George",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95188/0fb6fe74-d5b1-4075-96ed-5403d7183344.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "95188",
+      "person_name": "Rupert Nepal George",
+      "votes": 2438
     }
   ]
 }

@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 74810,
+  "last_updated": "2024-07-05T06:21:42.000Z",
   "pcon24cd": "E14001266",
   "pcon24nm": "Harborough, Oadby and Wigston",
   "total_votes": 0,
-  "electorate": 74810,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:10:15.466Z",
   "votes": [
     {
-      "person_id": "2308",
-      "person_name": "Robin Lambert",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2308/0976c62e-ad83-4b0a-b606-3611d715044f.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "2308",
+      "person_name": "Robin Lambert",
+      "votes": 203
     },
     {
-      "person_id": "23461",
-      "person_name": "Darren Woodiwiss",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/23461.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "23461",
+      "person_name": "Darren Woodiwiss",
+      "votes": 4269
     },
     {
-      "person_id": "34491",
-      "person_name": "Neil O'Brien",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34491.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "34491",
+      "person_name": "Neil O'Brien",
+      "votes": 18614
     },
     {
-      "person_id": "51604",
-      "person_name": "Hajira Hanif Piranie",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/51604.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 0
+      "person_id": "51604",
+      "person_name": "Hajira Hanif Piranie",
+      "votes": 16236
     },
     {
-      "person_id": "60341",
-      "person_name": "Danuta Bernadette Jeeves",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/60341/2382575d-7f66-4097-9056-e45e49fb5da1.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "60341",
+      "person_name": "Danuta Bernadette Jeeves",
+      "votes": 6332
     },
     {
-      "person_id": "64358",
-      "person_name": "Phil Knowles",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70014.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "64358",
+      "person_name": "Phil Knowles",
+      "votes": 4732
     }
   ]
 }

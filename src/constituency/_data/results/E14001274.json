@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 75581,
+  "last_updated": "2024-07-05T06:25:54.000Z",
   "pcon24cd": "E14001274",
   "pcon24nm": "Hastings and Rye",
   "total_votes": 0,
-  "electorate": 75581,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:30:52.401Z",
   "votes": [
     {
-      "person_id": "104981",
-      "person_name": "Guy Gillan Harris",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/104981/849ba2e4-9a41-4ef7-b142-7737668782a7.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "104981",
+      "person_name": "Guy Gillan Harris",
+      "votes": 2586
     },
     {
-      "person_id": "116929",
-      "person_name": "Phil Colley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116929/3e3d1652-2fd7-4949-b2d9-b12e0a8b9cf5.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "116929",
+      "person_name": "Phil Colley",
+      "votes": 362
     },
     {
-      "person_id": "34796",
-      "person_name": "Sally-Ann Hart",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34796/2599b29f-1e61-4dae-a437-53e1669417f3.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "34796",
+      "person_name": "Sally-Ann Hart",
+      "votes": 10481
     },
     {
-      "person_id": "42322",
-      "person_name": "Nicholas Davies",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/42322/bfda8859-0062-45bc-9c9c-59d3d2098854.png",
       "party_key": "other",
       "party_name": "Communist Party of Britain",
-      "votes": 0
+      "person_id": "42322",
+      "person_name": "Nicholas Davies",
+      "votes": 136
     },
     {
-      "person_id": "42366",
-      "person_name": "Becca Horn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/42366/bd169c41-645c-483b-a642-d3e089c4568c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "42366",
+      "person_name": "Becca Horn",
+      "votes": 5761
     },
     {
-      "person_id": "72407",
-      "person_name": "Paul Edward Crosland",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117120/204df6cd-daef-4006-ab4c-bf47693e4957.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "72407",
+      "person_name": "Paul Edward Crosland",
+      "votes": 129
     },
     {
-      "person_id": "73636",
-      "person_name": "Lucian Fernando",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73636/3c43c304-579d-4821-9382-77cf17b4db23.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "73636",
+      "person_name": "Lucian Fernando",
+      "votes": 7401
     },
     {
-      "person_id": "74267",
-      "person_name": "Helena Dollimore",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74267/aba51e3e-91ec-4e7b-bd6c-9f8b641f069f.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "person_id": "74267",
+      "person_name": "Helena Dollimore",
+      "votes": 19134
     }
   ]
 }
