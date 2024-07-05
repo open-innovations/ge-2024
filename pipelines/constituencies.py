@@ -45,6 +45,7 @@ def get_data(sheet_name, var_name, drop_cols, value_type=int, pct=None):
 
     # Read the file and cut the data 
     data = read_file(path, **kwargs).pipe(get_variable, 'Topic', var_name)
+    data.replace('Ynys Mon', 'Ynys Môn', inplace=True)
     print(f"Got the data for the variable(s):{var_name}, for the sheet: {sheet_name}\n")
 
     # Drop unused columns and rename to merge with constituency codes
