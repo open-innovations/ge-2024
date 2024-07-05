@@ -1,83 +1,83 @@
 {
+  "confirmed": false,
+  "electorate": 71552,
+  "last_updated": "2024-07-05T07:06:39.000Z",
   "pcon24cd": "E14001496",
   "pcon24nm": "South West Hertfordshire",
   "total_votes": 0,
-  "electorate": 71552,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:44:42.491Z",
   "votes": [
     {
-      "person_id": "1019",
-      "person_name": "Gagan Mohindra",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1019/907f787e-1bf7-45bb-94cd-e937772a87a3.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "1019",
+      "person_name": "Gagan Mohindra",
+      "votes": 16458
     },
     {
-      "person_id": "103553",
-      "person_name": "Narinder Sian",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/103553/c15ba652-298c-45bb-b930-e7f730b4bc98.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "103553",
+      "person_name": "Narinder Sian",
+      "votes": 2532
     },
     {
-      "person_id": "115865",
-      "person_name": "Keith Steers",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115865/7c6215c1-5716-478b-bbe7-288b1ae41d74.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "115865",
+      "person_name": "Keith Steers",
+      "votes": 6790
     },
     {
-      "person_id": "116961",
-      "person_name": "Bernadette O'Malley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116961/2f70de63-4002-4f16-8c37-4b5d5447303d.png",
       "party_key": "other",
       "party_name": "Party Of Women",
-      "votes": 0
+      "person_id": "116961",
+      "person_name": "Bernadette O'Malley",
+      "votes": 295
     },
     {
-      "person_id": "117694",
-      "person_name": "Victor Silkin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117694/e25eebef-7437-47a3-bed4-ff9f25d71d06.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": 0
+      "person_id": "117694",
+      "person_name": "Victor Silkin",
+      "votes": 232
     },
     {
-      "person_id": "117695",
-      "person_name": "Ketankumar Pipaliya",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117695/2d7a8a92-fef9-4624-8d0f-8001db4621a9.png",
       "party_key": "other",
       "party_name": "UK Voice",
-      "votes": 0
+      "person_id": "117695",
+      "person_name": "Ketankumar Pipaliya",
+      "votes": 150
     },
     {
-      "person_id": "20334",
-      "person_name": "Sally Symington",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20334.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "20334",
+      "person_name": "Sally Symington",
+      "votes": 12002
     },
     {
-      "person_id": "72453",
-      "person_name": "Michael McGetrick",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72453-ad364920-5079-485a-abbc-902435a0634e.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "72453",
+      "person_name": "Michael McGetrick",
+      "votes": 158
     },
     {
-      "person_id": "94977",
-      "person_name": "Alex Sufit",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/94977/114bd4f6-71ac-4638-b07b-5f267d466deb.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "94977",
+      "person_name": "Alex Sufit",
+      "votes": 9637
     }
   ]
 }

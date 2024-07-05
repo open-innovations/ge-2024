@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 74761,
+  "last_updated": "2024-07-05T07:06:04.000Z",
   "pcon24cd": "E14001464",
   "pcon24nm": "Selby",
   "total_votes": 0,
-  "electorate": 74761,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:54:28.429Z",
   "votes": [
     {
-      "person_id": "108800",
-      "person_name": "Keir Mather",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108800/a0e46048-74db-4870-8013-d9dfa84d54d7.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "108800",
+      "person_name": "Keir Mather",
+      "votes": 22788
     },
     {
-      "person_id": "109871",
-      "person_name": "Angela Oldershaw",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116588/ebdb5f2d-d2f1-4534-8a6c-2762d23904b7.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "109871",
+      "person_name": "Angela Oldershaw",
+      "votes": 2484
     },
     {
-      "person_id": "117787",
-      "person_name": "David John Burns",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117787",
+      "person_name": "David John Burns",
+      "votes": 9565
     },
     {
-      "person_id": "58494",
-      "person_name": "Charles Richardson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/58494.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "58494",
+      "person_name": "Charles Richardson",
+      "votes": 12593
     },
     {
-      "person_id": "828",
-      "person_name": "Christian Vassie",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70034.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "828",
+      "person_name": "Christian Vassie",
+      "votes": 1792
     }
   ]
 }

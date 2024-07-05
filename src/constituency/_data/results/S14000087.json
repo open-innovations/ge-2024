@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 71344,
+  "last_updated": "2024-07-05T07:05:30.000Z",
   "pcon24cd": "S14000087",
   "pcon24nm": "Glasgow South",
   "total_votes": 0,
-  "electorate": 71344,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:25:16.553Z",
   "votes": [
     {
-      "person_id": "114579",
-      "person_name": "Gordon McKee",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114579/c21d4673-22e2-4248-8067-f4ef35c68604.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "114579",
+      "person_name": "Gordon McKee",
+      "votes": 17696
     },
     {
-      "person_id": "116635",
-      "person_name": "Dhruva Kumar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116635/a1e1d1b0-995e-4d2c-9471-25e98ba60fd1.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": 0
+      "person_id": "116635",
+      "person_name": "Dhruva Kumar",
+      "votes": 444
     },
     {
-      "person_id": "116781",
-      "person_name": "Niall Christie",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116781/1b4a35e4-d4e4-42cd-853a-dac960649850.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "person_id": "116781",
+      "person_name": "Niall Christie",
+      "votes": 5554
     },
     {
-      "person_id": "117644",
-      "person_name": "Danny Raja",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117644/0dbf2a21-df73-4592-af54-8b1761866f18.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117644",
+      "person_name": "Danny Raja",
+      "votes": 1736
     },
     {
-      "person_id": "3744",
-      "person_name": "Brian Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5515951c4fb3d15c51926dc3.png",
       "party_key": "other",
       "party_name": "Trade Unionist and Socialist Coalition",
-      "votes": 0
+      "person_id": "3744",
+      "person_name": "Brian Smith",
+      "votes": 473
     },
     {
-      "person_id": "5173",
-      "person_name": "Stewart McDonald",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54f767b5c689026478f43676.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "person_id": "5173",
+      "person_name": "Stewart McDonald",
+      "votes": 13542
     },
     {
-      "person_id": "72346",
-      "person_name": "Haroun Malik",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72346-19e59f9a-925b-46ad-816c-5f97afb56d1b.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "72346",
+      "person_name": "Haroun Malik",
+      "votes": 1617
     },
     {
-      "person_id": "81087",
-      "person_name": "Peter Michael McLaughlin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81087/9616dbd1-4e7d-4258-ab85-859e7c247f25.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "81087",
+      "person_name": "Peter Michael McLaughlin",
+      "votes": 1316
     }
   ]
 }

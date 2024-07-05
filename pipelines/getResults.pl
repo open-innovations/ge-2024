@@ -114,7 +114,27 @@ my $lookup = {
 	'Timothy Burt'=>'Tim Burt',
 	'Isobel Campbell Doubleday'=>'Isobel Doubleday',
 	'Sarah Garcia Bustos'=>'Sarah Garcia de Bustos',
-	'Matt Warnes'=>'Matthew Warnes'
+	'Matt Warnes'=>'Matthew Warnes',
+	'Philip Shields'=>'Phil Shields',
+	'Karen Mary Seymour'=>'Karen Seymour',
+	'Peter James Dean'=>'Peter Dean',
+	'Jonathan Tom Davies'=>'Jonathan Davies',
+	'Sorcha-Lucy Eastwood'=>'Sorcha Eastwood',
+	'Ian Jr'=>'Ian Paisley',
+	'Déirdre Vaughan'=>'Deirdre Vaughan',
+	'Siobhán McErlean'=>'Siobhan McErlean',
+	'Thomas Buchanan'=>'Tom Buchanan',
+	'Dan Peña'=>'Dan Pena',
+	'Stephen  Kerr'=>'Stephen Kerr',
+	'Amanda Hargreaves Hampsey'=>'Amanda Hampsey',
+	'Jonny Gray'=>'Johnathan Gray',
+	'Caz Paul'=>'Calum Paul',
+	'Udo Den Brock'=>'Udo van den Brock',
+	'Jo Mowat'=>'Joanna Mowat',
+	'Simon Wheeler Moorehead'=>'Simon Moorehead',
+	'Chris McEleny'=>'Christopher McEleny',
+	'Victor David Applegate'=>'Victor Applegate',
+	'Bev England'=>'Beverley England'
 };
 #getData("E14001263");
 #exit;

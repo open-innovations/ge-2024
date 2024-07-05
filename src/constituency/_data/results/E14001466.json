@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 71154,
+  "last_updated": "2024-07-05T07:06:04.000Z",
   "pcon24cd": "E14001466",
   "pcon24nm": "Sheffield Brightside and Hillsborough",
   "total_votes": 0,
-  "electorate": 71154,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:12:38.895Z",
   "votes": [
     {
-      "person_id": "116786",
-      "person_name": "Jeremy Turner",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116786",
+      "person_name": "Jeremy Turner",
+      "votes": 873
     },
     {
-      "person_id": "116824",
-      "person_name": "Mark Tyler",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116824/ce79ecbb-26ec-47ad-bec8-246d379af89d.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "116824",
+      "person_name": "Mark Tyler",
+      "votes": 1437
     },
     {
-      "person_id": "19647",
-      "person_name": "Gill Furniss",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19647/780a1b96-6d52-466e-bda4-8d0abfba9bab.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "19647",
+      "person_name": "Gill Furniss",
+      "votes": 16301
     },
     {
-      "person_id": "52079",
-      "person_name": "Will Sapwell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/52079.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "52079",
+      "person_name": "Will Sapwell",
+      "votes": 1694
     },
     {
-      "person_id": "6186",
-      "person_name": "Maxine Bowler",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6186/70ea4d5d-0ce9-4301-915c-efdaf1967f46.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "6186",
+      "person_name": "Maxine Bowler",
+      "votes": 2537
     },
     {
-      "person_id": "67589",
-      "person_name": "Aaron Jacob",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/67589/afe213d1-0528-43d7-920e-34f34b331b0e.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "67589",
+      "person_name": "Aaron Jacob",
+      "votes": 4069
     },
     {
-      "person_id": "6930",
-      "person_name": "Christine Gilligan Kubo",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/50237.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "6930",
+      "person_name": "Christine Gilligan Kubo",
+      "votes": 4701
     }
   ]
 }

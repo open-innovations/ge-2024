@@ -1,52 +1,52 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:57",
+  "electorate": 76969,
+  "last_updated": "2024-07-05T07:03:08.000Z",
   "pcon24cd": "N05000017",
   "pcon24nm": "Upper Bann",
   "total_votes": 0,
-  "electorate": 76969,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:57",
-  "last_updated": "2024-07-05T02:57:27.202Z",
   "votes": [
     {
-      "person_id": "12439",
-      "person_name": "Carla Lockhart",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/12439.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": 1
+      "person_id": "12439",
+      "person_name": "Carla Lockhart",
+      "votes": 21642
     },
     {
-      "person_id": "4679",
-      "person_name": "Catherine Nelson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49903.png",
       "party_key": "sf",
       "party_name": "Sinn Féin",
-      "votes": 0
+      "person_id": "4679",
+      "person_name": "Catherine Nelson",
+      "votes": 14236
     },
     {
-      "person_id": "49545",
-      "person_name": "Kate Evans",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49545.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": 0
+      "person_id": "49545",
+      "person_name": "Kate Evans",
+      "votes": 3662
     },
     {
-      "person_id": "50332",
-      "person_name": "Eóin Tennyson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/50332/6a91eae1-cce0-4f5b-a895-54542d3c11ca.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": 0
+      "person_id": "50332",
+      "person_name": "Eóin Tennyson",
+      "votes": 6322
     },
     {
-      "person_id": "6462",
-      "person_name": "Malachy Quinn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6462.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": 0
+      "person_id": "6462",
+      "person_name": "Malachy Quinn",
+      "votes": 1496
     }
   ]
 }

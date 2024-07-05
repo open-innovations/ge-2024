@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 71823,
+  "last_updated": "2024-07-05T07:01:44.000Z",
   "pcon24cd": "E14001356",
   "pcon24nm": "Melksham and Devizes",
   "total_votes": 0,
-  "electorate": 71823,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:35:45.932Z",
   "votes": [
     {
-      "person_id": "116410",
-      "person_name": "Malcolm John Cupis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116410/04a47dd0-c152-4bc6-801c-e9af03b96969.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116410",
+      "person_name": "Malcolm John Cupis",
+      "votes": 6726
     },
     {
-      "person_id": "116411",
-      "person_name": "Kerry Postlewhite",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116411/bcee2dba-7d31-48e8-9caa-4b9418556a29.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "116411",
+      "person_name": "Kerry Postlewhite",
+      "votes": 4587
     },
     {
-      "person_id": "1251",
-      "person_name": "Brian Mathew",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1251-80899462-a32c-4e6d-abc5-a512b9fe8163.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "1251",
+      "person_name": "Brian Mathew",
+      "votes": 20031
     },
     {
-      "person_id": "3938",
-      "person_name": "Michelle Donelan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3938/07312a23-112a-4395-b144-095d8648af3c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "3938",
+      "person_name": "Michelle Donelan",
+      "votes": 17630
     },
     {
-      "person_id": "80733",
-      "person_name": "Catherine Read",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/80733/95c5362f-06cc-41f9-b489-81d4d4c8fd4e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "80733",
+      "person_name": "Catherine Read",
+      "votes": 2229
     }
   ]
 }

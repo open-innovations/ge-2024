@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 75634,
+  "last_updated": "2024-07-05T07:06:21.000Z",
   "pcon24cd": "E14001488",
   "pcon24nm": "South Leicestershire",
   "total_votes": 0,
-  "electorate": 75634,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:03:06.172Z",
   "votes": [
     {
-      "person_id": "5020",
-      "person_name": "Bill Piper",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551598184fb3d15c51926dca.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "5020",
+      "person_name": "Bill Piper",
+      "votes": 10235
     },
     {
-      "person_id": "5023",
-      "person_name": "Alberto Costa",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5023.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "5023",
+      "person_name": "Alberto Costa",
+      "votes": 18264
     },
     {
-      "person_id": "63020",
-      "person_name": "Paul Hartshorn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74950-43a12efc-94bb-4a5f-9d43-3d6f33389b4d.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "63020",
+      "person_name": "Paul Hartshorn",
+      "votes": 7621
     },
     {
-      "person_id": "75574",
-      "person_name": "Mike Jelfs",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75574/27466f7d-4464-4cb2-b5cd-ace6fbd5d9a7.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "75574",
+      "person_name": "Mike Jelfs",
+      "votes": 2481
     },
     {
-      "person_id": "99076",
-      "person_name": "Robert Parkinson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99076/740197d5-ec4f-4046-8aa7-c87845742b9d.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "99076",
+      "person_name": "Robert Parkinson",
+      "votes": 12758
     }
   ]
 }

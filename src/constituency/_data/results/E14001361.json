@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 69775,
+  "last_updated": "2024-07-05T07:01:44.000Z",
   "pcon24cd": "E14001361",
   "pcon24nm": "Mid Cheshire",
   "total_votes": 0,
-  "electorate": 69775,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:18:35.585Z",
   "votes": [
     {
-      "person_id": "103759",
-      "person_name": "Jack Price-Harbach",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/103759/1b8e05e9-4355-4e29-b449-c2be11319724.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "103759",
+      "person_name": "Jack Price-Harbach",
+      "votes": 2465
     },
     {
-      "person_id": "106475",
-      "person_name": "Emma Guy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106475/b8fb7c6b-f67f-49fc-9e2a-3f09aad6fa19.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "106475",
+      "person_name": "Emma Guy",
+      "votes": 7967
     },
     {
-      "person_id": "114302",
-      "person_name": "Helen Clawson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114302/9230a65d-ed2b-4613-a366-427042a5fabb.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "114302",
+      "person_name": "Helen Clawson",
+      "votes": 850
     },
     {
-      "person_id": "117465",
-      "person_name": "Stella Mellor",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117465/5bf77104-afc4-4d09-83c4-525cdb8e663d.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117465",
+      "person_name": "Stella Mellor",
+      "votes": 273
     },
     {
-      "person_id": "34542",
-      "person_name": "Mark Green",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34542.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "34542",
+      "person_name": "Mark Green",
+      "votes": 1967
     },
     {
-      "person_id": "34579",
-      "person_name": "Charles Fifield",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34579/06afd04b-88c3-4d6d-976e-b73ddf5d4e94.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "34579",
+      "person_name": "Charles Fifield",
+      "votes": 9530
     },
     {
-      "person_id": "64060",
-      "person_name": "Andrew Graham Cooper",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/64060/2080ca98-3331-44ef-870a-155725435d29.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "64060",
+      "person_name": "Andrew Graham Cooper",
+      "votes": 18457
     }
   ]
 }

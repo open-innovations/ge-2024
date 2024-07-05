@@ -1,91 +1,91 @@
 {
+  "confirmed": false,
+  "electorate": 70070,
+  "last_updated": "2024-07-05T07:03:08.000Z",
   "pcon24cd": "N05000016",
   "pcon24nm": "Strangford",
   "total_votes": 0,
-  "electorate": 70070,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:01:50.296Z",
   "votes": [
     {
-      "person_id": "108654",
-      "person_name": "Will Polland",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108654/31500bf1-7ecd-4051-8f5a-d4edee415cfd.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": 0
+      "person_id": "108654",
+      "person_name": "Will Polland",
+      "votes": 1783
     },
     {
-      "person_id": "108702",
-      "person_name": "Noel Sands",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108702/16c81c7a-1a28-46df-b355-4e327c701113.png",
       "party_key": "sf",
       "party_name": "Sinn Féin",
-      "votes": 0
+      "person_id": "108702",
+      "person_name": "Noel Sands",
+      "votes": 2793
     },
     {
-      "person_id": "116673",
-      "person_name": "Barry Hetherington",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116673/5a51d4ae-c29b-4988-a284-7cba66231c14.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "116673",
+      "person_name": "Barry Hetherington",
+      "votes": 146
     },
     {
-      "person_id": "117824",
-      "person_name": "Alexandra Braidner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117824/710dc028-5fd7-4aab-bc4c-6f55937ca8c6.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "117824",
+      "person_name": "Alexandra Braidner",
+      "votes": 703
     },
     {
-      "person_id": "117825",
-      "person_name": "Gareth Burns",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117825/2674d85c-d3e9-46f9-94f0-03723236ebb7.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117825",
+      "person_name": "Gareth Burns",
+      "votes": 157
     },
     {
-      "person_id": "117826",
-      "person_name": "Garreth Falls",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117826/914357b6-8146-42a3-86b1-2b7cfdbaabf2.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117826",
+      "person_name": "Garreth Falls",
+      "votes": 256
     },
     {
-      "person_id": "3066",
-      "person_name": "Jim Shannon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3066/dc5c7536-2385-48b9-8f86-d9a18bfdcec4.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": 1
+      "person_id": "3066",
+      "person_name": "Jim Shannon",
+      "votes": 15559
     },
     {
-      "person_id": "49643",
-      "person_name": "Michelle Guy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49643.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": 0
+      "person_id": "49643",
+      "person_name": "Michelle Guy",
+      "votes": 10428
     },
     {
-      "person_id": "69271",
-      "person_name": "Richard Smart",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69271.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": 0
+      "person_id": "69271",
+      "person_name": "Richard Smart",
+      "votes": 3941
     },
     {
-      "person_id": "84283",
-      "person_name": "Ron McDowell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84283-01929ae7-3d1c-4af7-940f-2843796daa08.png",
       "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
-      "votes": 0
+      "person_id": "84283",
+      "person_name": "Ron McDowell",
+      "votes": 3143
     }
   ]
 }

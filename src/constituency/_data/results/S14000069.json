@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 75173,
+  "last_updated": "2024-07-05T07:04:21.000Z",
   "pcon24cd": "S14000069",
   "pcon24nm": "Caithness, Sutherland and Easter Ross",
   "total_votes": 0,
-  "electorate": 75173,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:34:27.642Z",
   "votes": [
     {
-      "person_id": "116213",
-      "person_name": "Lucy Beattie",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116213/258c0a35-d3be-44df-b24a-78eac4acb25f.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "person_id": "116213",
+      "person_name": "Lucy Beattie",
+      "votes": 12247
     },
     {
-      "person_id": "116214",
-      "person_name": "Steve Chisholm",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116214/423180fd-5e41-4b20-be92-b8046eb719f3.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": 0
+      "person_id": "116214",
+      "person_name": "Steve Chisholm",
+      "votes": 795
     },
     {
-      "person_id": "6084",
-      "person_name": "Anne Thomas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6084-4d3befec-9485-4971-9e4f-cdd5cf6b847c.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "person_id": "6084",
+      "person_name": "Anne Thomas",
+      "votes": 1641
     },
     {
-      "person_id": "6835",
-      "person_name": "Sandra Skinner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5525ee66413cb4432adffa47.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "6835",
+      "person_name": "Sandra Skinner",
+      "votes": 3360
     },
     {
-      "person_id": "72452",
-      "person_name": "Fiona Fawcett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72452/0cea1d38-e173-482b-bf63-84bdf3a43d4b.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "72452",
+      "person_name": "Fiona Fawcett",
+      "votes": 1860
     },
     {
-      "person_id": "8632",
-      "person_name": "Jamie Stone",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8632/f045d9c3-76f3-4469-a507-1d3fbcedeb55.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "8632",
+      "person_name": "Jamie Stone",
+      "votes": 22736
     },
     {
-      "person_id": "92289",
-      "person_name": "Eva Kestner",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92289/8907b458-66db-4d69-88b8-f55d427f7ee0.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "92289",
+      "person_name": "Eva Kestner",
+      "votes": 3409
     }
   ]
 }

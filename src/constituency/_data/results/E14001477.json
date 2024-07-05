@@ -1,101 +1,101 @@
 {
+  "confirmed": false,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "03:35",
+  "electorate": 75287,
+  "last_updated": "2024-07-05T07:06:21.000Z",
   "pcon24cd": "E14001477",
   "pcon24nm": "Slough",
   "total_votes": 0,
-  "electorate": 75287,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:35",
-  "last_updated": "2024-07-05T02:35:40.492Z",
   "votes": [
     {
-      "person_id": "116360",
-      "person_name": "Robin Jackson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116360/46239851-8ea4-49cf-8367-40b4d567b59c.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116360",
+      "person_name": "Robin Jackson",
+      "votes": 3352
     },
     {
-      "person_id": "116362",
-      "person_name": "Adnan Shabbir",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116362/ef19b8cc-95aa-40c0-93a2-69f7dd9abdc5.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "116362",
+      "person_name": "Adnan Shabbir",
+      "votes": 1105
     },
     {
-      "person_id": "117110",
-      "person_name": "Moni Kaur Nanda",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117110/21f9c29e-bfe6-4ecf-a2e0-9deec2a7aa92.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "117110",
+      "person_name": "Moni Kaur Nanda",
+      "votes": 7457
     },
     {
-      "person_id": "117538",
-      "person_name": "Jaswinder Singh",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117538/c9e3b983-3139-40d6-942e-de320eb871f7.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117538",
+      "person_name": "Jaswinder Singh",
+      "votes": 204
     },
     {
-      "person_id": "2814",
-      "person_name": "Diana Victoria Coad",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553c9dd341b868785b1fe67a.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "2814",
+      "person_name": "Diana Victoria Coad",
+      "votes": 402
     },
     {
-      "person_id": "31038",
-      "person_name": "Chelsea Whyte",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116361/6df24921-2d8c-426c-9b03-0f19f87b0cb1.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "31038",
+      "person_name": "Chelsea Whyte",
+      "votes": 2060
     },
     {
-      "person_id": "4341",
-      "person_name": "Tan Dhesi",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55360cd54eb6352b1643ebc1.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "4341",
+      "person_name": "Tan Dhesi",
+      "votes": 14666
     },
     {
-      "person_id": "48174",
-      "person_name": "Nick Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117539/59ad48f9-0a3d-488f-9582-d9fd06366950.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": 0
+      "person_id": "48174",
+      "person_name": "Nick Smith",
+      "votes": 145
     },
     {
-      "person_id": "49317",
-      "person_name": "Chandra Sekhar Muvvala",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49317/1268e41a-bb50-4f09-ae1a-439d7a86ddfe.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "49317",
+      "person_name": "Chandra Sekhar Muvvala",
+      "votes": 995
     },
     {
-      "person_id": "6725",
-      "person_name": "Julian Edmonds",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553df91e044f23cd71a213c3.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "6725",
+      "person_name": "Julian Edmonds",
+      "votes": 1873
     },
     {
-      "person_id": "79813",
-      "person_name": "Azhar Iqbal Chohan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/79813/8e8f696a-c679-488a-9580-82c7f5943a32.png",
       "party_key": "other",
       "party_name": "Independent Network",
-      "votes": 0
+      "person_id": "79813",
+      "person_name": "Azhar Iqbal Chohan",
+      "votes": 11019
     }
-  ],
-  "declaration_date": "2024-07-05"
+  ]
 }

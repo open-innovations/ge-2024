@@ -1,68 +1,68 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:49",
+  "electorate": 70431,
+  "last_updated": "2024-07-05T07:05:30.000Z",
   "pcon24cd": "S14000088",
   "pcon24nm": "Glasgow South West",
   "total_votes": 0,
-  "electorate": 70431,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:49",
-  "last_updated": "2024-07-05T03:49:24.818Z",
   "votes": [
     {
-      "person_id": "117673",
-      "person_name": "Morag McRae",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117673",
+      "person_name": "Morag McRae",
+      "votes": 2236
     },
     {
-      "person_id": "1812",
-      "person_name": "Chris Stephens",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553c2ebf62bbab35264e7ac6.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "person_id": "1812",
+      "person_name": "Chris Stephens",
+      "votes": 12267
     },
     {
-      "person_id": "4995",
-      "person_name": "Paul McGarry",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/21145.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "4995",
+      "person_name": "Paul McGarry",
+      "votes": 958
     },
     {
-      "person_id": "73870",
-      "person_name": "Zubir Ahmed",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73870/47ea7d06-8399-4361-9d2e-a75f14494f8a.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "73870",
+      "person_name": "Zubir Ahmed",
+      "votes": 15552
     },
     {
-      "person_id": "85725",
-      "person_name": "Mamun Rashid",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85725/d90bab76-0311-48d9-bebd-da2cd38ca121.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "85725",
+      "person_name": "Mamun Rashid",
+      "votes": 1387
     },
     {
-      "person_id": "85726",
-      "person_name": "John Hamelink",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85726/8ea059af-2286-4b7b-a3f0-1b37c4bc7abd.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "person_id": "85726",
+      "person_name": "John Hamelink",
+      "votes": 2727
     },
     {
-      "person_id": "85732",
-      "person_name": "Tony Osy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85732/9d6787dd-a13e-4a15-aec7-6972a0d58261.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": 0
+      "person_id": "85732",
+      "person_name": "Tony Osy",
+      "votes": 542
     }
   ]
 }

@@ -1,91 +1,91 @@
 {
+  "confirmed": false,
+  "electorate": 70980,
+  "last_updated": "2024-07-05T07:05:30.000Z",
   "pcon24cd": "S14000080",
   "pcon24nm": "Edinburgh South",
   "total_votes": 0,
-  "electorate": 70980,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:22:36.750Z",
   "votes": [
     {
-      "person_id": "1116",
-      "person_name": "Ian Murray",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1116/c1164a3c-f46d-4599-b657-eac0c7ef30ea.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "1116",
+      "person_name": "Ian Murray",
+      "votes": 24976
     },
     {
-      "person_id": "114555",
-      "person_name": "Jo Phillips",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114555/dfa8a2e2-cb3c-4ebc-b8d2-550acf4aded1.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "person_id": "114555",
+      "person_name": "Jo Phillips",
+      "votes": 4270
     },
     {
-      "person_id": "116677",
-      "person_name": "Andy Williamson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116677/c28e784b-98dd-44fd-a66e-1d2904270244.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "116677",
+      "person_name": "Andy Williamson",
+      "votes": 2746
     },
     {
-      "person_id": "116753",
-      "person_name": "Alex Martin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116753/75c69787-ad43-4d3f-a75b-fb296f15f8f1.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "116753",
+      "person_name": "Alex Martin",
+      "votes": 466
     },
     {
-      "person_id": "117430",
-      "person_name": "Lynne Lyon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117430/0b8e32d9-6ad5-4897-b857-92587e7ef36c.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": 0
+      "person_id": "117430",
+      "person_name": "Lynne Lyon",
+      "votes": 454
     },
     {
-      "person_id": "117431",
-      "person_name": "Mark Rowbotham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117431/53668255-d134-4232-9437-3f5f3db6aded.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117431",
+      "person_name": "Mark Rowbotham",
+      "votes": 76
     },
     {
-      "person_id": "20777",
-      "person_name": "Cameron Rose",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20777.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "20777",
+      "person_name": "Cameron Rose",
+      "votes": 1845
     },
     {
-      "person_id": "74404",
-      "person_name": "Phil Holden",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74404/8a734020-b79b-4fe1-b10f-3960cccdb3e8.png",
       "party_key": "other",
       "party_name": "Scottish Family Party",
-      "votes": 0
+      "person_id": "74404",
+      "person_name": "Phil Holden",
+      "votes": 267
     },
     {
-      "person_id": "84946",
-      "person_name": "Simita Kumar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84946/5031bd25-2c77-4294-836e-7af2894165b6.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "person_id": "84946",
+      "person_name": "Simita Kumar",
+      "votes": 7725
     },
     {
-      "person_id": "84993",
-      "person_name": "Christopher Cowdy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84993/d7277302-8f0a-4ea9-9735-8be1ff2f9b0e.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "84993",
+      "person_name": "Christopher Cowdy",
+      "votes": 4001
     }
   ]
 }

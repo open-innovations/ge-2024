@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 70418,
+  "last_updated": "2024-07-05T07:06:03.000Z",
   "pcon24cd": "S14000093",
   "pcon24nm": "Inverclyde and Renfrewshire West",
   "total_votes": 0,
-  "electorate": 70418,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:10:41.381Z",
   "votes": [
     {
-      "person_id": "117373",
-      "person_name": "Simon Charles Wheeler Moorehead",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117373/1dbeda29-38f7-4f9c-a28a-7ac180ec237a.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117373",
+      "person_name": "Simon Charles Wheeler Moorehead",
+      "votes": 2476
     },
     {
-      "person_id": "13061",
-      "person_name": "Martin McCluskey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/13061.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "13061",
+      "person_name": "Martin McCluskey",
+      "votes": 18931
     },
     {
-      "person_id": "21189",
-      "person_name": "Ross Stalker",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/21189-089a1fcf-23e9-4211-977e-be7746e4e529.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "21189",
+      "person_name": "Ross Stalker",
+      "votes": 1259
     },
     {
-      "person_id": "5411",
-      "person_name": "Iain Hamilton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117142/91ace1e8-3ad1-4f05-8e62-de1f5b5afe0d.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "person_id": "5411",
+      "person_name": "Iain Hamilton",
+      "votes": 1173
     },
     {
-      "person_id": "5715",
-      "person_name": "Chris McEleny",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74657-da24e797-c37a-4006-912c-2a298adf9beb.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": 0
+      "person_id": "5715",
+      "person_name": "Chris McEleny",
+      "votes": 723
     },
     {
-      "person_id": "6058",
-      "person_name": "Ronnie Cowan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6058.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "person_id": "6058",
+      "person_name": "Ronnie Cowan",
+      "votes": 12560
     },
     {
-      "person_id": "74454",
-      "person_name": "John Burleigh",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "74454",
+      "person_name": "John Burleigh",
+      "votes": 365
     },
     {
-      "person_id": "85407",
-      "person_name": "Ted Runciman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85407/7c39711e-c3e4-43c9-bf74-b28ca63b2753.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "85407",
+      "person_name": "Ted Runciman",
+      "votes": 2863
     }
   ]
 }

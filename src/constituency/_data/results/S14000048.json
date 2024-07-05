@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 73588,
+  "last_updated": "2024-07-05T07:03:24.000Z",
   "pcon24cd": "S14000048",
   "pcon24nm": "North Ayrshire and Arran",
   "total_votes": 0,
-  "electorate": 73588,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T02:57:16.594Z",
   "votes": [
     {
-      "person_id": "113131",
-      "person_name": "Ian Gibson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113131/7047619a-f4df-426b-836b-69b43b7972da.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "113131",
+      "person_name": "Ian Gibson",
+      "votes": 238
     },
     {
-      "person_id": "114645",
-      "person_name": "Mike Mann",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114645/37b1064d-2742-47f2-9b07-60b009148381.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "114645",
+      "person_name": "Mike Mann",
+      "votes": 3415
     },
     {
-      "person_id": "114646",
-      "person_name": "Irene Campbell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114646/3b70223b-4066-4dbd-a220-2dedf5918bb0.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "114646",
+      "person_name": "Irene Campbell",
+      "votes": 16821
     },
     {
-      "person_id": "117144",
-      "person_name": "Cara McKee",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117144/30199d52-e78e-49c4-b481-69c88bac1f55.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "person_id": "117144",
+      "person_name": "Cara McKee",
+      "votes": 1327
     },
     {
-      "person_id": "20282",
-      "person_name": "Todd Ferguson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20282.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "20282",
+      "person_name": "Todd Ferguson",
+      "votes": 5954
     },
     {
-      "person_id": "2681",
-      "person_name": "James McDaid",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2681/016c4570-3304-483e-809b-f59dfe0a89d8.png",
       "party_key": "other",
       "party_name": "Socialist Labour Party",
-      "votes": 0
+      "person_id": "2681",
+      "person_name": "James McDaid",
+      "votes": 232
     },
     {
-      "person_id": "2706",
-      "person_name": "Patricia Gibson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2706/20e8eb45-1184-4ec9-a6c1-0750886568cc.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "person_id": "2706",
+      "person_name": "Patricia Gibson",
+      "votes": 13270
     },
     {
-      "person_id": "9052",
-      "person_name": "Gillian Cole-Hamilton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/9052.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "9052",
+      "person_name": "Gillian Cole-Hamilton",
+      "votes": 1005
     }
   ]
 }

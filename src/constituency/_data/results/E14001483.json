@@ -1,68 +1,68 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:54",
+  "electorate": 71202,
+  "last_updated": "2024-07-05T07:06:21.000Z",
   "pcon24cd": "E14001483",
   "pcon24nm": "South Derbyshire",
   "total_votes": 0,
-  "electorate": 71202,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:54",
-  "last_updated": "2024-07-05T02:54:23.708Z",
   "votes": [
     {
-      "person_id": "115922",
-      "person_name": "Job West",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115922/cce70eef-f64b-4a2c-8639-ba934832f075.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "115922",
+      "person_name": "Job West",
+      "votes": 8979
     },
     {
-      "person_id": "284",
-      "person_name": "Lucy Care",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/284.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "284",
+      "person_name": "Lucy Care",
+      "votes": 2134
     },
     {
-      "person_id": "487",
-      "person_name": "Heather Wheeler",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/552bccfe62eb6fa83a5483b8.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "487",
+      "person_name": "Heather Wheeler",
+      "votes": 13566
     },
     {
-      "person_id": "59115",
-      "person_name": "Samantha Niblett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/59115/b0ddea86-d9ef-4e6f-9404-1f1233ebc1a9.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "59115",
+      "person_name": "Samantha Niblett",
+      "votes": 17734
     },
     {
-      "person_id": "65172",
-      "person_name": "Amy Wheelton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/65172-a2aab1ff-c5fb-413b-a24f-f1ac34cde005.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "65172",
+      "person_name": "Amy Wheelton",
+      "votes": 1200
     },
     {
-      "person_id": "892",
-      "person_name": "Paul Liversuch",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/892/0e6e2a35-3860-4232-849f-55232de85708.png",
       "party_key": "other",
       "party_name": "Socialist Labour Party",
-      "votes": 0
+      "person_id": "892",
+      "person_name": "Paul Liversuch",
+      "votes": 183
     },
     {
-      "person_id": "89647",
-      "person_name": "Aruhan Galieva",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89647/7067b953-7d23-48ad-a277-fa33fbfac05e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "89647",
+      "person_name": "Aruhan Galieva",
+      "votes": 1941
     }
   ]
 }

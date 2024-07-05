@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 34824,
+  "last_updated": "2024-07-05T07:03:25.000Z",
   "pcon24cd": "S14000051",
   "pcon24nm": "Orkney and Shetland",
   "total_votes": 0,
-  "electorate": 34824,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T05:55:00.115Z",
   "votes": [
     {
-      "person_id": "1331",
-      "person_name": "Alistair Carmichael",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1331/5007ee8a-cdda-4ca4-bcf3-5c0a1e1610b7.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "1331",
+      "person_name": "Alistair Carmichael",
+      "votes": 11392
     },
     {
-      "person_id": "25269",
-      "person_name": "Conor Savage",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/25269/3cc17439-a7d5-48f8-84fb-0e38b0697757.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "25269",
+      "person_name": "Conor Savage",
+      "votes": 1493
     },
     {
-      "person_id": "35644",
-      "person_name": "Alex Armitage",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35644-b763c0f9-4d91-4c07-9696-901d700a1e27.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "person_id": "35644",
+      "person_name": "Alex Armitage",
+      "votes": 2046
     },
     {
-      "person_id": "3747",
-      "person_name": "Robert Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3747-9cf69737-9768-4966-9702-887426cada29.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "3747",
+      "person_name": "Robert Smith",
+      "votes": 1586
     },
     {
-      "person_id": "71964",
-      "person_name": "Robert Leslie",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71964.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "person_id": "71964",
+      "person_name": "Robert Leslie",
+      "votes": 3585
     },
     {
-      "person_id": "84862",
-      "person_name": "Shane Painter",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84862/82be3578-01ff-49a5-ba16-770a25318d90.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "84862",
+      "person_name": "Shane Painter",
+      "votes": 586
     }
   ]
 }
