@@ -2,10 +2,10 @@
   "pcon24cd": "E14001365",
   "pcon24nm": "Mid Norfolk",
   "total_votes": 0,
-  "electorate": 71060,
-  "turnout_pct": 0,
+  "electorate": 75238,
+  "turnout_pct": 61,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:15:23.535Z",
+  "last_updated": "2024-07-05T03:24:53.459Z",
   "votes": [
     {
       "person_id": "103176",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/103176/727ec75e-cb58-47da-98c0-2704d39a6e25.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 3126
     },
     {
       "person_id": "2827",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5530d0720eda8c847a390846.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "votes": 16770
     },
     {
       "person_id": "69881",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69881.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2858
     },
     {
       "person_id": "72952",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72952/39eb5312-e381-4c14-8091-cf39073ca8a3.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 13716
     },
     {
       "person_id": "98265",
@@ -45,7 +45,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98265/eae1bfa0-f61c-44a5-8dfd-2a8cf9125c60.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 9427
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
