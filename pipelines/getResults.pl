@@ -38,7 +38,14 @@ my $lookup = {
 	'Andrew Dye'=>'Andy Dye',
 	'Steffan Aquarone'=>'Steff Aquarone',
 	'Elizabeth Dixon'=>'Liz Dixon',
-	'Georgina Rowley Hill'=>'Georgina Hill'
+	'Georgina Rowley Hill'=>'Georgina Hill',
+	'Oscar Lodwick'=>'Oscar Livesey-Lodwick',
+	'Andrew Meacham'=>'Andy Meacham',
+	'Christopher Leggett'=>'Chris Leggett',
+	'Thomas Bowell'=>'Tom Bowell',
+	'Dr Courtneidge'=>'John Courtneidge',
+	'Sarah Rose Barry'=>'Sarah Barry',
+	'Dan Wilson'=>'Daniel Wilson'
 };
 #getData("E14001263");
 #exit;

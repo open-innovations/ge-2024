@@ -1,68 +1,68 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:58",
+  "electorate": 75373,
+  "last_updated": "2024-07-05T06:36:24.000Z",
   "pcon24cd": "E14001404",
   "pcon24nm": "North West Leicestershire",
   "total_votes": 0,
-  "electorate": 75373,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:58",
-  "last_updated": "2024-07-05T02:58:33.908Z",
   "votes": [
     {
-      "person_id": "116992",
-      "person_name": "Alice Delemare",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116992/d150fde2-ab9c-4145-b2e9-3d5dee6c6912.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "116992",
+      "person_name": "Alice Delemare",
+      "votes": 1629
     },
     {
-      "person_id": "117477",
-      "person_name": "Siobhan Dillon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117477/16ee9e5a-e98d-4077-baa9-cd66ec1c0601.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117477",
+      "person_name": "Siobhan Dillon",
+      "votes": 136
     },
     {
-      "person_id": "1640",
-      "person_name": "Andrew Bridgen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1640/1447f289-3fc9-4661-9f4e-66489d069c98.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "1640",
+      "person_name": "Andrew Bridgen",
+      "votes": 1568
     },
     {
-      "person_id": "4428",
-      "person_name": "Amanda Hack",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4428/fbf4fe79-43d3-4828-a716-246b7ee04ff2.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "4428",
+      "person_name": "Amanda Hack",
+      "votes": 16871
     },
     {
-      "person_id": "51908",
-      "person_name": "Carl Benfield",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/51908/fa25e1e3-518b-489e-97a6-468c88aaa990.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "51908",
+      "person_name": "Carl Benfield",
+      "votes": 2831
     },
     {
-      "person_id": "5397",
-      "person_name": "Noel Matthews",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115912/161364a0-906d-49e7-be4c-a6808ae42955.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "5397",
+      "person_name": "Noel Matthews",
+      "votes": 9678
     },
     {
-      "person_id": "74218",
-      "person_name": "Craig Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74218-4b0f76cf-e824-47c2-9c4e-432ae87d3251.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "74218",
+      "person_name": "Craig Smith",
+      "votes": 15859
     }
   ]
 }

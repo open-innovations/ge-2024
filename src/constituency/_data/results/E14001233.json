@@ -1,68 +1,68 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:50",
+  "electorate": 77036,
+  "last_updated": "2024-07-05T06:37:59.000Z",
   "pcon24cd": "E14001233",
   "pcon24nm": "Fareham and Waterlooville",
   "total_votes": 0,
-  "electorate": 77036,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:50",
-  "last_updated": "2024-07-05T02:50:21.133Z",
   "votes": [
     {
-      "person_id": "110777",
-      "person_name": "Baz Marie",
       "image": "/assets/images/missing.svg",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "110777",
+      "person_name": "Baz Marie",
+      "votes": 2036
     },
     {
-      "person_id": "116941",
-      "person_name": "Edward Dean",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116941/97eee729-ce9c-41f7-93ea-8c76f8b07490.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": 0
+      "person_id": "116941",
+      "person_name": "Edward Dean",
+      "votes": 210
     },
     {
-      "person_id": "116956",
-      "person_name": "Bella Hewitt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116956/42f20235-0f4c-4a1e-ae97-ec5b4d545031.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "116956",
+      "person_name": "Bella Hewitt",
+      "votes": 9533
     },
     {
-      "person_id": "17720",
-      "person_name": "Kevan Chippindall-Higgin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35118.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "17720",
+      "person_name": "Kevan Chippindall-Higgin",
+      "votes": 9084
     },
     {
-      "person_id": "6499",
-      "person_name": "Suella Braverman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6499/6560a324-ba1d-4093-b972-4c94a759556c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "6499",
+      "person_name": "Suella Braverman",
+      "votes": 17561
     },
     {
-      "person_id": "75473",
-      "person_name": "Gemma Furnivall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/75473-452caaa6-0bc9-4ad6-bc11-16330a86e312.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "75473",
+      "person_name": "Gemma Furnivall",
+      "votes": 11482
     },
     {
-      "person_id": "77280",
-      "person_name": "Robert John Holliday",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Hampshire Independents",
-      "votes": 0
+      "person_id": "77280",
+      "person_name": "Robert John Holliday",
+      "votes": 217
     }
   ]
 }

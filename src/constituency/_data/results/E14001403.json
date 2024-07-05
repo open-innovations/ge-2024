@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 76004,
+  "last_updated": "2024-07-05T06:36:24.000Z",
   "pcon24cd": "E14001403",
   "pcon24nm": "North West Hampshire",
   "total_votes": 0,
-  "electorate": 76004,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:54:35.239Z",
   "votes": [
     {
-      "person_id": "116347",
-      "person_name": "Andrew Meacham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116347/058d9af8-c568-4efd-a65b-1952a6fa2bfb.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116347",
+      "person_name": "Andrew Meacham",
+      "votes": 7734
     },
     {
-      "person_id": "31128",
-      "person_name": "Andy Fitchet",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/31128/5175363b-5e3b-4b2d-8bd2-af6f94c2e2d2.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "31128",
+      "person_name": "Andy Fitchet",
+      "votes": 14482
     },
     {
-      "person_id": "31129",
-      "person_name": "Luigi Gregori",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/31129/03c0a08d-220c-4736-9da5-e5a622d75c18.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "31129",
+      "person_name": "Luigi Gregori",
+      "votes": 7626
     },
     {
-      "person_id": "5272",
-      "person_name": "Kit Malthouse",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5272/377b75a7-8022-44a4-8c6a-e13c30bd3ecf.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "5272",
+      "person_name": "Kit Malthouse",
+      "votes": 17770
     },
     {
-      "person_id": "9685",
-      "person_name": "Phil Heath",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9685/c0e64e6c-7f08-4601-840c-a3c43efc897f.png",
       "party_key": "other",
       "party_name": "Hampshire Independents",
-      "votes": 0
+      "person_id": "9685",
+      "person_name": "Phil Heath",
+      "votes": 466
     },
     {
-      "person_id": "97299",
-      "person_name": "Hina West",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97299/41a7f0e1-e782-4c6a-8f96-e463c0cec137.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "97299",
+      "person_name": "Hina West",
+      "votes": 2745
     }
   ]
 }

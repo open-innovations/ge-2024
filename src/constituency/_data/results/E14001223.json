@@ -1,83 +1,83 @@
 {
+  "confirmed": false,
+  "electorate": 74179,
+  "last_updated": "2024-07-05T06:37:28.000Z",
   "pcon24cd": "E14001223",
   "pcon24nm": "Eltham and Chislehurst",
   "total_votes": 0,
-  "electorate": 74179,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:12:53.935Z",
   "votes": [
     {
-      "person_id": "116694",
-      "person_name": "Sam Gabriel",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116694/5e46a7fe-6e71-458a-881a-3b2bd4bdae33.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "116694",
+      "person_name": "Sam Gabriel",
+      "votes": 3079
     },
     {
-      "person_id": "117677",
-      "person_name": "Christian Hacking",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117677/d4ed1c87-eafe-4dc3-a86d-2086168c4614.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117677",
+      "person_name": "Christian Hacking",
+      "votes": 173
     },
     {
-      "person_id": "117678",
-      "person_name": "Sean Ellis Stewart",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117678/f12e3cd7-bb7d-4200-8a4e-89b233074adb.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "117678",
+      "person_name": "Sean Ellis Stewart",
+      "votes": 356
     },
     {
-      "person_id": "117679",
-      "person_name": "Arnold Tarling",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117679/5d8ea0b9-08fc-4642-8d69-2df8f8dabfd6.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117679",
+      "person_name": "Arnold Tarling",
+      "votes": 307
     },
     {
-      "person_id": "4037",
-      "person_name": "Clive Efford",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b9d51a8c0192f732ca8c3.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "4037",
+      "person_name": "Clive Efford",
+      "votes": 20069
     },
     {
-      "person_id": "4283",
-      "person_name": "Dr John Courtneidge",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4283.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "4283",
+      "person_name": "Dr John Courtneidge",
+      "votes": 91
     },
     {
-      "person_id": "45285",
-      "person_name": "Charlie Davis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/45285.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "45285",
+      "person_name": "Charlie Davis",
+      "votes": 11640
     },
     {
-      "person_id": "73969",
-      "person_name": "Mark George Simpson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73969/a6df7f80-e6e3-41c0-a539-075a82534166.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "73969",
+      "person_name": "Mark George Simpson",
+      "votes": 7428
     },
     {
-      "person_id": "74222",
-      "person_name": "Ulysse Lucien Abbate",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74222/9fab2b1a-3e0b-47b1-8756-0ef39d40d6ea.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "74222",
+      "person_name": "Ulysse Lucien Abbate",
+      "votes": 2423
     }
   ]
 }

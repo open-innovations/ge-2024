@@ -1,60 +1,60 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:49",
+  "electorate": 71027,
+  "last_updated": "2024-07-05T06:37:08.000Z",
   "pcon24cd": "E14001222",
   "pcon24nm": "Ellesmere Port and Bromborough",
   "total_votes": 0,
-  "electorate": 71027,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:49",
-  "last_updated": "2024-07-05T02:49:09.966Z",
   "votes": [
     {
-      "person_id": "117521",
-      "person_name": "Michael Christopher Aldred",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117521/5bdcbfd7-b7d0-48cd-82e0-2c268e5ccfa8.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117521",
+      "person_name": "Michael Christopher Aldred",
+      "votes": 7278
     },
     {
-      "person_id": "117522",
-      "person_name": "Ruth Kathleen Boulton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117522/ff7b01ad-0b52-47c1-a4c6-181ebdb24d63.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117522",
+      "person_name": "Ruth Kathleen Boulton",
+      "votes": 256
     },
     {
-      "person_id": "4329",
-      "person_name": "Justin Madders",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551abf7a13eb34c82843cb25.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "4329",
+      "person_name": "Justin Madders",
+      "votes": 24186
     },
     {
-      "person_id": "44605",
-      "person_name": "Lee Evans",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116975/a64e1f3e-2f98-4c73-9b61-330fce50d7d5.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "44605",
+      "person_name": "Lee Evans",
+      "votes": 5210
     },
     {
-      "person_id": "49366",
-      "person_name": "Harry Ross Gorman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49366/158075aa-2cc0-4ac7-91da-b635ff6e51e7.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "49366",
+      "person_name": "Harry Ross Gorman",
+      "votes": 2706
     },
     {
-      "person_id": "7712",
-      "person_name": "Chris Carubia",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7712_PLYb8N8.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "7712",
+      "person_name": "Chris Carubia",
+      "votes": 2328
     }
   ]
 }
