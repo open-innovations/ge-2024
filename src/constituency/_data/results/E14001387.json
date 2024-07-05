@@ -5,7 +5,7 @@
   "electorate": 76455,
   "turnout_pct": 0,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:47:59.286Z",
+  "last_updated": "2024-07-05T02:48:04.445Z",
   "votes": [
     {
       "person_id": "116419",
@@ -55,5 +55,6 @@
       "party_name": "Green Party",
       "votes": 0
     }
-  ]
+  ],
+  "declaration_time": "03:48"
 }
