@@ -2,12 +2,12 @@
   "pcon24cd": "E14001125",
   "pcon24nm": "Brentwood and Ongar",
   "total_votes": 0,
-  "electorate": 74937,
-  "turnout_pct": 0,
+  "electorate": 75352,
+  "turnout_pct": 64,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "03:10",
-  "last_updated": "2024-07-05T02:10:50.377Z",
+  "last_updated": "2024-07-05T03:04:51.254Z",
   "votes": [
     {
       "person_id": "2414",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2414-d52c2e88-a5f1-4895-a267-f9226b3298e4.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 5809
     },
     {
       "person_id": "3753",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55238ab3944e4aac612ace60.png",
       "party_key": "other",
       "party_name": "English Democrats",
-      "votes": 0
+      "votes": 189
     },
     {
       "person_id": "4689",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4689/473a37cc-713a-4ca6-8828-05bcf83ab57a.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 11082
     },
     {
       "person_id": "50546",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/50546/7d58d03e-d980-49c0-a27a-49f06ad2d18a.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1770
     },
     {
       "person_id": "6447",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6447/7403c1bc-e5e0-4a98-a52d-e7c1000a2055.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "votes": 17731
     },
     {
       "person_id": "98111",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98111/f6d6c265-aba9-4081-a718-e03daccc4464.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 11751
     }
   ]
 }
