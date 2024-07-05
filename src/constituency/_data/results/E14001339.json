@@ -2,10 +2,10 @@
   "pcon24cd": "E14001339",
   "pcon24nm": "Liverpool Walton",
   "total_votes": 0,
-  "electorate": 71181,
-  "turnout_pct": 0,
+  "electorate": 69317,
+  "turnout_pct": 53,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:49:25.846Z",
+  "last_updated": "2024-07-05T02:10:51.263Z",
   "votes": [
     {
       "person_id": "10222",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/10222/9d99c33e-dcd3-4401-afb8-30356eebb9ec.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2388
     },
     {
       "person_id": "114263",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114263/9b0ccdf1-8cc1-4c00-a7b7-de53d66340f7.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 945
     },
     {
       "person_id": "116156",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116156/c72da30a-0ef4-4fe3-b7ff-02ec8ff8e059.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 5787
     },
     {
       "person_id": "34624",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34624/e06bcbbb-3341-401b-93fb-d949957801e4.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 26032
     },
     {
       "person_id": "43538",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/43538-5eb9c9af-e658-49da-8c27-2953fedfae5f.png",
       "party_key": "other",
       "party_name": "The Liberal Party",
-      "votes": 0
+      "votes": 452
     },
     {
       "person_id": "73029",
@@ -53,7 +53,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/73029-ced28927-ef11-4cef-8557-a13ae3ab6b14.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 1282
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
