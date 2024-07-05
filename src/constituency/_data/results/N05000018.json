@@ -1,13 +1,11 @@
 {
   "pcon24cd": "N05000018",
   "pcon24nm": "West Tyrone",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70614,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T03:20:38.643Z",
   "votes": [
     {
       "person_id": "107026",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/107026/073164a8-749b-4eef-96b2-5554dc593954.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117823",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117823/0a091244-6da9-413a-ba62-c9a597832da3.png",
       "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "1871",
@@ -31,15 +29,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1871.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "36364",
-      "person_name": "\u00d3rfhlaith Begley",
+      "person_name": "Órfhlaith Begley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/36364.png",
       "party_key": "sf",
-      "party_name": "Sinn F\u00e9in",
-      "votes": null
+      "party_name": "Sinn Féin",
+      "votes": 1
     },
     {
       "person_id": "5185",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5185_pV4vr24.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "6365",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6365/caf96e6c-c7e6-4525-9b5d-e8c697afc39c.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95741",
@@ -63,15 +61,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95741/ee793d80-f8c0-4b37-a3e7-b0d65d519d1d.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95768",
       "person_name": "Leza Houston",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117821/4a8e64c1-a77f-4e4a-917f-ac0614aa4711.png",
       "party_key": "other",
-      "party_name": "Aont\u00fa",
-      "votes": null
+      "party_name": "Aontú",
+      "votes": 0
     }
   ]
 }
