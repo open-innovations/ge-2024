@@ -3,9 +3,9 @@
   "pcon24nm": "Alloa and Grangemouth",
   "total_votes": 0,
   "electorate": 72265,
-  "turnout_pct": 0,
+  "turnout_pct": 58,
   "confirmed": false,
-  "last_updated": "2024-07-05T03:20:11.571Z",
+  "last_updated": "2024-07-05T03:39:39.042Z",
   "votes": [
     {
       "person_id": "114569",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116233/9d4be443-5eb6-4265-9102-e9fd9b5f8f6e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 3804
     },
     {
       "person_id": "116996",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116996/ed481bed-fd26-4edc-9e72-461fb21160fc.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 223
     },
     {
       "person_id": "117137",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117137/bbe13bb1-8b24-41c4-93ec-479fa8624f25.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "votes": 1421
     },
     {
       "person_id": "5926",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54e72898b58df48b5c609f61.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "votes": 11917
     },
     {
       "person_id": "71831",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71831-1d41580b-146e-4697-9bfc-2e6d8534f09e.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": 0
+      "votes": 638
     },
     {
       "person_id": "72985",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72985-706dfb7a-10c7-4089-b0d0-2e24a7078f7f.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1151
     },
     {
       "person_id": "73804",
@@ -61,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73804/db62a487-2220-46f0-8403-f220dc227c65.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 881
     },
     {
       "person_id": "85203",
@@ -69,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85203/302989d8-0eac-4590-b5e5-406793dcc5de.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 18039
     },
     {
       "person_id": "85377",
@@ -77,7 +77,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85377/d7ce46cd-c87d-40b4-96a8-98f4acb0765a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 3127
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
