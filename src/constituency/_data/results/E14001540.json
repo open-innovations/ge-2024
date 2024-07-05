@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 76049,
+  "last_updated": "2024-07-05T07:10:29.000Z",
   "pcon24cd": "E14001540",
   "pcon24nm": "Taunton and Wellington",
   "total_votes": 0,
-  "electorate": 76049,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:55:35.329Z",
   "votes": [
     {
-      "person_id": "116449",
-      "person_name": "Charles Hansard",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116449/2fe5a6ab-ba09-4064-9392-bf137aba8e69.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116449",
+      "person_name": "Charles Hansard",
+      "votes": 8053
     },
     {
-      "person_id": "116450",
-      "person_name": "Ryan Trower",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116450/a78f722f-3849-4a99-8a51-5a92f72a28cf.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "116450",
+      "person_name": "Ryan Trower",
+      "votes": 1832
     },
     {
-      "person_id": "116719",
-      "person_name": "Rochelle Russell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116719/5a3d924d-24a1-4cbc-b5f7-583957e6dcc7.png",
       "party_key": "other",
       "party_name": "Communist Party of Britain",
-      "votes": 0
+      "person_id": "116719",
+      "person_name": "Rochelle Russell",
+      "votes": 134
     },
     {
-      "person_id": "33060",
-      "person_name": "Brenda Dawn Weston",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/33060.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "33060",
+      "person_name": "Brenda Dawn Weston",
+      "votes": 3552
     },
     {
-      "person_id": "35085",
-      "person_name": "Gideon Amos",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35085/e7d10e6d-bfd7-4df3-a701-5273ddedf12c.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "35085",
+      "person_name": "Gideon Amos",
+      "votes": 24331
     },
     {
-      "person_id": "4234",
-      "person_name": "Rebecca Pow",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4234.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "4234",
+      "person_name": "Rebecca Pow",
+      "votes": 12392
     }
   ]
 }

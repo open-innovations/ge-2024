@@ -1,61 +1,61 @@
 {
-  "pcon24cd": "E14001510",
-  "pcon24nm": "St Helens South and Whiston",
-  "total_votes": 0,
-  "electorate": 70937,
-  "turnout_pct": 0,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "03:36",
-  "last_updated": "2024-07-05T02:36:31.623Z",
+  "electorate": 70937,
+  "last_updated": "2024-07-05T07:08:34.000Z",
+  "pcon24cd": "E14001510",
+  "pcon24nm": "St Helens South and Whiston",
+  "total_votes": 0,
+  "turnout_pct": 0,
   "votes": [
     {
-      "person_id": "111173",
-      "person_name": "Raymond Peters",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "111173",
+      "person_name": "Raymond Peters",
+      "votes": 6974
     },
     {
-      "person_id": "23716",
-      "person_name": "Emma Victoria Ellison",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/23716/112750c5-5ec6-4471-8a89-ca6f32c5d0e9.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "23716",
+      "person_name": "Emma Victoria Ellison",
+      "votes": 3057
     },
     {
-      "person_id": "3797",
-      "person_name": "Brian Spencer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3797.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "3797",
+      "person_name": "Brian Spencer",
+      "votes": 2199
     },
     {
-      "person_id": "42244",
-      "person_name": "James Tasker",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117014/6880701d-953e-4ac8-be00-cdab4e6ebf1c.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "42244",
+      "person_name": "James Tasker",
+      "votes": 4244
     },
     {
-      "person_id": "4437",
-      "person_name": "Marie Rimmer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553be49ca51642637514d64a.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "4437",
+      "person_name": "Marie Rimmer",
+      "votes": 18919
     },
     {
-      "person_id": "61828",
-      "person_name": "Terence Stephen Price",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/61828/f0b7f9c5-a25f-4951-9044-0795b11a3f09.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "61828",
+      "person_name": "Terence Stephen Price",
+      "votes": 2642
     }
   ]
 }

@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 70113,
+  "last_updated": "2024-07-05T07:08:34.000Z",
   "pcon24cd": "E14001514",
   "pcon24nm": "Staffordshire Moorlands",
   "total_votes": 0,
-  "electorate": 70113,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T02:48:35.972Z",
   "votes": [
     {
-      "person_id": "106901",
-      "person_name": "Dave Poole",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106901/b4bc5c2e-2735-463c-ac43-77b865dcf3bc.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "106901",
+      "person_name": "Dave Poole",
+      "votes": 10065
     },
     {
-      "person_id": "1303",
-      "person_name": "Karen Bradley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5534f7a5b247335574a42e37.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "1303",
+      "person_name": "Karen Bradley",
+      "votes": 15310
     },
     {
-      "person_id": "3459",
-      "person_name": "Graham John Oakes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3459/f38d22b0-92a8-44c2-b296-6e4c123cbf71.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "3459",
+      "person_name": "Graham John Oakes",
+      "votes": 1499
     },
     {
-      "person_id": "57799",
-      "person_name": "Alastair Watson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95916/98993ab1-8efe-4c84-8aca-897bdf2ccc05.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "57799",
+      "person_name": "Alastair Watson",
+      "votes": 14135
     },
     {
-      "person_id": "60908",
-      "person_name": "Helen Stead",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/60908/b6e6b3b6-0e4e-4472-8b97-23c8f02767f1.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "60908",
+      "person_name": "Helen Stead",
+      "votes": 2293
     }
   ]
 }

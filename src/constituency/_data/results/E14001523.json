@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 70701,
+  "last_updated": "2024-07-05T07:09:12.000Z",
   "pcon24cd": "E14001523",
   "pcon24nm": "Stone, Great Wyrley and Penkridge",
   "total_votes": 0,
-  "electorate": 70701,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:06:27.841Z",
   "votes": [
     {
-      "person_id": "103081",
-      "person_name": "Danni Braine",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/103081/e2deb1f5-69e0-44a4-8834-bb8463e8061e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "103081",
+      "person_name": "Danni Braine",
+      "votes": 2236
     },
     {
-      "person_id": "6704",
-      "person_name": "Janice Mackay",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6704.png",
       "party_key": "other",
       "party_name": "UK Independence Party (UKIP)",
-      "votes": 0
+      "person_id": "6704",
+      "person_name": "Janice Mackay",
+      "votes": 2638
     },
     {
-      "person_id": "769",
-      "person_name": "Gavin Williamson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/769/bdd0b5e7-7f77-4a53-aa57-9451560ee1aa.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "769",
+      "person_name": "Gavin Williamson",
+      "votes": 19880
     },
     {
-      "person_id": "77606",
-      "person_name": "Alexander Bramham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77606/cfb5d136-80d7-4bf3-9ba5-32b0e56fad51.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "77606",
+      "person_name": "Alexander Bramham",
+      "votes": 650
     },
     {
-      "person_id": "90393",
-      "person_name": "Jacqueline Anne Brown",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90393/82e0de8a-3784-4e04-b1d2-ea3942b461d1.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "90393",
+      "person_name": "Jacqueline Anne Brown",
+      "votes": 14414
     },
     {
-      "person_id": "95297",
-      "person_name": "Sam Harper-Wallis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95297/43d8a99a-65f6-4a36-9dcc-65fd9627f037.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "95297",
+      "person_name": "Sam Harper-Wallis",
+      "votes": 2952
     }
   ]
 }

@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 73326,
+  "last_updated": "2024-07-05T07:11:35.000Z",
   "pcon24cd": "E14001554",
   "pcon24nm": "Truro and Falmouth",
   "total_votes": 0,
-  "electorate": 73326,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:12:43.352Z",
   "votes": [
     {
-      "person_id": "117600",
-      "person_name": "Peter White",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117600/2b3a15ae-50fa-4fb6-838e-40b3040cb174.png",
       "party_key": "other",
       "party_name": "The Liberal Party",
-      "votes": 0
+      "person_id": "117600",
+      "person_name": "Peter White",
+      "votes": 166
     },
     {
-      "person_id": "117759",
-      "person_name": "Peter Lawrence",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117759/dfe18e81-bc26-42a5-96c6-6b2f77ee3beb.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117759",
+      "person_name": "Peter Lawrence",
+      "votes": 498
     },
     {
-      "person_id": "26761",
-      "person_name": "Karen La Borde",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26761.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "26761",
+      "person_name": "Karen La Borde",
+      "votes": 3470
     },
     {
-      "person_id": "27180",
-      "person_name": "Cherilyn Mackrory",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71932.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "27180",
+      "person_name": "Cherilyn Mackrory",
+      "votes": 12632
     },
     {
-      "person_id": "35100",
-      "person_name": "Jayne Kirkham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35100/f25d7bd7-6482-440e-997e-b04ad50e8a76.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "person_id": "35100",
+      "person_name": "Jayne Kirkham",
+      "votes": 20783
     },
     {
-      "person_id": "36114",
-      "person_name": "Ruth Gripper",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/36114/fbda42f3-d54d-4a54-9000-ffb705ef237a.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "36114",
+      "person_name": "Ruth Gripper",
+      "votes": 6552
     },
     {
-      "person_id": "83343",
-      "person_name": "Steve Rubidge",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83343/9bf0d438-25ee-4e82-b2aa-49074147e8c5.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "83343",
+      "person_name": "Steve Rubidge",
+      "votes": 6163
     }
   ]
 }

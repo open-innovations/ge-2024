@@ -1,84 +1,84 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:56",
+  "electorate": 72318,
+  "last_updated": "2024-07-05T07:12:38.000Z",
   "pcon24cd": "S14000099",
   "pcon24nm": "Motherwell, Wishaw and Carluke",
   "total_votes": 0,
-  "electorate": 72318,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:56",
-  "last_updated": "2024-07-05T02:56:54.703Z",
   "votes": [
     {
-      "person_id": "116734",
-      "person_name": "Ross Hagen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116734/3cb90679-49f6-41e8-bb36-be09ba4e1785.png",
       "party_key": "other",
       "party_name": "Scottish Libertarian Party",
-      "votes": 0
+      "person_id": "116734",
+      "person_name": "Ross Hagen",
+      "votes": 66
     },
     {
-      "person_id": "117488",
-      "person_name": "Hayley Bennie",
       "image": "/assets/images/missing.svg",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "117488",
+      "person_name": "Hayley Bennie",
+      "votes": 822
     },
     {
-      "person_id": "117490",
-      "person_name": "Robert McLaughlan",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117490",
+      "person_name": "Robert McLaughlan",
+      "votes": 3004
     },
     {
-      "person_id": "2073",
-      "person_name": "Pamela Nash",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55323c9229c5d53959d9e454.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "2073",
+      "person_name": "Pamela Nash",
+      "votes": 19168
     },
     {
-      "person_id": "21283",
-      "person_name": "Gus Ferguson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/21283-d505c112-1892-436f-adea-2a8b845000ff.png",
       "party_key": "other",
       "party_name": "British Unionist Party - B.U.P.",
-      "votes": 0
+      "person_id": "21283",
+      "person_name": "Gus Ferguson",
+      "votes": 158
     },
     {
-      "person_id": "6052",
-      "person_name": "Marion Fellows",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54fde72f1ccf185f0d8cc4b9.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "person_id": "6052",
+      "person_name": "Marion Fellows",
+      "votes": 12083
     },
     {
-      "person_id": "6854",
-      "person_name": "Neil Wilson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72906-7cf26275-5828-43a1-a647-ff8ff9719330.png",
       "party_key": "other",
       "party_name": "UK Independence Party (UKIP)",
-      "votes": 0
+      "person_id": "6854",
+      "person_name": "Neil Wilson",
+      "votes": 110
     },
     {
-      "person_id": "72919",
-      "person_name": "Oyebola Ajala",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72919-c4ccba32-3f55-474f-9d08-56fdd64dbd65.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "72919",
+      "person_name": "Oyebola Ajala",
+      "votes": 2415
     },
     {
-      "person_id": "86247",
-      "person_name": "Gordon Thomas Miller",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86247/3450ab45-2a6d-480c-b0ee-d87e32fab092.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "person_id": "86247",
+      "person_name": "Gordon Thomas Miller",
+      "votes": 1200
     }
   ]
 }

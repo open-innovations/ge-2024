@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 73968,
+  "last_updated": "2024-07-05T07:12:13.000Z",
   "pcon24cd": "E14001560",
   "pcon24nm": "Wakefield and Rothwell",
   "total_votes": 0,
-  "electorate": 73968,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:06:08.888Z",
   "votes": [
     {
-      "person_id": "115833",
-      "person_name": "Nicholas Sanders",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "115833",
+      "person_name": "Nicholas Sanders",
+      "votes": 185
     },
     {
-      "person_id": "115839",
-      "person_name": "Keith Mason",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115839/3774df68-fb7a-4380-bb62-d3602eba2eba.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "115839",
+      "person_name": "Keith Mason",
+      "votes": 705
     },
     {
-      "person_id": "165",
-      "person_name": "Stewart Golton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8d9ce6d2cbcd26e36a2b.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "165",
+      "person_name": "Stewart Golton",
+      "votes": 3249
     },
     {
-      "person_id": "32060",
-      "person_name": "Ash Routh",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98785/c8654fd6-9fce-486f-991e-c77a0345fa2e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "32060",
+      "person_name": "Ash Routh",
+      "votes": 2389
     },
     {
-      "person_id": "5834",
-      "person_name": "David Alan Dews",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5834.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "5834",
+      "person_name": "David Alan Dews",
+      "votes": 8427
     },
     {
-      "person_id": "62817",
-      "person_name": "Brent Hawksley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/62817/b8805376-49c7-4846-993a-2acb5f57a889.png",
       "party_key": "other",
       "party_name": "Yorkshire Party",
-      "votes": 0
+      "person_id": "62817",
+      "person_name": "Brent Hawksley",
+      "votes": 606
     },
     {
-      "person_id": "6833",
-      "person_name": "Arnie Craven",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109184/e59392a8-7d83-495f-beaa-04138f647471.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "6833",
+      "person_name": "Arnie Craven",
+      "votes": 7322
     },
     {
-      "person_id": "95239",
-      "person_name": "Simon Lightwood",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95239/0911d6fc-a072-44f5-ba66-3fcc0c06ab67.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "person_id": "95239",
+      "person_name": "Simon Lightwood",
+      "votes": 17773
     }
   ]
 }

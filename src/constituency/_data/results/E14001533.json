@@ -1,84 +1,84 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:58",
+  "electorate": 70075,
+  "last_updated": "2024-07-05T07:10:07.000Z",
   "pcon24cd": "E14001533",
   "pcon24nm": "Sussex Weald",
   "total_votes": 0,
-  "electorate": 70075,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:58",
-  "last_updated": "2024-07-05T02:58:19.880Z",
   "votes": [
     {
-      "person_id": "101885",
-      "person_name": "Danielle Newson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101885/0aa0bc04-bd6d-41a2-a89b-12b3952d3a98.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "101885",
+      "person_name": "Danielle Newson",
+      "votes": 9916
     },
     {
-      "person_id": "116364",
-      "person_name": "David Morgan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116364/af147260-d3d3-430b-a54f-ddbe5eea04b4.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116364",
+      "person_name": "David Morgan",
+      "votes": 8920
     },
     {
-      "person_id": "116831",
-      "person_name": "Dominie Mary Stemp",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116831/f734b8a1-3ca5-444d-a955-24fea37b5079.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": 0
+      "person_id": "116831",
+      "person_name": "Dominie Mary Stemp",
+      "votes": 156
     },
     {
-      "person_id": "116990",
-      "person_name": "Austin Henderson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116990/857abb37-2413-4968-9736-1ab203925b12.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "116990",
+      "person_name": "Austin Henderson",
+      "votes": 3762
     },
     {
-      "person_id": "117136",
-      "person_name": "Shaun Bowler",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117136/0b5dfd3e-b825-44f7-87e8-d47ef985c99c.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117136",
+      "person_name": "Shaun Bowler",
+      "votes": 953
     },
     {
-      "person_id": "30460",
-      "person_name": "Chris Magness",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/30460/0339fc64-0c9a-4860-a474-6fe22a60c363.png",
       "party_key": "other",
       "party_name": "UK Independence Party (UKIP)",
-      "votes": 0
+      "person_id": "30460",
+      "person_name": "Chris Magness",
+      "votes": 152
     },
     {
-      "person_id": "71422",
-      "person_name": "Stephen Gander",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71422.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "71422",
+      "person_name": "Stephen Gander",
+      "votes": 319
     },
     {
-      "person_id": "85",
-      "person_name": "Nus Ghani",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ba049a51642637514d62f.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "85",
+      "person_name": "Nus Ghani",
+      "votes": 16758
     },
     {
-      "person_id": "99391",
-      "person_name": "Dipesh Jitendra Patel",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99391/a76dc8db-8e78-4f9e-85d9-0795f8276e2c.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "99391",
+      "person_name": "Dipesh Jitendra Patel",
+      "votes": 8239
     }
   ]
 }

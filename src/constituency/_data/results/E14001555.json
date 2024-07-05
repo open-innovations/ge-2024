@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 75213,
+  "last_updated": "2024-07-05T07:11:36.000Z",
   "pcon24cd": "E14001555",
   "pcon24nm": "Tunbridge Wells",
   "total_votes": 0,
-  "electorate": 75213,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T02:54:20.032Z",
   "votes": [
     {
-      "person_id": "10664",
-      "person_name": "John Anthony Hurst",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/10664/4cda8db7-d116-4704-8c4f-c8805b1c8b7c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "10664",
+      "person_name": "John Anthony Hurst",
+      "votes": 2344
     },
     {
-      "person_id": "116366",
-      "person_name": "Mike Martin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116366/9d9cb6b0-7685-4167-8512-d437d321056e.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "116366",
+      "person_name": "Mike Martin",
+      "votes": 23661
     },
     {
-      "person_id": "116751",
-      "person_name": "Hassan Kassem",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116751/dfcad547-ac30-4239-88a5-c618b9722574.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "116751",
+      "person_name": "Hassan Kassem",
+      "votes": 609
     },
     {
-      "person_id": "117181",
-      "person_name": "John Gager",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117181/9940811d-14e6-4e6b-9ad0-c25d7a97c542.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117181",
+      "person_name": "John Gager",
+      "votes": 6484
     },
     {
-      "person_id": "185",
-      "person_name": "Neil Mahapatra",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/185/b1c6176d-0f4c-492c-993e-6bcd2c8a488f.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "185",
+      "person_name": "Neil Mahapatra",
+      "votes": 14974
     },
     {
-      "person_id": "39546",
-      "person_name": "Hugo Giles Pound",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/39546/5142550e-3bcd-4931-9a55-951f3f831f8d.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "39546",
+      "person_name": "Hugo Giles Pound",
+      "votes": 6178
     }
   ]
 }

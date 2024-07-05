@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 72426,
+  "last_updated": "2024-07-05T07:10:29.000Z",
   "pcon24cd": "E14001542",
   "pcon24nm": "Tewkesbury",
   "total_votes": 0,
-  "electorate": 72426,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:10:10.619Z",
   "votes": [
     {
-      "person_id": "100581",
-      "person_name": "Damola Animashaun",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100581/b6886379-35b1-484c-9b17-f08834a6484c.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "100581",
+      "person_name": "Damola Animashaun",
+      "votes": 4298
     },
     {
-      "person_id": "115292",
-      "person_name": "Cameron Thomas",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115292/af4c862a-e25a-4227-9a5f-00540e9df3ff.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "115292",
+      "person_name": "Cameron Thomas",
+      "votes": 20730
     },
     {
-      "person_id": "117056",
-      "person_name": "David Edgar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117056/568dace0-9ba5-4d76-aa02-178152cd2ab2.png",
       "party_key": "other",
       "party_name": "Christian Peoples Alliance",
-      "votes": 0
+      "person_id": "117056",
+      "person_name": "David Edgar",
+      "votes": 170
     },
     {
-      "person_id": "1900",
-      "person_name": "Laurence Robertson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1900/5786c023-3227-448d-b4a6-e299d3542e21.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "1900",
+      "person_name": "Laurence Robertson",
+      "votes": 14468
     },
     {
-      "person_id": "32644",
-      "person_name": "Cate Cody",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/32644/48c0d569-b90c-45f9-8264-7c5124ab2f48.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "32644",
+      "person_name": "Cate Cody",
+      "votes": 2873
     },
     {
-      "person_id": "70648",
-      "person_name": "Byron Clifford Davis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70648-3be9b3b8-a89d-4849-bc65-5cd73a77b96d.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "70648",
+      "person_name": "Byron Clifford Davis",
+      "votes": 6000
     }
   ]
 }
