@@ -2,10 +2,10 @@
   "pcon24cd": "E14001578",
   "pcon24nm": "West Suffolk",
   "total_votes": 0,
-  "electorate": 76243,
-  "turnout_pct": 0,
+  "electorate": 77149,
+  "turnout_pct": 60,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:49:51.849Z",
+  "last_updated": "2024-07-05T02:09:31.597Z",
   "votes": [
     {
       "person_id": "113700",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113700/9419da48-9ff7-4e90-b28e-0dbe1e9f8859.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": 133
     },
     {
       "person_id": "115974",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115974/892729d4-7dd7-46a0-be47-fae4ff135904.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 15814
     },
     {
       "person_id": "117040",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117040/0884cb7e-6cdb-4505-b4ac-a9087c6e7ed5.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 345
     },
     {
       "person_id": "20391",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20391.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 4284
     },
     {
       "person_id": "28119",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/28119/984571a8-ed0b-4f9e-b419-79298589108c.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 12567
     },
     {
       "person_id": "3364",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3364/e42568ba-f000-45bc-b011-bc8455c24a78.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2910
     },
     {
       "person_id": "70401",
@@ -61,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/70401/594b4761-d395-4c83-aa35-f5acce7439fc.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 9623
     },
     {
       "person_id": "78699",
@@ -69,7 +69,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116613/9d0aaa22-0ae9-4596-a433-476383bc7b32.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 485
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
