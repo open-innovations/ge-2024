@@ -3,9 +3,9 @@
   "pcon24nm": "Swindon North",
   "total_votes": 0,
   "electorate": 72163,
-  "turnout_pct": 0,
+  "turnout_pct": 61,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:08:28.650Z",
+  "last_updated": "2024-07-05T01:09:10.402Z",
   "votes": [
     {
       "person_id": "14695",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14695/71d8dd60-a011-4daf-bfff-1c030f16aad0.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2366
     },
     {
       "person_id": "18530",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/18530.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 260
     },
     {
       "person_id": "190",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553ab7ae3a37ac9054592963.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 13827
     },
     {
       "person_id": "7028",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b8db4788906ef2517bd6e.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 2086
     },
     {
       "person_id": "72289",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72289-ea7e0ff3-e825-45c2-86a4-aefabe1d0404.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 7557
     },
     {
       "person_id": "90373",
@@ -53,7 +53,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Trade Unionist and Socialist Coalition",
-      "votes": 0
+      "votes": 139
     },
     {
       "person_id": "90426",
@@ -61,7 +61,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90426/a081fa34-8ad5-4e37-8419-be8620782392.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 17930
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:09"
 }
