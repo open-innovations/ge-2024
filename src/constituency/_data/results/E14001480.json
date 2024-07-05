@@ -5,7 +5,7 @@
   "electorate": 73322,
   "turnout_pct": 0,
   "confirmed": false,
-  "last_updated": "2024-07-05T08:35:25.162Z",
+  "last_updated": "2024-07-05T16:52:23.672Z",
   "votes": [
     {
       "person_id": "117135",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117135/040973fe-1898-42dd-99e0-6148a54eceec.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 1
     },
     {
       "person_id": "117395",
