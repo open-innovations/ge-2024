@@ -2,12 +2,12 @@
   "pcon24cd": "E14001070",
   "pcon24nm": "Ashton-under-Lyne",
   "total_votes": 0,
-  "electorate": 72278,
-  "turnout_pct": 0,
+  "electorate": 71002,
+  "turnout_pct": 50,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "02:44",
-  "last_updated": "2024-07-05T01:44:24.786Z",
+  "last_updated": "2024-07-05T01:58:06.148Z",
   "votes": [
     {
       "person_id": "116123",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116123/0eb6daa7-02d9-4339-99dc-4dbcbf454bdb.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 2835
     },
     {
       "person_id": "117390",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117390/c7924b16-4034-4d89-84c7-f15d08a7fa29.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 8784
     },
     {
       "person_id": "14417",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/14417.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1411
     },
     {
       "person_id": "41884",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/41884.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2481
     },
     {
       "person_id": "5189",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5189/97e795be-ce71-4fd8-8ecf-c45a822928fb.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 15573
     },
     {
       "person_id": "82353",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/82353-f68790c5-f9f7-4884-8631-769a80eb0d1b.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 4375
     }
   ]
 }
