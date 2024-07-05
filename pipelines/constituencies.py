@@ -95,7 +95,7 @@ def constituency_bar_charts(data, dir, index_rename):
 def get_scot_data(var_name, rename):
     scotland_data = pd.read_excel('data/Demographic-data-for-new-parliamentary-constituencies-May-2024.xlsx', sheet_name='Scotland_table', header=5, index_col='Unnamed: 0')
     scotland_data.index.rename('PCON24NM', inplace=True)
-    scotland_data = scotland_data.loc[~scotland_data.index.duplicated(keep='last')]
+    scotland_data = scotland_data.loc[~scotland_data.index.duplicated(keep=False)] #@TODO Need to remove this line when we figure out which Glasgow South is actually Glasgow South and which is Glasgow South West, and it is corrected in the data. I'll get in touch with commons library tomorrow. For now, we're removing both of them for safety.
     population = scotland_data[var_name].to_frame()
     population.rename(columns={var_name: rename}, inplace=True)
     new = population.merge(geo_codes, on='PCON24NM')
