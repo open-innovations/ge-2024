@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 74643,
+  "last_updated": "2024-07-05T07:31:11.000Z",
   "pcon24cd": "N05000007",
   "pcon24nm": "Fermanagh and South Tyrone",
   "total_votes": 0,
-  "electorate": 74643,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:01:44.782Z",
   "votes": [
     {
-      "person_id": "108685",
-      "person_name": "Gerry Cullen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108685/0a650b22-c1d7-49c6-b774-e005c43907ca.png",
       "party_key": "other",
       "party_name": "Cross-Community Labour Alternative",
-      "votes": 0
+      "person_id": "108685",
+      "person_name": "Gerry Cullen",
+      "votes": 624
     },
     {
-      "person_id": "117810",
-      "person_name": "Pat Cullen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117810/de292af4-09fa-44d1-90e2-548075387c12.png",
       "party_key": "sf",
       "party_name": "Sinn Féin",
-      "votes": 1
+      "person_id": "117810",
+      "person_name": "Pat Cullen",
+      "votes": 24844
     },
     {
-      "person_id": "117811",
-      "person_name": "Carl Duffy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117811/6cad222f-c448-4798-899d-99a89d99d05f.png",
       "party_key": "other",
       "party_name": "Aontú",
-      "votes": 0
+      "person_id": "117811",
+      "person_name": "Carl Duffy",
+      "votes": 529
     },
     {
-      "person_id": "68921",
-      "person_name": "Diana Armstrong",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/68921/affa9286-5548-43c6-8538-68a5b9b10007.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": 0
+      "person_id": "68921",
+      "person_name": "Diana Armstrong",
+      "votes": 20273
     },
     {
-      "person_id": "68973",
-      "person_name": "Paul Blake",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/68973/43b87a82-e5df-4bb0-9d67-981d2a8fea21.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": 0
+      "person_id": "68973",
+      "person_name": "Paul Blake",
+      "votes": 2386
     },
     {
-      "person_id": "95790",
-      "person_name": "Eddie Roofe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95790/67040424-fe56-410e-b266-7b4aa5eccebd.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": 0
+      "person_id": "95790",
+      "person_name": "Eddie Roofe",
+      "votes": 2420
     }
   ]
 }

@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 71978,
+  "last_updated": "2024-07-05T07:31:07.000Z",
   "pcon24cd": "N05000003",
   "pcon24nm": "Belfast South and Mid Down",
   "total_votes": 0,
-  "electorate": 71978,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:50:13.902Z",
   "votes": [
     {
-      "person_id": "12598",
-      "person_name": "Dan Boucher",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/12598.png",
       "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
-      "votes": 0
+      "person_id": "12598",
+      "person_name": "Dan Boucher",
+      "votes": 2218
     },
     {
-      "person_id": "19709",
-      "person_name": "Michael Henderson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19709.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": 0
+      "person_id": "19709",
+      "person_name": "Michael Henderson",
+      "votes": 2653
     },
     {
-      "person_id": "3475",
-      "person_name": "Claire Hanna",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3475/7793de6e-fb2c-4189-b75e-79b8ae597775.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": 1
+      "person_id": "3475",
+      "person_name": "Claire Hanna",
+      "votes": 21345
     },
     {
-      "person_id": "49681",
-      "person_name": "Tracy Kelly",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49681/8f6bc852-d95d-4ddd-b7ad-b6e9bb3fd8eb.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": 0
+      "person_id": "49681",
+      "person_name": "Tracy Kelly",
+      "votes": 6859
     },
     {
-      "person_id": "49791",
-      "person_name": "Áine Groogan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49791/6fd803da-233c-445d-a7d2-93c0239057ee.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "49791",
+      "person_name": "Áine Groogan",
+      "votes": 1577
     },
     {
-      "person_id": "6989",
-      "person_name": "Kate Nicholl",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551bd23d209513973bc5129b.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": 0
+      "person_id": "6989",
+      "person_name": "Kate Nicholl",
+      "votes": 8839
     }
   ]
 }

@@ -167,7 +167,8 @@ my $lookup = {
 	'Peter Clifford Reisdorf'=>'Peter Reisdorf',
 	'Tim Blaxill'=>'Timothy Blaxill',
 	'Donald Brookes'=>'Don Brookes',
-	'Nasri Barghouti'=>'Nas Barghouti'
+	'Nasri Barghouti'=>'Nas Barghouti',
+	'Michael Kearney'=>'Mike Kearney'
 };
 #getData("E14001179");
 #exit;

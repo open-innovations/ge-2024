@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 71372,
+  "last_updated": "2024-07-05T07:31:06.000Z",
   "pcon24cd": "N05000002",
   "pcon24nm": "Belfast North",
   "total_votes": 0,
-  "electorate": 71372,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:31:50.843Z",
   "votes": [
     {
-      "person_id": "11371",
-      "person_name": "Fiona Ferguson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/11371.png",
       "party_key": "other",
       "party_name": "People Before Profit",
-      "votes": 0
+      "person_id": "11371",
+      "person_name": "Fiona Ferguson",
+      "votes": 946
     },
     {
-      "person_id": "11374",
-      "person_name": "Nuala McAllister",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11374/822fe2f0-961e-43a8-8a8d-9c74298f4325.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": 0
+      "person_id": "11374",
+      "person_name": "Nuala McAllister",
+      "votes": 4274
     },
     {
-      "person_id": "11378",
-      "person_name": "Mal O'Hara",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11378/43d3fe48-98f5-4ff2-b99a-a5eb128ef166.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "11378",
+      "person_name": "Mal O'Hara",
+      "votes": 1206
     },
     {
-      "person_id": "116915",
-      "person_name": "David Clarke",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116915/554dec86-445a-4210-a3bb-2d9443aabecf.png",
       "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
-      "votes": 0
+      "person_id": "116915",
+      "person_name": "David Clarke",
+      "votes": 2877
     },
     {
-      "person_id": "34499",
-      "person_name": "John Finucane",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34499.png",
       "party_key": "sf",
       "party_name": "Sinn Féin",
-      "votes": 1
+      "person_id": "34499",
+      "person_name": "John Finucane",
+      "votes": 17674
     },
     {
-      "person_id": "49541",
-      "person_name": "Carl Whyte",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/49541/3552ac29-52f8-4260-b207-1173480e4100.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": 0
+      "person_id": "49541",
+      "person_name": "Carl Whyte",
+      "votes": 1413
     },
     {
-      "person_id": "49673",
-      "person_name": "Phillip Brett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49673.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": 0
+      "person_id": "49673",
+      "person_name": "Phillip Brett",
+      "votes": 12062
     }
   ]
 }
