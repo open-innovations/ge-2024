@@ -1,77 +1,77 @@
 {
-  "pcon24cd": "E14001098",
-  "pcon24nm": "Birmingham Perry Barr",
-  "total_votes": null,
-  "electorate": 74048,
-  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": null,
+  "electorate": 74048,
+  "last_updated": "2024-07-05T07:34:09.000Z",
+  "pcon24cd": "E14001098",
+  "pcon24nm": "Birmingham Perry Barr",
+  "total_votes": null,
+  "turnout_pct": null,
   "votes": [
     {
-      "person_id": "10067",
-      "person_name": "Kefentse Dennis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/10067.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "person_id": "10067",
+      "person_name": "Kefentse Dennis",
+      "votes": 2440
     },
     {
-      "person_id": "117580",
-      "person_name": "Akshay Khuttan",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "person_id": "117580",
+      "person_name": "Akshay Khuttan",
+      "votes": 2446
     },
     {
-      "person_id": "117581",
-      "person_name": "Niko Omilana",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "person_id": "117581",
+      "person_name": "Niko Omilana",
+      "votes": 509
     },
     {
-      "person_id": "117583",
-      "person_name": "Shangara Singh",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117583/43e37eba-7c4e-478f-b19f-218de2ecb990.png",
       "party_key": "other",
       "party_name": "Socialist Labour Party",
-      "votes": null
+      "person_id": "117583",
+      "person_name": "Shangara Singh",
+      "votes": 453
     },
     {
-      "person_id": "3367",
-      "person_name": "Khalid Mahmood",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3367/9d82c6a7-038a-4642-a86c-7b5cfa35b710.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "person_id": "3367",
+      "person_name": "Khalid Mahmood",
+      "votes": 12796
     },
     {
-      "person_id": "3444",
-      "person_name": "Garry Hickton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3444.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "person_id": "3444",
+      "person_name": "Garry Hickton",
+      "votes": 4227
     },
     {
-      "person_id": "3670",
-      "person_name": "Ayoub Khan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116950/93919386-2ce6-49f9-9e7d-42c027eefae8.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "person_id": "3670",
+      "person_name": "Ayoub Khan",
+      "votes": 13303
     },
     {
-      "person_id": "88795",
-      "person_name": "Sabah Hamed",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/88795/cd554d85-6b01-4aef-b31c-c84431fe3523.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "person_id": "88795",
+      "person_name": "Sabah Hamed",
+      "votes": 1302
     }
   ]
 }

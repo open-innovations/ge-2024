@@ -1,53 +1,53 @@
 {
-  "pcon24cd": "E14001192",
-  "pcon24nm": "Daventry",
-  "total_votes": null,
-  "electorate": 76539,
-  "turnout_pct": null,
   "confirmed": false,
   "declaration_date": null,
   "declaration_time": null,
-  "last_updated": null,
+  "electorate": 76539,
+  "last_updated": "2024-07-05T07:33:46.000Z",
+  "pcon24cd": "E14001192",
+  "pcon24nm": "Daventry",
+  "total_votes": null,
+  "turnout_pct": null,
   "votes": [
     {
-      "person_id": "115892",
-      "person_name": "Scott Ewen Cameron",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115892/e8d077cc-3633-407e-bf23-2e4fed806045.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "person_id": "115892",
+      "person_name": "Scott Ewen Cameron",
+      "votes": 10636
     },
     {
-      "person_id": "1985",
-      "person_name": "Stuart Andrew",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551ce5bf209513973bc512bb.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "person_id": "1985",
+      "person_name": "Stuart Andrew",
+      "votes": 17872
     },
     {
-      "person_id": "70634",
-      "person_name": "Jonathan William Harris",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70634.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "person_id": "70634",
+      "person_name": "Jonathan William Harris",
+      "votes": 6755
     },
     {
-      "person_id": "71394",
-      "person_name": "Clare Patricia Slater",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71394/8ccc3db2-a339-4388-bad1-b7ff69a40d1e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "person_id": "71394",
+      "person_name": "Clare Patricia Slater",
+      "votes": 2959
     },
     {
-      "person_id": "76978",
-      "person_name": "Marianne Kimani",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/76978/40ad79b5-e380-41e0-99b4-9330740c7c66.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "person_id": "76978",
+      "person_name": "Marianne Kimani",
+      "votes": 14860
     }
   ]
 }
