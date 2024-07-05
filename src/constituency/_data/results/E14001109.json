@@ -2,12 +2,12 @@
   "pcon24cd": "E14001109",
   "pcon24nm": "Bolsover",
   "total_votes": 0,
-  "electorate": 74680,
-  "turnout_pct": 0,
+  "electorate": 77334,
+  "turnout_pct": 55,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "02:56",
-  "last_updated": "2024-07-05T01:56:33.534Z",
+  "last_updated": "2024-07-05T02:27:21.966Z",
   "votes": [
     {
       "person_id": "113304",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115883/3896f647-c72d-4b6c-8541-50ada7377dc4.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 9131
     },
     {
       "person_id": "20130",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/50681.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1478
     },
     {
       "person_id": "6648",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5524a69ff0e9e2c82406ebcc.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 10874
     },
     {
       "person_id": "6943",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5522556b328bff5d39338a4d.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 3754
     },
     {
       "person_id": "71279",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71279/c6bd06db-8a23-4cc0-9296-04227bfc6175.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 17197
     }
   ]
 }
