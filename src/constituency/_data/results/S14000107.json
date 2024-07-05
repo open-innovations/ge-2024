@@ -2,10 +2,10 @@
   "pcon24cd": "S14000107",
   "pcon24nm": "Ayr, Carrick and Cumnock",
   "total_votes": 0,
-  "electorate": 72057,
-  "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:50:49.304Z",
+  "electorate": 70340,
+  "turnout_pct": 58,
+  "confirmed": true,
+  "last_updated": "2024-07-05T09:51:16.824Z",
   "votes": [
     {
       "person_id": "117138",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117138/050e2edd-9c2d-4ca0-a79f-baa9b24b6c6e.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": 0
+      "votes": 886
     },
     {
       "person_id": "22378",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22378/f79e88dd-a4b8-46d5-b4c2-8e3f00b67975.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 14930
     },
     {
       "person_id": "22533",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22533/4ed6ef57-1868-46a4-91d9-f60459df5304.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 0
+      "votes": 10776
     },
     {
       "person_id": "22534",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/22534-30f96cfe-08be-4733-81f9-4774713bb6a8.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 9247
     },
     {
       "person_id": "5072",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5072/fca5387c-c0ad-49fb-aac9-b53da75ac15b.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1081
     },
     {
       "person_id": "5927",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5927/3c39a63f-e5d0-4da4-9200-24f0e21f9e77.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": 0
+      "votes": 472
     },
     {
       "person_id": "85778",
@@ -61,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116209/a4e8a7e4-07bd-402d-b957-976d22a62ba6.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 3544
     }
   ]
 }
