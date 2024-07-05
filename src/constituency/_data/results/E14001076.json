@@ -2,12 +2,12 @@
   "pcon24cd": "E14001076",
   "pcon24nm": "Barrow and Furness",
   "total_votes": 0,
-  "electorate": 76603,
-  "turnout_pct": 0,
+  "electorate": 74980,
+  "turnout_pct": 56,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "02:48",
-  "last_updated": "2024-07-05T01:48:54.245Z",
+  "last_updated": "2024-07-05T02:07:54.270Z",
   "votes": [
     {
       "person_id": "116124",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116124/ef6b8713-a6d6-4cb1-b9a9-a1fd37f876e6.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 7035
     },
     {
       "person_id": "116125",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116125/39c9b6f8-0c00-413d-af0b-a4e7429d17de.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1466
     },
     {
       "person_id": "117561",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117561/db293fd7-1e7d-407e-b95c-b7ba756f79c6.png",
       "party_key": "other",
       "party_name": "Party Of Women",
-      "votes": 0
+      "votes": 290
     },
     {
       "person_id": "5174",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5174.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 13213
     },
     {
       "person_id": "92650",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92650/b08d34a4-d3cf-4114-83ee-b2e0eda356dc.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 18537
     },
     {
       "person_id": "92821",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92821/839fe60a-5fb6-483a-9b9f-d551f31434c9.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1680
     }
   ]
 }
