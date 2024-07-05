@@ -5,7 +5,7 @@
   "electorate": 75853,
   "turnout_pct": 46,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:06:08.570Z",
+  "last_updated": "2024-07-05T01:14:10.605Z",
   "votes": [
     {
       "person_id": "117068",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4345/4ebb530f-ac22-4e0b-9cff-8042aba82f15.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 1
     },
     {
       "person_id": "508",
