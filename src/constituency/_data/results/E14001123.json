@@ -3,9 +3,9 @@
   "pcon24nm": "Brent West",
   "total_votes": 0,
   "electorate": 76463,
-  "turnout_pct": 0,
+  "turnout_pct": 52,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:17:59.370Z",
+  "last_updated": "2024-07-05T02:42:35.072Z",
   "votes": [
     {
       "person_id": "114013",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114013/01b3f6d3-cba0-4692-bad4-bb710fc219d8.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 2774
     },
     {
       "person_id": "117527",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117527/264721d1-fe12-43fd-9c16-b4de600a95d2.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 2061
     },
     {
       "person_id": "2456",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55323cfc29c5d53959d9e455.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 17258
     },
     {
       "person_id": "6276",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55489aa539a8ee0311018609.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 3013
     },
     {
       "person_id": "92671",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92671/9549ad56-f520-4f84-992e-27bbd85960dd.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 13465
     },
     {
       "person_id": "92712",
@@ -53,7 +53,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92712/31480fc5-8195-47c1-866b-6e10f13af3ad.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2805
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
