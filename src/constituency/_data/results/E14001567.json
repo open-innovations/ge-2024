@@ -1,11 +1,11 @@
 {
   "pcon24cd": "E14001567",
   "pcon24nm": "Washington and Gateshead South",
-  "total_votes": 0,
-  "electorate": 71775,
+  "total_votes": 37121,
+  "electorate": 70972,
   "turnout_pct": 52,
-  "confirmed": false,
-  "last_updated": "2024-07-04T23:26:45.802Z",
+  "confirmed": true,
+  "last_updated": "2024-07-05T01:08:31.173Z",
   "votes": [
     {
       "person_id": "11637",
