@@ -3,9 +3,9 @@
   "pcon24nm": "Leicester East",
   "total_votes": 0,
   "electorate": 76465,
-  "turnout_pct": 0,
+  "turnout_pct": 61,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:10:16.642Z",
+  "last_updated": "2024-07-05T02:15:07.040Z",
   "votes": [
     {
       "person_id": "115898",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115898/17095ede-4db3-4488-b65b-70d0a7012e19.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 10100
     },
     {
       "person_id": "116876",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116876/60970521-0a0d-4c8c-ac5c-0108734a4a0a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "votes": 14526
     },
     {
       "person_id": "117720",
@@ -29,7 +29,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 974
     },
     {
       "person_id": "117721",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117721/62d23e74-305a-453e-80c0-045808ee7b68.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 115
     },
     {
       "person_id": "34416",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34416.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2143
     },
     {
       "person_id": "3982",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3982-e0c5e247-c626-4246-97bd-f4a527bdac45.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 6329
     },
     {
       "person_id": "427",
@@ -61,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553c9bd7e22f98bc5d30fa61.png",
       "party_key": "other",
       "party_name": "One Leicester",
-      "votes": 0
+      "votes": 3681
     },
     {
       "person_id": "47837",
@@ -69,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/47837/f75c90e9-ef76-4678-8847-bd9e186990b7.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 5532
     },
     {
       "person_id": "76568",
@@ -77,7 +77,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 2611
     },
     {
       "person_id": "99110",
@@ -85,7 +85,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99110/3315efab-2ed5-4766-914c-b634c23c55a2.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 703
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "03:15"
 }
