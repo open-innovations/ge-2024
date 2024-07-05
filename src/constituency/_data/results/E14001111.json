@@ -3,9 +3,9 @@
   "pcon24nm": "Bolton South and Walkden",
   "total_votes": 0,
   "electorate": 75716,
-  "turnout_pct": 0,
+  "turnout_pct": 46,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:17:10.269Z",
+  "last_updated": "2024-07-05T02:56:03.740Z",
   "votes": [
     {
       "person_id": "105696",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105696/1eb533bc-cb7e-4310-aad2-39ff5f6f95f6.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2827
     },
     {
       "person_id": "106651",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106651/ac2b5426-8641-404f-a614-05e7860d5b71.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 433
     },
     {
       "person_id": "34901",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34901/a38f1e29-d7bb-4c33-bc81-a4f24aa171fd.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 4170
     },
     {
       "person_id": "43246",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43246/c1882b9c-1022-47b8-94bb-40d681fc104e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 8350
     },
     {
       "person_id": "662",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553baf70b9c95afe74c5d335.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 15093
     },
     {
       "person_id": "9455",
@@ -53,7 +53,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1384
     },
     {
       "person_id": "95598",
@@ -61,7 +61,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95598/c0c52b4f-81d8-453f-ab3a-f2aab1e70666.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 4673
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
