@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001356",
   "pcon24nm": "Melksham and Devizes",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 71823,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T03:35:45.932Z",
   "votes": [
     {
       "person_id": "116410",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116410/04a47dd0-c152-4bc6-801c-e9af03b96969.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116411",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116411/bcee2dba-7d31-48e8-9caa-4b9418556a29.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "1251",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/1251-80899462-a32c-4e6d-abc5-a512b9fe8163.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "3938",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/3938/07312a23-112a-4395-b144-095d8648af3c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "80733",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/80733/95c5362f-06cc-41f9-b489-81d4d4c8fd4e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
