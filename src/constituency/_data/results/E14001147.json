@@ -3,9 +3,9 @@
   "pcon24nm": "Calder Valley",
   "total_votes": 49796,
   "electorate": 77364,
-  "turnout_pct": 0,
+  "turnout_pct": 52,
   "confirmed": true,
-  "last_updated": "2024-07-05T05:12:20.719Z",
+  "last_updated": "2024-07-05T05:30:27.281Z",
   "votes": [
     {
       "person_id": "100961",
