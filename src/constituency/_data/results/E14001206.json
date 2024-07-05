@@ -3,10 +3,10 @@
   "pcon24nm": "Dunstable and Leighton Buzzard",
   "total_votes": 0,
   "electorate": 74069,
-  "turnout_pct": 0,
+  "turnout_pct": 60,
   "confirmed": false,
   "declaration_time": "03:47",
-  "last_updated": "2024-07-05T02:47:09.446Z",
+  "last_updated": "2024-07-05T03:22:15.455Z",
   "votes": [
     {
       "person_id": "105883",
@@ -14,7 +14,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/105883/6f08df6a-41e6-4b06-916f-2ce2e8d9e37f.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 8071
     },
     {
       "person_id": "105921",
@@ -22,7 +22,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116855/a61c8fe7-2378-4a70-bf92-9cd013b35caf.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2115
     },
     {
       "person_id": "107442",
@@ -30,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/107442/06ee8982-3dad-446b-806c-30e9b36c1953.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 6497
     },
     {
       "person_id": "1896",
@@ -38,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5535723b367dc5383f552cce.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 14309
     },
     {
       "person_id": "69510",
@@ -46,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72284-ddaeb791-4ba4-4c2c-80dd-c726f28d5989.png",
       "party_key": "other",
       "party_name": "Patriots Alliance - English Democrats and UKIP",
-      "votes": 0
+      "votes": 77
     },
     {
       "person_id": "69948",
@@ -54,7 +54,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69948/d10e745e-8e0f-425d-ba44-2e7cfd495d52.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 14976
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
