@@ -3,9 +3,9 @@
   "pcon24nm": "Rochdale",
   "total_votes": 0,
   "electorate": 71697,
-  "turnout_pct": 0,
+  "turnout_pct": 56,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:35:29.275Z",
+  "last_updated": "2024-07-05T01:51:51.878Z",
   "votes": [
     {
       "person_id": "110255",
@@ -13,7 +13,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 6773
     },
     {
       "person_id": "110260",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110260/7d53f740-7d82-449a-a33f-98cda7c077dc.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1212
     },
     {
       "person_id": "116840",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116840/6621b065-966b-4595-8d3a-25a412a33127.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "votes": 13027
     },
     {
       "person_id": "12633",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/12633/01a7e987-41ec-4e3f-b330-e44ab15737b4.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 4273
     },
     {
       "person_id": "4754",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4754/8eabb2ce-1042-4679-b8a8-419f1a207014.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 11587
     },
     {
       "person_id": "4896",
@@ -53,7 +53,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4896/07f2ff11-da86-466c-a2a3-fa5599959733.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 2816
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:50"
 }
