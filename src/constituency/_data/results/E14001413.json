@@ -3,9 +3,9 @@
   "pcon24nm": "Nuneaton",
   "total_votes": 0,
   "electorate": 70335,
-  "turnout_pct": 0,
+  "turnout_pct": 59,
   "confirmed": false,
-  "last_updated": "2024-07-05T00:46:16.414Z",
+  "last_updated": "2024-07-05T00:47:17.694Z",
   "votes": [
     {
       "person_id": "117764",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117764/c4242b1a-404f-4f77-a515-91850e7c417a.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 967
     },
     {
       "person_id": "1648",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1648/b2dd4f88-ae54-49fd-ac60-b4b184cc3713.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 11737
     },
     {
       "person_id": "49332",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49332.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 15216
     },
     {
       "person_id": "5198",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/550b5fb13676900a02e16444.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2894
     },
     {
       "person_id": "81826",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81826/f8262c45-f74d-4e07-a0ac-56b6e733eabe.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 9059
     },
     {
       "person_id": "82867",
@@ -53,7 +53,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/82867/3a3a81e1-dca9-49bb-b712-99c245ee24b0.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1340
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "01:47"
 }
