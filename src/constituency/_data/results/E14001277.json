@@ -2,10 +2,10 @@
   "pcon24cd": "E14001277",
   "pcon24nm": "Hazel Grove",
   "total_votes": 0,
-  "electorate": 72941,
-  "turnout_pct": 0,
+  "electorate": 72843,
+  "turnout_pct": 63,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:59:53.001Z",
+  "last_updated": "2024-07-05T02:35:22.663Z",
   "votes": [
     {
       "person_id": "106912",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106912/c75bd914-b364-44f8-813d-b0ad13e72f74.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": 113
     },
     {
       "person_id": "11075",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11075/4b4ff287-06fd-49d6-8f09-62c4ddecace5.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 6955
     },
     {
       "person_id": "116145",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116145/71893a0b-b129-464c-96db-4cd7be515ad9.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 9011
     },
     {
       "person_id": "4503",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e910b150e238702c0627.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "votes": 17328
     },
     {
       "person_id": "55355",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/55355/3cae1ba7-5efa-4d75-938b-3365f2ed15e7.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 10828
     },
     {
       "person_id": "7050",
@@ -53,7 +53,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7050/90009cc6-dfae-4b0e-a3d1-87a5a824b63b.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1763
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
