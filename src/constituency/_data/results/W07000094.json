@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 76395,
+  "last_updated": "2024-07-05T07:24:58.000Z",
   "pcon24cd": "W07000094",
   "pcon24nm": "Clwyd East",
   "total_votes": 0,
-  "electorate": 76395,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:24:43.900Z",
   "votes": [
     {
-      "person_id": "2757",
-      "person_name": "Paul Penlington",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2757/178a568c-9b6b-4a2b-b498-1912511178d9.png",
       "party_key": "pc",
       "party_name": "Plaid Cymru - The Party of Wales",
-      "votes": 0
+      "person_id": "2757",
+      "person_name": "Paul Penlington",
+      "votes": 3733
     },
     {
-      "person_id": "4241",
-      "person_name": "James Davies",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4241.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "4241",
+      "person_name": "James Davies",
+      "votes": 13862
     },
     {
-      "person_id": "62755",
-      "person_name": "Becky Gittins",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/62755/b2cf2ea8-5e98-4c6c-871a-628c47baf339.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "62755",
+      "person_name": "Becky Gittins",
+      "votes": 18484
     },
     {
-      "person_id": "70065",
-      "person_name": "Alec Dauncey",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/70065.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "70065",
+      "person_name": "Alec Dauncey",
+      "votes": 1859
     },
     {
-      "person_id": "71395",
-      "person_name": "Rob Roberts",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71395.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "71395",
+      "person_name": "Rob Roberts",
+      "votes": 599
     },
     {
-      "person_id": "77343",
-      "person_name": "Kirsty Walmsley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/77343-e4322348-0dda-400f-9e64-3c89ef6fccd5.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "77343",
+      "person_name": "Kirsty Walmsley",
+      "votes": 7626
     },
     {
-      "person_id": "87724",
-      "person_name": "Lee Lavery",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87724/617b7f9e-e95f-425f-86bf-2e21147ec585.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "87724",
+      "person_name": "Lee Lavery",
+      "votes": 1659
     }
   ]
 }

@@ -151,14 +151,20 @@ my $lookup = {
 	'Frederick Keen'=>'Fred Keen',
 	'Ash Routh'=>'Ashley Routh',
 	'Arnie Craven'=>'Arnold Craven',
-	'Damian Timson'=>'Damian Doran-Timson'
+	'Damian Timson'=>'Damian Doran-Timson',
+	'Ammi Kaur-Dhaliwal'=>'Amerjit Kaur-Dhaliwal',
+	'Nicholas Beckett'=>'Nick Beckett',
+	'Bill Powell'=>'William Powell',
+	'Edward Willett'=>'Peter Willett'
 };
 #getData("E14001179");
 #exit;
 
 my @arr = LoadCSV($basedir."../data/Westminster_Parliamentary_Constituencies_(Future)_Names_and_Codes_in_the_United_Kingdom_v2.csv");
 for(my $a = 0; $a < @arr; $a++){
-	getData($arr[$a]->{'PCON24CD'});
+	if($arr[$a]->{'PCON24CD'} ne "S14000107" && $arr[$a]->{'PCON24CD'} ne "S14000108" && $arr[$a]->{'PCON24CD'} ne "S14000109" && $arr[$a]->{'PCON24CD'} ne "S14000111"){
+		getData($arr[$a]->{'PCON24CD'});
+	}
 }
 
 exit;
@@ -195,15 +201,17 @@ sub getData {
 		@lines = <$fh>;
 		close($fh);
 		$html = join("",@lines);
+		$scores = {};
 		if($html =~ /window.__INITIAL_DATA__=\"(.*?)\";<\/script>/){
 			$html = $1;
 			$html =~ s/\\\"/\"/g;
 			$html =~ s/.*"groups":(\[\{"scorecards":\[\{(.*?)\])\},"importance":"PRIMARY".*/$1/;
 			$group = ParseJSON($html);
-			@scorecard = @{$group->[0]{'scorecards'}};
-			$scores = {};
-			for($i = 0; $i < @scorecard; $i++){
-				$scores->{$scorecard[$i]{'title'}} = {'party'=>$scorecard[$i]{'supertitle'},'votes'=>$scorecard[$i]{'score'}{'dataColumns'}[0][0]};
+			if($group->[0]{'scorecards'}){
+				@scorecard = @{$group->[0]{'scorecards'}};
+				for($i = 0; $i < @scorecard; $i++){
+					$scores->{$scorecard[$i]{'title'}} = {'party'=>$scorecard[$i]{'supertitle'},'votes'=>$scorecard[$i]{'score'}{'dataColumns'}[0][0]};
+				}
 			}
 		}
 		$found = 0;

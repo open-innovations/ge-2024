@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 76639,
+  "last_updated": "2024-07-05T07:26:02.000Z",
   "pcon24cd": "E14001565",
   "pcon24nm": "Warrington South",
   "total_votes": 0,
-  "electorate": 76639,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:05:28.737Z",
   "votes": [
     {
-      "person_id": "116866",
-      "person_name": "Graeme Kelly",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116866",
+      "person_name": "Graeme Kelly",
+      "votes": 110
     },
     {
-      "person_id": "117228",
-      "person_name": "Edward Peter Willett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117228/35465260-f4e7-4e2d-b5a1-98cc904227e8.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117228",
+      "person_name": "Edward Peter Willett",
+      "votes": 445
     },
     {
-      "person_id": "450",
-      "person_name": "Stephanie Davies",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54e7497bb58df48b5c609f6d.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "450",
+      "person_name": "Stephanie Davies",
+      "votes": 2313
     },
     {
-      "person_id": "71718",
-      "person_name": "Andy Carter",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71718.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "71718",
+      "person_name": "Andy Carter",
+      "votes": 11861
     },
     {
-      "person_id": "72112",
-      "person_name": "Janet Barbara Balfe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72112-d498c9b5-06bc-496f-b0fe-c7a05db0600e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "72112",
+      "person_name": "Janet Barbara Balfe",
+      "votes": 7913
     },
     {
-      "person_id": "8879",
-      "person_name": "Sarah Hall",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8879/703a32e8-0037-4f27-a798-289fa8f6bb85.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "person_id": "8879",
+      "person_name": "Sarah Hall",
+      "votes": 23201
     },
     {
-      "person_id": "9352",
-      "person_name": "Graham Gowland",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9352/d47dbb83-f053-4698-98d1-e933b6c4005d.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "9352",
+      "person_name": "Graham Gowland",
+      "votes": 3829
     }
   ]
 }

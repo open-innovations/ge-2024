@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 72350,
+  "last_updated": "2024-07-05T07:25:33.000Z",
   "pcon24cd": "E14001564",
   "pcon24nm": "Warrington North",
   "total_votes": 0,
-  "electorate": 72350,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T02:41:13.303Z",
   "votes": [
     {
-      "person_id": "100456",
-      "person_name": "Hannah Spencer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/100456/34032b5d-f1c7-4ff1-9af5-150be462fae7.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "100456",
+      "person_name": "Hannah Spencer",
+      "votes": 1889
     },
     {
-      "person_id": "117015",
-      "person_name": "Yasmin Al-Atroshi",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117015/db21303c-d594-4f25-bb8c-5e2908f67f72.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "117015",
+      "person_name": "Yasmin Al-Atroshi",
+      "votes": 6486
     },
     {
-      "person_id": "117414",
-      "person_name": "Maddison Wheeldon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117414/223fa66c-570a-4783-b7c9-3e100c0341ed.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117414",
+      "person_name": "Maddison Wheeldon",
+      "votes": 659
     },
     {
-      "person_id": "2386",
-      "person_name": "David Crowther",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2386.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "2386",
+      "person_name": "David Crowther",
+      "votes": 2737
     },
     {
-      "person_id": "6904",
-      "person_name": "Trevor Nicholls",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6904-f63fe771-b19f-4b94-af09-db1be30c27ce.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "6904",
+      "person_name": "Trevor Nicholls",
+      "votes": 9540
     },
     {
-      "person_id": "71881",
-      "person_name": "Charlotte Nichols",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71881.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "71881",
+      "person_name": "Charlotte Nichols",
+      "votes": 18730
     }
   ]
 }

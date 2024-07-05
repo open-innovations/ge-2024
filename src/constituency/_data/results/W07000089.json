@@ -1,67 +1,67 @@
 {
+  "confirmed": false,
+  "electorate": 72463,
+  "last_updated": "2024-07-05T07:24:52.000Z",
   "pcon24cd": "W07000089",
   "pcon24nm": "Cardiff East",
   "total_votes": 0,
-  "electorate": 72463,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:20:23.207Z",
   "votes": [
     {
-      "person_id": "116473",
-      "person_name": "Cadewyn Skelley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116473/5c408546-5bf7-4f71-af0c-7b5e032b0c5e.png",
       "party_key": "pc",
       "party_name": "Plaid Cymru - The Party of Wales",
-      "votes": 0
+      "person_id": "116473",
+      "person_name": "Cadewyn Skelley",
+      "votes": 3550
     },
     {
-      "person_id": "117486",
-      "person_name": "Beatrice Brandon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117486/99bb6365-69ed-4b98-9937-9bb3bdda0a00.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "117486",
+      "person_name": "Beatrice Brandon",
+      "votes": 3913
     },
     {
-      "person_id": "20032",
-      "person_name": "Rodney Berman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20032-e122be8c-3df1-4157-823f-4df27f924313.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "20032",
+      "person_name": "Rodney Berman",
+      "votes": 6736
     },
     {
-      "person_id": "22826",
-      "person_name": "John Williams",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116976/7e49bca0-a926-470e-94ed-c2c4c214c2d4.png",
       "party_key": "other",
       "party_name": "Trade Unionist and Socialist Coalition",
-      "votes": 0
+      "person_id": "22826",
+      "person_name": "John Williams",
+      "votes": 195
     },
     {
-      "person_id": "28815",
-      "person_name": "Lee Canning",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116632/ba12a51a-4483-4320-bef9-6166ea931d8c.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "28815",
+      "person_name": "Lee Canning",
+      "votes": 4980
     },
     {
-      "person_id": "2955",
-      "person_name": "Sam Coates",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2955/3c7cb0dc-159a-4f2f-a2d6-fd05dd90dbc9.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "2955",
+      "person_name": "Sam Coates",
+      "votes": 3916
     },
     {
-      "person_id": "4293",
-      "person_name": "Jo Stevens",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4293/0d6ba2ff-0add-47bd-a427-1f160bf94663.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "4293",
+      "person_name": "Jo Stevens",
+      "votes": 15833
     }
   ]
 }
