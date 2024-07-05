@@ -3,9 +3,9 @@
   "pcon24nm": "Colchester",
   "total_votes": 0,
   "electorate": 76843,
-  "turnout_pct": 0,
+  "turnout_pct": 58,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:13:09.614Z",
+  "last_updated": "2024-07-05T01:13:49.252Z",
   "votes": [
     {
       "person_id": "115937",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115937/8a4bd870-c2c7-4507-bb80-28be5de297b3.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 6664
     },
     {
       "person_id": "117141",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117141/06e848a1-77fb-4541-8e04-3ed031b1e596.png",
       "party_key": "other",
       "party_name": "Climate Party",
-      "votes": 0
+      "votes": 74
     },
     {
       "person_id": "15479",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/15479-15712659-1b1c-4bd6-90ff-f518b3e1e927.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 6393
     },
     {
       "person_id": "69746",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69746/e112d89e-506c-4d0a-80d4-c187db87d09a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 10554
     },
     {
       "person_id": "72850",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72850-1b333b74-0773-497a-b541-890c4e06a701.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 18804
     },
     {
       "person_id": "96403",
@@ -53,7 +53,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96403/d47b26f4-6f28-4962-b57e-a48788d83801.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2414
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:13"
 }
