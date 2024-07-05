@@ -1,13 +1,12 @@
 {
   "pcon24cd": "E14001408",
   "pcon24nm": "Norwich North",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 71441,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_time": "04:01",
+  "last_updated": "2024-07-05T03:01:46.423Z",
   "votes": [
     {
       "person_id": "113142",
@@ -15,7 +14,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115952/ed372be8-c728-46dd-8def-799e1ddf1fe4.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117754",
@@ -23,7 +22,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "17559",
@@ -31,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/17559.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "46150",
@@ -39,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/46150.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "6580",
@@ -47,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55118df4ef02a1cd1945d655.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "68846",
@@ -55,7 +54,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/68846/27a844fd-70f7-41f4-9559-eee8c2e1b26a.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
