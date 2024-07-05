@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001217",
   "pcon24nm": "East Wiltshire",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 71109,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T04:34:17.471Z",
   "votes": [
     {
       "person_id": "115136",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116394/9d7b94cd-d35a-46e9-8db1-b2b32d051f53.png",
       "party_key": "other",
       "party_name": "True & Fair Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "115867",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115867/2e2174b4-6c6c-4856-9991-a79edb1b4af8.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116395",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116395/3a2ff77a-4283-4ce3-8b95-6b032fa74c6e.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "72030",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72030.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "81274",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81274/88d780f9-b8d4-48e8-8980-6e72cdb331ab.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "96675",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96675/571e11ce-953b-4c53-ab59-19ae027046c7.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
