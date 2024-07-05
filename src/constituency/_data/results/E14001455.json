@@ -3,9 +3,9 @@
   "pcon24nm": "Runcorn and Helsby",
   "total_votes": 0,
   "electorate": 70950,
-  "turnout_pct": 0,
+  "turnout_pct": 59,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:17:32.479Z",
+  "last_updated": "2024-07-05T01:37:45.873Z",
   "votes": [
     {
       "person_id": "106393",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106393/8088b245-028d-4def-b0fd-354d9d233577.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 7662
     },
     {
       "person_id": "116177",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116177/55098584-bd6e-42c6-8ea6-b2413a651e2d.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": 116
     },
     {
       "person_id": "19433",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19433/26569c66-3fac-4637-b689-85f81908f537.png",
       "party_key": "other",
       "party_name": "The Liberal Party",
-      "votes": 0
+      "votes": 479
     },
     {
       "person_id": "34321",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34321/34b54278-21e2-4acf-93de-1a8a6ceedb49.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 22358
     },
     {
       "person_id": "39325",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/39325/658bb43a-d6ff-4dc0-8537-6d7d24517712.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 2149
     },
     {
       "person_id": "6800",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6800/34311a46-0f40-4ee2-acec-92ef01cbc388.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 6756
     },
     {
       "person_id": "6898",
@@ -61,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6898-604db163-2fd4-4782-8739-d0c8b8121cea.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2715
     }
   ]
 }
