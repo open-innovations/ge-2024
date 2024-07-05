@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001574",
   "pcon24nm": "West Bromwich",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 72206,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T02:13:31.435Z",
   "votes": [
     {
       "person_id": "110711",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116551/2beb9e4c-19b3-4da7-b5ef-6c2f92014bb7.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "115649",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115649/2c1537b5-2e4d-4d57-ba2f-ca5debb43ed4.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "117805",
@@ -31,7 +29,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "39346",
@@ -39,7 +37,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "UK Independence Party (UKIP)",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4208",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4208.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5648",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5648/8bc4ce7c-cc6b-4eef-83b5-50a616736186.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "96707",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96707/85e2c26e-0194-4508-9731-500dc4c55fb7.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
