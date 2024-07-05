@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001310",
   "pcon24nm": "Kensington and Bayswater",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 75980,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T03:34:51.137Z",
   "votes": [
     {
       "person_id": "113907",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113907/64ef9e17-d81c-4a40-b636-74adcf65a9bf.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "116044",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116044/00e2e1b0-73b9-48f8-861e-c54fec238689.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117569",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117569/34105d62-9eb9-4119-991e-83d8bc07a823.png",
       "party_key": "other",
       "party_name": "Party Of Women",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "3403",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3403-3142a79c-79c7-4ee1-a857-01e6601e9531.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "34309",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34309.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "36132",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/36132.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "44168",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/44168/6677b090-d777-45b7-8dca-78d5a761a78a.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7197",
@@ -71,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553bb308a51642637514d640.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "72362",
@@ -79,7 +77,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72362/ab7216b3-2306-47cd-8e2b-87f5a988eada.png",
       "party_key": "other",
       "party_name": "Christian Peoples Alliance",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7928",
@@ -87,7 +85,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7928/fc5a0836-720d-4f8a-b448-b307cdee92a9.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     }
   ]
 }
