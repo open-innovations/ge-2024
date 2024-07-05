@@ -1,13 +1,11 @@
 {
   "pcon24cd": "S14000084",
   "pcon24nm": "Glasgow East",
-  "total_votes": null,
-  "electorate": null,
-  "turnout_pct": null,
+  "total_votes": 0,
+  "electorate": 0,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T03:12:49.287Z",
   "votes": [
     {
       "person_id": "114572",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114572/38c4adbb-3b14-465b-ba11-4cd441444e39.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116234",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116234/1c5f31f7-d20d-46c9-b81b-192ebd2c6630.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "116783",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116783/69b680ec-97ae-4ba7-b949-7671198eafef.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "21717",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/21717_JrYbFlX.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "34515",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34515/956fc1f3-f88f-407c-824a-e8ba8f475bbf.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5646",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553c9fc2dcfe1d5b5cf8146e.png",
       "party_key": "other",
       "party_name": "Scottish Socialist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "8368",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8368/71f94a40-1db8-45e5-83c7-3c2f634db7c1.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
