@@ -3,9 +3,9 @@
   "pcon24nm": "Caerphilly",
   "total_votes": 0,
   "electorate": 72458,
-  "turnout_pct": 0,
+  "turnout_pct": 53,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:01:07.445Z",
+  "last_updated": "2024-07-05T02:11:50.711Z",
   "votes": [
     {
       "person_id": "116643",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116643/7fb9ed15-47b7-41bd-9a58-757ff203d4bf.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1650
     },
     {
       "person_id": "117147",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117147/f121fbaa-6572-41d6-84ce-e599a2307e2b.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 7754
     },
     {
       "person_id": "2487",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2487/d5b19c4c-b84e-4be9-b84d-9674b07809be.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "votes": 14538
     },
     {
       "person_id": "59",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/59.png",
       "party_key": "pc",
       "party_name": "Plaid Cymru - The Party of Wales",
-      "votes": 0
+      "votes": 8119
     },
     {
       "person_id": "74026",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74026/859d30e2-f34a-4e84-a274-5a1500138b3d.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1788
     },
     {
       "person_id": "89266",
@@ -53,7 +53,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89266/add5aa70-d189-4c51-a47b-68c6815d903d.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 4385
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "03:07"
 }
