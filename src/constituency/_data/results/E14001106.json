@@ -2,10 +2,10 @@
   "pcon24cd": "E14001106",
   "pcon24nm": "Blaydon and Consett",
   "total_votes": 0,
-  "electorate": 70163,
-  "turnout_pct": 0,
+  "electorate": 70487,
+  "turnout_pct": 60,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:11:36.725Z",
+  "last_updated": "2024-07-05T03:10:43.483Z",
   "votes": [
     {
       "person_id": "114152",
@@ -13,7 +13,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": 135
     },
     {
       "person_id": "116094",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116094/72726f82-c87d-4380-97d1-b31d71754d6e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 10007
     },
     {
       "person_id": "16435",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/16435/0c979f69-d989-43f5-9ffa-86922da6bf92.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 21160
     },
     {
       "person_id": "42379",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/42379/5dd69093-2333-47c9-9a15-05340ab26f90.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 2273
     },
     {
       "person_id": "77920",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77920/b19597c8-59bb-448f-8134-b968fd23bc65.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2589
     },
     {
       "person_id": "78370",
@@ -53,7 +53,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78370/21715362-9ee9-4f74-a3df-a07aeacfc735.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 6052
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
