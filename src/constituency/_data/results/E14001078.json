@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001078",
   "pcon24nm": "Basingstoke",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 77050,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T04:12:23.208Z",
   "votes": [
     {
       "person_id": "116270",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116270/2a38cd29-9909-49dc-b3b9-635e826bbc00.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "2525",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2525/5f6f767f-aa77-49f2-a5e4-8b6910ebe6dd.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "34954",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116271/821f3d6b-9158-49dd-a605-08c74cb820f0.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "36243",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/36243/b677c121-0527-448c-b6d2-990cde51885b.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "74083",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74083/cea76a91-99e8-4884-83ea-9243e7ccd83f.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "9733",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9733/1afd6ade-2cd8-4335-95b7-2e8a7034cb64.png",
       "party_key": "other",
       "party_name": "Hampshire Independents",
-      "votes": null
+      "votes": 0
     }
   ]
 }
