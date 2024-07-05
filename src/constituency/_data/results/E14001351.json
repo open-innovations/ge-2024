@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 76794,
+  "last_updated": "2024-07-05T06:59:43.000Z",
   "pcon24cd": "E14001351",
   "pcon24nm": "Maldon",
   "total_votes": 0,
-  "electorate": 76794,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:42:52.657Z",
   "votes": [
     {
-      "person_id": "104257",
-      "person_name": "Isobel Jean Campbell Doubleday",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/104257/fdcd9c4f-5847-4d5d-adda-00d87f3da7b9.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "104257",
+      "person_name": "Isobel Jean Campbell Doubleday",
+      "votes": 2300
     },
     {
-      "person_id": "62299",
-      "person_name": "Pamela Kay Walford",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115944/86c08dec-d704-4ea5-bc24-582ed19e51af.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "62299",
+      "person_name": "Pamela Kay Walford",
+      "votes": 12468
     },
     {
-      "person_id": "765",
-      "person_name": "John Whittingdale",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5548f70184e9778b52be3985.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "765",
+      "person_name": "John Whittingdale",
+      "votes": 19374
     },
     {
-      "person_id": "83406",
-      "person_name": "Onike Gollo",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/83406/0fa4fcd7-e9be-414e-8dee-a5ae5bbe84c6.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "83406",
+      "person_name": "Onike Gollo",
+      "votes": 9817
     },
     {
-      "person_id": "85029",
-      "person_name": "Simon Burwood",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85029/7fd9adeb-f056-4f05-a19e-c4e6920fa2b0.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "85029",
+      "person_name": "Simon Burwood",
+      "votes": 5882
     }
   ]
 }

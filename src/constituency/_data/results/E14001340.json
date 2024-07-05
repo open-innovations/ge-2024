@@ -1,76 +1,76 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:00",
+  "electorate": 71076,
+  "last_updated": "2024-07-05T06:58:53.000Z",
   "pcon24cd": "E14001340",
   "pcon24nm": "Liverpool Wavertree",
   "total_votes": 0,
-  "electorate": 71076,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:00",
-  "last_updated": "2024-07-05T03:00:48.259Z",
   "votes": [
     {
-      "person_id": "11",
-      "person_name": "Tom Crone",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/11.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "11",
+      "person_name": "Tom Crone",
+      "votes": 6773
     },
     {
-      "person_id": "114269",
-      "person_name": "Ann San",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116157/72073fae-f311-401c-848d-5b573144fa4b.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "114269",
+      "person_name": "Ann San",
+      "votes": 1191
     },
     {
-      "person_id": "117391",
-      "person_name": "Charlotte Eagar",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117391/80088b9c-7fd9-4d56-8ff1-b7a802673163.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "117391",
+      "person_name": "Charlotte Eagar",
+      "votes": 1887
     },
     {
-      "person_id": "117392",
-      "person_name": "Mohamed Jaffar El Gadhy",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117392",
+      "person_name": "Mohamed Jaffar El Gadhy",
+      "votes": 566
     },
     {
-      "person_id": "35917",
-      "person_name": "Rob McAllister-Bell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35917/52d66f88-78e7-4b3d-b1ac-f5eec2d64f37.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "35917",
+      "person_name": "Rob McAllister-Bell",
+      "votes": 2759
     },
     {
-      "person_id": "43501",
-      "person_name": "Joe Owens",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/43501/435ce6c9-ca7c-4094-91f4-92021957961a.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "43501",
+      "person_name": "Joe Owens",
+      "votes": 108
     },
     {
-      "person_id": "6881",
-      "person_name": "Adam Heatherington",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6881.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "6881",
+      "person_name": "Adam Heatherington",
+      "votes": 3454
     },
     {
-      "person_id": "71518",
-      "person_name": "Paula Barker",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71518/c5b05735-029f-4427-be8d-1e10fb1db4d7.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "71518",
+      "person_name": "Paula Barker",
+      "votes": 23077
     }
   ]
 }

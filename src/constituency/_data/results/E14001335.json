@@ -1,69 +1,69 @@
 {
-  "pcon24cd": "E14001335",
-  "pcon24nm": "Lichfield",
-  "total_votes": 0,
-  "electorate": 74942,
-  "turnout_pct": 0,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "03:39",
-  "last_updated": "2024-07-05T02:39:04.506Z",
+  "electorate": 74942,
+  "last_updated": "2024-07-05T06:58:12.000Z",
+  "pcon24cd": "E14001335",
+  "pcon24nm": "Lichfield",
+  "total_votes": 0,
+  "turnout_pct": 0,
   "votes": [
     {
-      "person_id": "116531",
-      "person_name": "Richard Howard",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116531/dffee16c-d450-4962-8ed8-3cd0c1aa310f.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116531",
+      "person_name": "Richard Howard",
+      "votes": 9734
     },
     {
-      "person_id": "455",
-      "person_name": "Michael Fabricant",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55350639b247335574a42e5e.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "455",
+      "person_name": "Michael Fabricant",
+      "votes": 16422
     },
     {
-      "person_id": "64865",
-      "person_name": "Dave Robertson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/64865/19234395-8800-45aa-bee6-5f7b47a3ecc9.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "64865",
+      "person_name": "Dave Robertson",
+      "votes": 17232
     },
     {
-      "person_id": "6568",
-      "person_name": "Paul Ray",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6568/3a11a929-c4cf-4cfa-b0b8-bdfc3e7b6a3c.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "6568",
+      "person_name": "Paul Ray",
+      "votes": 3572
     },
     {
-      "person_id": "72457",
-      "person_name": "John Patrick Madden",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72457-72f2081f-3fd7-4fc3-bb4a-49d5f4f6e0c2.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "72457",
+      "person_name": "John Patrick Madden",
+      "votes": 98
     },
     {
-      "person_id": "77470",
-      "person_name": "Pete Longman",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77470/44903a2e-18da-462c-8381-5068c626fe51.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "77470",
+      "person_name": "Pete Longman",
+      "votes": 322
     },
     {
-      "person_id": "82631",
-      "person_name": "Heather Kirsty McNeillis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/82631/0e7c1ddd-9431-4e41-8ff7-28f6389a0e02.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "82631",
+      "person_name": "Heather Kirsty McNeillis",
+      "votes": 1724
     }
   ]
 }

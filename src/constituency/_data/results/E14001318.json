@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 74992,
+  "last_updated": "2024-07-05T06:57:36.000Z",
   "pcon24cd": "E14001318",
   "pcon24nm": "Lancaster and Wyre",
   "total_votes": 0,
-  "electorate": 74992,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:37:06.363Z",
   "votes": [
     {
-      "person_id": "117708",
-      "person_name": "Nigel Alderson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117708/36c74db4-ada8-498b-a4a4-9d1f183b0670.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "117708",
+      "person_name": "Nigel Alderson",
+      "votes": 6866
     },
     {
-      "person_id": "19847",
-      "person_name": "Jack Lenox",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19847/910e3b73-400a-478a-9497-439cad3147dc.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "19847",
+      "person_name": "Jack Lenox",
+      "votes": 5236
     },
     {
-      "person_id": "2618",
-      "person_name": "Cat Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5481e82eb150e238702c05a7.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "2618",
+      "person_name": "Cat Smith",
+      "votes": 19315
     },
     {
-      "person_id": "35503",
-      "person_name": "Peter Gordon Cartridge",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/35503/8831d53b-8aeb-4ebe-aa17-58c1b4a15357.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "35503",
+      "person_name": "Peter Gordon Cartridge",
+      "votes": 10062
     },
     {
-      "person_id": "5470",
-      "person_name": "Matt Severn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5470/0fb5a82c-a604-462f-b011-6c3a4309e7d8.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "5470",
+      "person_name": "Matt Severn",
+      "votes": 1529
     }
   ]
 }

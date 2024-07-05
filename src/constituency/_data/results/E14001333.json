@@ -1,68 +1,68 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:01",
+  "electorate": 69904,
+  "last_updated": "2024-07-05T06:58:12.000Z",
   "pcon24cd": "E14001333",
   "pcon24nm": "Lewisham West and East Dulwich",
   "total_votes": 0,
-  "electorate": 69904,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:01",
-  "last_updated": "2024-07-05T03:01:02.922Z",
   "votes": [
     {
-      "person_id": "116704",
-      "person_name": "Callum Fowler",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116704/4231e9c6-422f-4022-a455-7e950c75d533.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "116704",
+      "person_name": "Callum Fowler",
+      "votes": 9009
     },
     {
-      "person_id": "34205",
-      "person_name": "Ellie Reeves",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34205/e6bfa88b-5cde-4421-a30f-bd9d90f3a378.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "34205",
+      "person_name": "Ellie Reeves",
+      "votes": 27406
     },
     {
-      "person_id": "34807",
-      "person_name": "Katherine Hortense",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34807/946d92fd-ec1c-403f-8c33-8c28feb1845c.png",
       "party_key": "other",
       "party_name": "Christian Peoples Alliance",
-      "votes": 0
+      "person_id": "34807",
+      "person_name": "Katherine Hortense",
+      "votes": 303
     },
     {
-      "person_id": "56089",
-      "person_name": "Gwenton Dennis Sloley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/56089/07e992b6-bf9d-4c45-875d-a24f05b40ba7.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "56089",
+      "person_name": "Gwenton Dennis Sloley",
+      "votes": 427
     },
     {
-      "person_id": "70658",
-      "person_name": "Josh Matthews",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/70658/fdc1c053-293e-40b1-9477-28172f2dfd6f.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "70658",
+      "person_name": "Josh Matthews",
+      "votes": 3558
     },
     {
-      "person_id": "87040",
-      "person_name": "Marian Lynn Newton",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87040/12f9d887-2292-4f42-befb-9e3d734f2175.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "87040",
+      "person_name": "Marian Lynn Newton",
+      "votes": 2234
     },
     {
-      "person_id": "89046",
-      "person_name": "Christine Wallace",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89046/85cc8d9f-9de2-4a34-a52b-24181231cb67.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "89046",
+      "person_name": "Christine Wallace",
+      "votes": 3477
     }
   ]
 }

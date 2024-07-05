@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 73902,
+  "last_updated": "2024-07-05T06:58:53.000Z",
   "pcon24cd": "E14001342",
   "pcon24nm": "Loughborough",
   "total_votes": 0,
-  "electorate": 73902,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:17:09.228Z",
   "votes": [
     {
-      "person_id": "102332",
-      "person_name": "Hans Zollinger-Ball",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102332/c8428672-2963-4f65-8d71-c52d53996c9b.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "102332",
+      "person_name": "Hans Zollinger-Ball",
+      "votes": 2956
     },
     {
-      "person_id": "115904",
-      "person_name": "Jeevun Sandher",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115904/08cca610-3110-4243-a00a-a148ea51d7aa.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "115904",
+      "person_name": "Jeevun Sandher",
+      "votes": 17249
     },
     {
-      "person_id": "23553",
-      "person_name": "Ian Robert Sharpe",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/23553.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "23553",
+      "person_name": "Ian Robert Sharpe",
+      "votes": 2561
     },
     {
-      "person_id": "3156",
-      "person_name": "Jane Hunt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/48966.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "3156",
+      "person_name": "Jane Hunt",
+      "votes": 12289
     },
     {
-      "person_id": "4822",
-      "person_name": "Andy McWilliam",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4822/6ede432d-2f2a-4246-953d-206cfbce632e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "4822",
+      "person_name": "Andy McWilliam",
+      "votes": 7204
     }
   ]
 }

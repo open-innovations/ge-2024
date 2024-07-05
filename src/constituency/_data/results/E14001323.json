@@ -1,76 +1,76 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:24",
+  "electorate": 74726,
+  "last_updated": "2024-07-05T06:58:12.000Z",
   "pcon24cd": "E14001323",
   "pcon24nm": "Leeds South",
   "total_votes": 0,
-  "electorate": 74726,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:24",
-  "last_updated": "2024-07-05T03:24:45.965Z",
   "votes": [
     {
-      "person_id": "117053",
-      "person_name": "Janet Bickerdike",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117053/fc90eb80-d3b7-4b02-9f85-371b0765cee4.png",
       "party_key": "other",
       "party_name": "Christian Peoples Alliance",
-      "votes": 0
+      "person_id": "117053",
+      "person_name": "Janet Bickerdike",
+      "votes": 341
     },
     {
-      "person_id": "117072",
-      "person_name": "Karen Cooksley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117072/f4aeb9a4-e2f3-4224-a7e2-9d7607ce9bdd.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "117072",
+      "person_name": "Karen Cooksley",
+      "votes": 4172
     },
     {
-      "person_id": "117303",
-      "person_name": "Muhammad Azeem",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117303/00e3490c-3432-4969-bcc7-2b2bf0df3acc.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "117303",
+      "person_name": "Muhammad Azeem",
+      "votes": 719
     },
     {
-      "person_id": "117305",
-      "person_name": "Niko Omilana",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117305",
+      "person_name": "Niko Omilana",
+      "votes": 277
     },
     {
-      "person_id": "18712",
-      "person_name": "Ed Carlisle",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/18712_E4c05GO.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "18712",
+      "person_name": "Ed Carlisle",
+      "votes": 5838
     },
     {
-      "person_id": "49445",
-      "person_name": "Daniel Paul Whetstone",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/53257.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "49445",
+      "person_name": "Daniel Paul Whetstone",
+      "votes": 1874
     },
     {
-      "person_id": "738",
-      "person_name": "Hilary Benn",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/738/98731a8e-5e2b-476d-90be-a216ca998ad8.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "738",
+      "person_name": "Hilary Benn",
+      "votes": 17117
     },
     {
-      "person_id": "87553",
-      "person_name": "George Sykes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87553/56144c11-421b-44f1-8ff9-d70fcf757939.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "87553",
+      "person_name": "George Sykes",
+      "votes": 1340
     }
   ]
 }

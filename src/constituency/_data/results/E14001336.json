@@ -1,84 +1,84 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:58",
+  "electorate": 74128,
+  "last_updated": "2024-07-05T06:58:12.000Z",
   "pcon24cd": "E14001336",
   "pcon24nm": "Lincoln",
   "total_votes": 0,
-  "electorate": 74128,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:58",
-  "last_updated": "2024-07-05T02:58:46.318Z",
   "votes": [
     {
-      "person_id": "113382",
-      "person_name": "Linda Richardson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115903/ae0b4a66-f468-48e5-b574-5442f64e49c1.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "person_id": "113382",
+      "person_name": "Linda Richardson",
+      "votes": 479
     },
     {
-      "person_id": "115901",
-      "person_name": "Hamish Falconer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115901/893261ac-3c37-41af-87dc-e2986f7f00c8.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "115901",
+      "person_name": "Hamish Falconer",
+      "votes": 18470
     },
     {
-      "person_id": "115902",
-      "person_name": "Craig Marshall",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "115902",
+      "person_name": "Craig Marshall",
+      "votes": 80
     },
     {
-      "person_id": "14066",
-      "person_name": "Clare Smalley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14066/e6eb00ce-f427-4aa6-b598-37c969da5b6c.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "14066",
+      "person_name": "Clare Smalley",
+      "votes": 2580
     },
     {
-      "person_id": "17443",
-      "person_name": "Charles William Shaw",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/17443.png",
       "party_key": "other",
       "party_name": "The Liberal Party",
-      "votes": 0
+      "person_id": "17443",
+      "person_name": "Charles William Shaw",
+      "votes": 278
     },
     {
-      "person_id": "17516",
-      "person_name": "Sally Anne Horscroft",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/17516-d2b6f61a-4e24-4546-b076-f17b365f0566.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "17516",
+      "person_name": "Sally Anne Horscroft",
+      "votes": 2751
     },
     {
-      "person_id": "1886",
-      "person_name": "Karl McCartney",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116834/ec4233ed-1864-467b-9bc1-c7dd0b34d234.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "1886",
+      "person_name": "Karl McCartney",
+      "votes": 9677
     },
     {
-      "person_id": "74417",
-      "person_name": "Jamie-Lee McMillan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/74417/01a8d89c-6387-4eef-8365-ed5f2c9c815a.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "74417",
+      "person_name": "Jamie-Lee McMillan",
+      "votes": 7602
     },
     {
-      "person_id": "81611",
-      "person_name": "Laura Victoria Ashby",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81611/5693f732-ae27-43c5-b41f-0b92c95bb08d.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "81611",
+      "person_name": "Laura Victoria Ashby",
+      "votes": 243
     }
   ]
 }
