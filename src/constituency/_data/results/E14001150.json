@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001150",
   "pcon24nm": "Cannock Chase",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 75582,
-  "turnout_pct": null,
+  "turnout_pct": 56,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:17",
+  "last_updated": "2024-07-05T01:17:13.144Z",
   "votes": [
     {
       "person_id": "10099",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/10099/13ecb84c-eaee-4ccd-a4da-9555dfb52235.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 11570
     },
     {
       "person_id": "2125",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54cd1d03668e142f73d3b4ce.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1021
     },
     {
       "person_id": "39153",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/39153-448362ba-193c-48d7-8237-8ee3062fd716.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 2137
     },
     {
       "person_id": "4172",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4172.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 12546
     },
     {
       "person_id": "61091",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/61091/55bffad7-4c6f-4c66-9c95-77dba3d8472c.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 15760
     }
   ]
 }
