@@ -3,9 +3,9 @@
   "pcon24nm": "Bangor Aberconwy",
   "total_votes": 0,
   "electorate": 70468,
-  "turnout_pct": 0,
+  "turnout_pct": 60,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:25:05.369Z",
+  "last_updated": "2024-07-05T02:36:48.019Z",
   "votes": [
     {
       "person_id": "115343",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115343/f4c44945-e23e-4a93-afb9-932eef6a4cca.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 14008
     },
     {
       "person_id": "115344",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117529/a67c6f43-83b6-4c5c-9a21-5271bdd6523a.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 6091
     },
     {
       "person_id": "117531",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117531/b4a0c9a6-6b6f-4815-9213-45a5158caa46.png",
       "party_key": "other",
       "party_name": "Climate Party",
-      "votes": 0
+      "votes": 104
     },
     {
       "person_id": "2283",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/2283.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 9036
     },
     {
       "person_id": "25271",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/25271/f9aff2b6-fa18-436a-990b-d28fede02988.png",
       "party_key": "pc",
       "party_name": "Plaid Cymru - The Party of Wales",
-      "votes": 0
+      "votes": 9112
     },
     {
       "person_id": "5755",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117530/dc51baa4-9ca5-49c9-8846-7796032cfbd1.png",
       "party_key": "other",
       "party_name": "Socialist Labour Party",
-      "votes": 0
+      "votes": 424
     },
     {
       "person_id": "6949",
@@ -61,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6949/caa4ef0a-b6e7-46d8-ab95-82cfea0a941f.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1361
     },
     {
       "person_id": "89237",
@@ -69,8 +69,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89237/56160a8c-91dd-4ef8-b0c1-5715fdefff31.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1524
     }
   ],
-  "declaration_time": "03:25"
+  "declaration_time": "03:25",
+  "declaration_date": "2024-07-05"
 }
