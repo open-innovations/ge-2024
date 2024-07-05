@@ -2,10 +2,10 @@
   "pcon24cd": "E14001286",
   "pcon24nm": "Heywood and Middleton North",
   "total_votes": 0,
-  "electorate": 73306,
-  "turnout_pct": 0,
+  "electorate": 74786,
+  "turnout_pct": 50,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:09:40.178Z",
+  "last_updated": "2024-07-05T03:03:39.408Z",
   "votes": [
     {
       "person_id": "110111",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116147/889e1b5a-a28e-46ac-895b-4c159a7272d6.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 8987
     },
     {
       "person_id": "116146",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116146/91f390f0-01d7-4f43-98f7-deadcadb82c7.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 4349
     },
     {
       "person_id": "18306",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/18306-05318ed1-7c62-44d3-a549-22968df13b2c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 6423
     },
     {
       "person_id": "97111",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97111/81da962b-e032-40a1-92ec-91f5b4ab49ed.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 15069
     },
     {
       "person_id": "97125",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/97125/7296ee7e-9ffb-4613-827a-0ae70b3f7070.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 2302
     }
   ],
   "declaration_date": "2024-07-05",
