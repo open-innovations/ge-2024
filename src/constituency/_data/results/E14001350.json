@@ -2,10 +2,10 @@
   "pcon24cd": "E14001350",
   "pcon24nm": "Makerfield",
   "total_votes": 0,
-  "electorate": 76517,
-  "turnout_pct": 0,
+  "electorate": 76845,
+  "turnout_pct": 52,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:50:23.453Z",
+  "last_updated": "2024-07-05T02:15:28.356Z",
   "votes": [
     {
       "person_id": "106832",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/106832/deca4029-e591-4a13-b489-eccd52797dcd.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1776
     },
     {
       "person_id": "116933",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116933/fde4f160-1db4-4b4b-b6a4-b2b6f74f7ba1.png",
       "party_key": "other",
       "party_name": "English Democrats",
-      "votes": 0
+      "votes": 368
     },
     {
       "person_id": "117150",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117150/a8a6c41e-9b8c-4f8d-92cf-9682226616a8.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 4379
     },
     {
       "person_id": "5637",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5637.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 2735
     },
     {
       "person_id": "78531",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/78531/0167785f-4652-4561-9dad-967b1f3268ac.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 18202
     },
     {
       "person_id": "98226",
@@ -53,7 +53,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98226/a7c5de8f-a1f8-4a47-bad0-eaf18e1a32a3.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 12803
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
