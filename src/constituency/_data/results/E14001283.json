@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001283",
   "pcon24nm": "Hertford and Stortford",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 75396,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T02:57:44.592Z",
   "votes": [
     {
       "person_id": "106922",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116822/c8b4555d-9013-4320-b42f-7c9128ef0099.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117556",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117556/bf0db2cf-6bb8-4576-95dd-0f906dddd198.png",
       "party_key": "other",
       "party_name": "Alliance for Democracy and Freedom",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "27134",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/76955-ccf526c4-9172-48fd-b9e2-97c60bb7ad28.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "36893",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/36893/ef3a4c40-a1f0-4ec0-bc69-f21cdf166ade.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "54715",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/54715-254c9813-5074-4adb-a12e-1023aa919bb7.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "56879",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/56879-02c2e75b-1e75-47bd-8140-7b95c1bcca4e.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "6468",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6468-34721f5e-4a75-4ba5-9807-4e851f5b7f34.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
