@@ -3,9 +3,9 @@
   "pcon24nm": "North Warwickshire and Bedworth",
   "total_votes": 0,
   "electorate": 70245,
-  "turnout_pct": 0,
+  "turnout_pct": 59,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:10:31.867Z",
+  "last_updated": "2024-07-05T02:19:47.394Z",
   "votes": [
     {
       "person_id": "116506",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116506/7cd88054-f8cd-418a-8f80-d983ebae9dc2.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 10701
     },
     {
       "person_id": "4219",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4219.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 12529
     },
     {
       "person_id": "45699",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/45699.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1228
     },
     {
       "person_id": "47481",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/47481/93e6e807-39cc-45da-abfc-012b114f3066.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1755
     },
     {
       "person_id": "98971",
@@ -45,7 +45,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98971/5a617f82-1c5d-43ba-918b-7cbcef01b9f2.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 14727
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "03:19"
 }
