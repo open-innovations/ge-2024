@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001227",
   "pcon24nm": "Epsom and Ewell",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 76844,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T05:58:42.024Z",
   "votes": [
     {
       "person_id": "114812",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114812/5341972a-fc0a-497c-8722-ae4ad98afc28.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "116307",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116307/2fe66e97-711a-437b-972a-d2d641a1d2d4.png",
       "party_key": "other",
       "party_name": "True & Fair Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116816",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116816/27cba4ee-81ee-42ae-ad28-7900b1c31a61.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "14151",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/14151/501a2915-6f11-40a7-bba9-9ad3ca826241.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "6147",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55238bf1944e4aac612ace67.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "81765",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/81765/7a720446-6062-413e-99ec-7944c6377841.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "96699",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96699/a67bad3c-7613-4de5-ae39-13dcdb470f9a.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     }
   ]
 }
