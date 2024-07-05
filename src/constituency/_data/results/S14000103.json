@@ -3,9 +3,9 @@
   "pcon24nm": "Perth and Kinross-shire",
   "total_votes": 0,
   "electorate": 76320,
-  "turnout_pct": 0,
+  "turnout_pct": 65,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:51:51.151Z",
+  "last_updated": "2024-07-05T03:13:29.939Z",
   "votes": [
     {
       "person_id": "116262",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116262/7c8091ef-d264-4cb1-90bf-e64ed3088e90.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 2970
     },
     {
       "person_id": "116801",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116801/d6f1106e-af82-4a4e-967b-7b4dcd57e2f9.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 679
     },
     {
       "person_id": "2419",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/54f423031be737cc3e2afa57.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": 1
+      "votes": 18928
     },
     {
       "person_id": "5516",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55167eb7929f1bbe286be014.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 14801
     },
     {
       "person_id": "76375",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116263/0fdc0a79-1249-4249-9098-c21fba417389.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 3681
     },
     {
       "person_id": "86133",
@@ -53,7 +53,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86133/563125ba-ab92-46f7-95c8-e946e1293c5e.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 9018
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
