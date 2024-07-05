@@ -1,13 +1,13 @@
 {
   "pcon24cd": "S14000061",
   "pcon24nm": "Aberdeen South",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 76560,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "03:35",
+  "last_updated": "2024-07-05T02:36:00.253Z",
   "votes": [
     {
       "person_id": "114595",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114595/8a4b1061-2178-4598-8fd8-fa3fe0c935e1.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117386",
@@ -23,7 +23,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "19868",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19868/28f7a1bd-95b7-4f41-adea-fc34b6ba1c61.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "20500",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20500-5edd494a-34da-4caf-9ff4-85fa9533bc06.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "21078",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21078/46ad35b2-5828-490e-a65c-bc5a2c110ced.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "21095",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21095/7b5884c7-3ae5-47b1-9cdb-8418f0d89922.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "21470",
@@ -63,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/21470/34f9cff6-483d-4fb5-a32e-21d70a46af5a.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "85486",
@@ -71,7 +71,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85486/136fa672-cd15-470b-8c8e-a38d8f338203.png",
       "party_key": "other",
       "party_name": "Scottish Family Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
