@@ -3,9 +3,9 @@
   "pcon24nm": "Castle Point",
   "total_votes": 0,
   "electorate": 70923,
-  "turnout_pct": 0,
+  "turnout_pct": 57,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:04:00.643Z",
+  "last_updated": "2024-07-05T01:04:43.336Z",
   "votes": [
     {
       "person_id": "102225",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/102225/0fd61633-05d2-4699-b2da-9ab96d533997.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 12234
     },
     {
       "person_id": "112212",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/112212/fa1983cd-29f4-45fa-8890-9468084ad342.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2118
     },
     {
       "person_id": "3256",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5524a22bf0e9e2c82406ebb2.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "votes": 15485
     },
     {
       "person_id": "3692",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/29746.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1341
     },
     {
       "person_id": "41902",
@@ -45,7 +45,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/41902/ef8e0e7e-bec2-4ebb-bf45-2d4f9bf78c4e.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 9455
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:04"
 }
