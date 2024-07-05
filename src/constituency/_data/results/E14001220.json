@@ -3,9 +3,9 @@
   "pcon24nm": "Eastleigh",
   "total_votes": 0,
   "electorate": 69982,
-  "turnout_pct": 0,
+  "turnout_pct": 66,
   "confirmed": false,
-  "last_updated": "2024-07-05T00:57:51.598Z",
+  "last_updated": "2024-07-05T00:58:52.297Z",
   "votes": [
     {
       "person_id": "101989",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114808/9f71e0f0-6b1c-4ca3-88e1-91dd665f0c32.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 14424
     },
     {
       "person_id": "117010",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117010/0499190b-0028-417e-9697-323f311aee14.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 467
     },
     {
       "person_id": "71655",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71655/a82e4179-9d8c-4a31-9da8-979df7bcdec8.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "votes": 15970
     },
     {
       "person_id": "75753",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/75753-67e1e4a3-41d4-44db-98b2-58f2b75ee95e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2403
     },
     {
       "person_id": "77793",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/77793/cf7c8758-14f8-46eb-b97d-408b12908a23.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 6151
     },
     {
       "person_id": "84792",
@@ -53,7 +53,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84792-fad5a155-6b57-4a77-b696-2ba0f12e57a0.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 7005
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "01:58"
 }
