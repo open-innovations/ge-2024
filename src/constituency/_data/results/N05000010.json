@@ -1,13 +1,11 @@
 {
   "pcon24cd": "N05000010",
   "pcon24nm": "Mid Ulster",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70094,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T02:44:37.249Z",
   "votes": [
     {
       "person_id": "11273",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11273/8a2929b7-aee9-4b47-ac70-ffa571724adf.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116201",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116201/016d3a23-464a-461b-9e77-4f4d4f6ec31c.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117816",
@@ -31,7 +29,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "49547",
@@ -39,23 +37,23 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49547.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "69324",
       "person_name": "Cathal Mallaghan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69324/95c0aea3-70ef-473b-a923-eb15906fc6a3.png",
       "party_key": "sf",
-      "party_name": "Sinn F\u00e9in",
-      "votes": null
+      "party_name": "Sinn Féin",
+      "votes": 1
     },
     {
       "person_id": "85042",
       "person_name": "Alixandra Halliday",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85042/a78a3297-0beb-45f6-9fba-9500c929deec.png",
       "party_key": "other",
-      "party_name": "Aont\u00fa",
-      "votes": null
+      "party_name": "Aontú",
+      "votes": 0
     },
     {
       "person_id": "85586",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85586/4b44eef8-1c03-49bf-be8a-7fa01fd99047.png",
       "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95760",
@@ -71,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95760/95fe6e73-f4f2-498d-b034-655a1aa3caec.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": null
+      "votes": 0
     }
   ]
 }
