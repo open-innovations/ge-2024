@@ -1,13 +1,11 @@
 {
   "pcon24cd": "N05000013",
   "pcon24nm": "North Down",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70412,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T04:13:32.820Z",
   "votes": [
     {
       "person_id": "116202",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116202/b3c6f310-1ea5-479c-b2c8-88effe3d8b04.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "19748",
@@ -23,7 +21,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "3598",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/3598.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "50552",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/50552.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7178",
@@ -47,15 +45,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/552251f6328bff5d39338a40.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "84461",
-      "person_name": "D\u00e9irdre Vaughan",
+      "person_name": "Déirdre Vaughan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/84461-61a514bb-6015-49af-9fd1-1b4598621293.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": null
+      "votes": 0
     }
   ]
 }
