@@ -1,13 +1,12 @@
 {
   "pcon24cd": "N05000017",
   "pcon24nm": "Upper Bann",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 76969,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_time": "03:57",
+  "last_updated": "2024-07-05T02:57:27.202Z",
   "votes": [
     {
       "person_id": "12439",
@@ -15,15 +14,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/12439.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "4679",
       "person_name": "Catherine Nelson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49903.png",
       "party_key": "sf",
-      "party_name": "Sinn F\u00e9in",
-      "votes": null
+      "party_name": "Sinn Féin",
+      "votes": 0
     },
     {
       "person_id": "49545",
@@ -31,15 +30,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49545.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "50332",
-      "person_name": "E\u00f3in Tennyson",
+      "person_name": "Eóin Tennyson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/50332/6a91eae1-cce0-4f5b-a895-54542d3c11ca.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "6462",
@@ -47,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/6462.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": null
+      "votes": 0
     }
   ]
 }
