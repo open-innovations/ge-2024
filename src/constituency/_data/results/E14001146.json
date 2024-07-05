@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001146",
   "pcon24nm": "Bury St Edmunds and Stowmarket",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 75655,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T02:42:10.215Z",
   "votes": [
     {
       "person_id": "113493",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115930/0b4f9fcc-8e50-4c9c-a12b-9d9b8c0e29a1.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116957",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116957/cd631fef-363f-45ea-bef6-8534ee106b18.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116982",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116982/ad5e3201-41da-448a-ab7e-2dbece97f690.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117663",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117663/e8cd075d-5be8-433c-9d93-8a5988d00df7.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "12072",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/12072-ccef5b38-540c-4bd8-b707-55f899215ca5.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "60316",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/60316/aef7ca51-f188-42a5-84f4-bcfcca55aa41.png",
       "party_key": "other",
       "party_name": "Communist Party of Britain",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "75648",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75648/9fe97bb1-12ca-4823-b048-941a74cb7df2.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "98696",
@@ -71,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98696/ce0f04db-6f4e-4c8e-b0c0-8ebd98a6519c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
