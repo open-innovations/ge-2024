@@ -2,10 +2,10 @@
   "pcon24cd": "E14001445",
   "pcon24nm": "Richmond Park",
   "total_votes": 0,
-  "electorate": 75037,
-  "turnout_pct": 0,
+  "electorate": 68103,
+  "turnout_pct": 76,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:17:05.658Z",
+  "last_updated": "2024-07-05T03:45:26.311Z",
   "votes": [
     {
       "person_id": "113960",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116060/b07f2ac5-7955-4678-a9f4-1a01dbdb4961.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 5048
     },
     {
       "person_id": "116814",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116814/83aff90e-28b4-410a-9b2a-5afc58836d3b.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": 233
     },
     {
       "person_id": "117546",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117546/97e4b171-69ad-496d-84c2-0d4ad05bc563.png",
       "party_key": "other",
       "party_name": "The Mitre TW9",
-      "votes": 0
+      "votes": 349
     },
     {
       "person_id": "13918",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/13918/f4607810-1d15-46da-828a-98a9bf00c709.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 3258
     },
     {
       "person_id": "34333",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/34333.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "votes": 28528
     },
     {
       "person_id": "35706",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35706.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 11373
     },
     {
       "person_id": "75804",
@@ -61,7 +61,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/75804/64df650b-b513-41d8-8605-08a9e2790cb7.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2728
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
