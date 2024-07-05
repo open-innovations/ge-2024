@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001327",
   "pcon24nm": "Leicester South",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 71007,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "03:27",
+  "last_updated": "2024-07-05T02:27:14.361Z",
   "votes": [
     {
       "person_id": "113369",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113369/3f36ad97-094c-4e48-bd77-16f0f4a8fce6.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "113373",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/113373/958694cc-12f7-4318-952b-b9224add74b6.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "117238",
@@ -31,7 +31,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "The Official Monster Raving Loony Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117239",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117239/4cb05550-660e-49e4-8ea9-21becdc77ee8.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5545",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5532416029c5d53959d9e468.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "59113",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/59113-bf5f89fe-1686-4b64-864d-5836e7d4f616.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "64319",
@@ -63,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/64319/9e703456-4498-49c4-b732-9b13fe0b851c.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "65836",
@@ -71,7 +71,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/65836.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "99209",
@@ -79,7 +79,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99209/96cf59c9-e6b4-412c-a9a8-616bfd1516eb.png",
       "party_key": "other",
       "party_name": "Communist Party of Britain",
-      "votes": null
+      "votes": 0
     }
   ]
 }
