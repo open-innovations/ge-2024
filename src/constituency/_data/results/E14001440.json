@@ -3,9 +3,9 @@
   "pcon24nm": "Redcar",
   "total_votes": 0,
   "electorate": 71331,
-  "turnout_pct": 0,
+  "turnout_pct": 54,
   "confirmed": false,
-  "last_updated": "2024-07-05T01:17:39.715Z",
+  "last_updated": "2024-07-05T01:31:26.637Z",
   "votes": [
     {
       "person_id": "116114",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116114/514fc36d-fbd8-407c-a18a-a1f0588abefa.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 7216
     },
     {
       "person_id": "116115",
@@ -21,7 +21,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": 169
     },
     {
       "person_id": "116713",
@@ -29,7 +29,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1270
     },
     {
       "person_id": "4408",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4408.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": 1
+      "votes": 15663
     },
     {
       "person_id": "5212",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5212_dWaz847.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 12340
     },
     {
       "person_id": "55383",
@@ -53,7 +53,9 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/55383.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1542
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:30"
 }
