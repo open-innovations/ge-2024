@@ -1,13 +1,11 @@
 {
   "pcon24cd": "N05000008",
   "pcon24nm": "Foyle",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 69890,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T04:28:44.893Z",
   "votes": [
     {
       "person_id": "11857",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/11857/435a0df9-b4ca-4032-a7ba-38cdd42cd5df.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "11862",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/74476-c780bf7d-469a-4122-9904-cb01d57f2b5d.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "35060",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35060.png",
       "party_key": "other",
       "party_name": "People Before Profit",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "50319",
@@ -39,15 +37,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/50319/ac41b688-2278-4c39-a97f-d502653ad6e6.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "69218",
       "person_name": "Sandra Duffy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/69218/702a5dae-3730-4985-a8b2-e661edcbb9b4.png",
       "party_key": "sf",
-      "party_name": "Sinn F\u00e9in",
-      "votes": null
+      "party_name": "Sinn Féin",
+      "votes": 0
     },
     {
       "person_id": "7209",
@@ -55,15 +53,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72315-5b582878-76da-4bf3-ba13-b93a3536defd.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95964",
       "person_name": "John Boyle",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95964/8519a431-d9c9-4b62-a703-c90ec3199245.png",
       "party_key": "other",
-      "party_name": "Aont\u00fa",
-      "votes": null
+      "party_name": "Aontú",
+      "votes": 0
     },
     {
       "person_id": "96086",
@@ -71,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96086/00999cec-8c34-4d16-8ea4-21e42d66abe2.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
