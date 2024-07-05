@@ -1,13 +1,13 @@
 {
   "pcon24cd": "W07000110",
   "pcon24nm": "Vale of Glamorgan",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70426,
-  "turnout_pct": null,
+  "turnout_pct": 65,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:14",
+  "last_updated": "2024-07-05T01:14:34.636Z",
   "votes": [
     {
       "person_id": "116500",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116500/3bf0c583-e2eb-4192-8ee6-54fc195063a8.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 17740
     },
     {
       "person_id": "116501",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116501/e9862e3b-03d2-41ab-81d9-62d01385b10e.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 6973
     },
     {
       "person_id": "117582",
@@ -31,7 +31,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 182
     },
     {
       "person_id": "1923",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55357117367dc5383f552cc4.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 13524
     },
     {
       "person_id": "2404",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553b9f8a10284be476aae885.png",
       "party_key": "pc",
       "party_name": "Plaid Cymru - The Party of Wales",
-      "votes": null
+      "votes": 3245
     },
     {
       "person_id": "72927",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72927-edc89f5a-d9b0-48df-a5e4-1393b80a3cb9.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1612
     },
     {
       "person_id": "73788",
@@ -63,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/73788-1d89dbfc-bd65-4bcd-9dd6-554a34ddc6f2.png",
       "party_key": "other",
       "party_name": "Abolish The Welsh Assembly Party",
-      "votes": null
+      "votes": 669
     },
     {
       "person_id": "90631",
@@ -71,7 +71,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/90631/ea81f262-82e6-48c6-a415-c143bfabe5d1.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 1881
     }
   ]
 }
