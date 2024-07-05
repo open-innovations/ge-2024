@@ -1,13 +1,12 @@
 {
   "pcon24cd": "W07000091",
   "pcon24nm": "Cardiff South and Penarth",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 72269,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_time": "04:40",
+  "last_updated": "2024-07-05T03:40:05.333Z",
   "votes": [
     {
       "person_id": "116475",
@@ -15,7 +14,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116475/79c9f00b-ad54-4183-b60e-a00161cf517b.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116860",
@@ -23,7 +22,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116860/1f22bb5e-b7b6-47db-9c4d-794b1ae1dd21.png",
       "party_key": "pc",
       "party_name": "Plaid Cymru - The Party of Wales",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5329",
@@ -31,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91936/5e4e5df0-e577-4b0e-b46a-109ad8d898ca.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5546",
@@ -39,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5546/5654d9f2-04f4-4c15-bd46-03d540e91896.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "72926",
@@ -47,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72926-d65935e9-8c18-4bf0-8781-f1c65f2878be.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "89199",
@@ -55,7 +54,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89199/881c2059-dcb6-47a0-9781-16708e73c588.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
