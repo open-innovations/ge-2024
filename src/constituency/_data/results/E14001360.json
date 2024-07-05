@@ -1,11 +1,11 @@
 {
-  "confirmed": false,
-  "electorate": 72240,
-  "last_updated": "2024-07-05T07:01:44.000Z",
+  "confirmed": true,
+  "electorate": 75415,
+  "last_updated": "2024-07-05T10:34:23.223Z",
   "pcon24cd": "E14001360",
   "pcon24nm": "Mid Buckinghamshire",
   "total_votes": 0,
-  "turnout_pct": 0,
+  "turnout_pct": 72,
   "votes": [
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116339/64592e82-cdb0-45e6-990f-cbff35ef5447.png",
@@ -45,7 +45,7 @@
       "party_name": "Conservative and Unionist Party",
       "person_id": "34503",
       "person_name": "Greg Smith",
-      "votes": 2942
+      "votes": 20150
     },
     {
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7146/8234d150-8460-4d8d-be5d-5a8789249d7e.png",
