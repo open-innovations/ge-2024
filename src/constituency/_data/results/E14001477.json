@@ -6,7 +6,7 @@
   "turnout_pct": 0,
   "confirmed": false,
   "declaration_time": "03:35",
-  "last_updated": "2024-07-05T02:35:38.216Z",
+  "last_updated": "2024-07-05T02:35:40.492Z",
   "votes": [
     {
       "person_id": "116360",
@@ -96,5 +96,6 @@
       "party_name": "Independent Network",
       "votes": 0
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
