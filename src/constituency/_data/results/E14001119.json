@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001119",
   "pcon24nm": "Bradford South",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 70890,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T03:53:41.699Z",
   "votes": [
     {
       "person_id": "117422",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117422/0cc90d56-7be8-4f7a-a1d8-44485d3f02a3.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117424",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117424/7af66a07-bf65-42f0-863f-a34142896349.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "13459",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/13459/bce720cd-2707-4f54-90c5-1ce5323281b4.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4898",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/53813.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5419",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5419/a3389248-ac7c-4bdd-9306-7ff5cfb5f4c3.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5600",
@@ -55,15 +53,15 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553a94bf3a37ac9054592954.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "7009",
-      "person_name": "Th\u00e9r\u00e8se Hirst",
+      "person_name": "Thérèse Hirst",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7009-16409ed0-9096-4a88-9c01-d1e9f2580ce6.png",
       "party_key": "other",
       "party_name": "English Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "8179",
@@ -71,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8179/33599686-8028-401a-98e7-5cf91e33665a.png",
       "party_key": "other",
       "party_name": "Yorkshire Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "92411",
@@ -79,7 +77,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/92411/1ef5ff15-9633-4da1-89b0-0a60dcfba37e.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
