@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001244",
   "pcon24nm": "Gateshead Central and Whickham",
-  "total_votes": 0,
-  "electorate": 70994,
-  "turnout_pct": 57,
-  "confirmed": false,
+  "total_votes": 40357,
+  "electorate": 69827,
+  "turnout_pct": 58,
+  "confirmed": true,
   "declaration_date": "2024-07-05",
   "declaration_time": "01:03",
-  "last_updated": "2024-07-05T00:04:01.584Z",
+  "last_updated": "2024-07-05T00:08:46.374Z",
   "votes": [
     {
       "person_id": "110737",
