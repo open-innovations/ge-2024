@@ -1,13 +1,12 @@
 {
   "pcon24cd": "E14001559",
   "pcon24nm": "Vauxhall and Camberwell Green",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 69995,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_time": "04:08",
+  "last_updated": "2024-07-05T03:08:37.215Z",
   "votes": [
     {
       "person_id": "116078",
@@ -15,7 +14,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117682",
@@ -23,7 +22,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "37335",
@@ -31,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/37335/078a5b39-8dec-462b-9fc5-14155dcba377.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7458",
@@ -39,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7458.png",
       "party_key": "lab",
       "party_name": "Labour and Co-operative Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "84398",
@@ -47,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84398/832f1ce2-51cd-496c-a29b-8ad86794a3e3.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95079",
@@ -55,7 +54,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95079/8c79d077-bbf9-47c4-adec-c0ec7d8208a9.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
