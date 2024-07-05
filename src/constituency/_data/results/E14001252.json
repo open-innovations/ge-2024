@@ -2,10 +2,10 @@
   "pcon24cd": "E14001252",
   "pcon24nm": "Gosport",
   "total_votes": 0,
-  "electorate": 73763,
-  "turnout_pct": 0,
+  "electorate": 73261,
+  "turnout_pct": 60,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:24:39.914Z",
+  "last_updated": "2024-07-05T04:07:31.804Z",
   "votes": [
     {
       "person_id": "101681",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/101681/30d97190-712b-44ac-b6e2-49e9129a93a5.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 11776
     },
     {
       "person_id": "110666",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110666/78fc46cf-d3ac-4505-91db-1a1d30c63dd3.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": 0
+      "votes": 319
     },
     {
       "person_id": "110669",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/110669/0d8c90ce-6ed1-4912-91d7-4ea0b5aef35c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1948
     },
     {
       "person_id": "116318",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116318/ab553735-1052-47f7-8173-abb79f6cc572.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 7983
     },
     {
       "person_id": "2937",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/2937/5d27ab3d-df84-4753-afd8-26b057a2f626.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "votes": 17830
     },
     {
       "person_id": "49227",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/49227-86f75af6-9b95-4ede-bf5d-77119a0f44b2.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 4039
     },
     {
       "person_id": "7438",
@@ -61,7 +61,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 334
     },
     {
       "person_id": "76882",
@@ -69,7 +69,8 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Hampshire Independents",
-      "votes": 0
+      "votes": 48
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
