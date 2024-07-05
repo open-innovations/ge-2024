@@ -1,13 +1,11 @@
 {
   "pcon24cd": "E14001502",
   "pcon24nm": "Southend West and Leigh",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 76824,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T02:42:43.162Z",
   "votes": [
     {
       "person_id": "117140",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117140/8066b17a-9125-4636-9aa3-9a1793f9eab7.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117690",
@@ -23,7 +21,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "2313",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72349-fbb3a66c-e9c5-47c2-89f6-ef75481821fa.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5426",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5426-a35c3577-45d8-4428-81c5-3d02cc12de52.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "73353",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95993/70d57181-5b9a-44c1-8403-ee0cb9856c77.png",
       "party_key": "other",
       "party_name": "Confelicity",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "73935",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/73935/edf1753a-3629-4579-afcd-d98d0e293d7b.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7633",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/7633/998c1081-c34f-495d-aec3-a32ed6ab2db5.png",
       "party_key": "other",
       "party_name": "Psychedelic Movement",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "96467",
@@ -71,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/96467/aa5b9539-5d65-403e-9c74-30f4f16b3dd4.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "9669",
@@ -79,7 +77,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/9669-2192d62b-ed9c-45fa-9350-1f851fd9aef1.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "98176",
@@ -87,7 +85,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/98176/173e5da4-b432-41e1-897a-756b56815855.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": null
+      "votes": 0
     }
   ]
 }
