@@ -12,7 +12,7 @@ name: Build site
     paths:
       - src/**
       # Exclude the results directory to avoid triggering on every change
-      #- "!src/constituency/_data/results/**"
+      - "!src/constituency/_data/results/**"
       - data/**
       - _config.ts
       - deno.json
