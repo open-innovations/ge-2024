@@ -5,7 +5,7 @@
   "electorate": 76877,
   "turnout_pct": 0,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:39:27.183Z",
+  "last_updated": "2024-07-05T02:39:33.876Z",
   "votes": [
     {
       "person_id": "116049",
@@ -63,5 +63,6 @@
       "party_name": "Conservative and Unionist Party",
       "votes": 0
     }
-  ]
+  ],
+  "declaration_time": "03:39"
 }
