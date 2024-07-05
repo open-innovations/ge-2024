@@ -3,11 +3,11 @@
   "pcon24nm": "Folkestone and Hythe",
   "total_votes": 0,
   "electorate": 70023,
-  "turnout_pct": 0,
+  "turnout_pct": 62,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "02:58",
-  "last_updated": "2024-07-05T01:58:57.151Z",
+  "last_updated": "2024-07-05T02:32:33.476Z",
   "votes": [
     {
       "person_id": "107987",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/107987/3275deba-6a0a-448d-86b2-bcb2ea17ae2d.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 3954
     },
     {
       "person_id": "116314",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116314/f0b7e60b-1510-41bd-a82c-a23804f8e591.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 10685
     },
     {
       "person_id": "116794",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116794/84cfd93e-7c8d-43fc-9955-dfda978cc2f7.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 15020
     },
     {
       "person_id": "116971",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116971/3541684e-05a3-45ef-9adc-c9baab071b20.png",
       "party_key": "other",
       "party_name": "Trade Unionist and Socialist Coalition",
-      "votes": 0
+      "votes": 249
     },
     {
       "person_id": "117592",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117592/40ccfc90-302a-4f83-8369-b116bbf19e38.png",
       "party_key": "other",
       "party_name": "Fairer Voting Party",
-      "votes": 0
+      "votes": 240
     },
     {
       "person_id": "1958",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5525faf5413cb4432adffa83.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 11291
     },
     {
       "person_id": "46506",
@@ -63,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/46506.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1736
     },
     {
       "person_id": "5677",
@@ -71,7 +71,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5677-2c43ed1f-9828-4b2e-a958-d9b7ca18a5f6.png",
       "party_key": "other",
       "party_name": "The Socialist Party of Great Britain",
-      "votes": 0
+      "votes": 71
     }
   ]
 }
