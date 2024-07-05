@@ -3,9 +3,9 @@
   "pcon24nm": "Stratford-on-Avon",
   "total_votes": 0,
   "electorate": 72388,
-  "turnout_pct": 0,
+  "turnout_pct": 70,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:20:51.826Z",
+  "last_updated": "2024-07-05T03:15:34.463Z",
   "votes": [
     {
       "person_id": "115622",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115622/bc5d46e9-e712-4cb5-b557-4b8a443dc55b.png",
       "party_key": "other",
       "party_name": "New Open Non-Political Organised Leadership",
-      "votes": 0
+      "votes": 166
     },
     {
       "person_id": "117452",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117452/0a751e00-deda-4f60-923a-fcc040e94ab2.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 292
     },
     {
       "person_id": "24927",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/24927.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1197
     },
     {
       "person_id": "6085",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6085/30d0ed8b-c22a-4520-8a2e-080ac7c5f459.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 16328
     },
     {
       "person_id": "61603",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/61603/09b17220-82ee-4c42-9796-c6d2e5581bda.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "votes": 23450
     },
     {
       "person_id": "72561",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72561-3a4905c6-7ed5-4caf-94d5-d2622b7a9285.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 7753
     },
     {
       "person_id": "95279",
@@ -61,7 +61,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95279/051d9cd7-e15a-4561-9b96-a9c136d6bb21.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 3753
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
