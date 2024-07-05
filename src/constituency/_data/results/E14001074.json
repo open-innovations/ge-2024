@@ -1,11 +1,11 @@
 {
   "pcon24cd": "E14001074",
   "pcon24nm": "Barnsley North",
-  "total_votes": 37026,
-  "electorate": 78274,
+  "total_votes": 0,
+  "electorate": 76794,
   "turnout_pct": 47,
-  "confirmed": true,
-  "last_updated": "2024-07-05T01:05:14.102Z",
+  "confirmed": false,
+  "last_updated": "2024-07-05T01:05:20.821Z",
   "votes": [
     {
       "person_id": "110248",
@@ -71,5 +71,7 @@
       "party_name": "Independent",
       "votes": 616
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:05"
 }
