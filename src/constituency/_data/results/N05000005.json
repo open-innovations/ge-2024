@@ -1,21 +1,20 @@
 {
   "pcon24cd": "N05000005",
   "pcon24nm": "East Antrim",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 69936,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_time": "04:43",
+  "last_updated": "2024-07-05T03:43:38.972Z",
   "votes": [
     {
       "person_id": "1061",
       "person_name": "Oliver McMullan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5547b1b3dffdc1c81f668296.png",
       "party_key": "sf",
-      "party_name": "Sinn F\u00e9in",
-      "votes": null
+      "party_name": "Sinn Féin",
+      "votes": 0
     },
     {
       "person_id": "1364",
@@ -23,7 +22,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5534f702b247335574a42e34.png",
       "party_key": "dup",
       "party_name": "Democratic Unionist Party - D.U.P.",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "19703",
@@ -31,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19703.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "5389",
@@ -39,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/5389_OJ0k3LL.png",
       "party_key": "sdlp",
       "party_name": "SDLP (Social Democratic & Labour Party)",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "8121",
@@ -47,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8121/a0caa8ab-2b30-436c-93b4-53cd34880b7d.png",
       "party_key": "uup",
       "party_name": "Ulster Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "95629",
@@ -55,7 +54,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95629/3aac8838-2672-4cfa-906a-f9f097aaf1fa.png",
       "party_key": "tuv",
       "party_name": "Traditional Unionist Voice - TUV",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "9805",
@@ -63,7 +62,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/9805.png",
       "party_key": "apni",
       "party_name": "Alliance - Alliance Party of Northern Ireland",
-      "votes": null
+      "votes": 0
     }
   ]
 }
