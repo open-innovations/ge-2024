@@ -1,13 +1,11 @@
 {
   "pcon24cd": "S14000104",
   "pcon24nm": "Rutherglen",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 71612,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-05T02:50:10.354Z",
   "votes": [
     {
       "person_id": "108903",
@@ -15,7 +13,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116954",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116954/f01c09b6-0370-4f55-abfe-813f5aadc472.png",
       "party_key": "other",
       "party_name": "Scottish Family Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "22164",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22164/c0a39f3f-cb65-4f4a-8a3f-ba39001742b4.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "22774",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/22774/fe7af386-9d90-4e0b-9a58-2f8d379d9f04.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "6173",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6173/3e22fa61-6714-45cd-890f-f5908ba338ad.png",
       "party_key": "other",
       "party_name": "Scottish Socialist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7627",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/7627.png",
       "party_key": "alba",
       "party_name": "Alba Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "8339",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8339/f001aaf2-99d3-4985-a0c5-c4ba2cfa28b5.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "86254",
@@ -71,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86254/27f57bb2-5103-4c45-b9c4-f6091acc0861.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "86294",
@@ -79,7 +77,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/86294/63ac420f-8183-4112-af2e-3e73bfd42ff0.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     }
   ]
 }
