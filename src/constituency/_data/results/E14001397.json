@@ -1,75 +1,75 @@
 {
+  "confirmed": false,
+  "electorate": 72541,
+  "last_updated": "2024-07-05T06:35:18.000Z",
   "pcon24cd": "E14001397",
   "pcon24nm": "North Northumberland",
   "total_votes": 0,
-  "electorate": 72541,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:50:28.144Z",
   "votes": [
     {
-      "person_id": "114031",
-      "person_name": "David Smith",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114031/5611f2e1-bfb8-4593-8594-a368d736b884.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "114031",
+      "person_name": "David Smith",
+      "votes": 17855
     },
     {
-      "person_id": "116090",
-      "person_name": "Natalie Younes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116090/a58b4846-d933-4eb5-ad8c-49f411951276.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "116090",
+      "person_name": "Natalie Younes",
+      "votes": 5169
     },
     {
-      "person_id": "116091",
-      "person_name": "Katherine Hales",
       "image": "/assets/images/missing.svg",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116091",
+      "person_name": "Katherine Hales",
+      "votes": 7688
     },
     {
-      "person_id": "116708",
-      "person_name": "Jan Rosen",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116708/84355b77-03ae-43ee-b75b-98c53831047e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "116708",
+      "person_name": "Jan Rosen",
+      "votes": 1743
     },
     {
-      "person_id": "116939",
-      "person_name": "Andrew Martin",
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116939",
+      "person_name": "Andrew Martin",
+      "votes": 92
     },
     {
-      "person_id": "189",
-      "person_name": "Anne-Marie Trevelyan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/189/fdf47b95-996b-4029-91ea-e631cacca434.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "189",
+      "person_name": "Anne-Marie Trevelyan",
+      "votes": 12788
     },
     {
-      "person_id": "20003",
-      "person_name": "Georgina Emma Rowley Hill",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/20003.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "20003",
+      "person_name": "Georgina Emma Rowley Hill",
+      "votes": 3220
     },
     {
-      "person_id": "80445",
-      "person_name": "Michael Anthony Joyce",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117437/d9e0efe8-e9f1-4e94-8107-ef35156554e1.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "80445",
+      "person_name": "Michael Anthony Joyce",
+      "votes": 288
     }
   ]
 }

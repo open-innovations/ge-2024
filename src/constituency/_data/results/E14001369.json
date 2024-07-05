@@ -1,60 +1,60 @@
 {
+  "confirmed": false,
+  "declaration_time": "03:57",
+  "electorate": 76708,
+  "last_updated": "2024-07-05T06:32:56.000Z",
   "pcon24cd": "E14001369",
   "pcon24nm": "Milton Keynes Central",
   "total_votes": 0,
-  "electorate": 76708,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "03:57",
-  "last_updated": "2024-07-05T02:57:41.740Z",
   "votes": [
     {
-      "person_id": "114935",
-      "person_name": "Frances Bonney",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/114935/6e42dac3-0c3e-4602-ad3d-db9d2dbdf7e2.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "114935",
+      "person_name": "Frances Bonney",
+      "votes": 3226
     },
     {
-      "person_id": "34141",
-      "person_name": "James Cox",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34141/423cfcb5-5f6c-4e65-8cd5-d4244c9996f6.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "34141",
+      "person_name": "James Cox",
+      "votes": 4931
     },
     {
-      "person_id": "4382",
-      "person_name": "Emily Darlington",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4382.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "4382",
+      "person_name": "Emily Darlington",
+      "votes": 20209
     },
     {
-      "person_id": "7142",
-      "person_name": "David Reilly",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117180/21b85f41-60cb-4627-a1c4-e3fba1bafefd.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "7142",
+      "person_name": "David Reilly",
+      "votes": 6245
     },
     {
-      "person_id": "71469",
-      "person_name": "Johnny Luk",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71469.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "71469",
+      "person_name": "Johnny Luk",
+      "votes": 12918
     },
     {
-      "person_id": "99949",
-      "person_name": "Alfred Saint-Clair",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/99949/a4fa967b-d385-4cb1-a410-0f49ee4952a0.png",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": 0
+      "person_id": "99949",
+      "person_name": "Alfred Saint-Clair",
+      "votes": 200
     }
   ]
 }

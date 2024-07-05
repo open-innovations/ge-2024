@@ -1,52 +1,52 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:05",
+  "electorate": 69967,
+  "last_updated": "2024-07-05T06:32:56.000Z",
   "pcon24cd": "E14001368",
   "pcon24nm": "Middlesbrough South and East Cleveland",
   "total_votes": 0,
-  "electorate": 69967,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:05",
-  "last_updated": "2024-07-05T03:05:35.911Z",
   "votes": [
     {
-      "person_id": "116106",
-      "person_name": "Rod Liddle",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116106/cf6630b1-23e0-43b3-9627-9ea8a376de71.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "person_id": "116106",
+      "person_name": "Rod Liddle",
+      "votes": 1835
     },
     {
-      "person_id": "5258",
-      "person_name": "Simon Clarke",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5258/2fa4173b-5df9-414e-97bb-e0e5df428dd0.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "5258",
+      "person_name": "Simon Clarke",
+      "votes": 16254
     },
     {
-      "person_id": "54814",
-      "person_name": "Jemma Joy",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/54814/ebfcc648-b512-4238-92f8-e568a3b2c60f.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "54814",
+      "person_name": "Jemma Joy",
+      "votes": 2032
     },
     {
-      "person_id": "54967",
-      "person_name": "Rowan McLaughlin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/54967-8f1df70f-4241-40a6-b33e-19b01d81e42a.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "54967",
+      "person_name": "Rowan McLaughlin",
+      "votes": 1446
     },
     {
-      "person_id": "80621",
-      "person_name": "Luke Myer",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/80621-da998192-75a3-4867-91ee-43868a216e77.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "80621",
+      "person_name": "Luke Myer",
+      "votes": 16468
     }
   ]
 }

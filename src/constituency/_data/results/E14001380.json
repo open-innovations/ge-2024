@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 70025,
+  "last_updated": "2024-07-05T06:32:56.000Z",
   "pcon24cd": "E14001380",
   "pcon24nm": "Newcastle-under-Lyme",
   "total_votes": 0,
-  "electorate": 70025,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:18:53.887Z",
   "votes": [
     {
-      "person_id": "116532",
-      "person_name": "Neill Walker",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116532/ae0d4ef3-4e48-4eeb-a474-1db155bc29f0.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "116532",
+      "person_name": "Neill Walker",
+      "votes": 8865
     },
     {
-      "person_id": "31666",
-      "person_name": "Simon John Tagg",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31666-07b0e432-b4fa-4f01-bfc7-83fb205625fd.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "31666",
+      "person_name": "Simon John Tagg",
+      "votes": 10923
     },
     {
-      "person_id": "43825",
-      "person_name": "Adam Jogee",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/43825.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "43825",
+      "person_name": "Adam Jogee",
+      "votes": 15992
     },
     {
-      "person_id": "7031",
-      "person_name": "Nigel Jones",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/551a6869600f97ed464f28be.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "7031",
+      "person_name": "Nigel Jones",
+      "votes": 1987
     },
     {
-      "person_id": "93669",
-      "person_name": "Jennifer Leigh Hibell",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/93669/77526134-00b7-4430-ae66-f4f7f8ad533c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "93669",
+      "person_name": "Jennifer Leigh Hibell",
+      "votes": 1851
     }
   ]
 }

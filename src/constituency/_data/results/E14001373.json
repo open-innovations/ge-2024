@@ -1,69 +1,69 @@
 {
-  "pcon24cd": "E14001373",
-  "pcon24nm": "New Forest East",
-  "total_votes": 0,
-  "electorate": 73823,
-  "turnout_pct": 0,
   "confirmed": false,
   "declaration_date": "2024-07-05",
   "declaration_time": "03:34",
-  "last_updated": "2024-07-05T02:34:43.942Z",
+  "electorate": 73823,
+  "last_updated": "2024-07-05T06:32:56.000Z",
+  "pcon24cd": "E14001373",
+  "pcon24nm": "New Forest East",
+  "total_votes": 0,
+  "turnout_pct": 0,
   "votes": [
     {
-      "person_id": "116791",
-      "person_name": "Sasjkia Otto",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116791/9319ab9b-6151-408e-b143-c8695d0a19e7.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "116791",
+      "person_name": "Sasjkia Otto",
+      "votes": 8917
     },
     {
-      "person_id": "117900",
-      "person_name": "Mad Hatter",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117900/a6bfa3e3-2d34-40b3-bfc7-f227321e99a9.png",
       "party_key": "other",
       "party_name": "The Official Monster Raving Loony Party",
-      "votes": 0
+      "person_id": "117900",
+      "person_name": "Mad Hatter",
+      "votes": 529
     },
     {
-      "person_id": "2872",
-      "person_name": "Julian Lewis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55474e766e3a2a7d5402b56b.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 1
+      "person_id": "2872",
+      "person_name": "Julian Lewis",
+      "votes": 17412
     },
     {
-      "person_id": "30232",
-      "person_name": "Caroline Rackham",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/30232.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "30232",
+      "person_name": "Caroline Rackham",
+      "votes": 7198
     },
     {
-      "person_id": "5833",
-      "person_name": "Roy Swales",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5833/da70e683-cb62-45d8-83a7-8061f97d908b.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "5833",
+      "person_name": "Roy Swales",
+      "votes": 7646
     },
     {
-      "person_id": "7366",
-      "person_name": "Andrew David Knight",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553a1a45328b3f41504933ea.png",
       "party_key": "other",
       "party_name": "Animal Welfare Party",
-      "votes": 0
+      "person_id": "7366",
+      "person_name": "Andrew David Knight",
+      "votes": 410
     },
     {
-      "person_id": "95675",
-      "person_name": "Simon King",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95675/739b37e1-ad88-41fc-bae7-d2c1cdf4fa19.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "95675",
+      "person_name": "Simon King",
+      "votes": 3118
     }
   ]
 }

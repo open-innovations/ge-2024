@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 76040,
+  "last_updated": "2024-07-05T06:32:56.000Z",
   "pcon24cd": "E14001372",
   "pcon24nm": "Morecambe and Lunesdale",
   "total_votes": 0,
-  "electorate": 76040,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T04:01:32.106Z",
   "votes": [
     {
-      "person_id": "19522",
-      "person_name": "Lizzi Collinge",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/19522/18197be3-ecf4-4629-811f-1f17d9e0de01.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "19522",
+      "person_name": "Lizzi Collinge",
+      "votes": 19603
     },
     {
-      "person_id": "2424",
-      "person_name": "David Morris",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5518400d249b917507bee577.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "2424",
+      "person_name": "David Morris",
+      "votes": 13788
     },
     {
-      "person_id": "27550",
-      "person_name": "Barry Parsons",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116165/2e5d1d41-799d-45aa-87a2-13887b655eea.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "27550",
+      "person_name": "Barry Parsons",
+      "votes": 7810
     },
     {
-      "person_id": "32063",
-      "person_name": "Peter Jackson",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/32063/1aabb32a-f6ed-4792-a80b-98619bf68163.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "32063",
+      "person_name": "Peter Jackson",
+      "votes": 4769
     },
     {
-      "person_id": "986",
-      "person_name": "Gina Dowding",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/69897.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "986",
+      "person_name": "Gina Dowding",
+      "votes": 2089
     }
   ]
 }

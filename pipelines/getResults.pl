@@ -23,7 +23,22 @@ my $lookup = {
 	'Reetendra Banerji'=>'Reeten Banerji',
 	'Freddie Mierlo'=>'Freddie van Mierlo',
 	'Jonathan Pearce'=>'Jon Pearce',
-	'William Lavin'=>'Will Lavin'
+	'William Lavin'=>'Will Lavin',
+	'Nicholas Palmer'=>'Nick Palmer',
+	'Mohammed Fazal'=>'Shabir Fazal',
+	'Paul Charles De\'Ath'=>'Paul De\'Ath',
+	'Nicholas Blunderbuss Green'=>'Nick Blunderbuss Green',
+	'Mona Ishag Adam'=>'Mona Adam',
+	'David Rowntree'=>'Dave Rowntree',
+	'Lee James Dillon'=>'Lee Dillon',
+	'Jean Misseys Blackbeard'=>'Jean Blackbeard',
+	'Steve Cotten'=>'Stephen Cotten',
+	'Simon Adams'=>'Si Adams',
+	'Nikki Costa'=>'Nikki da Costa',
+	'Andrew Dye'=>'Andy Dye',
+	'Steffan Aquarone'=>'Steff Aquarone',
+	'Elizabeth Dixon'=>'Liz Dixon',
+	'Georgina Rowley Hill'=>'Georgina Hill'
 };
 #getData("E14001263");
 #exit;
@@ -91,7 +106,9 @@ sub getData {
 			if($scores->{$name}){
 				if($json->{'votes'}[$i]{'votes'}<=1){
 					$json->{'votes'}[$i]{'votes'} = $scores->{$name}{'votes'};
-					$found++;
+					if($scores->{$name}{'votes'} > 0){
+						$found++;
+					}
 					msg("\t\tUpdating vote count\n");
 				}else{
 					if($json->{'votes'}[$i]{'votes'}!=$scores->{$name}{'votes'}){

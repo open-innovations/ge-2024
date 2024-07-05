@@ -1,52 +1,52 @@
 {
+  "confirmed": false,
+  "declaration_time": "04:16",
+  "electorate": 70719,
+  "last_updated": "2024-07-05T06:34:59.000Z",
   "pcon24cd": "E14001396",
   "pcon24nm": "North Norfolk",
   "total_votes": 0,
-  "electorate": 70719,
   "turnout_pct": 0,
-  "confirmed": false,
-  "declaration_time": "04:16",
-  "last_updated": "2024-07-05T03:16:43.881Z",
   "votes": [
     {
-      "person_id": "108039",
-      "person_name": "Jason Malcolm Patchett",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/108039/80810987-9b68-4244-ba9f-a959143be1d1.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "108039",
+      "person_name": "Jason Malcolm Patchett",
+      "votes": 6368
     },
     {
-      "person_id": "19724",
-      "person_name": "Steffan Aquarone",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/19724.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "19724",
+      "person_name": "Steffan Aquarone",
+      "votes": 19488
     },
     {
-      "person_id": "26200",
-      "person_name": "Duncan Baker",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26200.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "26200",
+      "person_name": "Duncan Baker",
+      "votes": 16903
     },
     {
-      "person_id": "35837",
-      "person_name": "Cathy Cordiner-Achenbach",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35837.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "35837",
+      "person_name": "Cathy Cordiner-Achenbach",
+      "votes": 2878
     },
     {
-      "person_id": "57609",
-      "person_name": "Elizabeth Anne Dixon",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/57609/943b78d5-f93c-40ab-8e08-c74e982731e1.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "57609",
+      "person_name": "Elizabeth Anne Dixon",
+      "votes": 1406
     }
   ]
 }

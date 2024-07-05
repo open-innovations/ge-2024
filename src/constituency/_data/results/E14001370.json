@@ -1,51 +1,51 @@
 {
+  "confirmed": false,
+  "electorate": 70620,
+  "last_updated": "2024-07-05T06:32:56.000Z",
   "pcon24cd": "E14001370",
   "pcon24nm": "Milton Keynes North",
   "total_votes": 0,
-  "electorate": 70620,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T02:42:20.908Z",
   "votes": [
     {
-      "person_id": "116341",
-      "person_name": "Chris Curtis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116341/4438ae10-fb17-438f-b16e-74b3476d1c8e.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "person_id": "116341",
+      "person_name": "Chris Curtis",
+      "votes": 19318
     },
     {
-      "person_id": "3355",
-      "person_name": "Alan Francis",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/5516c196929f1bbe286be02c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "3355",
+      "person_name": "Alan Francis",
+      "votes": 3242
     },
     {
-      "person_id": "68049",
-      "person_name": "Jane Anne Duckworth",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/68049/91fa1587-11f7-46a4-8fdb-6232198d2005.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "68049",
+      "person_name": "Jane Anne Duckworth",
+      "votes": 6164
     },
     {
-      "person_id": "72597",
-      "person_name": "Ben Everitt",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72597-9948fa06-ddcc-492b-ad5f-d5bb40619d13.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "72597",
+      "person_name": "Ben Everitt",
+      "votes": 13888
     },
     {
-      "person_id": "91196",
-      "person_name": "Clare Hannah Tevlin",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/91196/9a4e6675-0f60-4328-b8ce-2e4d12ce533d.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "person_id": "91196",
+      "person_name": "Clare Hannah Tevlin",
+      "votes": 3365
     }
   ]
 }

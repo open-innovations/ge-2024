@@ -1,59 +1,59 @@
 {
+  "confirmed": false,
+  "electorate": 77052,
+  "last_updated": "2024-07-05T06:35:18.000Z",
   "pcon24cd": "E14001398",
   "pcon24nm": "North Shropshire",
   "total_votes": 0,
-  "electorate": 77052,
   "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T03:54:22.411Z",
   "votes": [
     {
-      "person_id": "117307",
-      "person_name": "Samuel Cladingbowl",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117307/3e6fdd12-30c8-4630-bf63-610efbc37954.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "person_id": "117307",
+      "person_name": "Samuel Cladingbowl",
+      "votes": 133
     },
     {
-      "person_id": "24297",
-      "person_name": "Craig David Emery",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/24297/a7059339-6474-401f-af29-4a4c504a4005.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "person_id": "24297",
+      "person_name": "Craig David Emery",
+      "votes": 1234
     },
     {
-      "person_id": "26974",
-      "person_name": "Simon Baynes",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26974.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "person_id": "26974",
+      "person_name": "Simon Baynes",
+      "votes": 10903
     },
     {
-      "person_id": "33602",
-      "person_name": "Mark Whittle",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/33602/1aaf691c-36c2-4ae4-8a80-9e6749fcc4e5.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "person_id": "33602",
+      "person_name": "Mark Whittle",
+      "votes": 7687
     },
     {
-      "person_id": "71562",
-      "person_name": "Helen Morgan",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/71562/cfbca040-fbdc-4033-a00f-eff5b25845d3.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 1
+      "person_id": "71562",
+      "person_name": "Helen Morgan",
+      "votes": 26214
     },
     {
-      "person_id": "73126",
-      "person_name": "Natalie Rowley",
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/73126-828860f1-4e02-45ba-933f-aca5a1fd760a.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "person_id": "73126",
+      "person_name": "Natalie Rowley",
+      "votes": 3423
     }
   ]
 }
