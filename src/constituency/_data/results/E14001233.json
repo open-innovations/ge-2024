@@ -1,13 +1,12 @@
 {
   "pcon24cd": "E14001233",
   "pcon24nm": "Fareham and Waterlooville",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 77036,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_time": "03:50",
+  "last_updated": "2024-07-05T02:50:21.133Z",
   "votes": [
     {
       "person_id": "110777",
@@ -15,7 +14,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116941",
@@ -23,7 +22,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116941/97eee729-ce9c-41f7-93ea-8c76f8b07490.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116956",
@@ -31,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116956/42f20235-0f4c-4a1e-ae97-ec5b4d545031.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "17720",
@@ -39,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/35118.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "6499",
@@ -47,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6499/6560a324-ba1d-4093-b972-4c94a759556c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "75473",
@@ -55,7 +54,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/75473-452caaa6-0bc9-4ad6-bc11-16330a86e312.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "77280",
@@ -63,7 +62,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Hampshire Independents",
-      "votes": null
+      "votes": 0
     }
   ]
 }
