@@ -1,13 +1,12 @@
 {
   "pcon24cd": "W07000092",
   "pcon24nm": "Cardiff West",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 73947,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_time": "04:02",
+  "last_updated": "2024-07-05T03:02:32.445Z",
   "votes": [
     {
       "person_id": "115380",
@@ -15,7 +14,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/115380/b0f2c44d-9fa8-4bb2-8246-5ae1b8f6de5c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116477",
@@ -23,7 +22,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116477/b569d640-2ae3-4e51-9bcc-7a92f27639db.png",
       "party_key": "pc",
       "party_name": "Plaid Cymru - The Party of Wales",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "116914",
@@ -31,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116914/1b394261-6391-4d28-8936-a6153768affa.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "117698",
@@ -39,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117698/fef62a52-3fa5-4661-9ed1-5b4c5a057ca8.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117699",
@@ -47,7 +46,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Heritage Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "47002",
@@ -55,7 +54,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/47002.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4967",
@@ -63,7 +62,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4967/08ea262b-5e1b-4885-9b60-bab23b556024.png",
       "party_key": "other",
       "party_name": "Propel",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "6125",
@@ -71,7 +70,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/6125/1d10f85b-f4be-40d8-a393-d69c38b045e4.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "72356",
@@ -79,7 +78,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72356-f1949731-623a-48d0-9fd3-091a24470e6c.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     }
   ]
 }
