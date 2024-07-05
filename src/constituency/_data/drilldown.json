@@ -1259,6 +1259,10 @@
     "Population":99700,
     "Households":43800
   },
+  "W07000100":{
+    "Population":101000,
+    "Households":45500
+  },
   "E14001359":{
     "Population":99600,
     "Households":40000
@@ -1291,17 +1295,13 @@
     "Population":98400,
     "Households":40900
   },
-  "W07000100":{
-    "Population":101000,
-    "Households":45500
+  "E14001367":{
+    "Population":111000,
+    "Households":46100
   },
   "E14001368":{
     "Population":92400,
     "Households":41000
-  },
-  "E14001367":{
-    "Population":111000,
-    "Households":46100
   },
   "E14001369":{
     "Population":126000,
@@ -1347,6 +1347,10 @@
     "Population":97700,
     "Households":41100
   },
+  "E14001380":{
+    "Population":92900,
+    "Households":40100
+  },
   "E14001377":{
     "Population":131000,
     "Households":51300
@@ -1358,10 +1362,6 @@
   "E14001379":{
     "Population":107000,
     "Households":45300
-  },
-  "E14001380":{
-    "Population":92900,
-    "Households":40100
   },
   "W07000104":{
     "Population":110000,
@@ -1631,13 +1631,13 @@
     "Population":99100,
     "Households":41700
   },
-  "E14001445":{
-    "Population":111000,
-    "Households":45700
-  },
   "E14001444":{
     "Population":93000,
     "Households":40900
+  },
+  "E14001445":{
+    "Population":111000,
+    "Households":45700
   },
   "E14001446":{
     "Population":103000,
@@ -1955,13 +1955,13 @@
     "Population":92900,
     "Households":40400
   },
-  "E14001525":{
-    "Population":128000,
-    "Households":47300
-  },
   "E14001526":{
     "Population":95100,
     "Households":42400
+  },
+  "E14001525":{
+    "Population":128000,
+    "Households":47300
   },
   "E14001527":{
     "Population":119000,
@@ -1991,13 +1991,13 @@
     "Population":90900,
     "Households":38200
   },
-  "E14001535":{
-    "Population":96700,
-    "Households":40400
-  },
   "E14001534":{
     "Population":105000,
     "Households":41700
+  },
+  "E14001535":{
+    "Population":96700,
+    "Households":40400
   },
   "W07000108":{
     "Population":105000,
@@ -2366,5 +2366,229 @@
   "N05000018":{
     "Population":99800,
     "Households":38600
+  },
+  "S14000021":{
+    "Population":96800,
+    "Households":39700
+  },
+  "S14000027":{
+    "Population":26100,
+    "Households":12700
+  },
+  "S14000045":{
+    "Population":96500,
+    "Households":41000
+  },
+  "S14000048":{
+    "Population":91500,
+    "Households":44500
+  },
+  "S14000051":{
+    "Population":44900,
+    "Households":21200
+  },
+  "S14000060":{
+    "Population":111900,
+    "Households":53800
+  },
+  "S14000061":{
+    "Population":112100,
+    "Households":55600
+  },
+  "S14000062":{
+    "Population":97600,
+    "Households":45200
+  },
+  "S14000063":{
+    "Population":93000,
+    "Households":40800
+  },
+  "S14000064":{
+    "Population":94400,
+    "Households":43700
+  },
+  "S14000065":{
+    "Population":97400,
+    "Households":46500
+  },
+  "S14000066":{
+    "Population":99600,
+    "Households":45800
+  },
+  "S14000067":{
+    "Population":91100,
+    "Households":44300
+  },
+  "S14000068":{
+    "Population":94500,
+    "Households":42800
+  },
+  "S14000069":{
+    "Population":96000,
+    "Households":45500
+  },
+  "S14000070":{
+    "Population":95000,
+    "Households":42300
+  },
+  "S14000071":{
+    "Population":95000,
+    "Households":44600
+  },
+  "S14000072":{
+    "Population":91900,
+    "Households":40600
+  },
+  "S14000073":{
+    "Population":95700,
+    "Households":46700
+  },
+  "S14000074":{
+    "Population":87700,
+    "Households":41000
+  },
+  "S14000075":{
+    "Population":105900,
+    "Households":50400
+  },
+  "S14000076":{
+    "Population":95600,
+    "Households":42700
+  },
+  "S14000077":{
+    "Population":95900,
+    "Households":42800
+  },
+  "S14000078":{
+    "Population":113700,
+    "Households":53200
+  },
+  "S14000079":{
+    "Population":110100,
+    "Households":56700
+  },
+  "S14000080":{
+    "Population":99900,
+    "Households":42800
+  },
+  "S14000081":{
+    "Population":107000,
+    "Households":49200
+  },
+  "S14000082":{
+    "Population":98500,
+    "Households":44000
+  },
+  "S14000083":{
+    "Population":96700,
+    "Households":44100
+  },
+  "S14000084":{
+    "Population":99700,
+    "Households":48400
+  },
+  "S14000085":{
+    "Population":109100,
+    "Households":49500
+  },
+  "S14000086":{
+    "Population":107100,
+    "Households":50200
+  },
+  "S14000087":{
+    "Population":96200,
+    "Households":45400
+  },
+  "S14000089":{
+    "Population":99100,
+    "Households":48800
+  },
+  "S14000090":{
+    "Population":92700,
+    "Households":42900
+  },
+  "S14000091":{
+    "Population":92500,
+    "Households":40100
+  },
+  "S14000092":{
+    "Population":97400,
+    "Households":44400
+  },
+  "S14000093":{
+    "Population":90000,
+    "Households":42300
+  },
+  "S14000094":{
+    "Population":105000,
+    "Households":50100
+  },
+  "S14000095":{
+    "Population":102200,
+    "Households":44200
+  },
+  "S14000096":{
+    "Population":97600,
+    "Households":41900
+  },
+  "S14000097":{
+    "Population":95400,
+    "Households":40300
+  },
+  "S14000098":{
+    "Population":98700,
+    "Households":45500
+  },
+  "S14000099":{
+    "Population":97500,
+    "Households":44200
+  },
+  "S14000100":{
+    "Population":92300,
+    "Households":41000
+  },
+  "S14000101":{
+    "Population":93200,
+    "Households":43200
+  },
+  "S14000102":{
+    "Population":94100,
+    "Households":45500
+  },
+  "S14000103":{
+    "Population":101700,
+    "Households":47200
+  },
+  "S14000104":{
+    "Population":93700,
+    "Households":42600
+  },
+  "S14000105":{
+    "Population":102000,
+    "Households":44500
+  },
+  "S14000106":{
+    "Population":91500,
+    "Households":43900
+  },
+  "S14000107":{
+    "Population":90300,
+    "Households":42400
+  },
+  "S14000108":{
+    "Population":96600,
+    "Households":46300
+  },
+  "S14000109":{
+    "Population":87700,
+    "Households":41100
+  },
+  "S14000110":{
+    "Population":95700,
+    "Households":44100
+  },
+  "S14000111":{
+    "Population":97500,
+    "Households":41700
   }
 }

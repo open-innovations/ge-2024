@@ -84,19 +84,30 @@ def concatenate_nations_data(dataframes):
     assert type(dataframes) == list, 'Argument given is not a list. Frames must be in a list to concatenate'
     return pd.concat(dataframes)
 
-def my_func(data, dir, index_rename):
+def constituency_bar_charts(data, dir, index_rename):
     for index, row in data.iterrows():
         transposed_row = row.to_frame()
         transposed_row.index.rename(index_rename, inplace=True)
         f_name = os.path.join(dir, f'{index}.csv')
         transposed_row.to_csv(f_name)
 
+def get_scot_data(var_name, rename):
+    scotland_data = pd.read_excel('data/Demographic-data-for-new-parliamentary-constituencies-May-2024.xlsx', sheet_name='Scotland_table', header=5, index_col='Unnamed: 0')
+    scotland_data.index.rename('PCON24NM', inplace=True)
+    scotland_data = scotland_data.loc[~scotland_data.index.duplicated(keep='last')]
+    population = scotland_data[var_name].to_frame()
+    population.rename(columns={var_name: rename}, inplace=True)
+    new = population.merge(geo_codes, on='PCON24NM')
+    new.set_index('PCON24CD', inplace=True)
+    new.drop(columns='PCON24NM', inplace=True)
+    return new
+
 if __name__ == "__main__":
     
     england_wales_population = get_data('EW_data', 'Population', ['Topic', 'England & Wales value'])
     northern_ireland_population = get_data('NI_data', 'Population', ['Topic', 'Northern Ireland value'])
-    uk_population = concatenate_nations_data([england_wales_population, northern_ireland_population])
-    
+    scot_population = get_scot_data('Total population', 'Population')
+    uk_population = concatenate_nations_data([england_wales_population, northern_ireland_population, scot_population])
 
     ew_age = get_data('EW_data', 'Age', ['Topic', 'England & Wales value'], value_type=float, pct=True)
     ni_age = get_data('NI_data', 'Age', ['Topic', 'Northern Ireland value'], value_type=float, pct=True)
@@ -105,7 +116,7 @@ if __name__ == "__main__":
     # age_copy = age_copy.transpose()
     # age_copy.index.rename('age_band', inplace=True)
     # write_csv(uk_age, 'src/_data/age.csv')
-    my_func(uk_age, dir='src/constituency/_data/age', index_rename='age_band')
+    constituency_bar_charts(uk_age, dir='src/constituency/_data/age', index_rename='age_band')
     
 
     ew_housing_tenure = get_data('EW_data', 'Housing tenure', ['Topic', 'England & Wales value'], value_type=float, pct=True)
@@ -115,13 +126,16 @@ if __name__ == "__main__":
     # housing_copy = housing_copy.transpose()
     # housing_copy.index.rename('tenure_type', inplace=True)
     # write_csv(uk_housing_tenure, 'src/_data/housing_tenure.csv')
-    my_func(uk_housing_tenure, dir='src/constituency/_data/housing_tenure', index_rename='tenure_type')
+    constituency_bar_charts(uk_housing_tenure, dir='src/constituency/_data/housing_tenure', index_rename='tenure_type')
 
     ew_households = get_data('EW_data', 'Households', ['Topic', 'England & Wales value'], value_type=int)
     ni_households = get_data('NI_data', 'Households', ['Topic', 'Northern Ireland value'], value_type=int)
-    uk_households = concatenate_nations_data([ew_households, ni_households])
+    scot_households = get_scot_data('Number of households', 'Households')
+    uk_households = concatenate_nations_data([ew_households, ni_households, scot_households])
 
-    constituency_drilldown = uk_age.join([uk_households, uk_population, uk_housing_tenure])
+    
+    constituency_drilldown = uk_population.join(uk_households)
+    constituency_drilldown.to_csv('file.csv')
     constituency_drilldown = constituency_drilldown.merge(geo_codes, on='PCON24CD')
     constituency_drilldown.set_index('PCON24CD', inplace=True)
     constituency_drilldown = constituency_drilldown[['Population', 'Households']]

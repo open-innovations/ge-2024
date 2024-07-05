@@ -35,77 +35,80 @@ layout: titled.vto
 	{{ if drilldown }}
 		<p><strong>Population</strong>: {{ drilldown['Population'] |> JSON.stringify() }}</p>
 		<p><strong>Households</strong>: {{ drilldown['Households'] |> JSON.stringify() }}</p>
-
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));gap: 1rem;">
-    <div>
-		<h3>Housing tenure type for {{ pcon24nm }}</h3>
-		{{ comp.oi.chart.bar ({ config: {
-			data: housing_tenure,
-			category: "tenure_type",
-      padding: { left: 100 },
-			axis: { 
-				x: { 
-					min: 0,
-					max: 50,
-					grid: { "stroke-dasharray": '6 2', "stroke-width": 1 },
-					ticks: [{
-						value: 0,
-						label: "0%"},
-						{
-						value: 25,
-						label: "25%"},
-						{
-						value: 50,
-						label: "50%"}
-					]} 
-				},
-			series: [{
-				title: pcon24nm,
-				value: pcon24cd,
-				colour: '#000000',
-				tooltip: `<strong>{{ tenure_type }}</strong><br />Percentage: <strong>{{ ${pcon24cd} }}%</strong>`
-				}]    
-			}
-			})
-		}}
-    </div>
-    <div>
-		<h3>Age demographic for {{ pcon24nm }}</h3>
-		{{ comp.oi.chart.bar ({ config: {
-			data: age,
-			category: "age_band",
-      padding: { left: 100 },
-			axis: { 
-				x: { 
-					min: 0,
-					max: 50,
-					grid: { "stroke-dasharray": '6 2', "stroke-width": 1 },
-					ticks: [{
-						value: 0,
-						label: "0%"},
-						{
-						value: 25,
-						label: "25%"},
-						{
-						value: 50,
-						label: "50%"}
-					]} 
-				},
-			series: [{
-				title: pcon24nm,
-				value: pcon24cd,
-				colour: '#000000',
-				tooltip: `<strong>{{ age_band }}</strong><br />Percentage: <strong>{{ ${pcon24cd} }}%</strong>`
-				}]    
-			}
-			})
-		}}
-    </div>
-    </div>
+	{{ else }}
+		<p>There is currently no population or household data for this constituency.</p>
+	{{ /if }}
+	{{ if housing_tenure && age }}
+		<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));gap: 1rem;">
+		<div>
+			<h3>Housing tenure type for {{ pcon24nm }}</h3>
+			{{ comp.oi.chart.bar ({ config: {
+				data: housing_tenure,
+				category: "tenure_type",
+		padding: { left: 100 },
+				axis: { 
+					x: { 
+						min: 0,
+						max: 50,
+						grid: { "stroke-dasharray": '6 2', "stroke-width": 1 },
+						ticks: [{
+							value: 0,
+							label: "0%"},
+							{
+							value: 25,
+							label: "25%"},
+							{
+							value: 50,
+							label: "50%"}
+						]} 
+					},
+				series: [{
+					title: pcon24nm,
+					value: pcon24cd,
+					colour: '#000000',
+					tooltip: `<strong>{{ tenure_type }}</strong><br />Percentage: <strong>{{ ${pcon24cd} }}%</strong>`
+					}]    
+				}
+				})
+			}}
+		</div>
+		<div>
+			<h3>Age demographic for {{ pcon24nm }}</h3>
+			{{ comp.oi.chart.bar ({ config: {
+				data: age,
+				category: "age_band",
+		padding: { left: 100 },
+				axis: { 
+					x: { 
+						min: 0,
+						max: 50,
+						grid: { "stroke-dasharray": '6 2', "stroke-width": 1 },
+						ticks: [{
+							value: 0,
+							label: "0%"},
+							{
+							value: 25,
+							label: "25%"},
+							{
+							value: 50,
+							label: "50%"}
+						]} 
+					},
+				series: [{
+					title: pcon24nm,
+					value: pcon24cd,
+					colour: '#000000',
+					tooltip: `<strong>{{ age_band }}</strong><br />Percentage: <strong>{{ ${pcon24cd} }}%</strong>`
+					}]    
+				}
+				})
+			}}
+		</div>
+		</div>
 	<p>Data from the <a href="https://commonslibrary.parliament.uk/constituency-boundary-review-data-for-new-constituencies/">House of Commons Library</a>.</p>
 		
 	{{ else }}
-		<p>There is no data currently available for this constituency</p>
+		<p>There is currently no tenure type or age demographic data available for this constituency.</p>
 	{{ /if }}
 	
 	<h2>2019 General Election</h2>
