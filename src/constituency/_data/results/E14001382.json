@@ -2,11 +2,11 @@
   "pcon24cd": "E14001382",
   "pcon24nm": "Newton Aycliffe and Spennymoor",
   "total_votes": 0,
-  "electorate": 71299,
-  "turnout_pct": 0,
+  "electorate": 72224,
+  "turnout_pct": 55,
   "confirmed": false,
   "declaration_date": "2024-07-05",
-  "last_updated": "2024-07-05T02:11:44.273Z",
+  "last_updated": "2024-07-05T03:09:01.416Z",
   "votes": [
     {
       "person_id": "116110",
@@ -14,7 +14,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116110/8a422a1e-a718-4c75-b057-427c40a2b5a4.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1701
     },
     {
       "person_id": "116111",
@@ -22,7 +22,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116111/50c00af4-6184-48fe-b053-d7e5f73b41bd.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 246
     },
     {
       "person_id": "116749",
@@ -30,7 +30,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116749/d6a7c754-f146-4cd8-8b45-0053b6e78257.png",
       "party_key": "other",
       "party_name": "Transform Party",
-      "votes": 0
+      "votes": 264
     },
     {
       "person_id": "1439",
@@ -38,7 +38,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/1439/da277c81-bc3b-4536-af0d-c55504164ceb.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 18394
     },
     {
       "person_id": "31148",
@@ -46,7 +46,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31148-1c32f6b9-ccf9-4e3d-9502-43ba78be5b8c.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 9555
     },
     {
       "person_id": "31326",
@@ -54,7 +54,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/31326.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 8195
     },
     {
       "person_id": "5854",
@@ -62,7 +62,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/5854/d86d7b03-be9e-4c49-9fa2-fc1186c6640b.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1491
     }
   ]
 }
