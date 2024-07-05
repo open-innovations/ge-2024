@@ -3,9 +3,9 @@
   "pcon24nm": "Amber Valley",
   "total_votes": 0,
   "electorate": 70625,
-  "turnout_pct": 0,
+  "turnout_pct": 59,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:38:16.385Z",
+  "last_updated": "2024-07-05T03:45:29.637Z",
   "votes": [
     {
       "person_id": "1016",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/550c3d333be3632f3135c9fc.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 10725
     },
     {
       "person_id": "15638",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/15638/5ee462e1-7773-470a-956a-bd768faf4a73.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 12192
     },
     {
       "person_id": "4920",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/4920-758b6d23-2336-4a8c-a38f-1cdfe4310a75.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1590
     },
     {
       "person_id": "8433",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/8433/f25ae562-701f-4751-bbcc-267eb0b24037.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 2278
     },
     {
       "person_id": "95581",
@@ -45,7 +45,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/95581/ce0a550c-2e22-44cb-a707-a837cddbc4db.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 15746
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
