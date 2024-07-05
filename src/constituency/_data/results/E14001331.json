@@ -1,13 +1,13 @@
 {
   "pcon24cd": "E14001331",
   "pcon24nm": "Lewisham East",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 71706,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "declaration_date": "2024-07-05",
+  "declaration_time": "02:53",
+  "last_updated": "2024-07-05T01:53:38.628Z",
   "votes": [
     {
       "person_id": "109141",
@@ -15,7 +15,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/109141/9f6051cd-8fec-4f78-8b8b-caa9abc0e624.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "11577",
@@ -23,7 +23,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/11577-4d295131-caaa-4295-8aac-d59dbedeb173.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117354",
@@ -31,7 +31,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117354/56dbc28c-2e6b-4791-acb8-aab0f1c00b9e.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "45229",
@@ -39,7 +39,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/45229/62decc55-487b-4172-9146-23d16248a204.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 1
     },
     {
       "person_id": "61626",
@@ -47,7 +47,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/61626-2dc9b4ef-fb35-4217-8578-dee8f7f75050.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "72343",
@@ -55,7 +55,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/72343/1e17e0a4-4603-495a-9a19-0a32abb95e5c.png",
       "party_key": "other",
       "party_name": "Shared Ground",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "7412",
@@ -63,7 +63,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/55390bcf539d9492693b0977.png",
       "party_key": "other",
       "party_name": "Christian Peoples Alliance",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "89475",
@@ -71,7 +71,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/89475/0fdec0b1-84f4-4385-b512-1256274cd7a5.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     }
   ]
 }
