@@ -10,6 +10,8 @@ rapidfuzz = "*"
 tqdm = "*"
 requests = "*"
 pillow = "*"
+jupyter = "*"
+notebook = "*"
 
 [dev-packages]
 
