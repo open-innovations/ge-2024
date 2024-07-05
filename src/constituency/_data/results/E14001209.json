@@ -2,10 +2,10 @@
   "pcon24cd": "E14001209",
   "pcon24nm": "Ealing Southall",
   "total_votes": 0,
-  "electorate": 75085,
-  "turnout_pct": 0,
+  "electorate": 78669,
+  "turnout_pct": 60,
   "confirmed": false,
-  "last_updated": "2024-07-05T02:15:02.663Z",
+  "last_updated": "2024-07-05T03:27:03.102Z",
   "votes": [
     {
       "person_id": "109134",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116008/825e1cbe-52a3-4525-a199-441421e10e67.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 0
+      "votes": 2585
     },
     {
       "person_id": "116901",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116901/9857f974-3e62-4911-801e-b5faff8efcd1.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 213
     },
     {
       "person_id": "117042",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117042/deb0c0fc-c78c-4f27-8abb-0f8b379f4edc.png",
       "party_key": "other",
       "party_name": "Workers Party of Britain",
-      "votes": 0
+      "votes": 4237
     },
     {
       "person_id": "117747",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117747/4fb27666-e1fc-4a4e-bef7-27d8dddfd518.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 557
     },
     {
       "person_id": "117748",
@@ -45,7 +45,7 @@
       "image": "/assets/images/missing.svg",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 740
     },
     {
       "person_id": "117749",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117749/6df756e8-f3e6-4933-9035-32bef8611dfb.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 295
     },
     {
       "person_id": "34560",
@@ -61,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/34560/d146e192-826b-4012-97cd-bfcf623ee588.png",
       "party_key": "other",
       "party_name": "Rejoin EU",
-      "votes": 0
+      "votes": 475
     },
     {
       "person_id": "35078",
@@ -69,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/71414.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 2832
     },
     {
       "person_id": "38574",
@@ -77,7 +77,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/38574/776206a5-7c2e-4f07-92e0-b5069599f647.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 1
+      "votes": 23000
     },
     {
       "person_id": "73544",
@@ -85,7 +85,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116887/c5c87d8b-c24e-40be-83cc-79145d2c1ed9.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 7207
     },
     {
       "person_id": "84574",
@@ -93,7 +93,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/84574/d9bffd9a-6f57-4cf7-bd38-f3edca75038e.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 4356
     },
     {
       "person_id": "87909",
@@ -101,7 +101,8 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/87909/30c06f67-c7c2-4137-ba51-799a453ca766.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 319
     }
-  ]
+  ],
+  "declaration_date": "2024-07-05"
 }
