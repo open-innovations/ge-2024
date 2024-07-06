@@ -1,3 +1,4 @@
+/* PanelSelector version 1.1 */
 (function(root){
 
 	if(!root.OI) root.OI = {};
@@ -18,15 +19,15 @@ OI.ready(function(){
 	styles.innerHTML = `
 		panelSelector { margin-bottom: 1em; }
 		panelSelector [role="tablist"] {
-			display: grid;
-			grid-template-columns: repeat(clamp(1, var(--tab-count, 4), 10), 1fr);
-			grid-gap: 4px;
+			display: flex;
+			gap: 4px;
 			margin: 0;
 			margin-top: 1em;
 			padding: 0;
 			list-style: none;
 		}
 		panelSelector [role="tablist"] > * {
+			flex-grow: 1;
 			display: inline-block;
 			z-index: 1;
 		}
