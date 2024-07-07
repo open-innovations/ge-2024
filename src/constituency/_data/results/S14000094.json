@@ -1,13 +1,11 @@
 {
   "pcon24cd": "S14000094",
   "pcon24nm": "Inverness, Skye and West Ross-shire",
-  "total_votes": null,
+  "total_votes": 0,
   "electorate": 76903,
-  "turnout_pct": null,
+  "turnout_pct": 0,
   "confirmed": false,
-  "declaration_date": null,
-  "declaration_time": null,
-  "last_updated": null,
+  "last_updated": "2024-07-07T07:14:47.040Z",
   "votes": [
     {
       "person_id": "116244",
@@ -15,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/116244/2d04f043-8d53-4e43-b2c5-b110c6e74f91.png",
       "party_key": "green",
       "party_name": "Scottish Green Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117192",
@@ -23,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117192/23eb12f9-0ab0-482c-9c11-4d1cbe02c60b.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "117193",
@@ -31,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117193/0464bce4-8e8c-4df6-9f31-a2cd165864ae.png",
       "party_key": "other",
       "party_name": "Socialist Equality Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "4915",
@@ -39,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/4915/63ca106c-97df-44e5-8113-1d1ab19a5a79.png",
       "party_key": "snp",
       "party_name": "Scottish National Party (SNP)",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "72765",
@@ -47,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/72765-f2452642-4405-4908-ba20-ee14619a56a3.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "85419",
@@ -55,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85419/4065d9e6-689a-4da8-9e5e-fda5701b4dc4.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": null
+      "votes": 0
     },
     {
       "person_id": "85564",
@@ -63,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/85564/5d8dc704-db82-43b7-a6be-55e1bf683754.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": null
+      "votes": 1
     }
   ]
 }
