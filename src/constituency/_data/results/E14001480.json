@@ -2,10 +2,10 @@
   "pcon24cd": "E14001480",
   "pcon24nm": "South Basildon and East Thurrock",
   "total_votes": 0,
-  "electorate": 73322,
-  "turnout_pct": 0,
-  "confirmed": false,
-  "last_updated": "2024-07-05T16:52:23.672Z",
+  "electorate": 73314,
+  "turnout_pct": 55,
+  "confirmed": true,
+  "last_updated": "2024-07-08T08:16:20.772Z",
   "votes": [
     {
       "person_id": "117135",
@@ -13,7 +13,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117135/040973fe-1898-42dd-99e0-6148a54eceec.png",
       "party_key": "ref",
       "party_name": "Reform UK",
-      "votes": 1
+      "votes": 12178
     },
     {
       "person_id": "117395",
@@ -21,7 +21,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/117395/bf7f4b21-53b2-4816-8764-bbd524f690c8.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 275
     },
     {
       "person_id": "16348",
@@ -29,7 +29,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/16348/0013c336-e3b6-47cb-a305-c453a7aef6f0.png",
       "party_key": "other",
       "party_name": "Independent",
-      "votes": 0
+      "votes": 1928
     },
     {
       "person_id": "2211",
@@ -37,7 +37,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/553c9ea3e22f98bc5d30fa6c.png",
       "party_key": "con",
       "party_name": "Conservative and Unionist Party",
-      "votes": 0
+      "votes": 10159
     },
     {
       "person_id": "24048",
@@ -45,7 +45,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/24048/5dca176b-9ee5-465f-81fe-59068bb51e6c.png",
       "party_key": "ld",
       "party_name": "Liberal Democrats",
-      "votes": 0
+      "votes": 1071
     },
     {
       "person_id": "26589",
@@ -53,7 +53,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/images/26589-059ac6f0-74a9-4281-a50a-e4dc68a99797.png",
       "party_key": "other",
       "party_name": "Social Democratic Party",
-      "votes": 0
+      "votes": 140
     },
     {
       "person_id": "9608",
@@ -61,7 +61,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9608/52784201-2d28-498a-a15d-9497898f6dfd.png",
       "party_key": "lab",
       "party_name": "Labour Party",
-      "votes": 0
+      "votes": 12080
     },
     {
       "person_id": "9639",
@@ -69,7 +69,7 @@
       "image": "https://s3.eu-west-2.amazonaws.com/static-candidates.democracyclub.org.uk/media/images/people/9639/c53bbc8f-3254-4414-ad61-eed0ac9e997c.png",
       "party_key": "green",
       "party_name": "Green Party",
-      "votes": 0
+      "votes": 1718
     }
   ]
 }
