@@ -96,29 +96,10 @@ site.copy("assets/images/");
 site.copy("assets/fonts/");
 site.copy([".js"]);
 
-import { DOMParser } from "https://esm.sh/linkedom@0.16.11";
-import { extractResults } from "./lib/filters.ts";
-
-site.filter("getSelector", (content: string, selector: string) => {
-  const frag = new DOMParser().parseFromString(content, "text/html");
-  return frag.querySelector(selector).toString();
-});
-
-site.filter(
-  "setAttributes",
-  (
-    content: string,
-    attributes: { [k: string]: unknown },
-    type = "image/svg+xml",
-  ) => {
-    const frag = new DOMParser().parseFromString(content, type);
-    for (const [k, v] of Object.entries(attributes)) {
-      frag.children[0].setAttribute(k, v);
-    }
-    return frag.toString();
-  },
-);
-
+// Setup filters
+import { extractResults, getSelector, setAttributes } from "./lib/filters.ts";
 site.filter("extractResults", extractResults);
+site.filter("getSelector", getSelector);
+site.filter("setAttributes", setAttributes);
 
 export default site;
